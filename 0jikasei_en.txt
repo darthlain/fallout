@@ -1,0 +1,851 @@
+Sleepytyme
+25mm Grenade APW
+Esther
+Cleansing Flame
+Sprtel-Wood 9700
+MFC Grenade
+Nuka-Grenade
+Tin Grenade
+Paciencia
+Katana
+Fat Mine
+MFC Cluster
+Li'l Devil
+5.56mm Pistol
+Two-Step Goodbye
+Battle Rifle
+Medicine Stick
+Bozar
+Embrace of the Mantis King!
+The Smitty Special
+Nuka-Breaker
+MF Hyperbreeder Alpha
+Time Bomb, High Yield
+Greased Lightning
+Gehenna
+Sleepytyme (GRA)
+25mm Grenade APW (GRA)
+Esther (GRA)
+Cleansing Flame (GRA)
+Sprtel-Wood 9700 (GRA)
+MFC Grenade (GRA)
+MFC Grenade (Mad Bomber)
+MFC Grenade (Mad Bomber) (GRA)
+Nuka-Grenade (GRA)
+Nuka-Grenade (Mad Bomber)
+Nuka-Grenade (Mad Bomber) (GRA)
+Tin Grenade (GRA)
+Tin Grenade (Mad Bomber)
+Tin Grenade (Mad Bomber) (GRA)
+Paciencia (GRA)
+Katana (GRA)
+Fat Mine (GRA)
+Fat Mine (Mad Bomber)
+Fat Mine (Mad Bomber) (GRA)
+MFC Cluster (GRA)
+MFC Cluster (Mad Bomber)
+MFC Cluster (Mad Bomber) (GRA)
+Li'l Devil (GRA)
+5.56mm Pistol (GRA)
+Two-Step Goodbye (GRA)
+Battle Rifle (GRA)
+Medicine Stick (GRA)
+Bozar (GRA)
+Embrace of the Mantis King! (GRA)
+The Smitty Special (GRA)
+Nuka-Breaker (GRA)
+MF Hyperbreeder Alpha (GRA)
+Time Bomb, High Yield (GRA)
+Time Bomb, High Yield (Mad Bomber)
+Time Bomb, High Yield (Mad Bomber) (GRA)
+Greased Lightning (GRA)
+Gehenna (GRA)
+.357 revolver long barrel
+.357 revolver HD cylinder
+.44 revolver scope
+.44 revolver heavy frame
+.45 AP HD slide
+.45 AP silencer
+.45 AP Improved Sights
+9mm pistol extended mags
+9mm pistol scope
+10mm pistol silencer
+10mm pistol extended mags
+10mm pistol laser sight
+12.7mm pistol silencer
+Hunting rev. 6-shot cylinder
+Hunting rev. match barrel
+Hunting Revolver Scope
+Hunting Rev. Night Vision Scope
+Anti-mat. rifle CF parts
+Anti-mat. rifle custom bolt
+Anti-mat. rifle suppressor
+Assault carbine extended magazines
+Assault carb. ext. mags
+Assault carb. forged receiver
+Assault carb. light bolt
+Auto. Rifle Upgr. Internals
+Brush gun forged receiver
+Cby. Rep. custom action
+Cby. Rep. long tube
+Cby. Rep. maple stock
+Hunting rifle extended mag
+Hunting rifle scope
+Hunting rifle custom action
+Light MG expanded drums
+Svc. Rifle forged receiver
+Svc. Rifle Upgraded Springs
+Svc. Rifle Upgraded Internals
+Svc. Rifle Reflex Sight
+Sniper rifle suppressor
+Sniper rifle carbon fiber parts
+Trail carbine scope
+Trail Carbine Laminate Stock
+Varmint rifle extended mags
+Varmint rifle night scope
+Varmint rifle silencer
+.45 Auto SMG Comp.
+.45 Auto SMG drums
+9mm SMG drums
+9mm SMG light bolt
+10mm SMG extended mags
+10mm SMG Recoil Comp.
+12.7mm submachine gun silencer
+12.7mm SMG laser sight
+12.7mm SMG stacked magazine
+12.7mm SMG suppressor
+Sil. .22 SMG exp. drums
+Hunting shotgun long tube
+Hunting shotgun choke
+K9000 mod - Resla roil
+K9000 mod - Mentat chow
+Minigun damped subframe
+Minigun high-speed motor
+SMMG mechanical upgrade
+SMMG recoil compensator
+SMMG extended magazine
+Laser pistol combat sights
+Laser pistol focus optics
+Laser pistol recycler
+Plasma Def. hi-cap terminal
+Plasma Def. scope
+Plasma Def. sheath stabilizer
+Plas. pistol hi-energy ionizer
+Plas. pistol mag. accelerator
+Plas. pistol recycler
+Holorifle focus optics
+[Mod] Holorifle focus optics
+Holorifle advanced calibration
+[Mod] Holorifle advanced calibration
+Holorifle reinforced components
+[Mod] Holorifle reinforced components
+LAER Mod - Auxiliary Recharger Clip
+LAER Mod - Prismatic Lens
+Laser RCW recycler
+Laser rifle focus optics
+Laser rifle beam splitter
+Laser rifle scope
+Plasma rifle Mag. accelerator
+Tri-beam LR focus optics
+Tri-beam LR HD caps
+Tri-beam LR hi-cap terminal
+Flamer expanded tanks
+Gat. laser focus optics
+Gat. Laser CF Frame
+Plasma caster HS electrode
+25mm G. APW Exp. Drum
+25mm G. APW long barrel
+25mm G. APW upgraded int.
+Grenade rifle long barrel
+Fat Man Little Boy kit
+Grenade MG High-Speed Kit
+Miss. launcher guidance Sys.
+Red Glare alpha strike
+Red Glare auto launcher
+Red Glare far sighting
+Chainsaw alloy frame
+Chainsaw carbide teeth
+Chainsaw HD chain
+Katana authentic blade
+Katana balanced grip
+Katana protective sheath
+Ripper carbide teeth
+Ripper HD chain
+Ripper Alloy Frame
+Baseball bat cork core
+Baseball bat maple body
+Baseball bat nails
+War club casings
+War club honors
+Bear Trap Fist HD Springs
+Power fist chromed tubes
+Power Fist Hi-Cap Valves
+Power fist ported chambers
+.32 Pistol Long Barrel
+.32 Pistol Light Action
+.32 Rifle Long Barrel
+.32 Rifle Extended Mag
+Chinese Pistol Extended Magazine
+Chinese Pistol Bluing
+Chinese Pistol Rifled Barrel
+Assault Rifle Heavy Barrel
+Assault Rifle Drums
+Infiltrator Tactical Stock
+Lever-Action Rifle Improved Parts
+Lever-Action Rifle Sights
+Double-Barreled Shotgun Maplewood Stock
+Double-Barreled Shotgun Turkey Chokes
+Multiplas Rifle Tri-Barrel
+.22LR, FMJ
+.22LR
+22LR
+.22LR, HP
+.22LR Hollow Point
+.22LR Round, Hollow Point
+.22LR HP
+.22LR, Plinking
+.22LR P
+Breakdown .22LR
+Breakdown .22LR Hollow Point
+Breakdown .22LR Plinking
+Case, .22LR
+.308, FMJ
+.308
+.308, AP
+.308, Armor Piercing
+.308 Armor Piercing
+.308 Round, Armor Piercing
+.308, HP
+.308 Hollow Point
+.308 Round, Hollow Point
+.308, JSP
+.308, JSP (Hand Load)
+Breakdown .308 Armor Piercing
+Breakdown .308 Hollow Point
+Breakdown .308 JSP Hand Load
+.357 Magnum, FMJ
+.357 Magnum Round
+.357 Mag.
+.357 Magnum, HP
+.357 Magnum Hollow Point
+.357 Magnum Round, Hollow Point
+.357 Magnum, JFP
+.38 Special, FMJ
+Breakdown .357 Magnum Round
+Breakdown .357 Magnum Hollow Point
+Breakdown .357 Magnum JFP Hand Load
+Breakdown .38 Special
+Case, .38 Special
+.44 Magnum, FMJ
+.44 Mag.
+.44 Magnum, HP
+.44 Magnum Hollow Point
+.44 Magnum Round, Hollow Point
+.44 Magnum, SWC
+.44 Special, FMJ
+Breakdown .44 Magnum Round
+Breakdown .44 Magnum Hollow Point
+Breakdown .44 Magnum SWC Hand Load
+Breakdown .44 Special
+Case, .44 Special
+.45-70 Gov't, Ball
+.45-70 Gov't
+.45-70 Gov't Round
+.45-70G
+.45-70 Gov't, HP
+.45-70 Gov't, Hollow Point
+.45-70 Gov't Hollow Point
+.45-70 Gov't Round, Hollow Point
+.45-70G HP
+Breakdown .45-70 Gov't
+Breakdown .45-70 Gov't Hollow Point
+Breakdown .45-70 Gov't SWC Hand Load
+Case, .45-70 Gov't
+.50 MG, FMJ
+.50MG
+.50 MG, AP
+.50 MG, Armor Piercing
+.50 MG Round, Armor Piercing
+.50 MG, Match
+.50 MG, Match Hand Load
+.50 MG, Match (Hand Load)
+.50 MG, Explosive
+.50 MG Round, Explosive
+.50 MG, Explosive (GRA)
+.50 MG, Incendiary
+.50 MG Round, Incendiary
+Breakdown .50 MG Round
+Breakdown .50 MG Armor Piercing
+Breakdown .50 MG Explosive
+Breakdown .50 MG Incendiary
+Breakdown .50 MG Match Hand Load
+5mm, FMJ
+5mm
+5mm, AP
+5mm, Armor Piercing
+5mm Armor Piercing
+5mm Round, Armor Piercing
+5mm AP
+5mm, HP
+5mm Hollow Point
+5mm HP
+5mm, Surplus
+[%] 5mm, Surplus(s) added
+5mm, JSP
+5mm, JSP Hand Load
+5mm, JSP Hand Load (GRA)
+Breakdown 5mm Armor Piercing
+Breakdown 5mm Hollow Point
+Breakdown 5mm Surplus
+Breakdown 5mm JSP Hand Load
+5.56mm, FMJ
+5.56mm
+5.56mm, AP
+5.56mm AP
+5.56mm, Armor Piercing
+5.56mm Armor Piercing
+5.56mm Round, Armor Piercing
+5.56mm, HP
+5.56mm Hollow Point
+5.56mm, Surplus
+[%] 5.56mm, Surplus(s) added
+5.56mm M
+5.56mm, Match
+5.56mm, Match Hand Load
+5.56mm, Match Hand Load (GRA)
+Breakdown 5.56mm Armor Piercing
+Breakdown 5.56mm Hollow Point
+Breakdown 5.56mm Surplus
+Breakdown 5.56mm Match Hand Load
+.223, FMJ
+Breakdown .223
+Case, .223
+9mm, FMJ
+9mm
+9mm, +P
+9mm Round, +P
+9mm Round +P
+9mm +P
+9mm, HP
+9mm Hollow Point
+9mm HP
+9mm, JHP
+9mm, JHP Hand Load
+9mm, JHP Hand Load (GRA)
+9mm, JHP (Hand Load) (GRA)
+Breakdown 9mm +P
+Breakdown 9mm Hollow Point
+Breakdown 9mm JHP Hand Load
+10mm, FMJ
+10mm
+10mm, HP
+10mm Hollow Point
+10mm Round, Hollow Point
+10mm, JHP
+10mm Round, Armor Piercing
+Breakdown 10mm Hollow Point
+Breakdown 10mm JHP Hand Load
+12.7mm, FMJ
+12.7mm
+12.7mm, HP
+12.7mm Hollow Point
+12.7mm, JHP
+12.7mm, JHP Hand Load
+12.7mm, JHP (Hand Load)
+12.7mm, JHP Hand Load (GRA)
+Breakdown 12.7mm
+Breakdown 12.7mm Hollow Point
+Breakdown 12.7mm JHP Hand Load
+.45 Auto
+.45 Auto Round
+.45 Auto, FMJ
+.45 Auto, HP
+.45 Auto, Hollow Point
+.45 Auto Hollow Point
+.45 Auto Round, Hollow Point
+.45 Auto, +P
+.45 Auto Round, +P
+.45 Auto, Super
+.45 Super Hand Load
+.45 Super (Hand Load)
+.45 Spr.
+Breakdown .45 Auto
+Breakdown .45 Auto +P
+Breakdown .45 Auto Hollow Point
+Breakdown .45 Super
+Case, .45 Auto
+.32 Round
+.32 Round, +P
+12 Gauge, Buck
+12 Ga. Buckshot
+12ga
+12ga x 2
+12 Gauge, Magnum
+12 Gauge Round, Magnum
+12 Ga. Buckshot, Magnum
+12 Gauge, Slug
+12 Ga. Slug
+12 Gauge Round, Slug
+12ga S
+12 Gauge, Bean Bag
+12 Gauge Round, Bean Bag
+12 Ga. Bean Bag
+12 Gauge, Coin Shot
+12 Ga. Coin Shot
+12 Gauge Round, Coin Shot
+12 Gauge, 4/0 Buck
+12 Gauge, 4/0 Buck (GRA)
+12ga 4/0B
+12 Ga. 4/0 Buck
+12 Gauge Round, 4/0 Buck
+12 Gauge, 4/0 Buck Magnum
+12 Gauge, 4/0 Back Mag. (Hand Loader)
+12 Gauge, 4/0 Buck Mag. (Hand Loader) (GRA)
+12 Ga., 4/0 Buck Mag. Hand Load
+12 Ga., 4/0 Buck Mag. Hand Load (GRA)
+12 Ga. Buckshot, 4/0 Magnum
+12 Ga. Buckshot, 4/0 Magnum (GRA)
+12 Gauge, 4/0 Buck Mag. (Hand Loader)
+12 Gauge, Dragon's Breath
+12 Gauge Round, Dragon's Breath
+12 Gauge, Dragon's Breath (GRA)
+12 Gauge, Flechette
+12 Ga. Flechette
+12 Gauge Round, Flechette
+12 Gauge, Flechette (GRA)
+12 Gauge, Pulse Slug
+12 Gauge Round, Pulse Slug
+12 Gauge, Pulse Slug (GRA)
+Breakdown 12 Ga. Slug
+Breakdown 12 Ga. Dragons' Breath
+Breakdown 12 Ga. Bean Bag
+Breakdown 12 Ga. 4/0 Buck
+Breakdown 12 Ga. 4/0 Buck Mag. Hand Load
+Breakdown 12 Ga. Coin Shot
+Breakdown 12 Ga. Flechette
+Breakdown 12 Ga. Magnum
+Breakdown 12 Ga. Pulse Slug
+Hull, 12 Gauge
+20 Gauge, Buck
+20 Ga. Buckshot
+20ga
+20 Gauge, Magnum
+20 Gauge Round, Magnum
+20 Ga. Buckshot, Magnum
+20 Gauge, Slug
+20 Gauge Round, Slug
+20 Ga. Slug
+20ga S
+20 Gauge, 3/0 Buck
+20 Ga. 3/0 Buck
+20 Gauge Round, 3/0 Buck
+20 Gauge, 3/0 Buck (GRA)
+20ga 3/0B
+20 Gauge, 3/0 Buck Magnum
+20 Ga., 3/0 Buck Mag. Hand Load
+20 Ga., 3/0 Buck Mag. Hand Load (GRA)
+20 Gauge, 3/0 Buck Mag. (Hand Loader)
+20 Gauge, 3/0 Buck Magnum (GRA)
+20 Gauge, Pulse Slug
+20 Gauge Round, Pulse Slug
+20 Gauge, Pulse Slug (GRA)
+20 Gauge, Dragon's Breath
+Breakdown 20 Ga. Slug
+Breakdown 20 Ga. 3/0 Buck
+Breakdown 20 Ga. 3/0 Buck Mag. Hand Load
+Breakdown 20 Ga. Magnum
+Breakdown 20 Ga. Pulse Slug
+Hull, 20 Gauge
+25mm Grenade
+25mmG
+25mm Grenade, High Explosive
+25mm Grenade, Plasma
+25mm Grenade, Plasma (GRA)
+25mm Grenade, Pulse
+25mm Grenade, Pulse (GRA)
+25mm Grenade, Timed
+25mm Grenade, Timed (GRA)
+25mm Grenade, Incendiary
+40mm Grenade
+40mmG
+40mm Grenade, Incendiary
+40mmG Inc.
+40mm Grenade, High Explosive
+40mm Grenade, Plasma
+40mm Grenade, Plasma (GRA)
+40mm Grenade, Pulse
+40mm Grenade, Pulse (GRA)
+Missile
+Missile, High Explosive
+Missile, High Velocity
+Missile, Hive
+Missile, Hive (GRA)
+Rocket
+Rocket Ammo
+Rocket, High Explosive
+Rocket, High-Explosive
+High-Explosive Rocket Ammo
+Rocket, Incendiary
+Incendiary Rocket Ammo
+Breakdown Rocket
+Mini Nuke
+Mini Nuke, Big Kid
+Mini Nuke, Big Kid (GRA)
+Mini Nuke, Low Yield
+Mini Nuke, Low Yield (GRA)
+Mini Nuke, LY
+Mini Nuke, Tiny Tots
+Mini Nuke, Tiny Tots (GRA)
+Mini Nuke, TT
+Mini Nuke, Timed
+Mini Nuke, Timed (GRA)
+Energy Cell
+Energy Cell, Over Charge
+Energy Cell, Max Charge
+Energy Cell, Bulk
+Energy Cell, Optimized
+Energy Cell, Optimized (GRA)
+Microfusion Cell
+Microfusion Cell, Over Charge
+Microfusion Cell, Max Charge
+Microfusion Cell, Bulk
+Microfusion Cell, Optimized
+Flamer Fuel
+Flamer Fuel, Home Made
+Flamer Fuel, Optimized
+Flamer Fuel, Optimized (GRA)
+Electron Charge Pack
+Electron Charge Pack, Over Charge
+Electron Charge Pack, Max Charge
+Electron Charge Pack, Bulk
+Electron Charge Pack, Optimized
+BB
+Nalis
+Slg
+Silent
+Silenced .22 Pistol
+Silenced .22 SMG
+Silenced 10mm Pistol
+.357 Magnum Revolver
+.44 Magnum Revolver
+Marksman Carbine
+Sawed-Off Shotgun
+Axe
+Machete
+Throwing Tomahawk
+Frag Grenade
+Regulator Combat Armor, Reinforced
+Commando Armor, Reinforced
+Salvaged Power Armor
+Composite Recon Helmet
+Red Racer Jumpsuit
+Wastelander's Gear
+Stimpak, Expired
+Stimpak, Super
+Auto-Inject Stimpak, Super
+Dog Stew
+Wasteland Hot Dog
+The Ultra-Luxe
+House: Reloading Bench
+Gun Nut ([%])
+The King's School of Impersonation
+Fremont Street
+Freeside Outskirts
+Cottonwood Cove Docks
+Primm Encampment
+Red Rock Amphitheatre
+Red Rock Summit
+The Fort Summit
+Dog
+NCR Scout
+NCR Deserter
+NCR Recon Unit
+NCR Engineer
+NCR Clerk
+Legion Hunter
+Legion Prospector
+Case Box, .22LR
+Box, Pistol Repair Parts
+Box, Rifle Repair Parts
+Box, Wood Repair Sets
+Box, Revolver Repair Parts
+Box, SMG Repair Parts
+Box, Shotgun Repair Parts
+Box, Energy Pistol Repair Parts
+Box, Light Armor Repair Parts
+Box, Sharpening Sets
+HELIOS One: Solar Collection Tower
+Human Fresh
+Human Flesh
+Super-Mutant
+Hired Hand
+Herding dog
+Mercenary Camp
+Ringo's Caravan
+Challenges
+Next Challenge Type
+Powder Ganger Deputy
+Blue
+Green
+Cigarette
+Pack of Cigarettes
+Nuka-Cola Ice Cold
+Empty Milk Bottle
+Squatter's Encampment
+Highway 95 Viper's Encampment
+Vipers' Lair
+Abandoned Mine
+Greenblood Caves
+Cook Cook's Kitchen
+Violet's Trailer Fort
+Nephi's Range
+Vance's Gun
+My Little Friend
+Shane's Bane
+The Evening Redness
+Freeside Gang Leader
+Fabulous New Vegas Sign
+Adventurer's Pack
+HE
+Gun Nut
+Burrow Gang Marksman
+What is your assignment?
+You win [%] chip(s)
+Distribute 1 Point
+Distribute [%] Points
+Cannibal
+Ferocious Loyalty
+Miss Fortune
+Meltdown
+Implant GRX
+Wild Wasteland
+Edit Traits
+Edit Tag Skills
+Req:  [%]
+Req: PER < 10  [%]
+Req: AGI < 10  [%]
+Exit
+[%]. Map marker added.
+Good luck.
+Take care.
+Let's do this.
+Report to Ranger Grant.
+I'll submit to the credit check. <5000 caps required>
+I'll submit to the credit check. <5000 caps required.>
+I'll submit to the credit check. <5,000 caps required.>
+I want to buy a passport. <5000 caps required.>
+Let's talk about the creature eggs you need.
+Let's talk about the creature eggs that you need.
+I'll look for your men and supplies.
+Thanks, I appreciate it.
+From what I've gathered from NCR rangers, they were most likely taken to Cottonwood Cove. You might start there.
+(Repair of 35 or higher and one piece of scrap metal required)
+For you? Just the basics. Come back when you're a little more seasoned and maybe we could talk about other options.
+Well hello, sugar. Mr. House is waiting for you in his office.
+First Recon's in Camp Forlorn Hope. Get some Rangers in there too and it'll be a damned impregnable fortress.
+Looks like we booted the Legion outta Nelson. About damn time.
+Let Jed know you're ready to leave once you're traveling alone and carrying 50 pounds or less.
+All right, I'll come back when I'm carrying less than 50 pounds.
+But what does that accomplish?
+You know that means I'm going to encourage him to leave, right?
+If it will get me out of here, sure.
+You're the New Canaanite who's supposed to help lead these people, not hide things from them.
+While he continued to advocate militant opposition to the enemies of New Canaan, he sometimes showed quarter to those who crossed his family.
+So, got any rocks then? Or other forms of armamament?
+I just hoped a savage - outsider, sorry - would make it to our gates before one of those armies out there comes knocking.
+Raquel could use help with the bug problem, Doc Argyll has wounded he's tending to, and Loyal and Jack might be looking for help with some repairs.
+Or you could just go see Pete at the museum and hear the story of our people. All you have to do there is listen.
+Sheesh, You're one ugly sonofabitch!
+If he ain't chiseling behind your back, he just sends his men, ready for a fight. Then you either "sell" your ranch for a penny, or you're dead.
+Ha! Well, you're polite, I'll give you that. If this was just between you and me, I'd do as you ask. But it's not.
+Bitter Springs... a name like that could've only brought bad luck.
+That's not a good idea.
+Done. Here's the caps.
+Box of Bandages
+Soldering Iron
+Grill
+Medical supplies remaining:
+Rad supplies remaining:
+Add Supplies
+Select the medical supplies you wish to add.
+Current medical supplies:
+Current rad supplies:
+Med-X
+Med-X.
+Add 2 Stimpaks
+Add 4 Med-X
+Add 1 Doctor's Bag
+Add 2 RadAway
+Add 4 Rad-X
+Your Hunger level has increased.
+Your Hunger level has decreased.
+Your radiation level has increased.
+Your radiation level has decreased.
+You no longer have radiation sickness.
+(Newtral)
+(Accepted)
+(Liked)
+(Idolized)
+(Shunned)
+(Mixed)
+(Smiling Troublemaker)
+(Good-Natured Rescal)
+(Hated)
+(Sneering Punk)
+(Unpredictable)
+(Dark Hero)
+(Vilified)
+(Merciful Thug)
+(Soft-Hearted Devil)
+(Wild Child)
+Just good, honest infantry work! You do 20% more damage with 9mm and .45 Auto Pistols and SMGs, Service Rifles, Assault Carbines, Battle Rifles, Light Machine Guns, Frag Grenades, Grenade Rifles and Launchers, and Combat Knives.
+The Flamer that burns twice as bright burns half as long. All weapons have +3% chance to Critically Hit, but equipment condition decays 15% faster.
+Perception affects your accuracy with ranged weapons. A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills.
+Charisma determines the size of your Party and companion Nerve. Having high Charisma improves people's disposition toward you, and give bonuses to both the Barter and Speech skills.
+Agility affects your Guns and Sneak skills. It also determines your reload speed, movement speed, and the number of Action Points available for V.A.T.S.
+The Survival skill increases the bonuses and healing received from food and drink. It also helps you create consumable items at campfires.
+While using Guns and Energy Weapons, you fire 20% more quickly and AP costs are 20% lower, but your shots are 20% less accurate.
+You gain +15 lbs. to your carrying capacity, but suffer a -1 to all attributes any time the weight you're carrying drops below 75 lbs.
+You're skilled, but not experienced. You gain +5 points to every skill, but you suffer -15% from experience gained from now on.
+You take your time to make every trigger pull count. You are 20% more accurate with Guns and Energy Weapons, but you fire them 20% slower and AP costs are 20% higher.
+No one's going to put you out to pasture 'cause you're going to stay young (and level 21) forever! You'll never again become addicted to chems, and they'll last twice as long... but after 21 you can kiss experience, perks, and skill points goodbye!
+Would you like to experience these unusual events? Once you select an option, you will not be able to change it.
+Buy the ticket, take the ride...
+I don't believe in aliens!
+Hunting is in your blood. Against animals and mutated animals, you deal +75% Critical Damage and are able to gather more meat and hide from their carcasses.
+Survival is the mother of invention! You can now craft large batches of junk ammo at reloading benches using Tin Cans and Scrap Metal.
+With each rank of this perk, all of your explosive weapons do an additional 10% damage and have a 10% larger explosion radius.
+With the Lead Belly perk, you take 50% less radiation when consuming irradiated food and drink. Your stomach is also built to withstand the negative effects of raw meats.
+As a Computer Whiz, you have a much easier time narrowing down possible password choices. You can also attempt to re-hack any computer you were previously locked out of.
+You do 15% more damage when using any revolver, lever-action firearm, dynamite, knife, or hatchet.
+Just good, honest infantry work! You do 20% more damage with 9mm and .45 Auto Pistols and SMGs, Service Rifles, Battle Rifles, Assault Carbines, Light Machine Guns, Frag Grenades, Grenade Rifles and Launchers, and Combat Knives.
+With Infiltrator, bobby pins won't break as easily while lockpicking. Better yet, if a lock is  broken, you can attempt to pick it again one more time. This includes locks previously broken by a "Force Lock" attempt.
+You have learned the value of careful packing. Items with a weight of 2 or less weigh 25% less for you.
+You can intimidate mobs of opponents into fleeing for their lives. You can trigger this merely with your presence, or through dialogue in some situations.
+You've discovered a Shotgun technique that has a chance to knock an enemy back. Shotshells with lower pellet counts have a higher chance of knocking the target down.
+You're just so excited about plasma that you can't (magnetically) contain yourself! Attack speeds for all plasma weapons (including grenades) are increased by 20% and AP costs are reduced by 20%.
+You're more at home under the open stars than under a roof. Any time you sleep in a bed outside, even for a brief nap, you gain the benefits of being Well Rested.
+With each rank of the Life Giver perk, you gain an additional 30 Hit Points.
+When targeting an opponent's head in V.A.T.S., your accuracy and critical damage are increased by 25%.
+Your attacks do 75% less damage to companions, allowing you to liberally spray an area with reckless abandon.
+With the Strong Back perk, you can carry 20 more pounds of equipment.
+You don't fool around with fancy trick shots. Straight to the midsection and down they go. In V.A.T.S., you do an additional 15% damage with attacks targeting the torso.
+The wasteland has taught you some hard lessons, but you've remembered them all. You gain +1% to earned experience per level gained. (For example, +15% experience at level 15.)
+You don't take kindly to raiders, junkies, or tribals trying to "settle" or "stay alive" in civilized lands. Against dirty raider and junkie types as well as Zion's tribals, your damage and V.A.T.S. chance to hit are increased by 15%.
+You have come to understand Nightstalkers. When fighting Nightstalkers, you've braced yourself for their incoming attacks (+10% DT). Consuming Nightstalker Squeezin's now grant an additional +2 Perception, +10 Sneak, and +20 Poison Resistance.
+The Tag! perk allows you to select a fourth Tag skill!
+With the Nerves of Steel perk, your Action Points regenerate 20% faster.
+You gain a non-addictive subdermal Turbo (chem) injector. This perk may be taken twice, with the second rank increasing the effect from 2 to 3 seconds and the uses per day from 2 to 3. [Activated in the Pip-Boy inventory.]
+The wastelander with the most gear wins! (... or at least survives.) You can now carry an additional 30 pounds of gear (stacks with Strong Back perk).
+Any time you sleep in a bed, your Rads are reduced by 50 for every hour slept.
+With the Rad Absorption perk, your radiation level will drop by 1 every 2 seconds.
+You've had lots of close calls. Whenever you finish a fight with less than 25% Health, your Luck increases by +4 for 3 minutes. You are also immune to critical hits, and your own critical hits inflict +50% damage. (Requires Neutral Karma.)
+Your storied past has fallen from memory 'cause everyone  thought you died. Your Karma is reset, you inflict +10% damage, and for every 100 points of Karma, you gain 5 Health. You are also 50% less likely to be critically hit. (Requires Good Karma.)
+For each crippled limb you have, you do an additional 10% damage.
+Your extensive familiarity with Explosives allows you to ignore a portion of their damage. Your Damage Threshold is increased by 25 against any and all Explosives -- even your own.
+Your attacks show a lot of finesse. You have an additional 5% chance of inflicting critical hits, but you also deal 15% less damage overall.
+Cass wants you to supply a dozen bottles of whiskey for her Whiskey Challenge, after which she'll try to drink you under the table.
+Your Medicine skill has been permanently increased by 5 points.
+The Medicine skill determines how many Hit Points you'll replenish upon using a Stimpak, and the effectiveness of Rad-X, RadAway, and more.
+Cowards be damned, the only direction you'll be running is toward the enemy! With this perk, you can keep your weapon out while sprinting.
+In all your time as a defensive lineman for your football team back in the vault, you only learned one thing, but you learned it well: How to knock people off their feet. With this perk, you can sprint into enemies to tackle them.
+You're obsessed with using a wide variety of conventional firearms. With the Gun Nut perk, Small Guns have 10% less spread!
+Years as the Vault little league MVP have honed your hitting and throwing. Your AP costs with melle weapons and grenades are reduced by 10%.
+Yeah? What is it?
+Growing Up Fast
+You're obsessed with using and maintaining a wide variety of conventional firearms. With each rank of the Gun Nut perk, when using a gun, spread is reduced 5% and item condition is increased 10%.
+You're obsessed with really big weapons. With each rank of this perk, you gain a 10% boost to accuracy and damage when using heavy weapons.
+Your movement speed will be reduced depending on how full your inventory is.
+Disables use of your Pip-Boy while enemies are actively looking for you.
+As Radiation accumulates, your effective maximum Health will be reduced. You will lose 1% for every 10 RADs gained.
+When enabled, food and water sources will no longer restore health. Chems and alcohol are not affected.
+Adds additional requirements for Fast Travelling. See 'Fast Travel' page for more options once enabled. If disabling this option, you must change cells for it to take full effect.
+Prevents waiting with cripped legs while standing up. Sleeping is unaffected.
+Pools of toxic waste found around the wasteland will now inflict constant leg and health damage when stepped in. Power Armor and Radiation Suits will prevent damage.
+With the Magnetic Personality perk, you become a fountain of Charisma! Since you're just so likable, you can now recruit an additional companion.  But don't forget, more than 3 is always a crowd.
+Minor Dehydration.
+Adv. Dehydration.
+Deadly Dehydration.
+Critical Dehydration.
+Minor Starvation.
+Adv. Starvation.
+Deadly Starvation.
+Your Starvation level has increased.
+Your Starvation level has decreased.
+You no longer have Hunger sickness.
+Minor Sleep Deprivation.
+Adv. Sleep Deprivation.
+Deadly Sleep Deprivation.
+Your Sleep Deprivation level has increased.
+Your Sleep Deprivation level has decreased.
+You no longer have Sleep Deprivation sickness.
+Dead Wastelander
+Dead Raider
+Dead Giant Ant
+Dead Cazador
+Which limb would you like to heal?
+All
+Nevermind
+All right, here's your caps.
+Are you sure you'd like to restore all of your limbs equally?
+Your Torso currently has [%] health remaining.
+Your Right Leg currently has [%] health remaining.
+Your Left Leg currently has [%] health remaining.
+What would you like to cook?
+Make
+Ingredients:
+Leave it alone
+Fried Radroach
+Roach torso fried up and ready to eat. Not very appealing to look at.
+- [%] Radroach Meat
+Who cares where the squirrel bits came from as long as the stew tastes good.
+- [%] Crispy Squirrel Bits - [%] Dirty OR Purified Water
+A lunch fit to feed a caravan. Contains assorted foods with long shelf lives.
+- [%] Pork N' Beans - [%] Instamash - [%] Cram - [%] Lunchbox
+Pulled 'Lurk
+So soft that it practically falls apart in your mouth.
+- [%] Softshell Mirelurk Meat - [%] Wine
+Steamed Punga
+A simple, but filling dish made out of an exotic fruit.
+- [%] Wild Punga Fruit OR Refined Punga Fruit - [%] Metal Cooking Pot, Pot OR Pressure Cooker
+Punga Stew
+A thick, aromatic stew made from the exotic punga fruit. Said to help stave off the effects of radiation.
+- [%] Wild Punga Fruit OR [%] Refined Punga Fruit - [%] Metal Cooking Pot, Pot OR Pressure Cooker
+Grilled Mole Rat
+A hunk of mole rat flesh grilled to smokey perfection.
+- [%] Mole Rat Meat
+A common wasteland meal due to how common Brahmin are.
+- [%] Brahmin Meat
+Ant Kebabs
+Diced ant meat and crunchy mutfruit skewered by sticks and grilled until charred.
+- [%] Ant Meat
+- [%] Crunchy Mutfruit
+A dish best reserved for those desparate for a meal.
+- [%] Dog Meat
+Mirelurk Claw
+The claw from a mirelurk grilled until crispy.
+- [%] Mirelurk Meat
+Yao Guai Jerky
+Tough jerky with a wine-y flavor.
+- [%] Yao Guai Meat
+- [%] Wine
+Perception determines your accuracy with ranged weapons and detection of threats on the compass (indicated in red). A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills.
+Charisma determines how many followers you can have in your party. Having a high Charisma will improve your companion damage and defence, and improve people's disposition towards you. It also gives bonuses to both the Barter and Speech skills.
+Agility affects your move speed, and the number of Action Points available for V.A.T.S. It also affects your Small Guns and Sneak skills.
+Years as the Vault little league MVP have honed your hitting and throwing. Your AP costs with melee weapons and grenades are reduced by 10%.
+Everyone around you feels compelled to give you the best deal -- Take the Scoundrel perk and buying prices are discounted by 10%.
+While using a pistol (or similar one-handed weapon), your accuracy in V.A.T.S. is increased by 25%.
+With the Lead Belly perk, you take 50% less radiation when you drink irradiated water. You are also able to eat raw meat without suffering a loss of Strength.
+With each rank of the Toughness perk, you gain +5% to overall Damage Resistance, up to the maximum of 85%.
+While using a rifle (or similar two-handed weapon), your accuracy in V.A.T.S. is increased by 25%.
+With Infiltrator, you're much more adept at handling locks. Bobby pins won't break as easily while lockpicking. If a lock is broken, you can attempt to pick it again one more time.
+With each rank of Life Giver, you gain an additional 30 Hit Points.
+You have unlocked the secret to creating Nuka-Cola Quantum. With this perk, you can take ten Nuka-Colas to a compfire and condense them into a bottle of Nuka-Cola Quantum!
+When targetting an opponent's head in V.A.T.S., your accuracy and critical damage are increased by 25%.
+You've made permanent enhancements to your body! The Cyborg perk instantly adds +10% to your Poison, Radiation, Fire, and Energy Resistances.
+You're obsessed with really big weapons. With this perk, anything from miniguns, to missile launchers, to flamers will weigh 25% less.
+The Tag! perk allows you to select a fourth Skill to be a Tag skill, allowing it to increase at twice the rate of regular skills.
+You sleep deeply no matter where you are. You get the Well Rested benefit of +10% XP for eight hours, no matter what bed you sleep in, or how briefly.
+With the Rad Absorption perk, your radiation level decreases by 1 every 3 seconds.
+Vicious Wastes allows you to play in a new Hardcore mode that will increase the challenge of the game. In this mode, the following effects are active: * Dehydration, Starvation, and Sleep Deprivation are a constant concern. * Stimpaks heal over time and cannot be used to heal limbs. * Rad-Away removes radiation over time. * Sleeping in a bed will not restore your health or limbs. * Ammunition has weight. Would you like to activate Hardcore mode?
+Yes (Recommended)
