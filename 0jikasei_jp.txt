@@ -543,6 +543,7 @@ Slg
 ŠúŒÀØ‚êƒXƒeƒBƒ€ƒpƒbƒN
 ƒX[ƒp[ƒXƒeƒBƒ€ƒpƒbƒN
 Ž©“®’“üƒX[ƒp[ƒXƒeƒBƒ€ƒpƒbƒN
+ƒ€[ƒ“ƒVƒƒƒCƒ“
 ƒhƒbƒOƒVƒ`ƒ…[
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒhEƒzƒbƒgƒhƒbƒO
 ƒEƒ‹ƒgƒ‰Eƒ‰ƒOƒWƒ…
@@ -577,7 +578,7 @@ NCRŽ––±ˆõ
 ‘¾—zŒõŽûWƒ^ƒ[
 l“÷
 l“÷
-ƒX[ƒp[ƒ~ƒ…[ƒ^ƒ“ƒg
+ƒX[ƒp[Eƒ~ƒ…[ƒ^ƒ“ƒg
 –qê]‹Æˆõ
 –q’{Œ¢
 —b•ºƒLƒƒƒ“ƒv
@@ -595,7 +596,9 @@ NCRŽ––±ˆõ
 ƒoƒCƒp[‚ÌƒLƒƒƒ“ƒv
 ƒoƒCƒp[‚ÌƒAƒWƒg
 •ú’u‚³‚ê‚½zŽR
+ƒmƒoƒbƒN‰º…“¹
 ƒOƒŠ[ƒ“ƒuƒ‰ƒbƒh“´ŒA
+r‚ç‚³‚ê‚½NCRƒoƒ“ƒJ[‰ºŠK‘w
 ƒNƒbƒNEƒNƒbƒN‚ÌƒLƒbƒ`ƒ“
 ƒoƒCƒIƒŒƒbƒg‚ÌƒgƒŒ[ƒ‰[EƒtƒH[ƒg
 ƒlƒtƒB[‚ÌƒiƒƒoƒŠ
@@ -610,6 +613,19 @@ HE
 Gun Nut
 ƒuƒƒEƒMƒƒƒ“ƒO‚Ìƒ}[ƒNƒXƒ}ƒ“
 ‚¨‘O‚Ì”C–±‚Í‚È‚ñ‚¾H
+ƒtƒ@ƒXƒgƒgƒ‰ƒxƒ‹‚ÍŽg—p‚Å‚«‚Ü‚¹‚ñB\n•à‚«‚Ü‚µ‚å‚¤
+—·sƒLƒƒƒ‰ƒoƒ“‹ÆŽÒ
+‚ ‚È‚½‚ÌƒLƒƒƒ‰ƒoƒ“‚É“¯s‚µ‚½‚¢
+ƒLƒƒƒ“ƒvEƒ}ƒbƒJƒ‰ƒ“
+ƒŒƒbƒhƒƒbƒNEƒLƒƒƒjƒIƒ“
+ƒtƒŠ[ƒTƒCƒh–k
+ƒEƒGƒXƒgƒTƒCƒh¼ƒGƒ“ƒgƒ‰ƒ“ƒX
+ƒWƒFƒCƒRƒuƒXƒ^ƒEƒ“
+ƒRƒbƒgƒ“ƒEƒbƒhEƒR[ƒ”
+ƒ‚ƒnƒr‘O£Šî’n
+188ŒðˆÕŠ
+‚³‚ ‚¢‚±‚¤ [[%]ƒLƒƒƒbƒv]
+‹Ø—Í•s‘«‚Ì‚½‚ß‚»‚Ì•Ší‚ðŽ‚Á‚½‚Ü‚Ü‚Å‚Í‘–‚ê‚Ü‚¹‚ñI
 You win [%] chip(s)
 Žc‚è1ƒ|ƒCƒ“ƒg
 Žc‚è[%]ƒ|ƒCƒ“ƒg
@@ -629,6 +645,7 @@ Req: AGI < 10:\n\n[%]
 ƒOƒbƒhƒ‰ƒbƒN
 ‹C‚ð‚Â‚¯‚Ä
 ‚³‚ s‚±‚¤
+‚í‚©‚Á‚½
 ƒŒƒ“ƒWƒƒ[EƒOƒ‰ƒ“ƒg‚É‰ï‚¤
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
@@ -658,6 +675,8 @@ NCRƒŒƒ“ƒWƒƒ[‚©‚çW‚ß‚½î•ñ‚É‚æ‚é‚ÆA‰Æ‘°‚ÍƒRƒbƒgƒ“ƒEƒbƒhEƒR[ƒ”‚É˜A‚ê‚Äs‚©‚ê‚
 ‚¤‚í‚ÁA‚¨‘O–{“–‚ÉX‚¢“z‚¾‚ÈI
 “z‚Í”wŒã‚Å‚©‚·‚ßŽæ‚Á‚Ä‚¢‚­‚©AŽè‰º‚ð‘—‚èž‚ñ‚Åí‚¢‚Ì€”õ‚ð‚³‚¹‚éB”_ê‚ð‚Í‚µ‚½‹à‚Åg”„‚éh‚©AŽE‚³‚ê‚é‚©‚¾
 ƒtƒ“Aƒ}ƒWƒ‚È“z‚¾‚ÈB ‰´‚¾‚¯‚¾‚Á‚½‚ç‚¨‘O‚ÌŒ¾‚¤’Ê‚è‚É‚µ‚Ä‚â‚Á‚Ä‚à—Ç‚¢‚ñ‚¾‚ªA‚ ‚¢‚É‚­‚»‚¤‚¶‚á‚È‚¢
+‚±‚ê‚Í‚±‚ê‚ÍI@l‹CŽÒ‚Ì‰^‚Ñ‰®‚ªA‚Í‚é‚©ƒXƒgƒŠƒbƒv’n‹æ‚©‚ç‰“‚­—£‚ê‚Ä‰½‚ð‚µ‚Ä‚¢‚éH@Mr.ƒnƒEƒX‚É“Í‚¯•¨‚¶‚á‚È‚¢‚Ì‚©H
+‚à‚Ç‚Á‚Ä‚«‚½‚©‚¢B‚ÅA‚Ç‚±‚Ü‚Å˜b‚µ‚½‚ñ‚¾‚Á‚½‚©‚ËH
 ƒrƒ^[ƒXƒvƒŠƒ“ƒOƒXc •s‹g‚È–¼‚¾
 ‚â‚ß‚Ä‚¨‚¯
 Œˆ‚Ü‚è‚¾‚ÈB ‚Ù‚çƒLƒƒƒbƒv‚¾

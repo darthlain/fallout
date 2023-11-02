@@ -543,6 +543,7 @@ Wastelander's Gear
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
+Moonshine
 Dog Stew
 Wasteland Hot Dog
 The Ultra-Luxe
@@ -595,7 +596,9 @@ Squatter's Encampment
 Highway 95 Viper's Encampment
 Vipers' Lair
 Abandoned Mine
+Novac Sewer
 Greenblood Caves
+Infested NCR Bunker Lower Level
 Cook Cook's Kitchen
 Violet's Trailer Fort
 Nephi's Range
@@ -610,6 +613,19 @@ HE
 Gun Nut
 Burrow Gang Marksman
 What is your assignment?
+You have no means of transport. Guess you'll have to walk.
+Travelling Caravaneer
+I'd like to travel with your caravan.
+Camp McCarran.
+Red Rock Canyon.
+Freeside North.
+Westside West Entrance.
+Jacobstown.
+Cottonwood Cove.
+Mojave Outpust.
+188 Trading Post.
+Let's go. [[%] caps]
+You don't have the strength to sprint with this weapon!
 You win [%] chip(s)
 Distribute 1 Point
 Distribute [%] Points
@@ -629,6 +645,7 @@ Exit
 Good luck.
 Take care.
 Let's do this.
+All right, then.
 Report to Ranger Grant.
 I'll submit to the credit check. <5000 caps required>
 I'll submit to the credit check. <5000 caps required.>
@@ -658,6 +675,8 @@ Or you could just go see Pete at the museum and hear the story of our people. Al
 Sheesh, You're one ugly sonofabitch!
 If he ain't chiseling behind your back, he just sends his men, ready for a fight. Then you either "sell" your ranch for a penny, or you're dead.
 Ha! Well, you're polite, I'll give you that. If this was just between you and me, I'd do as you ask. But it's not.
+Well, well, well! What's our favorite courier doing so far from the Strip? Don't you have a special delivery to give to Mr. House?
+So you're back. Now, where did we leave off?
 Bitter Springs... a name like that could've only brought bad luck.
 That's not a good idea.
 Done. Here's the caps.
