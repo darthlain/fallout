@@ -26,6 +26,7 @@ Case, .22LR
 .308, Hollow Point
 .308 Round, Hollow Point
 .308, JSP
+.308 JSP
 .308, JSP (Hand Load)
 Breakdown .308
 Breakdown .308 Armor Piercing
@@ -40,6 +41,7 @@ Breakdown .308 JSP Hand Load
 .357 Magnum Round, Hollow Point
 .357 Magnum, JFP
 .38 Special Round
+.38 Spc.
 .38 Special, FMJ
 Breakdown .357 Magnum
 Breakdown .357 Magnum Round
@@ -56,6 +58,7 @@ Case, .38 Special
 .44 Magnum Round, Hollow Point
 .44 Magnum, SWC
 .44 Special Round
+.44 Spc.
 .44 Special, FMJ
 Breakdown .44 Magnum
 Breakdown .44 Magnum Round

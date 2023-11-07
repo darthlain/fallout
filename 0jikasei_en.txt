@@ -622,9 +622,14 @@ Freeside North.
 Westside West Entrance.
 Jacobstown.
 Cottonwood Cove.
-Mojave Outpust.
+Mojave Outpost.
+Sloan.
+Bitter Springs.
+Boulder City.
+Nelson.
 188 Trading Post.
 Let's go. [[%] caps]
+Riddler's Toys & Games
 You don't have the strength to sprint with this weapon!
 You win [%] chip(s)
 Distribute 1 Point
