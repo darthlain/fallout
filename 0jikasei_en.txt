@@ -629,6 +629,7 @@ Boulder City.
 Nelson.
 188 Trading Post.
 Let's go. [[%] caps]
+<Accepts payment, preparing for travel>
 Riddler's Toys & Games
 You don't have the strength to sprint with this weapon!
 You win [%] chip(s)
