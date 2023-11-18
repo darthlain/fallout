@@ -3,31 +3,32 @@
 @FalloutNV.esm:1735E3			-1		-1		-1		2		180		25		765		6		; Sturdy Caravan Shotgun
 @FalloutNV.esm:004333			-1		-1		-1		-1		200		-1		-1		-1		; Hunting Rifle
 @GunRunnersArsenal.esm:00080C	-1		-1		-1		-1		220		-1		-1		-1		; Paciencia
-@GunRunnersArsenal.esm:000812	-1		-1		-1		-1		200		-1		2950	-1		; Battle Rifle
-@FalloutNV.esm:0F062B			-1		-1		-1		-1		250		-1		-1		-1		; This Machine
+@GunRunnersArsenal.esm:000812	-1		-1		-1		-1		200		-1		3000	-1		; Battle Rifle
+@FalloutNV.esm:0F062B			-1		-1		-1		-1		250		-1		4500	-1		; This Machine
 @GunRunnersArsenal.esm:00081B	-1		-1		-1		-1		175		-1		-1		-1		; 25mm Grenade APW
 @FalloutNV.esm:0E3778			13		13		-1		-1		-1		-1		-1		2		; 9mm Pistol
 @FalloutNV.esm:0E7655			14		14		-1		0.5		-1		-1		-1		2.5		; Maria
-@FalloutNV.esm:07EA24			12		12		-1		-1		-1		-1		-1		4.5		; Vermint Rifle
-@FalloutNV.esm:0E5B17			13		13		1.5		-1		-1		-1		-1		5.5		; Ratslayer
-@FalloutNV.esm:0E377A			9		18		1.25	-1		100		-1		400		1.5		; Silenced .22 Pistol
-@FalloutNV.esm:08F218			10	    20		-1		-1		-1		-1		1350	6		; Silenced .22 SMG
-@FalloutNV.esm:08F215			39		39		-1		0.55 	-1		-1		2100	3		; .44 Magnum Revolver
-@FalloutNV.esm:127C6C			45		45		-1		0.4		-1		-1		2800	3.5		; Mysterious Magnum
+@FalloutNV.esm:07EA24			10		10		-1		-1		-1		-1		-1		4.5		; Vermint Rifle
+@FalloutNV.esm:0E5B17			12		12		1.5		-1		-1		-1		-1		5.5		; Ratslayer
+@FalloutNV.esm:0E377A			7		14		1.25	-1		100		-1		400		1.5		; Silenced .22 Pistol
+@FalloutNV.esm:08F218			8	    16		-1		-1		-1		-1		1350	6		; Silenced .22 SMG
+@FalloutNV.esm:08F215			39		39		-1		-1	 	-1		-1		1500	2.5		; .44 Magnum Revolver
+@FalloutNV.esm:127C6C			45		45		-1		-1		-1		-1		2400	3		; Mysterious Magnum
 @FalloutNV.esm:08ED0A			-1		-1		-1		-1		-1		-1		-1		7		; Riot Shotgun
-@HonestHearts.esm:00996C		-1		-1		-1		-1		-1		-1		-1		9.5		; .45 Auto SMG
-@FalloutNV.esm:1429D1			-1		-1		-1		-1		-1		-1		-1		8		; 12.7mm SMG
-@GunRunnersArsenal.esm:00084E	-1		-1		-1		-1		-1		-1		-1		8		; 12.7mm SMG (GRA)
-@FalloutNV.esm:0CD539			-1		-1		-1		-1		-1		-1		-1		6.5		; Trail Carbine
-@FalloutNV.esm:121148			-1		-1		-1		-1		-1		-1		-1		7		; Brush Gun
+@FalloutNV.esm:133058			-1		-1		-1		-1		-1		-1		1000	3		; That Gun
+@GunRunnersArsenal.esm:000813	-1		-1		-1		-1		-1		-1		720		3		; 5.56mm Pistol
 @FalloutNV.esm:0E9C3B			-1		-1		-1		-1	 	-1		-1		-1		7		; Service Rifle
 @HonestHearts.esm:00DD79		-1		-1		-1		0.35	-1		-1		-1		-1		; Survivalist's Rifle
-@FalloutNV.esm:133058			-1		-1		-1		-1		-1		-1		1250	3.5		; That Gun
-@GunRunnersArsenal.esm:000813	-1		-1		-1		-1		-1		-1		850		3.5		; 5.56mm Pistol
+@FalloutNV.esm:121148			-1		-1		-1		-1		-1		-1		-1		7		; Brush Gun
+@GunRunnersArsenal.esm:00080E	-1		-1		-1		-1		-1		-1		-1		7.5		; Medicine Stick
 @FalloutNV.esm:004353			-1		-1		-1		-1		-1		-1		-1		10		; Sniper Rifle
 @FalloutNV.esm:1429E1			-1		-1		-1		-1		-1		-1		-1		6.5		; Gobi Compaign Scout Rifle
 @OldWorldBlues.esm:0112BA		-1		-1		-1		-1		-1		-1		-1		7.5		; Christine's CoS silencer Rifle
+@FalloutNV.esm:1429D1			-1		-1		-1		-1		-1		-1		-1		8		; 12.7mm SMG
+@GunRunnersArsenal.esm:00084E	-1		-1		-1		-1		-1		-1		-1		8		; 12.7mm SMG (GRA)
+@HonestHearts.esm:00996C		-1		-1		-1		-1		-1		-1		-1		9.5		; .45 Auto SMG
 
+; GRA 75% VALUE
 ;@GunRunnersArsenal.esm:000804	-1		-1		-1		-1		-1		-1		13500	-1		; Esther
 ;@GunRunnersArsenal.esm:00080F	-1		-1		-1		-1		-1		-1		9000	-1		; Gehenna
 ;@GunRunnersArsenal.esm:00080D	-1		-1		-1		-1		-1		-1		6200	-1		; Sleepytyme
@@ -46,6 +47,7 @@
 
 ;@FalloutNV.esm:00434F			-1		-1		-1		-1		-1		-1		-1		-1		; 10mm Pistol
 ;@FalloutNV.esm:08F213			-1		-1		-1		-1		-1		-1		-1		-1		; 12.7mm Pistol
+;@FalloutNV.esm:0CD539			-1		-1		-1		-1		-1		-1		-1		-1		; Trail Carbine
 
 ; ORIGINAL
 @DeadMoney.esm:00A7A9			-1		-1		-1		1.6		-1		-1		-1		-1		; Automatic Rifle

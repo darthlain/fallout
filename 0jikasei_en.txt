@@ -563,6 +563,7 @@ NCR Deserter
 NCR Recon Unit
 NCR Engineer
 NCR Clerk
+NCR Tourist
 Legion Hunter
 Legion Prospector
 Case Box, .22LR
@@ -652,6 +653,7 @@ Good luck.
 Take care.
 Let's do this.
 All right, then.
+I'll be waiting.
 Report to Ranger Grant.
 I'll submit to the credit check. <5000 caps required>
 I'll submit to the credit check. <5000 caps required.>
@@ -684,6 +686,13 @@ Ha! Well, you're polite, I'll give you that. If this was just between you and me
 Well, well, well! What's our favorite courier doing so far from the Strip? Don't you have a special delivery to give to Mr. House?
 So you're back. Now, where did we leave off?
 Bitter Springs... a name like that could've only brought bad luck.
+What? There's no way... we're miles from the Colorado. They... they aren't even waiting for the Dam to fall. They're already inside the borders...
+The NCR troopers have been paid to look the other way.
+McLafferty's a hard boss, but she knows what she's doing, that's for sure.
+Damn Brahmin crap everywhere.
+Fucking expensive to get into the Strip these days.
+McLafferty's been riding asses again. Better lay low.
+Okay, here you go. That page has the details, but it's all in the timing as you move from building to building.
 That's not a good idea.
 Done. Here's the caps.
 Box of Bandages

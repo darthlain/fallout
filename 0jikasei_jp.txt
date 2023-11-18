@@ -4,7 +4,7 @@
 ƒNƒŒƒ“ƒWƒ“ƒOEƒtƒŒƒCƒ€
 ƒXƒvƒ‹ƒeƒ‹EƒEƒbƒh9700
 MFCƒOƒŒƒl[ƒh
-ƒkƒJEƒOƒŒƒl[ƒh
+ƒkƒJƒOƒŒƒl[ƒh
 ƒuƒŠƒLƒOƒŒƒl[ƒh
 ƒpƒVƒGƒ“ƒVƒA
 ƒJƒ^ƒi
@@ -31,9 +31,9 @@ MFƒnƒCƒp[ƒuƒŠ[ƒ_[EƒAƒ‹ƒtƒ@
 MFCƒOƒŒƒl[ƒh
 MFCƒOƒŒƒl[ƒh
 MFCƒOƒŒƒl[ƒh
-ƒkƒJEƒOƒŒƒl[ƒh
-ƒkƒJEƒOƒŒƒl[ƒh
-ƒkƒJEƒOƒŒƒl[ƒh
+ƒkƒJƒOƒŒƒl[ƒh
+ƒkƒJƒOƒŒƒl[ƒh
+ƒkƒJƒOƒŒƒl[ƒh
 ƒuƒŠƒLƒOƒŒƒl[ƒh
 ƒuƒŠƒLƒOƒŒƒl[ƒh
 ƒuƒŠƒLƒOƒŒƒl[ƒh
@@ -86,9 +86,9 @@ CFƒp[ƒc(‘Î•¨ƒ‰ƒCƒtƒ‹)
 Œy—Êƒ{ƒ‹ƒg(ƒAƒTƒ‹ƒgƒJ[ƒrƒ“)
 ‰ü—Çƒp[ƒc(ƒI[ƒgƒ}ƒ`ƒbƒNƒ‰ƒCƒtƒ‹)
 ’b‘¢ƒŒƒV[ƒo[(ƒuƒ‰ƒbƒVƒ…ƒKƒ“)
-Œy—ÊƒŒƒo[(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
-Lƒ`ƒ…[ƒu(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
-Œy—ÊƒXƒgƒbƒN(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
+Œy—ÊƒŒƒo[(CBYƒŠƒs[ƒ^[)
+Lƒ`ƒ…[ƒu(CBYƒŠƒs[ƒ^[)
+Œy—ÊƒXƒgƒbƒN(CBYƒŠƒs[ƒ^[)
 Šg’£ƒ}ƒKƒWƒ“(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
 ƒXƒR[ƒv(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
 Œy—ÊƒŒƒo[(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
@@ -563,6 +563,7 @@ NCR’E‘–•º
 NCR’ãŽ@•º
 NCRƒGƒ“ƒWƒjƒA
 NCRŽ––±ˆõ
+NCRŠÏŒõ‹q
 ƒŠ[ƒWƒ‡ƒ“Eƒnƒ“ƒ^[
 ƒŠ[ƒWƒ‡ƒ“‚Ì’TzŽÒ
 –òä°ƒ{ƒbƒNƒX: 22ŒûŒaLR’e
@@ -652,6 +653,7 @@ Req: AGI < 10:\n\n[%]
 ‹C‚ð‚Â‚¯‚Ä
 ‚³‚ s‚±‚¤
 ‚í‚©‚Á‚½
+‘Ò‚Á‚Ä‚é
 ƒŒƒ“ƒWƒƒ[EƒOƒ‰ƒ“ƒg‚É‰ï‚¤
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
@@ -684,6 +686,13 @@ NCRƒŒƒ“ƒWƒƒ[‚©‚çW‚ß‚½î•ñ‚É‚æ‚é‚ÆA‰Æ‘°‚ÍƒRƒbƒgƒ“ƒEƒbƒhEƒR[ƒ”‚É˜A‚ê‚Äs‚©‚ê‚
 ‚±‚ê‚Í‚±‚ê‚ÍI@l‹CŽÒ‚Ì‰^‚Ñ‰®‚ªA‚Í‚é‚©ƒXƒgƒŠƒbƒv’n‹æ‚©‚ç‰“‚­—£‚ê‚Ä‰½‚ð‚µ‚Ä‚¢‚éH@Mr.ƒnƒEƒX‚É“Í‚¯•¨‚¶‚á‚È‚¢‚Ì‚©H
 ‚à‚Ç‚Á‚Ä‚«‚½‚©‚¢B‚ÅA‚Ç‚±‚Ü‚Å˜b‚µ‚½‚ñ‚¾‚Á‚½‚©‚ËH
 ƒrƒ^[ƒXƒvƒŠƒ“ƒOƒXc •s‹g‚È–¼‚¾
+”nŽ­‚Èc ƒRƒƒ‰ƒh‚©‚ç‰½ƒ}ƒCƒ‹‚à—£‚ê‚Ä‚¢‚é‚ñ‚¾‚¼B”Þ‚ç‚Íc ƒ_ƒ€‚Ì•ö‰ó‚ð‘Ò‚Á‚Ä‚Í‚¢‚È‚¢B‚·‚Å‚É‹«ŠEü‚Ì“à‘¤‚É‚¢‚éc
+NCR•º’B‚Í‹à‚ð‚à‚ç‚Á‚ÄŒ©‚ÄŒ©‚Ê‚Ó‚è‚ð‚·‚é‚»‚¤‚¾
+ƒ}ƒNƒ‰ƒtƒ@ƒeƒB‚ÍŒµ‚µ‚¢ƒ{ƒX‚¾‚¯‚ÇA‚â‚Á‚Ä‚é‚±‚Æ‚Í‹Ø‚ª’Ê‚Á‚Ä‚¢‚é
+ƒoƒ‰ƒ‚ƒ“‹¤‚Í‚Ç‚±‚É‚¢‚Ä‚à–À˜f‚¾
+Å‹ß‚¶‚áAƒXƒgƒŠƒbƒv’n‹æ‚É“ü‚é‚¾‚¯‚ÅƒoƒJ‚Ý‚½‚¢‚É‚¨‹à‚ª‚¢‚é‚æ‚¤‚¾
+‚Ü‚½ƒ}ƒNƒ‰ƒtƒ@ƒeƒB‚ÌŽã‚¢‚à‚Ì‚¢‚¶‚ß‚ªŽn‚Ü‚Á‚½B–Ú—§‚½‚È‚¢‚æ‚¤‚É‚µ‚È‚¯‚ê‚Î
+ƒI[ƒP[B ‚³‚ÄAÚ‚µ‚¢‚±‚Æ‚Í‚±‚ÌŽ†Ø‚ê‚É‘‚¢‚Ä‚¨‚¢‚½‚ñ‚¾‚ªA—v‚·‚é‚É”pšÐ‚©‚ç”pšÐ‚ÉˆÚ“®‚·‚éƒ^ƒCƒ~ƒ“ƒO‚ªd—v‚È‚ñ‚¾
 ‚â‚ß‚Ä‚¨‚¯
 Œˆ‚Ü‚è‚¾‚ÈB ‚Ù‚çƒLƒƒƒbƒv‚¾
 •ï‘Ñƒ{ƒbƒNƒX
