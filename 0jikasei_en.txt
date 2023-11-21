@@ -543,6 +543,8 @@ Wastelander's Gear
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
+Water, Purified
+Water, Dirty
 Moonshine
 Dog Stew
 Wasteland Hot Dog
@@ -645,6 +647,7 @@ Wild Wasteland
 Edit Traits
 Edit Tag Skills
 Req:  [%]
+Ranks: [%]
 Req: PER < 10  [%]
 Req: AGI < 10  [%]
 Exit
