@@ -543,8 +543,12 @@ Wastelander's Gear
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
+Water, Clear
 Water, Purified
 Water, Dirty
+Water, Bad
+Water, Terrible
+Water, Irradiated
 Moonshine
 Dog Stew
 Wasteland Hot Dog
