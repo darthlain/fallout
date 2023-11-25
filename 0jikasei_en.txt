@@ -530,6 +530,7 @@ Silenced 10mm Pistol
 .44 Magnum Revolver
 Marksman Carbine
 Sawed-Off Shotgun
+AER14 Prototype
 Axe
 Machete
 Throwing Tomahawk
@@ -543,15 +544,10 @@ Wastelander's Gear
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
-Water, Clear
-Water, Purified
-Water, Dirty
-Water, Bad
-Water, Terrible
-Water, Irradiated
 Moonshine
 Dog Stew
 Wasteland Hot Dog
+Pile of Giant Mantis Eggs
 The Ultra-Luxe
 House: Reloading Bench
 Gun Nut ([%])
@@ -572,6 +568,7 @@ NCR Clerk
 NCR Tourist
 Legion Hunter
 Legion Prospector
+Great Khan Chem Dealer
 Case Box, .22LR
 Box, Pistol Repair Parts
 Box, Rifle Repair Parts
@@ -642,6 +639,7 @@ You don't have the strength to sprint with this weapon!
 You win [%] chip(s)
 Distribute 1 Point
 Distribute [%] Points
+Bent Tin Can = Tin Can!
 Cannibal
 Ferocious Loyalty
 Miss Fortune
@@ -650,12 +648,16 @@ Implant GRX
 Wild Wasteland
 Edit Traits
 Edit Tag Skills
-Req:  [%]
-Ranks: [%]
+Req: [%]
+Ranks: 1 [%]
+Ranks: 2 [%]
+Ranks: 3 [%]
 Req: PER < 10  [%]
 Req: AGI < 10  [%]
 Exit
 [%]. Map marker added.
+Later.
+Go on.
 Good luck.
 Take care.
 Let's do this.
@@ -700,6 +702,20 @@ Damn Brahmin crap everywhere.
 Fucking expensive to get into the Strip these days.
 McLafferty's been riding asses again. Better lay low.
 Okay, here you go. That page has the details, but it's all in the timing as you move from building to building.
+I'm unable to work out a deal. The Great Khans are all yours.
+I figure a guy like you gets his pick of killing gear.
+What were you looking to start?
+I'm giving you a real opportunity here - how about some compensation?
+You hear the losers around here complaining how they lost their shirts on the Strip? It's pathetic.
+A reliable source told me we're getting the best NCR soldiers to help us against the Legion.
+I'm sick of the sob stories you hear around here. If you don't know when to stop gambling, that's no one's fault but your own.
+People are whispering, everywhere, about the massive Legion army gathering past the Colorado.
+You know it's illegal for us to gamble back home? The government wants to keep us poor.
+I've never seen a robot like that before.
+After I win big, I'm going to buy my friends dinner at that fancy Gor-mant restaurant. I saw ads for it back home.
+I can't wait to see the Strip. I hear it's so beautiful!
+Your friend seems too civilized for a place like this.
+You were a pilot?
 That's not a good idea.
 Done. Here's the caps.
 Box of Bandages
@@ -890,3 +906,5 @@ You sleep deeply no matter where you are. You get the Well Rested benefit of +10
 With the Rad Absorption perk, your radiation level decreases by 1 every 3 seconds.
 Vicious Wastes allows you to play in a new Hardcore mode that will increase the challenge of the game. In this mode, the following effects are active: * Dehydration, Starvation, and Sleep Deprivation are a constant concern. * Stimpaks heal over time and cannot be used to heal limbs. * Rad-Away removes radiation over time. * Sleeping in a bed will not restore your health or limbs. * Ammunition has weight. Would you like to activate Hardcore mode?
 Yes (Recommended)
+Having a high Charisma will improve people's disposition towards you, improving Reputation and making companions more effective while giving bonuses to both the Barter and Speech skills.
+With the Lead Belly perk, you take 50% less radiation when consuming irradiated food and drink. You are also able to eat raw animal meat without suffering ST loss.

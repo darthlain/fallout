@@ -86,9 +86,9 @@ CFƒp[ƒc(‘Î•¨ƒ‰ƒCƒtƒ‹)
 Œy—Êƒ{ƒ‹ƒg(ƒAƒTƒ‹ƒgƒJ[ƒrƒ“)
 ‰ü—Çƒp[ƒc(ƒI[ƒgƒ}ƒ`ƒbƒNƒ‰ƒCƒtƒ‹)
 ’b‘¢ƒŒƒV[ƒo[(ƒuƒ‰ƒbƒVƒ…ƒKƒ“)
-Œy—ÊƒŒƒo[(CBYƒŠƒs[ƒ^[)
-Lƒ`ƒ…[ƒu(CBYƒŠƒs[ƒ^[)
-Œy—ÊƒXƒgƒbƒN(CBYƒŠƒs[ƒ^[)
+Œy—ÊƒŒƒo[(Cby.ƒŠƒs[ƒ^[)
+Lƒ`ƒ…[ƒu(Cby.ƒŠƒs[ƒ^[)
+Œy—ÊƒXƒgƒbƒN(Cby.ƒŠƒs[ƒ^[)
 Šg’£ƒ}ƒKƒWƒ“(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
 ƒXƒR[ƒv(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
 Œy—ÊƒŒƒo[(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
@@ -530,6 +530,7 @@ Slg
 .44ƒ}ƒOƒiƒ€ƒŠƒ{ƒ‹ƒo[
 ƒ}[ƒNƒXƒ}ƒ“ƒJ[ƒrƒ“
 ƒ\[ƒhƒIƒtEƒVƒ‡ƒbƒgƒKƒ“
+AER14ƒvƒƒgƒ^ƒCƒv
 •€
 ƒ}ƒ`ƒFƒbƒg
 ƒgƒ}ƒz[ƒN
@@ -543,15 +544,10 @@ Slg
 ŠúŒÀØ‚êƒXƒeƒBƒ€ƒpƒbƒN
 ƒX[ƒp[ƒXƒeƒBƒ€ƒpƒbƒN
 Ž©“®’“üƒX[ƒp[ƒXƒeƒBƒ€ƒpƒbƒN
-Ÿ‚ñ‚¾…
-‚«‚ê‚¢‚È…
-‰˜‚ê‚½…
-‚Æ‚Ä‚à‰˜‚ê‚½…
-‹°‚ë‚µ‚­‰˜‚ê‚½…
-‰˜õ‚³‚ê‚½…
 ƒ€[ƒ“ƒVƒƒƒCƒ“
 ƒhƒbƒOƒVƒ`ƒ…[
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒhEƒzƒbƒgƒhƒbƒO
+ƒWƒƒƒCƒAƒ“ƒgEƒ}ƒ“ƒeƒBƒX‚Ì—‘‚ÌŽR
 ƒEƒ‹ƒgƒ‰Eƒ‰ƒOƒWƒ…
 ‰Æ: ƒŠƒ[ƒhƒxƒ“ƒ`
 Gun Nut ([%])
@@ -572,6 +568,7 @@ NCRŽ––±ˆõ
 NCRŠÏŒõ‹q
 ƒŠ[ƒWƒ‡ƒ“Eƒnƒ“ƒ^[
 ƒŠ[ƒWƒ‡ƒ“‚Ì’TzŽÒ
+ƒOƒŒ[ƒgEƒJ[ƒ“ƒY‚Ì–ò•¨”„l
 –òä°ƒ{ƒbƒNƒX: 22ŒûŒaLR’e
 ” : ƒsƒXƒgƒ‹C—ƒp[ƒc
 ” : ƒ‰ƒCƒtƒ‹C—ƒp[ƒc
@@ -642,6 +639,7 @@ Gun Nut
 You win [%] chip(s)
 Žc‚è1ƒ|ƒCƒ“ƒg
 Žc‚è[%]ƒ|ƒCƒ“ƒg
+‹È‚ª‚Á‚½ƒuƒŠƒLŠÊ = ƒuƒŠƒLŠÊI
 Cannibal
 Ferocious Loyalty
 Miss Fortune
@@ -650,12 +648,16 @@ Inplant GRX
 Wild Wasteland
 Traits‚ðƒGƒfƒBƒbƒg
 ƒ^ƒOƒXƒLƒ‹‚ðƒGƒfƒBƒbƒg
-Req:\n\n[%]
-Ranks: [%]\n
-Req: PER < 10:\n\n[%]
-Req: AGI < 10:\n\n[%]
+Req:\n[%]
+Ranks 1:\n\n[%]
+Ranks 2:\n\n[%]
+Ranks 3:\n\n[%]
+Req: PER < 10:\n[%]
+Req: AGI < 10:\n[%]
 I—¹
 [%]\nƒ}ƒbƒvƒ}[ƒJ[‚ª’Ç‰Á‚³‚ê‚Ü‚µ‚½
+‚¶‚á‚ ‚È
+‘±‚¯‚Ä
 ƒOƒbƒhƒ‰ƒbƒN
 ‹C‚ð‚Â‚¯‚Ä
 ‚³‚ s‚±‚¤
@@ -690,7 +692,7 @@ NCRƒŒƒ“ƒWƒƒ[‚©‚çW‚ß‚½î•ñ‚É‚æ‚é‚ÆA‰Æ‘°‚ÍƒRƒbƒgƒ“ƒEƒbƒhEƒR[ƒ”‚É˜A‚ê‚Äs‚©‚ê‚
 ‚¤‚í‚ÁA‚¨‘O–{“–‚ÉX‚¢“z‚¾‚ÈI
 “z‚Í”wŒã‚Å‚©‚·‚ßŽæ‚Á‚Ä‚¢‚­‚©AŽè‰º‚ð‘—‚èž‚ñ‚Åí‚¢‚Ì€”õ‚ð‚³‚¹‚éB”_ê‚ð‚Í‚µ‚½‹à‚Åg”„‚éh‚©AŽE‚³‚ê‚é‚©‚¾
 ƒtƒ“Aƒ}ƒWƒ‚È“z‚¾‚ÈB ‰´‚¾‚¯‚¾‚Á‚½‚ç‚¨‘O‚ÌŒ¾‚¤’Ê‚è‚É‚µ‚Ä‚â‚Á‚Ä‚à—Ç‚¢‚ñ‚¾‚ªA‚ ‚¢‚É‚­‚»‚¤‚¶‚á‚È‚¢
-‚±‚ê‚Í‚±‚ê‚ÍI@l‹CŽÒ‚Ì‰^‚Ñ‰®‚ªA‚Í‚é‚©ƒXƒgƒŠƒbƒv’n‹æ‚©‚ç‰“‚­—£‚ê‚Ä‰½‚ð‚µ‚Ä‚¢‚éH@Mr.ƒnƒEƒX‚É“Í‚¯•¨‚¶‚á‚È‚¢‚Ì‚©H
+‚±‚ê‚Í‚±‚ê‚ÍI l‹CŽÒ‚Ì‰^‚Ñ‰®‚ªA‚Í‚é‚©ƒXƒgƒŠƒbƒv’n‹æ‚©‚ç‰“‚­—£‚ê‚Ä‰½‚ð‚µ‚Ä‚¢‚éH@Mr.ƒnƒEƒX‚É“Í‚¯•¨‚¶‚á‚È‚¢‚Ì‚©H
 ‚à‚Ç‚Á‚Ä‚«‚½‚©‚¢B‚ÅA‚Ç‚±‚Ü‚Å˜b‚µ‚½‚ñ‚¾‚Á‚½‚©‚ËH
 ƒrƒ^[ƒXƒvƒŠƒ“ƒOƒXc •s‹g‚È–¼‚¾
 ”nŽ­‚Èc ƒRƒƒ‰ƒh‚©‚ç‰½ƒ}ƒCƒ‹‚à—£‚ê‚Ä‚¢‚é‚ñ‚¾‚¼B”Þ‚ç‚Íc ƒ_ƒ€‚Ì•ö‰ó‚ð‘Ò‚Á‚Ä‚Í‚¢‚È‚¢B‚·‚Å‚É‹«ŠEü‚Ì“à‘¤‚É‚¢‚éc
@@ -700,6 +702,20 @@ NCR•º’B‚Í‹à‚ð‚à‚ç‚Á‚ÄŒ©‚ÄŒ©‚Ê‚Ó‚è‚ð‚·‚é‚»‚¤‚¾
 Å‹ß‚¶‚áAƒXƒgƒŠƒbƒv’n‹æ‚É“ü‚é‚¾‚¯‚ÅƒoƒJ‚Ý‚½‚¢‚É‚¨‹à‚ª‚¢‚é‚æ‚¤‚¾
 ‚Ü‚½ƒ}ƒNƒ‰ƒtƒ@ƒeƒB‚ÌŽã‚¢‚à‚Ì‚¢‚¶‚ß‚ªŽn‚Ü‚Á‚½B–Ú—§‚½‚È‚¢‚æ‚¤‚É‚µ‚È‚¯‚ê‚Î
 ƒI[ƒP[B ‚³‚ÄAÚ‚µ‚¢‚±‚Æ‚Í‚±‚ÌŽ†Ø‚ê‚É‘‚¢‚Ä‚¨‚¢‚½‚ñ‚¾‚ªA—v‚·‚é‚É”pšÐ‚©‚ç”pšÐ‚ÉˆÚ“®‚·‚éƒ^ƒCƒ~ƒ“ƒO‚ªd—v‚È‚ñ‚¾
+‚¤‚Ü‚­Ü‚è‡‚¢‚ð‚Â‚¯‚é‚±‚Æ‚ª‚Å‚«‚È‚¢B ƒOƒŒ[ƒgEƒJ[ƒ“ƒY‚ÌŒ‚Í”C‚¹‚½
+‚±‚Á‚¿‚Ì˜r‚É‚Ó‚³‚í‚µ‚¢•Ší‚ðŽ‚Á‚Ä‚é‚Æ“¥‚ñ‚Å‚é‚ñ‚¾‚ª‚È
+‰½‚ðŽn‚ß‚æ‚¤‚Æ‚µ‚Ä‚éH
+–{•¨‚Ì‹@‰ï‚ð‚â‚ë‚¤‚©H ‘Š‰ž‚Ì‘Î‰¿‚ð‚­‚ê‚é‚È‚ç‚Ì˜b‚¾‚ª
+ƒXƒgƒŠƒbƒv‚Åg‚®‚é‚Ý”‚ª‚³‚ê‚½•‰‚¯Œ¢‹¤‚ª‚±‚±‚ç‚ÅŠ«‚¢‚Ä‚¢‚é‚Ì‚ª•·‚±‚¦‚é‚©‚¢H î‚¯‚È‚¢˜A’†‚¾‚æ
+M—Š‚Å‚«‚éî•ñ‹Ø‚É‚æ‚é‚ÆAƒŠ[ƒWƒ‡ƒ“‚É‘ÎR‚·‚é‚½‚ß‚ÉÅ‚‚ÌNCRƒ\ƒ‹ƒWƒƒ[‚ðW‚ß‚Ä‚¢‚é‚ç‚µ‚¢
+‚±‚±‚¢‚ç‚Ì‹ƒ‚«Œ¾‚É‚Í‚à‚¤‚¤‚ñ‚´‚è‚¾B ƒMƒƒƒ“ƒuƒ‹‚ÌŽ«‚ßŽž‚ª‚í‚©‚ç‚È‚¢‚Ì‚ÍŽ©•ª‚ÌÓ”C‚¾‚ë‚¤
+ƒŠ[ƒWƒ‡ƒ“‚Ì‘åŒR‚ªƒRƒƒ‰ƒhì‚ð’´‚¦‚ÄWŒ‹‚µ‚Ä‚é‚Á‚Ä‰\‚ª‚¢‚½‚é‚Æ‚±‚ë‚Å—¬‚ê‚Ä‚é
+ƒJƒŠƒtƒHƒ‹ƒjƒA‚¶‚áƒMƒƒƒ“ƒuƒ‹‚Íˆá–@‚¾‚Á‚Ä’m‚Á‚Ä‚½‚©‚¢H ­•{‚Ì˜A’†‚Í‰äX‚ð•n–R‚È‚Ü‚Ü‚É‚µ‚Æ‚«‚½‚¢‚Ì‚³
+‚±‚ñ‚Èƒƒ{ƒbƒgŒ©‚½‚±‚Æ‚È‚¢‚æ
+‘åŸ‚¿‚µ‚½‚çA‚ ‚Ì‚‹‰ƒŒƒXƒgƒ‰ƒ“‚ÌƒOƒ‹ƒ}ƒ“‚Å—F’BŠF‚ÉƒfƒBƒi[‚ðšø‚é‚Â‚à‚è‚È‚ñ‚¾B ŒÌ‹½‚ÌL‚ÅŒ©‚½‚Ì‚³
+ƒXƒgƒŠƒbƒv‚ð‘‚­Œ©‚½‚¢I ‚Æ‚Ä‚à”ü‚µ‚¢‚ñ‚¾‚Á‚ÄI
+‚ ‚È‚½‚Ì—Fl‚Í‚Æ‚Ä‚à•¶–¾“I‚¾‚ÈB ‚±‚ñ‚ÈêŠ‚Å‚Í’¿‚µ‚¢
+ƒpƒCƒƒbƒg‚¾‚Á‚½‚Ì‚©H
 ‚â‚ß‚Ä‚¨‚¯
 Œˆ‚Ü‚è‚¾‚ÈB ‚Ù‚çƒLƒƒƒbƒv‚¾
 •ï‘Ñƒ{ƒbƒNƒX
@@ -890,3 +906,5 @@ Deep Sleep: ‚ ‚È‚½‚Í‚Ç‚±‚Å‚Å‚à[‚¢–°‚è‚ª“¾‚ç‚ê‚Ü‚·B ‚Ç‚Ìƒxƒbƒh‚ÅQ‚Ä‚¢‚é‚©A‚Ü‚
 Rad Absorption: ‚±‚ÌPerk‚ðŽæ“¾‚·‚é‚ÆA•úŽË”\ƒŒƒxƒ‹‚ª3•b–ˆ‚É1‚¸‚Â’á‰º‚µ‚Ü‚·B
 Vicious Wastes‚Å‚ÍAƒQ[ƒ€‚Ì“ïˆÕ“x‚ð‚‚ß‚éV‚µ‚¢ƒn[ƒhƒRƒAƒ‚[ƒh‚ÅƒvƒŒƒC‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B ‚±‚Ìƒ‚[ƒh‚Å‚ÍAŽŸ‚Ì‹@”\‚ª—LŒø‚É‚È‚è‚Ü‚·:\n\n* ’E…, ‹Q‰ì, ‡–°•s‘«‚Íí‚É–â‘è‚É‚È‚è‚Ü‚·B\n* ƒXƒeƒBƒ€ƒpƒbƒN‚ÍŽžŠÔ‚ÌŒo‰ß‚Æ‚Æ‚à‚É‰ñ•œ‚µAg‘Ì•”ˆÊ‚Ì‰ñ•œ‚É‚ÍŽg—p‚Å‚«‚Ü‚¹‚ñB\n* RadƒAƒEƒFƒC‚ÍŽžŠÔ‚ÌŒo‰ß‚Æ‚Æ‚à‚É•úŽËü‚ðœ‹Ž‚µ‚Ü‚·B\n* ƒxƒbƒh‚ÅQ‚Ä‚à‘Ì—Í‚âg‘Ì•”ˆÊ‚Í‰ñ•œ‚µ‚Ü‚¹‚ñB\n* ’e–ò‚É‚Íd—Ê‚ª‚ ‚è‚Ü‚·B\n\nƒn[ƒhƒRƒAƒ‚[ƒh‚ð—LŒø‚É‚µ‚Ü‚·‚©H
 ‚Í‚¢ („§)
+Charisma‚ª‚‚­‚È‚é‚Æ‚ ‚È‚½‚É‘Î‚·‚élX‚ÌDŠ´“x‚ªã¸‚µ, •]”»‚ª‚‚­‚È‚è‚â‚·‚­‚È‚è, ƒRƒ“ƒpƒjƒIƒ“‚ª‚æ‚èŠˆ–ô‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚·B Barter‚ÆSpeechƒXƒLƒ‹‚Éƒ{[ƒiƒX‚ª—^‚¦‚ç‚ê‚Ü‚·B
+Lead Belly: RAD‰˜õ‚³‚ê‚½H‚×•¨‚âˆù‚Ý•¨‚ðÚŽí‚·‚éÛ‚ÉŽó‚¯‚éRAD‰˜õ—Ê‚ª50%Œ¸­‚µ‚Ü‚·B‚Ü‚½, STRƒyƒiƒ‹ƒeƒB‚ðŽó‚¯‚é‚±‚Æ‚È‚­¶‚Ì“÷‚ðH‚×‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
