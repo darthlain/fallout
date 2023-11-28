@@ -198,28 +198,37 @@ Double-Barreled Shotgun Turkey Chokes
 Multiplas Rifle Tri-Barrel
 .22LR, FMJ
 .22LR
+.22LR Round
 22LR
 .22LR, HP
 .22LR Hollow Point
+.22LR, Hollow Point
 .22LR Round, Hollow Point
 .22LR HP
 .22LR, Plinking
 .22LR P
 Breakdown .22LR
+Breakdown .22 LR
 Breakdown .22LR Hollow Point
 Breakdown .22LR Plinking
 Case, .22LR
+.308 Round
 .308, FMJ
 .308
 .308, AP
+.308 AP
 .308, Armor Piercing
 .308 Armor Piercing
 .308 Round, Armor Piercing
 .308, HP
 .308 Hollow Point
+.308, Hollow Point
 .308 Round, Hollow Point
+.308 HP
 .308, JSP
+.308 JSP
 .308, JSP (Hand Load)
+Breakdown .308
 Breakdown .308 Armor Piercing
 Breakdown .308 Hollow Point
 Breakdown .308 JSP Hand Load
@@ -228,21 +237,36 @@ Breakdown .308 JSP Hand Load
 .357 Mag.
 .357 Magnum, HP
 .357 Magnum Hollow Point
+.357 Magnum, Hollow Point
 .357 Magnum Round, Hollow Point
+.357M HP
 .357 Magnum, JFP
+.357 Magnum, JFP (Hand Load)
+.357M JFP
+.38 Special Round
+.38 Spc.
 .38 Special, FMJ
+Breakdown .357 Magnum
 Breakdown .357 Magnum Round
 Breakdown .357 Magnum Hollow Point
 Breakdown .357 Magnum JFP Hand Load
 Breakdown .38 Special
 Case, .38 Special
+.44 Magnum Round
 .44 Magnum, FMJ
 .44 Mag.
 .44 Magnum, HP
 .44 Magnum Hollow Point
+.44 Magnum, Hollow Point
 .44 Magnum Round, Hollow Point
+.44M HP
 .44 Magnum, SWC
+.44 Magnum, SWC (Hand Load)
+.44M SWC
+.44 Special Round
+.44 Spc.
 .44 Special, FMJ
+Breakdown .44 Magnum
 Breakdown .44 Magnum Round
 Breakdown .44 Magnum Hollow Point
 Breakdown .44 Magnum SWC Hand Load
@@ -257,28 +281,38 @@ Case, .44 Special
 .45-70 Gov't Hollow Point
 .45-70 Gov't Round, Hollow Point
 .45-70G HP
+.45-70 Gov't, SWC (Hand Load)
+.45-70G SWC
 Breakdown .45-70 Gov't
 Breakdown .45-70 Gov't Hollow Point
 Breakdown .45-70 Gov't SWC Hand Load
 Case, .45-70 Gov't
+.50 MG
+.50 MG Round
 .50 MG, FMJ
 .50MG
 .50 MG, AP
 .50 MG, Armor Piercing
 .50 MG Round, Armor Piercing
+.50MG AP
 .50 MG, Match
 .50 MG, Match Hand Load
 .50 MG, Match (Hand Load)
+.50MG M
 .50 MG, Explosive
 .50 MG Round, Explosive
 .50 MG, Explosive (GRA)
+.50MG E
 .50 MG, Incendiary
 .50 MG Round, Incendiary
+.50MG Inc.
+Breakdown .50 MG
 Breakdown .50 MG Round
 Breakdown .50 MG Armor Piercing
 Breakdown .50 MG Explosive
 Breakdown .50 MG Incendiary
 Breakdown .50 MG Match Hand Load
+5mm Round
 5mm, FMJ
 5mm
 5mm, AP
@@ -288,16 +322,22 @@ Breakdown .50 MG Match Hand Load
 5mm AP
 5mm, HP
 5mm Hollow Point
+5mm Round, Hollow Point
 5mm HP
 5mm, Surplus
+5mm S
 [%] 5mm, Surplus(s) added
 5mm, JSP
 5mm, JSP Hand Load
 5mm, JSP Hand Load (GRA)
+5mm, JSP (Hand Load)
+5mm JSP
+Breakdown 5mm
 Breakdown 5mm Armor Piercing
 Breakdown 5mm Hollow Point
 Breakdown 5mm Surplus
 Breakdown 5mm JSP Hand Load
+5.56mm Round
 5.56mm, FMJ
 5.56mm
 5.56mm, AP
@@ -307,19 +347,26 @@ Breakdown 5mm JSP Hand Load
 5.56mm Round, Armor Piercing
 5.56mm, HP
 5.56mm Hollow Point
+5.56mm, Hollow Point
+5.56mm HP
 5.56mm, Surplus
+5.56mm S
 [%] 5.56mm, Surplus(s) added
 5.56mm M
 5.56mm, Match
 5.56mm, Match Hand Load
 5.56mm, Match Hand Load (GRA)
+5.56mm, Match (Hand Load)
+Breakdown 5.56mm
 Breakdown 5.56mm Armor Piercing
 Breakdown 5.56mm Hollow Point
 Breakdown 5.56mm Surplus
 Breakdown 5.56mm Match Hand Load
+.223 Round
 .223, FMJ
 Breakdown .223
 Case, .223
+9mm Round
 9mm, FMJ
 9mm
 9mm, +P
@@ -327,32 +374,48 @@ Case, .223
 9mm Round +P
 9mm +P
 9mm, HP
+9mm, Hollow Point
 9mm Hollow Point
 9mm HP
 9mm, JHP
 9mm, JHP Hand Load
 9mm, JHP Hand Load (GRA)
 9mm, JHP (Hand Load) (GRA)
+9mm, JHP (Hand Load)
+9mm JHP
+Breakdown 9mm
 Breakdown 9mm +P
 Breakdown 9mm Hollow Point
 Breakdown 9mm JHP Hand Load
+10mm Round
 10mm, FMJ
 10mm
 10mm, HP
 10mm Hollow Point
+10mm, Hollow Point
 10mm Round, Hollow Point
+10mm HP
 10mm, JHP
+10mm JHP
+10mm, JHP (Hand Load)
 10mm Round, Armor Piercing
+Breakdown 10mm
 Breakdown 10mm Hollow Point
 Breakdown 10mm JHP Hand Load
+12.7mm Round
 12.7mm, FMJ
 12.7mm
 12.7mm, HP
 12.7mm Hollow Point
+12.7mm, Hollow Point
+12.7mm Round, Hollow Point
+12.7mm HP
 12.7mm, JHP
 12.7mm, JHP Hand Load
 12.7mm, JHP (Hand Load)
 12.7mm, JHP Hand Load (GRA)
+12.7mm Round (Hand Load)
+12.7mm JHP
 Breakdown 12.7mm
 Breakdown 12.7mm Hollow Point
 Breakdown 12.7mm JHP Hand Load
@@ -376,6 +439,7 @@ Breakdown .45 Super
 Case, .45 Auto
 .32 Round
 .32 Round, +P
+12 Gauge Round
 12 Gauge, Buck
 12 Ga. Buckshot
 12ga
@@ -383,39 +447,56 @@ Case, .45 Auto
 12 Gauge, Magnum
 12 Gauge Round, Magnum
 12 Ga. Buckshot, Magnum
+12ga Mag.
+12ga Mag. x 2
 12 Gauge, Slug
 12 Ga. Slug
 12 Gauge Round, Slug
 12ga S
+12ga S x 2
 12 Gauge, Bean Bag
 12 Gauge Round, Bean Bag
 12 Ga. Bean Bag
+12ga Bag
+12ga Bag x 2
 12 Gauge, Coin Shot
 12 Ga. Coin Shot
 12 Gauge Round, Coin Shot
+12ga CS
+12ga CS x 2
 12 Gauge, 4/0 Buck
 12 Gauge, 4/0 Buck (GRA)
-12ga 4/0B
 12 Ga. 4/0 Buck
 12 Gauge Round, 4/0 Buck
+12ga 4/0B
+12ga 4/0B x 2
 12 Gauge, 4/0 Buck Magnum
-12 Gauge, 4/0 Back Mag. (Hand Loader)
+12 Gauge, 4/0 Buck Mag. (Hand Loader)
 12 Gauge, 4/0 Buck Mag. (Hand Loader) (GRA)
 12 Ga., 4/0 Buck Mag. Hand Load
 12 Ga., 4/0 Buck Mag. Hand Load (GRA)
+12 Gauge, 4/0 Buck Mag. (Hand Load)
 12 Ga. Buckshot, 4/0 Magnum
 12 Ga. Buckshot, 4/0 Magnum (GRA)
-12 Gauge, 4/0 Buck Mag. (Hand Loader)
+12ga 4/0BM
+12ga 4/0BM x 2
 12 Gauge, Dragon's Breath
 12 Gauge Round, Dragon's Breath
 12 Gauge, Dragon's Breath (GRA)
+12ga DB
+12ga DB x 2
 12 Gauge, Flechette
 12 Ga. Flechette
 12 Gauge Round, Flechette
 12 Gauge, Flechette (GRA)
+12ga F
+12ga F x 2
 12 Gauge, Pulse Slug
 12 Gauge Round, Pulse Slug
 12 Gauge, Pulse Slug (GRA)
+12ga PS
+12ga PS x 2
+Breakdown 12 Ga.
 Breakdown 12 Ga. Slug
 Breakdown 12 Ga. Dragons' Breath
 Breakdown 12 Ga. Bean Bag
@@ -426,12 +507,14 @@ Breakdown 12 Ga. Flechette
 Breakdown 12 Ga. Magnum
 Breakdown 12 Ga. Pulse Slug
 Hull, 12 Gauge
+20 Gauge Round
 20 Gauge, Buck
 20 Ga. Buckshot
 20ga
 20 Gauge, Magnum
 20 Gauge Round, Magnum
 20 Ga. Buckshot, Magnum
+20ga Mag.
 20 Gauge, Slug
 20 Gauge Round, Slug
 20 Ga. Slug
@@ -446,10 +529,15 @@ Hull, 12 Gauge
 20 Ga., 3/0 Buck Mag. Hand Load (GRA)
 20 Gauge, 3/0 Buck Mag. (Hand Loader)
 20 Gauge, 3/0 Buck Magnum (GRA)
+20 Gauge, 3/0 Buck Mag. (Hand Load)
+20ga 3/0BM
 20 Gauge, Pulse Slug
 20 Gauge Round, Pulse Slug
 20 Gauge, Pulse Slug (GRA)
+20ga PS
 20 Gauge, Dragon's Breath
+20ga DB
+Breakdown 20 Ga.
 Breakdown 20 Ga. Slug
 Breakdown 20 Ga. 3/0 Buck
 Breakdown 20 Ga. 3/0 Buck Mag. Hand Load
@@ -459,12 +547,16 @@ Hull, 20 Gauge
 25mm Grenade
 25mmG
 25mm Grenade, High Explosive
+25mmG HE
 25mm Grenade, Plasma
 25mm Grenade, Plasma (GRA)
+25mmG, Pla.
 25mm Grenade, Pulse
 25mm Grenade, Pulse (GRA)
+25mmG, Pul.
 25mm Grenade, Timed
 25mm Grenade, Timed (GRA)
+25mmG, Tim.
 25mm Grenade, Incendiary
 40mm Grenade
 40mmG
@@ -473,10 +565,13 @@ Hull, 20 Gauge
 40mm Grenade, High Explosive
 40mm Grenade, Plasma
 40mm Grenade, Plasma (GRA)
+40mm Grenade, Pla.
 40mm Grenade, Pulse
 40mm Grenade, Pulse (GRA)
+40mm Grenade, Pul.
 Missile
 Missile, High Explosive
+Missile HE
 Missile, High Velocity
 Missile, Hive
 Missile, Hive (GRA)
@@ -485,12 +580,15 @@ Rocket Ammo
 Rocket, High Explosive
 Rocket, High-Explosive
 High-Explosive Rocket Ammo
+Rocket HE
 Rocket, Incendiary
+Rocket Inc.
 Incendiary Rocket Ammo
 Breakdown Rocket
 Mini Nuke
 Mini Nuke, Big Kid
 Mini Nuke, Big Kid (GRA)
+Mini Nuke, BK
 Mini Nuke, Low Yield
 Mini Nuke, Low Yield (GRA)
 Mini Nuke, LY
@@ -499,28 +597,48 @@ Mini Nuke, Tiny Tots (GRA)
 Mini Nuke, TT
 Mini Nuke, Timed
 Mini Nuke, Timed (GRA)
+Mini Nuke, Tim.
 Energy Cell
 Energy Cell, Over Charge
+E Cell OC
 Energy Cell, Max Charge
+E Cell MC
 Energy Cell, Bulk
+E Cell B
 Energy Cell, Optimized
 Energy Cell, Optimized (GRA)
+Energy Cell, Optimized (Vigilant Recycler)
+E Cell, Opt.
 Microfusion Cell
+MF Cell
 Microfusion Cell, Over Charge
+MF Cell OC
 Microfusion Cell, Max Charge
+MF Cell MC
 Microfusion Cell, Bulk
+MF Cell B
 Microfusion Cell, Optimized
+Microfusion Cell, Optimized (Vigilant Recycler)
+MF Cell, Opt.
 Flamer Fuel
+Flamer Fuel, Homemade
 Flamer Fuel, Home Made
+Fuel, HM
 Flamer Fuel, Optimized
 Flamer Fuel, Optimized (GRA)
+Flamer Fuel, Optimized (Vigilant Recycler)
+Fuel, Opt.
 Electron Charge Pack
 Electron Charge Pack, Over Charge
 Electron Charge Pack, Max Charge
+EC Pack MC
 Electron Charge Pack, Bulk
 Electron Charge Pack, Optimized
+Electron Charge Pack, Optimized (Vigilant Recycler)
+EC Pack, Opt.
 BB
 Nalis
+Flechettes
 Slg
 Silent
 Silenced .22 Pistol
@@ -560,6 +678,7 @@ Red Rock Amphitheatre
 Red Rock Summit
 The Fort Summit
 Dog
+Wasteland Traveler
 NCR Scout
 NCR Deserter
 NCR Recon Unit
@@ -670,6 +789,7 @@ I'll submit to the credit check. <5,000 caps required.>
 I want to buy a passport. <5000 caps required.>
 Let's talk about the creature eggs you need.
 Let's talk about the creature eggs that you need.
+Could you help me craft something?
 I'll look for your men and supplies.
 Thanks, I appreciate it.
 From what I've gathered from NCR rangers, they were most likely taken to Cottonwood Cove. You might start there.
@@ -716,6 +836,8 @@ After I win big, I'm going to buy my friends dinner at that fancy Gor-mant resta
 I can't wait to see the Strip. I hear it's so beautiful!
 Your friend seems too civilized for a place like this.
 New Vegas, paradise, my ass.
+No, not really.
+That's not necessary.
 You were a pilot?
 That's not a good idea.
 Done. Here's the caps.
