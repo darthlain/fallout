@@ -1,65 +1,65 @@
-Sleepytyme
 25mm Grenade APW
-Esther
-Cleansing Flame
-Sprtel-Wood 9700
-MFC Grenade
-Nuka-Grenade
-Tin Grenade
-Paciencia
-Katana
-Fat Mine
-MFC Cluster
-Li'l Devil
-5.56mm Pistol
-Two-Step Goodbye
-Battle Rifle
-Medicine Stick
-Bozar
-Embrace of the Mantis King!
-The Smitty Special
-Nuka-Breaker
-MF Hyperbreeder Alpha
-Time Bomb, High Yield
-Greased Lightning
-Gehenna
-Sleepytyme (GRA)
 25mm Grenade APW (GRA)
+5.56mm Pistol
+5.56mm Pistol (GRA)
+Katana
+Katana (GRA)
+Battle Rifle
+Battle Rifle (GRA)
+Sleepytyme
+Sleepytyme (GRA)
+Esther
 Esther (GRA)
-Cleansing Flame (GRA)
+Gehenna
+Gehenna (GRA)
+Bozar
+Bozar (GRA)
+Medicine Stick
+Medicine Stick (GRA)
+Two-Step Goodbye
+Two-Step Goodbye (GRA)
+Li'l Devil
+Li'l Devil (GRA)
+Nuka-Breaker
+Nuka-Breaker (GRA)
+Embrace of the Mantis King!
+Embrace of the Mantis King! (GRA)
+Paciencia
+Paciencia (GRA)
+MF Hyperbreeder Alpha
+MF Hyperbreeder Alpha (GRA)
+Greased Lightning
+Greased Lightning (GRA)
+The Smitty Special
+The Smitty Special (GRA)
+Sprtel-Wood 9700
 Sprtel-Wood 9700 (GRA)
-MFC Grenade (GRA)
-MFC Grenade (Mad Bomber)
-MFC Grenade (Mad Bomber) (GRA)
-Nuka-Grenade (GRA)
-Nuka-Grenade (Mad Bomber)
-Nuka-Grenade (Mad Bomber) (GRA)
+Cleansing Flame
+Cleansing Flame (GRA)
+Tin Grenade
 Tin Grenade (GRA)
 Tin Grenade (Mad Bomber)
 Tin Grenade (Mad Bomber) (GRA)
-Paciencia (GRA)
-Katana (GRA)
+Nuka-Grenade
+Nuka-Grenade (GRA)
+Nuka-Grenade (Mad Bomber)
+Nuka-Grenade (Mad Bomber) (GRA)
+Fat Mine
 Fat Mine (GRA)
 Fat Mine (Mad Bomber)
 Fat Mine (Mad Bomber) (GRA)
+MFC Grenade
+MFC Grenade (GRA)
+MFC Grenade (Mad Bomber)
+MFC Grenade (Mad Bomber) (GRA)
+MFC Cluster
 MFC Cluster (GRA)
 MFC Cluster (Mad Bomber)
 MFC Cluster (Mad Bomber) (GRA)
-Li'l Devil (GRA)
-5.56mm Pistol (GRA)
-Two-Step Goodbye (GRA)
-Battle Rifle (GRA)
-Medicine Stick (GRA)
-Bozar (GRA)
-Embrace of the Mantis King! (GRA)
-The Smitty Special (GRA)
-Nuka-Breaker (GRA)
-MF Hyperbreeder Alpha (GRA)
+Time Bomb, High Yield
 Time Bomb, High Yield (GRA)
 Time Bomb, High Yield (Mad Bomber)
 Time Bomb, High Yield (Mad Bomber) (GRA)
-Greased Lightning (GRA)
-Gehenna (GRA)
 .357 revolver long barrel
 .357 revolver HD cylinder
 .44 revolver scope
@@ -646,9 +646,13 @@ Silenced .22 SMG
 Silenced 10mm Pistol
 .357 Magnum Revolver
 .44 Magnum Revolver
+Scoped .44 Magnum
 Marksman Carbine
+Gobi Campaign Scout Rifle
 Sawed-Off Shotgun
 AER14 Prototype
+Baseball bat
+Baseball bat (GRA)
 Axe
 Machete
 Throwing Tomahawk
@@ -667,13 +671,13 @@ Dog Stew
 Wasteland Hot Dog
 Pile of Giant Mantis Eggs
 The Ultra-Luxe
-House: Reloading Bench
-Gun Nut ([%])
 The King's School of Impersonation
 Fremont Street
 Freeside Outskirts
 Cottonwood Cove Docks
+Ringo's Caravan
 Primm Encampment
+HELIOS One: Solar Collection Tower
 Red Rock Amphitheatre
 Red Rock Summit
 The Fort Summit
@@ -689,6 +693,7 @@ Legion Hunter
 Legion Prospector
 Great Khan Chem Dealer
 Case Box, .22LR
+House: Reloading Bench
 Box, Pistol Repair Parts
 Box, Rifle Repair Parts
 Box, Wood Repair Sets
@@ -698,14 +703,12 @@ Box, Shotgun Repair Parts
 Box, Energy Pistol Repair Parts
 Box, Light Armor Repair Parts
 Box, Sharpening Sets
-HELIOS One: Solar Collection Tower
 Human Fresh
 Human Flesh
 Super-Mutant
 Hired Hand
 Herding dog
 Mercenary Camp
-Ringo's Caravan
 Challenges
 Next Challenge Type
 Powder Ganger Deputy
@@ -733,7 +736,6 @@ Freeside Gang Leader
 Fabulous New Vegas Sign
 Adventurer's Pack
 HE
-Gun Nut
 Burrow Gang Marksman
 What is your assignment?
 You have no means of transport. Guess you'll have to walk.
@@ -767,12 +769,6 @@ Implant GRX
 Wild Wasteland
 Edit Traits
 Edit Tag Skills
-Req: [%]
-Ranks: 1 [%]
-Ranks: 2 [%]
-Ranks: 3 [%]
-Req: PER < 10  [%]
-Req: AGI < 10  [%]
 Exit
 [%]. Map marker added.
 Later.
@@ -809,6 +805,8 @@ So, got any rocks then? Or other forms of armamament?
 I just hoped a savage - outsider, sorry - would make it to our gates before one of those armies out there comes knocking.
 Raquel could use help with the bug problem, Doc Argyll has wounded he's tending to, and Loyal and Jack might be looking for help with some repairs.
 Or you could just go see Pete at the museum and hear the story of our people. All you have to do there is listen.
+I do believe you've conviced one or two of us that it's better you made it here than were blown to smithereens.
+I see. Well, thank you for trying. I'm off to go see my admirer now.
 Sheesh, You're one ugly sonofabitch!
 If he ain't chiseling behind your back, he just sends his men, ready for a fight. Then you either "sell" your ranch for a penny, or you're dead.
 Ha! Well, you're polite, I'll give you that. If this was just between you and me, I'd do as you ask. But it's not.
@@ -836,6 +834,11 @@ After I win big, I'm going to buy my friends dinner at that fancy Gor-mant resta
 I can't wait to see the Strip. I hear it's so beautiful!
 Your friend seems too civilized for a place like this.
 New Vegas, paradise, my ass.
+Look, Rexie, someone new's come to see us. Poor boy. He hasn't been feeling well lately. I'm the King. What can I do for you?
+Maybe so. Maybe so. You look like you might be able to handle yourself. Tell you what.
+You do me a favor, and I'll have some more work for you when it's done. Sound good?
+You may have noticed that some of those guards out there are Kings, too. I'm just looking out for my men.
+I'm not trying to get some kind of unfair advantage. I just want a level playing field for my boys. So what do you say?
 No, not really.
 That's not necessary.
 You were a pilot?
@@ -1029,5 +1032,9 @@ You sleep deeply no matter where you are. You get the Well Rested benefit of +10
 With the Rad Absorption perk, your radiation level decreases by 1 every 3 seconds.
 Vicious Wastes allows you to play in a new Hardcore mode that will increase the challenge of the game. In this mode, the following effects are active: * Dehydration, Starvation, and Sleep Deprivation are a constant concern. * Stimpaks heal over time and cannot be used to heal limbs. * Rad-Away removes radiation over time. * Sleeping in a bed will not restore your health or limbs. * Ammunition has weight. Would you like to activate Hardcore mode?
 Yes (Recommended)
-Having a high Charisma will improve people's disposition towards you, improving Reputation and making companions more effective while giving bonuses to both the Barter and Speech skills.
+Having a high Charisma will improve people's disposition toward you, improving Reputation and making companions more effective while giving bonuses to both the Barter and Speech skills.
 With the Lead Belly perk, you take 50% less radiation when consuming irradiated food and drink. You are also able to eat raw animal meat without suffering ST loss.
+With the Lead Belly perk, you take 50% less radiation when consuming irradiated food and drink. You are also able to eat raw animal meat without suffering STR loss.
+You're just so excited about plasma that you can't (magnetically) contain yourself! The AP costs for all plasma weapons (including Plasma Grenades) are reduced by 20%. You also attack 20% faster with the same weapons.
+Gun Nut
+Gun Nut ([%])
