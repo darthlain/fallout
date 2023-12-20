@@ -670,6 +670,7 @@ Moonshine
 Dog Stew
 Wasteland Hot Dog
 Pile of Giant Mantis Eggs
+Legion Raid Camp
 The Ultra-Luxe
 The King's School of Impersonation
 Fremont Street
@@ -725,6 +726,7 @@ Abandoned Mine
 Novac Sewer
 Greenblood Caves
 Infested NCR Bunker Lower Level
+Claw Nest
 Cook Cook's Kitchen
 Violet's Trailer Fort
 Nephi's Range
@@ -862,6 +864,10 @@ That was a great speech.
 It was such an honor to be here today. I'm so lucky.
 President Kimball is really well spoken.
 That's a nice suit President Kimball had.
+Maybe they'll let you back in?
+But ghouls are immune to radiation.
+But he isn't feral.
+I could ask you the same thing.
 What can I do for you?
 Okay, I'll do that.
 No, not really.
