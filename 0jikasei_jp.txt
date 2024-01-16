@@ -215,6 +215,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 .308
 .308
 .308
+.308 [%]
 .308 AP
 .308 AP
 .308 AP
@@ -253,6 +254,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 •ª‰ð: .38ƒXƒyƒVƒƒƒ‹
 –òä°: .38ƒXƒyƒVƒƒƒ‹
 .44ƒ}ƒOƒiƒ€
+.44ƒ}ƒOƒiƒ€ [%]
 .44ƒ}ƒOƒiƒ€
 .44ƒ}ƒOƒiƒ€
 .44ƒ}ƒOƒiƒ€ ƒzƒ[ƒ|ƒCƒ“ƒg
@@ -313,6 +315,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 •ª‰ð: .50MG ÄˆÎ’e
 •ª‰ð: .50MG ƒ}ƒbƒ`
 5mm
+5mm [%]
 5mm
 5mm
 5mm AP
@@ -338,6 +341,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 •ª‰ð: 5mm ƒT[ƒvƒ‰ƒX
 •ª‰ð: 5mm JSP
 5.56mm
+5.56mm [%]
 5.56mm
 5.56mm
 5.56mm AP
@@ -367,6 +371,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 •ª‰ð: .223
 –òä°: .223
 9mm
+9mm [%]
 9mm
 9mm
 9mm +P
@@ -388,6 +393,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 •ª‰ð: 9mm ƒzƒ[ƒ|ƒCƒ“ƒg
 •ª‰ð: 9mm JHP
 10mm
+10mm [%]
 10mm
 10mm
 10mm ƒzƒ[ƒ|ƒCƒ“ƒg
@@ -438,6 +444,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 •ª‰ð: .45ƒX[ƒp[
 –òä°: .45ƒI[ƒg
 .32
+.32 [%]
 .32 +P
 12ƒQ[ƒW
 12ƒQ[ƒW
@@ -544,6 +551,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 •ª‰ð: 20ƒQ[ƒW ƒ}ƒOƒiƒ€
 •ª‰ð: 20ƒQ[ƒW ƒpƒ‹ƒXƒXƒ‰ƒO
 –òä°: 20ƒQ[ƒW
+ƒVƒ‡ƒbƒgƒKƒ“EƒVƒFƒ‹ [%]
 25mmƒOƒŒƒl[ƒh
 25mmƒOƒŒƒl[ƒh
 25mmƒOƒŒƒl[ƒh HE
@@ -570,6 +578,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 40mmƒOƒŒƒl[ƒh ƒpƒ‹ƒX
 40mmƒOƒŒƒl[ƒh ƒpƒ‹ƒX
 ƒ~ƒTƒCƒ‹
+ƒ~ƒTƒCƒ‹ [%]
 ƒ~ƒTƒCƒ‹ HE
 ƒ~ƒTƒCƒ‹ HE
 ƒ~ƒTƒCƒ‹ ‚‘¬’e
@@ -586,6 +595,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 ƒƒPƒbƒg ÄˆÎ’e
 •ª‰ð: ƒƒPƒbƒg
 ƒ~ƒjEƒjƒ…[ƒN
+ƒ~ƒjEƒjƒ…[ƒN [%]
 ƒ~ƒjEƒjƒ…[ƒN ƒrƒbƒOƒLƒbƒh
 ƒ~ƒjEƒjƒ…[ƒN ƒrƒbƒOƒLƒbƒh
 ƒ~ƒjEƒjƒ…[ƒN ƒrƒbƒOƒLƒbƒh
@@ -599,6 +609,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 ƒ~ƒjEƒjƒ…[ƒN ŽžŒÀMŠÇ
 ƒ~ƒjEƒjƒ…[ƒN ŽžŒÀMŠÇ
 ƒGƒiƒW[EƒZƒ‹
+ƒGƒiƒW[EƒZƒ‹ [%]
 ƒGƒiƒW[EƒZƒ‹ ƒI[ƒo[ƒ`ƒƒ[ƒW
 ƒGƒiƒW[EƒZƒ‹ ƒI[ƒo[ƒ`ƒƒ[ƒW
 ƒGƒiƒW[EƒZƒ‹ MAXƒ`ƒƒ[ƒW
@@ -610,6 +621,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 ƒGƒiƒW[EƒZƒ‹ Å“K‰»
 ƒGƒiƒW[EƒZƒ‹ Å“K‰»
 ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹
+ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹ [%]
 MFƒZƒ‹
 ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹ ƒI[ƒo[ƒ`ƒƒ[ƒW
 MFƒZƒ‹ ƒI[ƒo[ƒ`ƒƒ[ƒW
@@ -621,6 +633,7 @@ MFƒZƒ‹ ƒoƒ‹ƒN
 ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹ Å“K‰»
 MFƒZƒ‹ Å“K‰»
 ‰Î‰Š•úŽËŠí”R—¿
+‰Î‰Š•úŽËŠí”R—¿ [%]
 ‰Î‰Š•úŽËŠí”R—¿ Ž©‰Æ»
 ‰Î‰Š•úŽËŠí”R—¿ Ž©‰Æ»
 ”R—¿ Ž©‰Æ»
@@ -629,6 +642,7 @@ MFƒZƒ‹ Å“K‰»
 ‰Î‰Š•úŽËŠí”R—¿ Å“K‰»
 ”R—¿ Å“K‰»
 [“dƒpƒbƒN
+[“dƒpƒbƒN [%]
 [“dƒpƒbƒN ƒI[ƒo[ƒ`ƒƒ[ƒW
 [“dƒpƒbƒN MAXƒ`ƒƒ[ƒW
 [“dƒpƒbƒN MAXƒ`ƒƒ[ƒW
@@ -637,8 +651,11 @@ MFƒZƒ‹ Å“K‰»
 [“dƒpƒbƒN Å“K‰»
 [“dƒpƒbƒN Å“K‰»
 BB
+BB [%]
 ƒNƒM
 ƒtƒŒƒVƒFƒbƒg
+ƒŒ[ƒ‹EƒXƒpƒCƒN [%]
+ƒ_[ƒc [%]
 Slg
 Á‰¹
 .22Á‰¹ƒsƒXƒgƒ‹
@@ -684,6 +701,7 @@ AER14ƒvƒƒgƒ^ƒCƒv
 ƒV[ƒU[‚Ìƒeƒ“ƒg
 ƒhƒbƒO
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒh‚Ì—·l
+ƒXƒJƒxƒ“ƒWƒƒ[‚ÌŒ¢
 NCRƒXƒJƒEƒg
 NCR’E‘–•º
 NCR’ãŽ@•º
@@ -773,6 +791,7 @@ Traits‚ðƒGƒfƒBƒbƒg
 ƒ^ƒOƒXƒLƒ‹‚ðƒGƒfƒBƒbƒg
 I—¹
 [%]\nƒ}ƒbƒvƒ}[ƒJ[‚ª’Ç‰Á‚³‚ê‚Ü‚µ‚½
+‰½H
 ‚¶‚á‚ ‚È
 ‘±‚¯‚Ä
 ƒOƒbƒhƒ‰ƒbƒN
@@ -876,6 +895,7 @@ NCR•º’B‚Í‹à‚ð‚à‚ç‚Á‚ÄŒ©‚ÄŒ©‚Ê‚Ó‚è‚ð‚·‚é‚»‚¤‚¾
 ƒpƒCƒƒbƒg‚¾‚Á‚½‚Ì‚©H
 ‚â‚ß‚Ä‚¨‚¯
 Œˆ‚Ü‚è‚¾‚ÈB ‚Ù‚çƒLƒƒƒbƒv‚¾
+‚±‚±‚Å‰½‚ª‹N‚±‚Á‚Ä‚¢‚éH
 •ï‘Ñƒ{ƒbƒNƒX
 ‚Í‚ñ‚¾‚²‚Ä
 ƒOƒŠƒ‹
@@ -1070,3 +1090,17 @@ Lead Belly: RAD‰˜õ‚³‚ê‚½H‚×•¨‚âˆù‚Ý•¨‚ðÚŽí‚·‚éÛ‚ÉŽó‚¯‚éRAD‰˜õ—Ê‚ª50%Œ¸­‚µ‚
 Plasma Spaz: ‚ ‚È‚½‚Íƒvƒ‰ƒYƒ}‚É‹»•±‚µ‚·‚¬‚ÄŽ©•ªŽ©g‚ð—}‚¦‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñI ‘S‚Ä‚Ìƒvƒ‰ƒYƒ}•Ší(ƒOƒŒƒl[ƒh‚ðŠÜ‚Þ)‚ÌUŒ‚‘¬“x‚ª20%‘‰Á‚µ, APÁ”ï—Ê‚ª20%Œ¸­‚µ‚Ü‚·B
 Gun Nut
 Gun Nut ([%])
+Deep Sleep: ‚ ‚È‚½‚Í‚Ç‚±‚Å‚Å‚àn‡‚Å‚«‚Ü‚·B ‚Ç‚Ìƒxƒbƒh‚ÅQ‚Ä‚à8ŽžŠÔ‚É“n‚Á‚Ä+20XPŒø‰Ê‚ÌWellRestedŒø‰Ê‚ð“¾‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+Educated: ƒŒƒxƒ‹‚ªã‚ª‚é‚½‚Ñ‚ÉX‚É2ƒXƒLƒ‹ƒ|ƒCƒ“ƒg‚ðŠl“¾‚Å‚«‚Ü‚·B ‚±‚ÌPerk‚Í‘‚¢’iŠK‚ÅŽæ“¾‚·‚é‚Ì‚ª—Ç‚¢‚Å‚µ‚å‚¤B ‚±‚ÌPerk‚ÍTagI‚Æ•¹—p‚µ‚ÄŽæ“¾‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+Lady Killer: —«‚Ì“G‚É‘Î‚µ‚Ä+5%‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚Ü‚·B í“¬ˆÈŠO‚Å‚ÍAˆÙ«‚ÆŠÖ‚í‚éÛ‚Éƒ†ƒj[ƒN‚È‰ï˜b‘I‘ðŽˆ‚ª’Ç‰Á‚³‚ê‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·B
+Swift Learner: 1ƒ‰ƒ“ƒN‚²‚Æ‚ÉA“¾‚ç‚ê‚éŒoŒ±’l‚Ì—Ê‚É10%’Ç‰Á‚³‚ê‚Ü‚·BNight Person‚Æ‚Ì•¹—p‚Í‚Å‚«‚Ü‚¹‚ñB
+Tag!: 4”Ô–Ú‚Ìƒ^ƒOƒXƒLƒ‹‚ð‘I‘ð‚Å‚«A‘¦À‚É20ƒ|ƒCƒ“ƒgã¸‚µ‚Ü‚·B Educated‚Æ‚Ì•¹—p‚Í‚Å‚«‚Ü‚¹‚ñB
+Daddy's Boy: ‘¸Œh‚µ‚Ä‚¢‚é•ƒ‚Æ“¯‚¶‚æ‚¤‚ÉA‚ ‚È‚½‚à…‚Ìd—v«‚ð—‰ð‚µ‚Ä‚¢‚Ü‚·B ‚·‚×‚Ä‚ÌŽí—Þ‚Ìƒ{ƒgƒ‹“ü‚è‚Ì…‚ÍHP‚ð2”{‰ñ•œ‚µ‚Ü‚·B
+Impartial Meditation: ‚ ‚È‚½‚Í—Í‹­‚¢Œö–¾³‘å‚³‚ðŽ‚Á‚Ä‚¢‚é‚ª‚½‚ß‚É¢ŠE‚ª‚ ‚È‚½‚É“Š‚°‚©‚¯‚é‚à‚Ì‚É’ïR‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B ’†—§‚ÌƒJƒ‹ƒ}‚ðˆÛŽ‚µ‚Ä‚¢‚éŒÀ‚èA‰Î, “Å, •úŽËü‚É‘Î‚·‚é‘Ï«‚ª+15%‘‰Á‚µ‚Ü‚·B
+‚»‚¤‚ËB‚ ‚È‚½‚ð‹^‚¤‚ñ‚¶‚á‚È‚©‚Á‚½‚íI
+—·‚Éo‚½‚¨•ƒ‚³‚ñ‚Å‚µ‚åH@‚¢‚ë‚ñ‚Èl‚Í‚¢‚é‚¯‚ÇA”w’†‚É‘å‚«‚­101‚È‚ñ‚Ä‘‚©‚ê‚½l‚ÍŒ©‚½‚±‚Æ‚È‚¢‚í
+Œ©‚Â‚©‚é‚Æ‚¢‚¢‚í‚ËBƒA[ƒ}[ƒhVaultƒX[ƒc‚ª‚«‚Á‚Æ–ð‚É—§‚Â‚í‚æ
+‚à‚¤”š”­•¨‚Í‚µ‚Î‚ç‚­Œ©‚½‚­‚È‚³‚»‚¤‚¯‚ÇAƒRƒc‚ð‚Â‚©‚ñ‚¾‚Á‚Ä‚Ì‚ÍŠm‚©‚Ý‚½‚¢‚ËB‚¢‚´‚Á‚Ä‚Æ‚«‚Ì‚½‚ß‚É¬‚³‚ÈƒIƒ‚ƒ`ƒƒ‚ð‚ ‚°‚é‚í
+‚±‚Ì’n—‹‚ðŒ©‚Ä‚é‚ÆAƒAƒCƒfƒA‚ª•‚‚©‚Ô‚íB‚à‚¿‚ë‚ñA‚Ð‚Ç‚¢‚±‚Æ‚ð‚·‚é‚½‚ß‚Ì‘•’u‚¾‚Á‚Ä‚í‚©‚Á‚Ä‚é‚¯‚ÇAŽ©•ª—p‚Éì‚é‚Ì‚àŠÈ’P‚»‚¤‚Ë
+•Ší‚ðŽ‚Á‚Ä‚¢‚é‚Ì‚©H@Žæˆø‚·‚é‚©H
+•ñV‚ª—~‚µ‚¢‚ñ‚¾‚ÈA‚¾‚ëB‚»‚ê‚¾‚¯‚ÌŽdŽ–‚Í‚µ‚½‚æ‚È
