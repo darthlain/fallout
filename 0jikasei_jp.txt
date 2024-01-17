@@ -654,6 +654,7 @@ BB
 BB [%]
 ƒNƒM
 ƒtƒŒƒVƒFƒbƒg
+ƒGƒCƒŠƒAƒ“Eƒpƒ[ƒZƒ‹ [%]
 ƒŒ[ƒ‹EƒXƒpƒCƒN [%]
 ƒ_[ƒc [%]
 Slg
@@ -737,6 +738,11 @@ NCRŠÏŒõ‹q
 ƒ^ƒoƒRƒpƒbƒN
 —â‚¦‚½ƒkƒJEƒR[ƒ‰
 ƒ~ƒ‹ƒNƒ{ƒgƒ‹
+ƒtƒŒƒ“ƒhƒVƒbƒvEƒƒgƒŒö‹¤ƒQ[ƒg‚ÌƒJƒM
+”Ž•¨ŠÙƒKƒ“ƒƒbƒJ[‚ÌƒJƒM
+ƒƒVƒ“ƒgƒ“‹L”O”èƒZƒLƒ…ƒŠƒeƒBƒ^[ƒ~ƒiƒ‹
+ƒMƒƒƒ‰ƒNƒV[Eƒjƒ…[ƒXEƒ‰ƒWƒI
+ƒgƒ‰ƒ“ƒLƒ‹EƒŒ[ƒ“
 •s–@è‹’ŽÒ‚ÌƒLƒƒƒ“ƒv
 ƒoƒCƒp[‚ÌƒLƒƒƒ“ƒv
 ƒoƒCƒp[‚ÌƒAƒWƒg
@@ -1016,6 +1022,7 @@ Magnetic Personality: ƒJƒŠƒXƒ}‚ª“’…‚Ì”@‚­ˆì‚êo‚éI ‚ ‚È‚½‚Í‚Æ‚Ä‚àƒ‚ƒe‚é‚Ì‚ÅAƒ
 ‡–°•s‘«‚ª‰ðÁ‚³‚ê‚Ü‚µ‚½B
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒ_[‚ÌŽ€‘Ì
 ƒŒƒCƒ_[‚ÌŽ€‘Ì
+ƒ‚[ƒ‹ƒ‰ƒbƒg‚ÌŽ€‘Ì
 ƒWƒƒƒCƒAƒ“ƒgƒAƒ“ƒg‚ÌŽ€‘Ì
 ƒJƒTƒhƒŒƒX‚ÌŽ€‘Ì
 ’¼‚µ‚½‚¢•”ˆÊ‚ð‘I‘ð‚µ‚Ä‚­‚¾‚³‚¢B
@@ -1104,3 +1111,30 @@ Impartial Meditation: ‚ ‚È‚½‚Í—Í‹­‚¢Œö–¾³‘å‚³‚ðŽ‚Á‚Ä‚¢‚é‚ª‚½‚ß‚É¢ŠE‚ª‚ ‚È‚½‚É
 ‚±‚Ì’n—‹‚ðŒ©‚Ä‚é‚ÆAƒAƒCƒfƒA‚ª•‚‚©‚Ô‚íB‚à‚¿‚ë‚ñA‚Ð‚Ç‚¢‚±‚Æ‚ð‚·‚é‚½‚ß‚Ì‘•’u‚¾‚Á‚Ä‚í‚©‚Á‚Ä‚é‚¯‚ÇAŽ©•ª—p‚Éì‚é‚Ì‚àŠÈ’P‚»‚¤‚Ë
 •Ší‚ðŽ‚Á‚Ä‚¢‚é‚Ì‚©H@Žæˆø‚·‚é‚©H
 •ñV‚ª—~‚µ‚¢‚ñ‚¾‚ÈA‚¾‚ëB‚»‚ê‚¾‚¯‚ÌŽdŽ–‚Í‚µ‚½‚æ‚È
+ŽûŠn•i‚Í‚Æ‚Á‚Ä‚¨‚¢‚ÄB‚ ‚½‚µ‚Í‚¿‚å‚¤‚ÇH—Æ‚ð‘å—Ê‚ÉŽd“ü‚ê‚½‚Æ‚±‚ë‚È‚Ì
+‚±‚êA‚ ‚°‚é‚íB­‚µ‚·‚é‚ÆŠï–­‚È–¡‚É‚È‚é‚í
+Žè‰º‚Éƒ~ƒŒƒ‹[ƒN‚ð•ß‚Ü‚¦‚³‚¹‚Ä‚¢‚é‚Ì‚³BÅ‚‚Ì“÷‚¾‚µAƒ‚[ƒ‹ƒ‰ƒbƒg‚Ì“÷‚Æˆá‚Á‚Ä• ‚Ì’†‚Å“®‚«‰ñ‚ç‚È‚¢‚©‚ç‚Ë‚¦
+‚»‚ê‚¾‚¯ŽÀŒ±‚µ‚½‚ñ‚¾‚©‚çA‰ü‘P‚Ì—]’n‚Í‚È‚³‚»‚¤‚ËB‚à‚¤‚ ‚°‚é‚íB‚ ‚È‚½‚È‚ç‰½‚©‚¢‚¢Žg‚¢•û‚ðŽv‚¢‚Â‚­‚Å‚µ‚åH
+B.O.S.‚Í—DG‚æA‚½‚¾A‚½‚Ü‚É–Ê“|‚È‚±‚Æ‚à‚ ‚Á‚Äc@“ÁŽê‚È‚ËB‚»‚¤‚¢‚¤‚Æ‚«‚ÍƒŠƒIƒ“ƒYƒvƒ‰ƒCƒh‚ªŠÖ—^‚·‚é‚Ì‚æ
+Pip-Boy‚ÍŽ‚Á‚Ä‚é‚ñ‚¾‚ë‚¤BƒMƒƒƒ‰ƒNƒV[Eƒjƒ…[ƒXEƒ‰ƒWƒI‚É‡‚í‚¹‚Ä‚Ý‚ÈBƒLƒƒƒsƒ^ƒ‹EƒEƒFƒCƒXƒgƒ‰ƒ“ƒh‚Å—BˆêA^ŽÀ‚ð•ñ“¹‚·‚éƒ‰ƒWƒI‹Ç‚¾
+ƒMƒƒƒ‰ƒNƒV[Eƒjƒ…[ƒXEƒ‰ƒWƒI‚ÍA‰´‚ÌŽq‹Ÿ‚Ý‚½‚¢‚È‚à‚ñ‚¾Bˆ¤‚ÆAHŽ–‚ÆA•Ï‰»‚ð—^‚¦‚½B–â‘è‚ÍAŽñ“s‚ÌŠO‚Ü‚Å‚Íº‚ª“Í‚©‚È‚¢‚Á‚Ä‚±‚Æ‚³
+‹Zp”Ž•¨ŠÙ‚É‚ ‚éŒÃ‚¢ŒŽ’…—¤‘Dƒ”ƒ@ƒ‹ƒSII‚ÌƒAƒ“ƒeƒi‚ðŠO‚·‚ñ‚¾
+ŠX‚Ì‹«ŠEü‚ð‰z‚¦‚ÄAƒXƒl[ƒNƒVƒeƒB‚É“ü‚Á‚½‚çc@ŽG‰¹‚µ‚©•·‚±‚¦‚È‚¢
+Dr.ƒŠ[‚Ìƒ‰ƒ{‚Í‚Ç‚±‚¾H
+Dr.ƒ}ƒWƒ\ƒ“EƒŠ[‚æB‚¸‚Á‚ÆÌA‚ ‚È‚½‚Ì•ƒe‚Æ“­‚¢‚Ä‚¢‚½‚ÌB‚»‚ê‚Æ•êe‚à‚Ë
+˜A–MŽ©‘Ì‚Íí‘ˆ‚År”p‚µ‚½‚½‚¾‚Ì–\—Í‚Æâ–]‚Ì“DÀ‚É‰ß‚¬‚È‚¢‚æB‚¾‚ªŠu—£‚³‚ê‚½ŠÂ‹«‚É‚ ‚é"ƒCƒ“ƒXƒeƒBƒ`ƒ…[ƒg"‚Ì“à•”‚Íc
+‚¾‚ªƒCƒ“ƒXƒeƒBƒ`ƒ…[ƒg‚Ì–â‘è‚ÍAŒN‚ª‹C‚É‚·‚é•K—v‚Í‚È‚¢B‚Ü‚ ŒN‚Ì–¢n‚ÈS‚Å‚ÍA‰äX‚ª’B¬‚µ‚½‚±‚Æ‚ð—‰ð‚·‚é‚±‚Æ‚ào—ˆ‚È‚¢‚¾‚ë‚¤‚ª‚È
+‚È‚ñ‚Ä‚±‚Á‚½B‚¨c@Žv‚¢o‚µ‚½B‘S•”Žv‚¢o‚µ‚½‚ºBÌ‚Ì‚±‚ÆAƒWƒ}[A˜A–MAƒCƒ“ƒXƒeƒBƒ`ƒ…[ƒgB‚È‚ñ‚Æ‚¢‚¤c@‚ ‚Ì“¦–SŽÒ‚Í‚Ý‚ñ‚ÈŽ„‚ªŽE‚µ‚½c
+‚ ‚éƒzƒƒe[ƒv‚ªo‰ñ‚Á‚½‚ñ‚¾‚ªƒRƒs[‚ª‚ ‚é‚Í‚¸‚¾c
+‚ ‚ A‚ ‚Á‚½‚¼B•·‚¢‚Ä‚Ý‚ëBlŠÔ‚Ìº‚¾I@‚â‚Á‚Ï‚èƒfƒ}‚¾I
+‘S‚­‚Ì‚Å‚½‚ç‚ß‚Á‚ÄŒ¾‚¤l‚à‚¢‚é‚¯‚ÇA‚Å‚à–{“–‚æ
+‚Ù‚çA‚±‚Ìƒzƒƒe[ƒv‚ðŒ©‚Â‚¯‚½‚ÌB˜A–M‚Ìƒƒ{ƒbƒg‚Ì˜b‚Í–{“–‚¾‚Á‚½‚Ì‚æI
+æ‚Ö‚¨i‚Ý‚É‚È‚é‘O‚ÉVault-Tec‚ÌVaultƒX[ƒc‚É‚¨’…‘Ö‚¦‚­‚¾‚³‚¢
+‹ŒƒWƒFƒtƒ@[ƒ\ƒ“‹L”OŠÙ‚ð‚»‚ÌÝ’uêŠ‚É‘I‚ñ‚¾AD.C.‚Ìƒ^ƒCƒ_ƒ‹ƒxƒCƒXƒ“‚Ì‚·‚®‘¤‚Ì‚ÈB‚»‚¤‰“‚­‚È‚¢‚¤‚¿‚ÉA‚¨‚Ü‚¦‚Ì‘O‚ÅŽÀŒ»‚³‚¹‚½‚¢‚æ
+‚¾‚©‚ç‚±‚»‚Å‚«‚é‚¾‚¯‘‚­G.E.C.K.‚ðŒ©‚Â‚¯‚é‚Ì‚ªd—v‚È‚ñ‚¾Bò‰»ƒvƒƒWƒFƒNƒg‚ÌƒJƒM‚¾‚©‚ç‚È
+ŠX‚Í‚»‚ê‚Ü‚Å‚É‚àƒ~ƒ…[ƒ^ƒ“ƒg–â‘è‚ð•ø‚¦‚Ä‚Í‚¢‚½‚ñ‚¾‚ªA‚»‚ê‚ªˆ«‰»‚µ‚½‚ñ‚¾BUŒ‚‚Ì•p“x‚ª‘‚¦‚ÄA‹¥–\«‚à‘‚µ‚½‚Ì‚³
+‹C‚ð‚Â‚¯‚ë‚æ
+‚â‚ ƒXƒgƒŒƒ“ƒWƒƒ[BƒEƒFƒCƒXƒgƒ‰ƒ“ƒh‚ÌD.C.‚Åƒƒ{ƒbƒgƒp[ƒc‚Ì”Ì”„ƒT[ƒrƒX‚ðÅ‰‚ÉŽn‚ß‚½A‚È‚ñ‚Å‚à‰®‚ÌƒWƒ‡[‚¾
+‚â‚Þ‚ð“¾‚È‚¢‚È
+ƒWƒF[ƒ€ƒXA­‚µ‚àî”M‚ðŽ¸‚Á‚Ä‚È‚¢‚Ì‚ËI
+‰´‚É‚Æ‚Á‚Ä‚Í¡‚à•Ï‚í‚ç‚¸‘åŽ–‚È‚±‚Æ‚¾Aƒ}ƒWƒ\ƒ“BŒN‚É‚Æ‚Á‚Ä‚à‚»‚¤‚¾‚ëH@ˆê‚ÉŠ®¬‚³‚¹‚æ‚¤

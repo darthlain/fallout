@@ -654,6 +654,7 @@ BB
 BB [%]
 Nalis
 Flechettes
+Alien Power Cell [%]
 Railway Spikes [%]
 Dart [%]
 Slg
@@ -737,6 +738,11 @@ Cigarette
 Pack of Cigarettes
 Nuka-Cola Ice Cold
 Empty Milk Bottle
+Friendship Metro Utility Gate Key
+Museum Gun Locker Key
+Washington Monument Security Terminal
+Galaxy News Radio
+Tranquility Lane
 Squatter's Encampment
 Highway 95 Viper's Encampment
 Vipers' Lair
@@ -1016,6 +1022,7 @@ Your Sleep Deprivation level has decreased.
 You no longer have Sleep Deprivation sickness.
 Dead Wastelander
 Dead Raider
+Dead Mole Rat
 Dead Giant Ant
 Dead Cazador
 Which limb would you like to heal?
@@ -1104,3 +1111,30 @@ I know you may not want to see any more explosives for a while, but obviously yo
 Have a couple rainy-day toys of mine. And looking at this landmine, it gives me an idea. It's a terrible device that does terrible things, of course. But it's easy to make your own, too.
 You got an armament supply? Want to do some trading?
 You'll be wanting the reward now, won't you. I suppose you've earned it.
+Well, keep what you got. Just traded for a big food shipment, myself.
+Here, take a bit, my treat - they taste kind of grates after a while.
+My boys are huntin' 'Lurks. Finest meat you can get, but it don't move around in your stomach like Mole Rat does.
+With that much testing, I guess it's beyond correction. Oh, Go ahead and keep it. Maybe you can find a nicer use for it. But I doubt it.
+The Brotherhood does its best, but sometimes it takes a little something... special. That's where the Lyons' Pride comes in.
+You got a Pip-Boy. Tune into Galaxy News Radio and listen. It's the only radio station in the Capital Wasteland that really tells it like it is.
+Galaxy News Radio is my baby. I love it, I feed it, I keep it changed. But there's one problem, no one outside of D.C. can hear her cry.
+It's the dish off the old Virgo II Lunar Lander in the Museum of Technology.
+Step outside the city limits, and it's snake city... nothing but "hissssssss."
+Where's Doctor Li's lab?
+I'm Doctor Madison Li. I worked with your father many years ago. Your mother as well, in fact.
+The Commonwealth itself is nothing but a war-ravaged quagmire of violence and despair. Inside the sealed environment of the Institute, however...
+But... the Institute's affairs are none of your concern. Your undeveloped mind couldn’t even begin to comprehend what we’ve accomplished.
+My God, I... I remember. I remember it all. From before. Zimmer. The Commonwealth. The Institute. My God, all those runners I brought down...
+There was a holotape that got circulated. I think I've got a copy of it...
+Yeah, here it is. Give it a listen. That's a man's voice! Hoax for sure!
+Some say it was all a hoax. But it's real.
+Here. Check out this holotape I found. That Commonwealth robot was real!
+Please re-dress in your Vault-Tec issued Vault suit before proceeding.
+We used the old Jefferson Memorial for the location, right on D.C.'s Tidal Basin. Someday soon, I hope you'll see it work.
+That's why it's so important to find a G.E.C.K. as soon as possible. It's the key to Project Purity.
+There had always been something of a "mutants problem" in the city, but it became worse. They attacked more frequently, and more aggressively.
+Be careful, my son.
+Hello, stranger. I'm Tinker Joe, premier supplier of robotic parts and service throughout the D.C. Wasteland.
+I didn't want to have to do this...
+You haven't lost any of your passion, have you James?
+It's as important to me as ever, Madison. I know it's important to you too. Let's finish it together.
