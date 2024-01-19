@@ -743,6 +743,7 @@ Museum Gun Locker Key
 Washington Monument Security Terminal
 Galaxy News Radio
 Tranquility Lane
+Oasis
 Squatter's Encampment
 Highway 95 Viper's Encampment
 Vipers' Lair
@@ -1021,9 +1022,11 @@ Your Sleep Deprivation level has increased.
 Your Sleep Deprivation level has decreased.
 You no longer have Sleep Deprivation sickness.
 Dead Wastelander
+Dead Mercenary
 Dead Raider
 Dead Mole Rat
 Dead Giant Ant
+Dead Mirelurk
 Dead Cazador
 Which limb would you like to heal?
 All
@@ -1138,3 +1141,41 @@ Hello, stranger. I'm Tinker Joe, premier supplier of robotic parts and service t
 I didn't want to have to do this...
 You haven't lost any of your passion, have you James?
 It's as important to me as ever, Madison. I know it's important to you too. Let's finish it together.
+With the fuses in place, you should be able to access the mainframe. No need to come back to the control room; just head straight there.
+Everyone, listen; it seems we have some visitors. I don't know who they are or what they want.
+I'd like to thank you all for returning to this project after so many years. I know some of you thought; like me, that this day would never come.
+I'm sorry, but that's...
+What? What are you talking about? That doesn't even make sense...
+James... Your father caused an overload. He sacrificed himself to keep the Enclave from getting the purifier, and to buy us some time to escape.
+In all that time, all we've managed to do is to contain the threat. Hold them back, so they don't overrun every blasted settlement out here.
+Initiate! You've got a lot of nerve interrupt... Oh, my apologies, stranger. I thought you were one of these worthless Initiates.
+Perk Added
+Why do you think I ride these Initiates so hard? I make training hell so fighting those Uglies won't be.
+It is the Scribes, the Scribes who make the Brotherhood what it truly is! The brawn is useless without the brain, hmm? He he he.
+How about we skip the story and you just tell me what you want?
+Does it involve caps? I really like caps. Like, a lot.
+As long as there's caps involved, I'm in. Mmmm.... caps.
+Caps and the promise of mysterious compensation? I'm in.
+Oh, you. Of course we are. And I think I'm really capturing that snide wit of yours. So, for all your snippiness, I think it'll help with the book.
+We're in the last stretch, now, so let's finish it up strong! What's first?
+Ah, I do love meetings so much. I think I'll bring muffins!
+Look, I know I've asked a lot of you already, but you have to find that kid... he deserves better than all this.
+You're not... not here to try and steal my secrets are you?
+My oh my, that would be tempting. If you were that good, maybe I'd pay you! Ha ha ha.
+But don't tell Vance I said that.
+If you wish to speak to Ian, you are free to do so.
+Even if all of us look different on the outside, we all have had the same vice infesting our insides.
+I'm afraid Vance has him in isolation and there's no way I'm going to override Vance's orders.
+I've tried to use it to get whatever I need, but I've never gotten a reply.
+As promised, here's the key to the ammunition box. It's right under the radio table.
+Yes, I'd imagine it would fetch an incredible sum of caps to someone that was knowledgeable in muscial history.
+I doubt the average merchant would even realize what they're holding.
+The, um... Mechanist and the AntAgonizer. That's just what they call themselves. It's ridiculous, I know...
+You mean Scott Wollinski. I refuse to call him by that ridiculous name just because his head got a screw loose.
+Just stumbled into town? You sure picked a fine day for it, with the crazies out there.
+Here, have a drink on the house. Welcome to Canterbury.
+Oh man! Did you see it? Did you see it? The AntAgonizer was all like, "Fear me!" But the Mechanist was all, "Stop, evil-doer!"
+Ever since then, he's been up on his Forge in the back of the robot shop on the hill, working to protect us all from the AntAgonizer!
+I've never been anywhere else, so I can't really say, but yeah it's okay.
+The Mechanist used to be our town mechanic. Scott Wollinski, quiet guy, but plenty fierce with a wrench and some solder.
+Well, the world broke just like the glass. And everyone's trying to put it back together like it was, but it'll never come together the same way.
