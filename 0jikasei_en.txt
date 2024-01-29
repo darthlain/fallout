@@ -675,6 +675,7 @@ Axe
 Machete
 Throwing Tomahawk
 Frag Grenade
+Star Paladin Cross' Laser Pistol
 Regulator Combat Armor, Reinforced
 Commando Armor, Reinforced
 Salvaged Power Armor
@@ -703,6 +704,7 @@ The Fort Summit
 Dog
 Wasteland Traveler
 Scavenger's Dog
+Hunter's Dog
 NCR Scout
 NCR Deserter
 NCR Recon Unit
@@ -740,6 +742,9 @@ Nuka-Cola Ice Cold
 Empty Milk Bottle
 Friendship Metro Utility Gate Key
 Museum Gun Locker Key
+Evergreen Mills Storage Room Key
+Smiling Jack's Vendor Key
+Madam's Key
 Washington Monument Security Terminal
 Galaxy News Radio
 Tranquility Lane
@@ -755,6 +760,8 @@ Claw Nest
 Cook Cook's Kitchen
 Violet's Trailer Fort
 Nephi's Range
+Scorpion Nest
+Companion Dismissal Terminal
 Vance's Gun
 My Little Friend
 Shane's Bane
@@ -806,6 +813,8 @@ Take care.
 Let's do this.
 All right, then.
 I'll be waiting.
+Yeah? What do you want?
+Not anymore?
 Report to Ranger Grant.
 I'll submit to the credit check. <5000 caps required>
 I'll submit to the credit check. <5000 caps required.>
@@ -903,6 +912,15 @@ You were a pilot?
 That's not a good idea.
 Done. Here's the caps.
 What's going on around here?
+Mind yourself on the plank going down.
+Yeah! Who won the lottery? I did!
+Smell that air! Couldn't ya just drink it like booze!
+What lottery? The lottery, that's what lottery! Are you stupid?
+Only lottery that matters! Oh my God, smell that air!
+Powder Ganger? What? I mean, yeah, used to be, sure!
+But not no more! Powder Gang is small-time, man! I'm a winner! I won the motherfuncing lottery!
+Stop bothering me, will ya! I won the fucking lottery!
+How me help you?
 Box of Bandages
 Soldering Iron
 Grill
@@ -945,6 +963,7 @@ The Flamer that burns twice as bright burns half as long. All weapons have +3% c
 Perception affects your accuracy with ranged weapons. A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills.
 Charisma determines the size of your Party and companion Nerve. Having high Charisma improves people's disposition toward you, and give bonuses to both the Barter and Speech skills.
 Agility affects your Guns and Sneak skills. It also determines your reload speed, movement speed, and the number of Action Points available for V.A.T.S.
+Agility affects your Guns and Sneak skills, how long you can sprint, and the number of Action Points available for V.A.T.S.
 The Survival skill increases the bonuses and healing received from food and drink. It also helps you create consumable items at campfires.
 While using Guns and Energy Weapons, you fire 20% more quickly and AP costs are 20% lower, but your shots are 20% less accurate.
 You gain +15 lbs. to your carrying capacity, but suffer a -1 to all attributes any time the weight you're carrying drops below 75 lbs.
@@ -986,6 +1005,11 @@ Your storied past has fallen from memory 'cause everyone  thought you died. Your
 For each crippled limb you have, you do an additional 10% damage.
 Your extensive familiarity with Explosives allows you to ignore a portion of their damage. Your Damage Threshold is increased by 25 against any and all Explosives -- even your own.
 Your attacks show a lot of finesse. You have an additional 5% chance of inflicting critical hits, but you also deal 15% less damage overall.
+In combat, you do +15% damage against female opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the same sex.
+With each rank of this perk, all of your Explosives weapons do an additional 10% damage and have 10% larger area of effect.
+You do 20% more damage when using any revolver, lever-action firearm, dynamite, knife, or hatchet.
+You gain + 10 Damage Threshold against all Melee Weapons and Unarmed attacks and cannot be knocked down in combat.
+With the Strong Back perk, you can carry 25 more pounds of equipment.
 Cass wants you to supply a dozen bottles of whiskey for her Whiskey Challenge, after which she'll try to drink you under the table.
 Your Medicine skill has been permanently increased by 5 points.
 The Medicine skill determines how many Hit Points you'll replenish upon using a Stimpak, and the effectiveness of Rad-X, RadAway, and more.
@@ -1179,3 +1203,7 @@ Ever since then, he's been up on his Forge in the back of the robot shop on the 
 I've never been anywhere else, so I can't really say, but yeah it's okay.
 The Mechanist used to be our town mechanic. Scott Wollinski, quiet guy, but plenty fierce with a wrench and some solder.
 Well, the world broke just like the glass. And everyone's trying to put it back together like it was, but it'll never come together the same way.
+Alright sure, why not. The people have a tendency to wait until the last minute to vote, but I'd like just to get it over with.
+Never mind. Just thought I'd ask.
+So, what are the results?
+Can you believe that you won the election?

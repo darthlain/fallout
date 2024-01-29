@@ -675,6 +675,7 @@ AER14ƒvƒƒgƒ^ƒCƒv
 ƒ}ƒ`ƒFƒbƒg
 ƒgƒ}ƒz[ƒN
 ƒtƒ‰ƒOƒOƒŒƒl[ƒh
+ƒXƒ^[ƒpƒ‰ƒfƒBƒ“EƒNƒƒX‚ÌƒŒ[ƒU[ƒsƒXƒgƒ‹
 ƒŒƒMƒ…ƒŒ[ƒ^[‚Ì‹­‰»ƒRƒ“ƒoƒbƒgƒA[ƒ}[
 ‹­‰»ƒRƒ}ƒ“ƒhƒA[ƒ}[
 ƒTƒ‹ƒx[ƒWƒpƒ[ƒA[ƒ}[
@@ -703,6 +704,7 @@ AER14ƒvƒƒgƒ^ƒCƒv
 ƒhƒbƒO
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒh‚Ì—·l
 ƒXƒJƒxƒ“ƒWƒƒ[‚ÌŒ¢
+ƒnƒ“ƒ^[‚ÌŒ¢
 NCRƒXƒJƒEƒg
 NCR’E‘–•º
 NCR’ãŽ@•º
@@ -740,6 +742,9 @@ NCRŠÏŒõ‹q
 ƒ~ƒ‹ƒNƒ{ƒgƒ‹
 ƒtƒŒƒ“ƒhƒVƒbƒvEƒƒgƒŒö‹¤ƒQ[ƒg‚ÌƒJƒM
 ”Ž•¨ŠÙƒKƒ“ƒƒbƒJ[‚ÌƒJƒM
+ƒGƒo[ƒOƒŠ[ƒ“Eƒ~ƒ‹ƒY•ÛŠÇŒÉ‚ÌƒJƒM
+ƒXƒ}ƒCƒŠƒ“ƒOEƒWƒƒƒbƒN‚ÌƒƒbƒJ[‚ÌƒJƒM
+ƒ}ƒ_ƒ€‚ÌƒJƒM
 ƒƒVƒ“ƒgƒ“‹L”O”èƒZƒLƒ…ƒŠƒeƒBƒ^[ƒ~ƒiƒ‹
 ƒMƒƒƒ‰ƒNƒV[Eƒjƒ…[ƒXEƒ‰ƒWƒI
 ƒgƒ‰ƒ“ƒLƒ‹EƒŒ[ƒ“
@@ -755,6 +760,8 @@ NCRŠÏŒõ‹q
 ƒNƒbƒNEƒNƒbƒN‚ÌƒLƒbƒ`ƒ“
 ƒoƒCƒIƒŒƒbƒg‚ÌƒgƒŒ[ƒ‰[EƒtƒH[ƒg
 ƒlƒtƒB[‚Ì“ê’£‚è
+ƒXƒRƒ‹ƒsƒIƒ“‚Ì‘ƒ
+ƒRƒ“ƒpƒjƒIƒ“‰ðŽUƒ^[ƒ~ƒiƒ‹
 ƒ”ƒ@ƒ“ƒX‚Ìe
 ƒŠƒgƒ‹ƒtƒŒƒ“ƒh
 ƒVƒF[ƒ“EƒxƒCƒ“
@@ -806,6 +813,8 @@ Traits‚ðƒGƒfƒBƒbƒg
 ‚³‚ s‚±‚¤
 ‚í‚©‚Á‚½
 ‘Ò‚Á‚Ä‚é
+‚ ‚ H ‚È‚É‚©—p‚©H
+‚»‚ê‚¾‚¯‚©H
 ƒŒƒ“ƒWƒƒ[EƒOƒ‰ƒ“ƒg‚É‰ï‚¤
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
@@ -903,6 +912,15 @@ NCR•º’B‚Í‹à‚ð‚à‚ç‚Á‚ÄŒ©‚ÄŒ©‚Ê‚Ó‚è‚ð‚·‚é‚»‚¤‚¾
 ‚â‚ß‚Ä‚¨‚¯
 Œˆ‚Ü‚è‚¾‚ÈB ‚Ù‚çƒLƒƒƒbƒv‚¾
 ‚±‚±‚Å‰½‚ª‹N‚±‚Á‚Ä‚¢‚éH
+~‚è‚é‚Æ‚«‚Í‹C‚ð‚Â‚¯‚Ä
+ƒCƒFƒA[I ’N‚ª‚­‚¶‚É“–‘I‚µ‚½‚©‚Á‚ÄH ‰´‚¾‚æI
+‹ó‹C‚ð‹z‚Á‚Ä‚Ý‚ëI Žð‚ð—‚Ñ‚é‚æ‚¤‚É‹z‚¦‚Î‚¢‚¢‚¶‚á‚È‚¢‚©IH
+‚È‚ñ‚Ì‚­‚¶H ‚­‚¶B ‚ ‚Ì‚­‚¶‚¾‚æI ƒoƒJ‚¶‚á‚Ë‚¦‚©IH
+–â‘è‚È‚Ì‚Í‚­‚¶‚¾‚¯‚¾I ƒI[ƒ}ƒCƒK[B ‹ó‹C‚ð‹z‚Á‚Ä‚Ý‚ëI
+‰½‚¾‚Á‚ÄH ‚Ï‚¤‚¾[‚¬‚á‚ñ‚®cH ‚ ‚ A‚½‚µ‚©ˆÈ‘O‚Í‚»‚¤‚¾‚Á‚½‚ÈI
+‚¾‚ª‚à‚¤ˆá‚¤I ƒpƒEƒ_[ƒMƒƒƒ“ƒO‚È‚ñ‚ÄŽæ‚é‚É‘«‚ç‚È‚¢‘¶Ý‚¾I ‰´‚Í“–‘IŽÒ‚¾I ƒNƒ\Å’á‚Ì‚­‚¶‚Ì‚ÈI
+Ž×–‚‚·‚é‚Ì‚Í‚â‚ß‚ëI ‰´‚Í“–‘IŽÒ‚¾‚¼I
+‰½‚ð‚·‚ê‚Î‚¢‚¢H
 •ï‘Ñƒ{ƒbƒNƒX
 ‚Í‚ñ‚¾‚²‚Ä
 ƒOƒŠƒ‹
@@ -945,6 +963,7 @@ Built to Destroy: 2”{‚ÌŒõ‚ð•ú‚Â‰Š‚Í2”{‚Ì‘¬‚³‚Å”R‚¦s‚«‚éB ƒNƒŠƒeƒBƒJƒ‹ƒqƒbƒg‚ÌŠ
 Perception‚Í‰“Šu•Ší‚Ì–½’†¸“x‚É‰e‹¿‚µ‚Ü‚·B Explosives, Lockpick, Energy WeaponsƒXƒLƒ‹‚Éƒ{[ƒiƒX‚ª•t‚«‚Ü‚·B
 Charisma‚ÍƒRƒ“ƒpƒjƒIƒ“‚Ì“¯sl”‚ÆŽm‹C‚É‰e‹¿‚µ‚Ü‚·B ‚‚¢‚Ù‚ÇlX‚Ì‚ ‚È‚½‚É‘Î‚·‚éDŠ´“x‚ªã‚ª‚è, Barter‚ÆSpeech‚Éƒ{[ƒiƒX‚ª•t‚«‚Ü‚·B
 Agility‚ÍƒŠƒ[ƒh‚ÆˆÚ“®‚Ì‘¬“x, AP‚ÌÅ‘å’l‚É‰e‹¿‚µ‚Ü‚·B Guns, Sneak‚Éƒ{[ƒiƒX‚ª•t‚«‚Ü‚·B
+Agility‚ÍGuns‚ÆSneakƒXƒLƒ‹, ƒXƒvƒŠƒ“ƒg‚Å‚«‚éŽžŠÔ, V.A.T.S.‚Å—˜—p‚Å‚«‚éAP‚Ì—Ê‚É‰e‹¿‚µ‚Ü‚·
 Survival: ˆùH‚Å“¾‚ç‚ê‚éŒø‰Ê‚ð‘‰Á‚µ‚Ü‚·B ‚Ü‚½ƒLƒƒƒ“ƒvƒtƒ@ƒCƒA‚ÅÁ–ÕƒAƒCƒeƒ€‚ðì¬‚·‚é‚Ì‚É•K—v‚Å‚·B
 Fast Shot: Guns‚ÆEnergy Weapons•Ší‚ÌŽg—p’†, •Ší‚Ì˜AŽË‘¬“x‚ª20%ã‚ª‚èAPƒRƒXƒg‚ª20%‰º‚ª‚è‚Ü‚·B ‚µ‚©‚µ–½’†¸“x‚Í20%—Ž‚¿‚Ä‚µ‚Ü‚¢‚Ü‚·B
 Hoarder: Œgsd—Ê‚ª+15‘‰Á‚µ‚Ü‚·‚ª, 75‚ð‰º‰ñ‚é‚Æ‘S‚Ä‚ÌSpecial‚ª-1‚É‚È‚Á‚Ä‚µ‚Ü‚¢‚Ü‚·B
@@ -986,6 +1005,11 @@ Thought You Died: lX‚Í‚ ‚È‚½‚ªŽ€‚ñ‚¾‚Æl‚¦, ‚ ‚È‚½‚Ì‰ß‹Ž‚Í–Y‚ê‹Ž‚ç‚ê‚Ü‚µ‚½BƒJ
 Eye For Eye: ‚ ‚È‚½‚ÌdÇ‚ð•‰‚Á‚½Žè‘«1‚Â‚É‚Â‚«, ƒ_ƒ[ƒW‚ª10%ã¸‚µ‚Ü‚·B
 Hit the Deck: ”š–ò‚ÌŽæ‚èˆµ‚¢‚ÉKn‚µ‚½‚½‚ßA‘½­‚Ìƒ_ƒ[ƒW‚ÍŽó‚¯‚È‚­‚È‚è‚Ü‚µ‚½BŽ©•ª‚ªŽg‚Á‚½‚à‚Ì‚àŠÜ‚ßA”š”­•¨‚É‘Î‚·‚éƒ_ƒ[ƒWŒyŒ¸(DT)‚ª25‘‰Á‚µ‚Ü‚·B
 Finesse: ‘@×‚ÈUŒ‚B ƒNƒŠƒeƒBƒJƒ‹ƒqƒbƒg‚ÌŠm—¦‚ª5%ã¸‚µ‚Ü‚·‚ª, ƒ_ƒ[ƒW‚ª15%’á‰º‚µ‚Ü‚·B
+Cherchez La Femme: í“¬‚Å‚Í—«‚Ì“G‚É‘Î‚µ‚Äƒ_ƒ[ƒW‚ª15%ã¸‚µ‚Ü‚·B í“¬ˆÈŠO‚Å‚ÍA“¯«‚Æ‰ï˜b‚µ‚½‚Æ‚«‚Éƒ†ƒj[ƒN‚È‰ï˜b‘I‘ðŽˆ‚ð‘I‚×‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·B
+Demolition Expert: Šeƒ‰ƒ“ƒN‚É‚æ‚èA‚·‚×‚Ä‚ÌExplosives•Ší‚Í’Ç‰Á‚Ì10%ƒ_ƒ[ƒW‚ð—^‚¦AŒø‰Ê”ÍˆÍ‚Í10%‘‰Á‚µ‚Ü‚·
+Cowboy: ƒŠƒ{ƒ‹ƒo[, ƒŒƒo[ƒAƒNƒVƒ‡ƒ“, ƒ_ƒCƒiƒ}ƒCƒg, ƒiƒCƒt, ƒnƒ“ƒhƒAƒbƒNƒX‚Ìƒ_ƒ[ƒW‚ª20%‘‰Á‚µ‚Ü‚·
+Stonewall: ‚·‚×‚Ä‚ÌMelleWeapons‚ÆUnarmed‚ÌUŒ‚‚É‘Î‚µ+10DTŠl“¾‚µ‚Ü‚·B ‚Ü‚½í“¬’†‚ÉƒmƒbƒNƒ_ƒEƒ“‚µ‚È‚­‚È‚è‚Ü‚µ‚½B
+Strong Back: ƒLƒƒƒŠ[ƒEƒFƒCƒg‚ª25‘‰Á‚µ‚Ü‚·
 ƒLƒƒƒX‚ªƒEƒBƒXƒL[Eƒ`ƒƒƒŒƒ“ƒW—p‚ÉƒEƒBƒXƒL[‚ð1ƒ_[ƒX—~‚µ‚¢‚ÆŒ¾‚Á‚Ä‚éB ‚»‚ÌŒã, ƒe[ƒuƒ‹‚Ì‰º‚Å‚¨‘O‚³‚ñ‚ð–¡‚í‚¤‚»‚¤‚¾B
 ‚ ‚È‚½‚ÌMedicineƒXƒLƒ‹‚Íí‚É5ƒ|ƒCƒ“ƒg‘‰Á‚µ‚Ü‚·B
 Medicine: ƒXƒeƒBƒ€ƒpƒbƒN‚Ì‰ñ•œ—Ê‚ÆRad-X, RadƒAƒEƒFƒC‚Ì—LŒø“x‚ðŒˆ’è‚µ‚Ü‚·B
@@ -1179,3 +1203,7 @@ Perk’Ç‰Á
 ‘¼‚Ì‚Æ‚±‚ë‚És‚Á‚½‚±‚Æ‚ª‚È‚¢‚©‚ç‚È‚ñ‚Æ‚à‚¢‚¦‚È‚¢‚¯‚ÇA‚Å‚à‚«‚Á‚Æ‚¢‚¢‚Æ‚±‚ë‚¾‚æ
 ƒƒJƒjƒXƒg‚ÍA‚±‚Ì’¬‚ÅƒƒJƒjƒbƒN‚ð‚µ‚Ä‚¢‚½ƒXƒRƒbƒgEƒEƒHƒŠƒ“ƒNƒV‚¾B–³Œû‚È“z‚¾‚ªAƒŒƒ“ƒ`‚Æ‚Í‚ñ‚¾‚ðŽè‚É‚·‚é‚Æl‚ª•Ï‚í‚é‚ñ‚¾‚æ
 ¢ŠE‚àAƒKƒ‰ƒX‚Ý‚½‚¢‚È‚à‚Ì‚¶‚á‚È‚¢H@‚Ý‚ñ‚ÈAŒ³’Ê‚è‚É’¼‚»‚¤‚Æ‚µ‚Ä‚é‚ñ‚¾‚¯‚ÇAŠ®‘S‚ÉŒ³’Ê‚è‚É‚·‚é‚È‚ñ‚Ä‚Å‚«‚È‚¢‚Ì
+‚ ‚ A‚»‚¤‚µ‚Ä‚­‚êB‘–¯‚Í“Š•[‚ðŽžŠÔ‚¢‚Á‚Ï‚¢‚Ü‚Å‘Ò‚ÂŒXŒü‚ª‚ ‚éB‚¾‚ªŽ„‚Í‚³‚Á‚³‚ÆI‚í‚ç‚¹‚½‚¢
+‚È‚ñ‚Å‚à‚È‚¢B•·‚¢‚Ä‚Ý‚½‚©‚Á‚½‚¾‚¯‚¾
+Œ‹‰Ê‚ÍH
+‚ ‚ñ‚½‚ª‘I‹“‚ÉŸ‚Á‚½‚Á‚ÄŒ¾‚Á‚½‚çM‚¶‚é‚©H
