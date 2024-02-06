@@ -707,6 +707,8 @@ Wasteland Traveler
 Scavenger's Dog
 Hunter's Dog
 Viper Gang Mutt
+Paranoid Prospector
+Repairman
 NCR Scout
 NCR Deserter
 NCR Recon Unit
@@ -921,7 +923,7 @@ Smell that air! Couldn't ya just drink it like booze!
 What lottery? The lottery, that's what lottery! Are you stupid?
 Only lottery that matters! Oh my God, smell that air!
 Powder Ganger? What? I mean, yeah, used to be, sure!
-But not no more! Powder Gang is small-time, man! I'm a winner! I won the motherfuncing lottery!
+But not no more! Powder Gang is small-time, man! I'm a winner! I won the motherfucking lottery!
 Stop bothering me, will ya! I won the fucking lottery!
 You're the courier who's caused so much trouble for my Legion, and yet you dare come before me.
 The Kings of Freeside are cooperating with the NCR now, which frees up soldiers to defend the dam.
@@ -929,6 +931,10 @@ So tell me this, because I really want to know. I am feared - with good reason.
 But you - of all people - dare to come here and stand before me, the mighty Caesar. What were you thinking?
 I need to get that Platinum Chip back.
 I had to see the Mighty Caesar with my own eyes.
+Uh, citizen, I guess.
+Courier.
+What's been going on in town lately?
+I shouldn't have said anything in the first place, and I'd rather not get you into the habit of crossing the NCR.
 How me help you?
 Box of Bandages
 Soldering Iron
@@ -1019,6 +1025,7 @@ With each rank of this perk, all of your Explosives weapons do an additional 10%
 You do 20% more damage when using any revolver, lever-action firearm, dynamite, knife, or hatchet.
 You gain + 10 Damage Threshold against all Melee Weapons and Unarmed attacks and cannot be knocked down in combat.
 With the Strong Back perk, you can carry 25 more pounds of equipment.
+In combat, you do +15% damage against female opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the opposite sex.
 Cass wants you to supply a dozen bottles of whiskey for her Whiskey Challenge, after which she'll try to drink you under the table.
 Your Medicine skill has been permanently increased by 5 points.
 The Medicine skill determines how many Hit Points you'll replenish upon using a Stimpak, and the effectiveness of Rad-X, RadAway, and more.
