@@ -690,6 +690,7 @@ Dog Stew
 Wasteland Hot Dog
 Pile of Giant Mantis Eggs
 Legion Raid Camp
+Griffin Wares Sacked Caravan
 The Ultra-Luxe
 The King's School of Impersonation
 Fremont Street
@@ -704,11 +705,15 @@ Red Rock Summit
 The Fort Summit
 Dog
 Wasteland Traveler
+Veteran Hunter
 Scavenger's Dog
 Hunter's Dog
 Viper Gang Mutt
 Paranoid Prospector
 Repairman
+Gun Runner Trader
+Gun Runner's Pack Brahmin
+Gun Runner Sentry Bot
 NCR Scout
 NCR Deserter
 NCR Recon Unit
@@ -936,6 +941,8 @@ Courier.
 What's been going on in town lately?
 I shouldn't have said anything in the first place, and I'd rather not get you into the habit of crossing the NCR.
 How me help you?
+What's going on with the Great Khans?
+I may be able to negotiate a deal with the Great Khans.
 Box of Bandages
 Soldering Iron
 Grill
@@ -1023,7 +1030,7 @@ Your attacks show a lot of finesse. You have an additional 5% chance of inflicti
 In combat, you do +15% damage against female opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the same sex.
 With each rank of this perk, all of your Explosives weapons do an additional 10% damage and have 10% larger area of effect.
 You do 20% more damage when using any revolver, lever-action firearm, dynamite, knife, or hatchet.
-You gain + 10 Damage Threshold against all Melee Weapons and Unarmed attacks and cannot be knocked down in combat.
+You gain +10 Damage Threshold against all Melee Weapons and Unarmed attacks and cannot be knocked down in combat.
 With the Strong Back perk, you can carry 25 more pounds of equipment.
 In combat, you do +15% damage against female opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the opposite sex.
 Cass wants you to supply a dozen bottles of whiskey for her Whiskey Challenge, after which she'll try to drink you under the table.
