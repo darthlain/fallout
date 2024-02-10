@@ -691,6 +691,7 @@ Wasteland Hot Dog
 Pile of Giant Mantis Eggs
 Legion Raid Camp
 Griffin Wares Sacked Caravan
+Correctional Facility Yard
 The Ultra-Luxe
 The King's School of Impersonation
 Fremont Street
@@ -722,7 +723,9 @@ NCR Clerk
 NCR Tourist
 Legion Hunter
 Legion Prospector
+Fiend Attack Dog
 Great Khan Chem Dealer
+Great Khan Marksman
 Case Box, .22LR
 House: Reloading Bench
 Box, Pistol Repair Parts
@@ -749,6 +752,7 @@ Cigarette
 Pack of Cigarettes
 Nuka-Cola Ice Cold
 Empty Milk Bottle
+Nipton Basement Key
 Friendship Metro Utility Gate Key
 Museum Gun Locker Key
 Evergreen Mills Storage Room Key
@@ -943,6 +947,17 @@ I shouldn't have said anything in the first place, and I'd rather not get you in
 How me help you?
 What's going on with the Great Khans?
 I may be able to negotiate a deal with the Great Khans.
+What did you and Boone's wife argue about?
+What's going on, man?
+I heard there was a sniper nest up here.
+The White Legs want to join the Legion. Caesar's rite of passage is the destruction of the New Canaanites, almost assuredly because of me.
+Hoi!
+Goot.
+Yah ah tahg.
+What Joshua wants is more than an attack. He wants a slaughter. And he needs more than you and the Dead Horses to do it.
+Outman! Kuna-man mad! He kill all White Legs! You talk! You stop!
+I love fighting. I'm going back out there now.
+What's with the snowglobe collection?
 Box of Bandages
 Soldering Iron
 Grill
