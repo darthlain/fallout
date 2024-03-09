@@ -196,7 +196,6 @@ Lever-Action Rifle Sights
 Double-Barreled Shotgun Maplewood Stock
 Double-Barreled Shotgun Turkey Chokes
 Multiplas Rifle Tri-Barrel
-.22LR, FMJ
 .22LR
 .22LR Round
 22LR
@@ -213,7 +212,6 @@ Breakdown .22LR Hollow Point
 Breakdown .22LR Plinking
 Case, .22LR
 .308 Round
-.308, FMJ
 .308
 .308 Round [%]
 .308, AP
@@ -233,7 +231,6 @@ Breakdown .308
 Breakdown .308 Armor Piercing
 Breakdown .308 Hollow Point
 Breakdown .308 JSP Hand Load
-.357 Magnum, FMJ
 .357 Magnum Round
 .357 Mag.
 .357 Magnum, HP
@@ -255,7 +252,6 @@ Breakdown .38 Special
 Case, .38 Special
 .44 Magnum Round
 .44 Magnum [%]
-.44 Magnum, FMJ
 .44 Mag.
 .44 Magnum, HP
 .44 Magnum Hollow Point
@@ -274,7 +270,6 @@ Breakdown .44 Magnum Hollow Point
 Breakdown .44 Magnum SWC Hand Load
 Breakdown .44 Special
 Case, .44 Special
-.45-70 Gov't, Ball
 .45-70 Gov't
 .45-70 Gov't Round
 .45-70G
@@ -291,7 +286,6 @@ Breakdown .45-70 Gov't SWC Hand Load
 Case, .45-70 Gov't
 .50 MG
 .50 MG Round
-.50 MG, FMJ
 .50MG
 .50 MG, AP
 .50 MG, Armor Piercing
@@ -316,7 +310,6 @@ Breakdown .50 MG Incendiary
 Breakdown .50 MG Match Hand Load
 5mm Round
 5mm Round [%]
-5mm, FMJ
 5mm
 5mm, AP
 5mm, Armor Piercing
@@ -342,7 +335,6 @@ Breakdown 5mm Surplus
 Breakdown 5mm JSP Hand Load
 5.56mm Round
 5.56mm Round [%]
-5.56mm, FMJ
 5.56mm
 5.56mm, AP
 5.56mm AP
@@ -367,12 +359,10 @@ Breakdown 5.56mm Hollow Point
 Breakdown 5.56mm Surplus
 Breakdown 5.56mm Match Hand Load
 .223 Round
-.223, FMJ
 Breakdown .223
 Case, .223
 9mm Round
 9mm Round [%]
-9mm, FMJ
 9mm
 9mm, +P
 9mm Round, +P
@@ -394,7 +384,6 @@ Breakdown 9mm Hollow Point
 Breakdown 9mm JHP Hand Load
 10mm Round
 10mm Round [%]
-10mm, FMJ
 10mm
 10mm, HP
 10mm Hollow Point
@@ -409,7 +398,6 @@ Breakdown 10mm
 Breakdown 10mm Hollow Point
 Breakdown 10mm JHP Hand Load
 12.7mm Round
-12.7mm, FMJ
 12.7mm
 12.7mm, HP
 12.7mm Hollow Point
@@ -427,7 +415,6 @@ Breakdown 12.7mm Hollow Point
 Breakdown 12.7mm JHP Hand Load
 .45 Auto
 .45 Auto Round
-.45 Auto, FMJ
 .45 Auto, HP
 .45 Auto, Hollow Point
 .45 Auto Hollow Point
@@ -726,6 +713,7 @@ Legion Prospector
 Fiend Attack Dog
 Great Khan Chem Dealer
 Great Khan Marksman
+Gomorrah Prostitute
 Case Box, .22LR
 House: Reloading Bench
 Box, Pistol Repair Parts
@@ -752,6 +740,7 @@ Cigarette
 Pack of Cigarettes
 Nuka-Cola Ice Cold
 Empty Milk Bottle
+Jean Sky Diving Key
 Nipton Basement Key
 Friendship Metro Utility Gate Key
 Museum Gun Locker Key
@@ -958,6 +947,23 @@ What Joshua wants is more than an attack. He wants a slaughter. And he needs mor
 Outman! Kuna-man mad! He kill all White Legs! You talk! You stop!
 I love fighting. I'm going back out there now.
 What's with the snowglobe collection?
+Contracted pupils, involuntary spasms... Med-X kills quickly, Joana. I can help.
+You worked in Gomorrah as a Croupier, uh? What was it like?
+What did you say about working at Gomorrah?
+Don't worry, I'll tell him that you are happy to hear from him.
+We'll take care of Carlitos, don't worry.
+Carlitos says he's ready to cash in his chips.
+The Beards will be there.
+You've made it! Thatks so much for your help. I owe you more than- Wait! What's that?
+Carlitos is trading what he stole for Joana. I was hired to see that he does.
+Your boss kept it a secret. Carlitos would've not dealt directly with Omertas.
+I don't know how we pulled this off. For a minute there, I thought we were not going to make it.
+Let's get one thing straight. I see any crimson, I'm taking the shot. You don't like that, you're on your own.
+Okay. No sense keeping you in bed anymore. Let's see if we can get you on your feet.
+Sure can. The NCR was founded from the survivors of one of the great Vaults. We started as a small settlement called Shady Sands.
+I wouldn't head that direction if I were you, though. Got critters up there that don't take kindly to getting shot.
+Stick to the roads when you can, and steer clear of the hills north of Goodsprings. The critters up there are big and poisonous.
+I hear rumors, that's about it. Supposedly they keep slaves and they got some real nasty ways of killing folks.
 Box of Bandages
 Soldering Iron
 Grill
