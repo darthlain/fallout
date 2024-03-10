@@ -672,6 +672,7 @@ Wastelander's Gear
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
+Stimpak, Homemade
 Moonshine
 Dog Stew
 Wasteland Hot Dog
@@ -697,6 +698,7 @@ Veteran Hunter
 Scavenger's Dog
 Hunter's Dog
 Viper Gang Mutt
+Viper Guard Dog
 Paranoid Prospector
 Repairman
 Gun Runner Trader
@@ -964,6 +966,18 @@ Sure can. The NCR was founded from the survivors of one of the great Vaults. We 
 I wouldn't head that direction if I were you, though. Got critters up there that don't take kindly to getting shot.
 Stick to the roads when you can, and steer clear of the hills north of Goodsprings. The critters up there are big and poisonous.
 I hear rumors, that's about it. Supposedly they keep slaves and they got some real nasty ways of killing folks.
+I was out for a stroll that night when I heard the commotion up at the old bone orchard. Saw what looked like a bunch of bad eggs so I laid low.
+Happy trails!
+To my dismay, they found me while I waited in the shadows and brought me here.
+I said, sure as lack of rain, you were still kicking. Then he turned down the job, just like that. I asked if he was sure, it was good money.
+Do you know who he was? Where he went?
+No idea. Sounds like you two had a history for him to act like that. And turn down the money, too.
+Also, if you need any gear checked, we can get you up and running again... once you fill out the work orders, and sign for the parts, of course.
+Looks like we got a new visitor in the ol' Brahmin pen. Not many people coming here in a hurry, only passing through.
+And if you're passing through, you picked a bad time. Road north has gone to hell, and if I let a caravan through, they won't make it.
+Lucky for me, you mean. Hand them over.
+I will. That's the last time I pick up a straggler on the road, believe me.
+Fucking Mojave's going to hell, and all I can do is sit here and watch.
 Box of Bandages
 Soldering Iron
 Grill
