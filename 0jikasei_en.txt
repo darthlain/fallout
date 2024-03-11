@@ -809,9 +809,11 @@ Edit Traits
 Edit Tag Skills
 Exit
 [%]. Map marker added.
+Yeah.
 What?
 Later.
 Go on.
+I am now.
 Good luck.
 Take care.
 Let's do this.
@@ -978,6 +980,31 @@ And if you're passing through, you picked a bad time. Road north has gone to hel
 Lucky for me, you mean. Hand them over.
 I will. That's the last time I pick up a straggler on the road, believe me.
 Fucking Mojave's going to hell, and all I can do is sit here and watch.
+Caesar's Legion sends skirmishers every so often. Prodding for weaknesses, mostly. The reality is, if they really wanted it, we'd all be dead.
+The Followers will be grateful. Here, take these, as a parting gift. I hope you'll find them useful.
+Keeping watch, mostly. Trying to make sure the dangers of this plant are minimized.
+How do you like serving in the Army?
+Okay, everybody's lined up and ready to go. Any suggestions?
+Take your time. Pick your shots and tell your squadmates who you're shooting at.
+Well, I think that went well, don't you?
+Okay, to start, pull the pin, let it cook off for a count of three, then throw.
+Any idea why they went that way?
+No clue. I know Benny hadn't paid up yet. Maybe that was where they were supposed to get square.
+Hope that helps. I owed you.
+I don't blame anybody for it. There's so much chaos when you're fighting, you're lucky not to shoot your own guys.
+We've got a situation with some Great Khans right now. The brass at McCarran has ordered me to lock down the ruins until it's been resolved.
+Normally, I'd turn you down since I have no idea who you are, but considering that the hostages are as good as dead when we attack...
+Don't worry about me. I can handle myself in a fight.
+Look at it this way - nobody dies.
+Destroyed during the Battle of Hoover Dam a couple of years ago. The town was set up as a trap for Caesar's Legion.
+I think you'd better leave.
+Just making friendly conversation.
+Do you treat everyone around here like this?
+I don't see how that affects me.
+You'd think the NCR would be very concerned about this sort of thing.
+Tech Sergeant Reyes
+What's your take on the NCR's position here?
+But it's understandable. The constant skirmishes take their toll on everyone in the end.
 Box of Bandages
 Soldering Iron
 Grill
