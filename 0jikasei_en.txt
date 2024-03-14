@@ -715,6 +715,8 @@ Legion Prospector
 Fiend Attack Dog
 Great Khan Chem Dealer
 Great Khan Marksman
+Chairman
+Chairman Greeter
 Gomorrah Prostitute
 Case Box, .22LR
 House: Reloading Bench
@@ -1005,6 +1007,10 @@ You'd think the NCR would be very concerned about this sort of thing.
 Tech Sergeant Reyes
 What's your take on the NCR's position here?
 But it's understandable. The constant skirmishes take their toll on everyone in the end.
+Let's move out!
+Hand over the Platinum Chip, maybe you live.
+Why would I trust you?
+Well, the Legion is going to attack Hoover Dam one of these days! And the NCR is going to defend it!
 Box of Bandages
 Soldering Iron
 Grill
