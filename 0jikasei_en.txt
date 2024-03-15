@@ -226,6 +226,7 @@ Case, .22LR
 .308 HP
 .308, JSP
 .308 JSP
+.308, JSP Hand Load
 .308, JSP (Hand Load)
 Breakdown .308
 Breakdown .308 Armor Piercing
@@ -239,6 +240,7 @@ Breakdown .308 JSP Hand Load
 .357 Magnum Round, Hollow Point
 .357M HP
 .357 Magnum, JFP
+.357 Magnum, JFP Hand Load
 .357 Magnum, JFP (Hand Load)
 .357M JFP
 .38 Special Round
@@ -259,6 +261,7 @@ Case, .38 Special
 .44 Magnum Round, Hollow Point
 .44M HP
 .44 Magnum, SWC
+.44 Magnum, SWC Hand Load
 .44 Magnum, SWC (Hand Load)
 .44M SWC
 .44 Special Round
@@ -278,6 +281,7 @@ Case, .44 Special
 .45-70 Gov't Hollow Point
 .45-70 Gov't Round, Hollow Point
 .45-70G HP
+.45-70 Gov't, SWC Hand Load
 .45-70 Gov't, SWC (Hand Load)
 .45-70G SWC
 Breakdown .45-70 Gov't
@@ -392,6 +396,7 @@ Breakdown 9mm JHP Hand Load
 10mm HP
 10mm, JHP
 10mm JHP
+10mm, JHP Hand Load
 10mm, JHP (Hand Load)
 10mm Round, Armor Piercing
 Breakdown 10mm
@@ -420,6 +425,7 @@ Breakdown 12.7mm JHP Hand Load
 .45 Auto Hollow Point
 .45 Auto Round, Hollow Point
 .45 Auto, +P
+.45 Auto +P Round
 .45 Auto Round, +P
 .45 Auto, Super
 .45 Super Hand Load
@@ -801,6 +807,7 @@ You win [%] chip(s)
 Distribute 1 Point
 Distribute [%] Points
 Bent Tin Can = Tin Can!
+Rat
 Cannibal
 Ferocious Loyalty
 Miss Fortune
@@ -1011,6 +1018,12 @@ Let's move out!
 Hand over the Platinum Chip, maybe you live.
 Why would I trust you?
 Well, the Legion is going to attack Hoover Dam one of these days! And the NCR is going to defend it!
+To the northeast is a settlement, the locals here call them "Boomers." They are sitting on a munitions stockpile that would be invaluable to us.
+You don't strike me as someone down on their luck. What brings you to Westside?
+I help tend the crops, stand watch for Fiends, and generally help keep things civilized.
+Whoa there, pal. You better slow down, or you'll get blown up like the rest of the idiots who thought they'd scavenge in Boomer territory.
+Except you! There's something special about you, child, and it was the howitzers that gave you a chance to show it.
+Oh, so many ways! Small ones to begin with, so we can get used to what it's like to have a sav- outsider around and about.
 Box of Bandages
 Soldering Iron
 Grill
