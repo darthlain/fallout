@@ -60,6 +60,7 @@ Time Bomb, High Yield
 Time Bomb, High Yield (GRA)
 Time Bomb, High Yield (Mad Bomber)
 Time Bomb, High Yield (Mad Bomber) (GRA)
+Bottlecap Mine, Efficient (GRA)
 .357 revolver long barrel
 .357 revolver HD cylinder
 .44 revolver scope
@@ -707,6 +708,7 @@ Viper Gang Mutt
 Viper Guard Dog
 Paranoid Prospector
 Repairman
+Gun Runner Merchant
 Gun Runner Trader
 Gun Runner's Pack Brahmin
 Gun Runner Sentry Bot
@@ -719,6 +721,7 @@ NCR Tourist
 Legion Hunter
 Legion Prospector
 Fiend Attack Dog
+Fiend Underboss
 Great Khan Chem Dealer
 Great Khan Marksman
 Chairman
@@ -1024,6 +1027,16 @@ I help tend the crops, stand watch for Fiends, and generally help keep things ci
 Whoa there, pal. You better slow down, or you'll get blown up like the rest of the idiots who thought they'd scavenge in Boomer territory.
 Except you! There's something special about you, child, and it was the howitzers that gave you a chance to show it.
 Oh, so many ways! Small ones to begin with, so we can get used to what it's like to have a sav- outsider around and about.
+Then, about a week ago, there was a scientist. Keely. She's unusual, not the sort of person you'd expect, but she's an absolute genius, and...
+And Hildern hates Keely because... well, because every time they meet, she makes him look like an ass. In front of important people, usually.
+Keely just called in. You should have heard the Director. "But I-" "Wait a-" "Now look here-"
+They've set up shop in Vault 3 to the west. Every day they attack our positions and my men repel them.
+The Legion's been sending raiding parties across the river in larger numbers lately. We don't have the men at this post to intercept them all.
+Does the Legion know you're watching them from here?
+That guy Benny was a piece of work.
+What was  that about the surplus ammo?
+You're here for the money. I told the Omertas I was good for it! I just need more time!
+Every station except Charlie has been given the new security codes. Charlie was wiped out.
 Box of Bandages
 Soldering Iron
 Grill
