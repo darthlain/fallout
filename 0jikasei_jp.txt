@@ -177,7 +177,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 ƒƒCƒvƒ‹Þ(ƒoƒbƒg)
 “B(ƒoƒbƒg)
 –òä°(ƒEƒH[ƒNƒ‰ƒu)
-—_‚ê‚Ìü‚è(ƒEƒH[ƒNƒ‰ƒu)
+‰h—_‚Ìü‚è(ƒEƒH[ƒNƒ‰ƒu)
 ‹­‰»ƒXƒvƒŠƒ“ƒO(ƒxƒAƒgƒ‰ƒbƒvEƒtƒBƒXƒg)
 ƒNƒƒ€ƒ`ƒ…[ƒu(ƒpƒ[ƒtƒBƒXƒg)
 ‘å—e—Êƒoƒ‹ƒu(ƒpƒ[ƒtƒBƒXƒg)
@@ -207,11 +207,13 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 .22LR ƒzƒ[ƒ|ƒCƒ“ƒg
 .22LR ƒvƒŠƒ“ƒLƒ“ƒO
 .22LR ƒvƒŠƒ“ƒLƒ“ƒO
+.22LR JHP
 •ª‰ð: .22LR
 •ª‰ð: .22LR
 •ª‰ð: .22LR ƒzƒ[ƒ|ƒCƒ“ƒg
 •ª‰ð: .22LR ƒvƒŠƒ“ƒLƒ“ƒO
 –òä°: .22LR
+’e–ò” : .22LRƒvƒŠƒ“ƒLƒ“ƒO
 .308
 .308
 .308 [%]
@@ -338,6 +340,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 •ª‰ð: 5mm ƒzƒ[ƒ|ƒCƒ“ƒg
 •ª‰ð: 5mm ƒT[ƒvƒ‰ƒX
 •ª‰ð: 5mm JSP
+’e–ò” : 5mmƒT[ƒvƒ‰ƒX
 5.56mm
 5.56mm [%]
 5.56mm
@@ -363,6 +366,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 •ª‰ð: 5.56mm ƒzƒ[ƒ|ƒCƒ“ƒg
 •ª‰ð: 5.56mm ƒT[ƒvƒ‰ƒX
 •ª‰ð: 5.56mm ƒ}ƒbƒ`
+’e–ò” : 5.56mmƒT[ƒvƒ‰ƒX
 .223
 •ª‰ð: .223
 –òä°: .223
@@ -538,6 +542,8 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 20ƒQ[ƒW ƒpƒ‹ƒXƒXƒ‰ƒO
 20ƒQ[ƒW ƒhƒ‰ƒSƒ“ƒYƒuƒŒƒX
 20ƒQ[ƒW ƒhƒ‰ƒSƒ“ƒYƒuƒŒƒX
+20ƒQ[ƒW ƒRƒCƒ“ƒVƒ‡ƒbƒg
+20ƒQ[ƒW ƒRƒCƒ“ƒVƒ‡ƒbƒg
 •ª‰ð: 20ƒQ[ƒW
 •ª‰ð: 20ƒQ[ƒW ƒXƒ‰ƒO
 •ª‰ð: 20ƒQ[ƒW 3/0ƒoƒbƒN
@@ -699,6 +705,7 @@ NCRCF ’†’ë
 “¬‹Zê
 ƒOƒŒ[ƒgEƒJ[ƒ“‚Ìƒƒ“ƒOƒnƒEƒX
 ƒV[ƒU[‚Ìƒeƒ“ƒg
+ƒfƒXƒNƒ[–¦
 ƒhƒbƒO
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒh‚Ì—·l
 ƒxƒeƒ‰ƒ“Eƒnƒ“ƒ^[
@@ -727,6 +734,7 @@ NCRŠÏŒõ‹q
 ƒ`ƒFƒAƒƒ“
 ƒ`ƒFƒAƒƒ“‚ÌŽó•t
 ƒSƒ‚ƒ‰‚Ì©•w
+ƒu[ƒ}[EƒGƒNƒXƒvƒ[ƒ‰[
 ‰Æ: ƒŠƒ[ƒhƒxƒ“ƒ`
 –òä°ƒ{ƒbƒNƒX: 22ŒûŒaLR’e
 ” : ƒsƒXƒgƒ‹C—ƒp[ƒc
@@ -744,6 +752,9 @@ NCRŠÏŒõ‹q
 –qê]‹Æˆõ
 –q’{Œ¢
 —b•ºƒLƒƒƒ“ƒv
+—b•º‘à’·
+ƒiƒCƒgƒLƒ“EƒGƒŠ[ƒg
+ƒOƒŒƒCƒuƒ„[ƒh
 ƒ`ƒƒƒŒƒ“ƒWˆê——
 ŽŸ‚Ìƒy[ƒW
 ƒvƒŠƒ€Œx”õ•º
@@ -1036,6 +1047,9 @@ NCR‚Í‚±‚¤‚¢‚¤‚±‚Æ‚É‚à‚Á‚Æ’ˆÓ‚ð•¥‚¤‚×‚«‚¾‚Ë
 ‚ ‚Ì—]‚Á‚Ä‚½’e–ò‚Á‚Ä‚Ç‚¤‚È‚Á‚½H
 ‚¨‹à‚ðŽæ‚è‚É—ˆ‚½‚ñ‚Å‚µ‚åB ƒIƒƒ‹ƒ^‚É‚Í‚¿‚á‚ñ‚Æ•Ô‚·‚ÆŒ¾‚Á‚½‚íI ‚½‚¾‚à‚¤‚¿‚å‚Á‚ÆŽžŠÔ‚ª‚Ù‚µ‚¢‚¾‚¯‚È‚ÌI
 ƒ`ƒƒ[ƒŠ[‚ðœ‚­‚·‚×‚Ä‚ÌƒXƒe[ƒVƒ‡ƒ“‚ÉV‚µ‚¢ƒZƒLƒ…ƒŠƒeƒBƒR[ƒh‚ðŽ‚Á‚Ä‚¢‚Á‚½B ƒ`ƒƒ[ƒŠ[‚Í‘S–Å‚µ‚½
+‚»‚ê‚Í‚Ð‚Ç‚¢I
+—p‚ª‚ ‚é‚Ì‚È‚çA‘å’ï“¬‹Zê‚Ì‹ß‚­‚É‚¢‚é‚Í‚¸‚¾
+‚â‚ A’¬‚ÌŠO‚©‚ç—ˆ‚½‚Ì‚©‚¢B ‚í‚µ‚Íƒ_ƒXƒeƒB‚¾
 •ï‘Ñƒ{ƒbƒNƒX
 ‚Í‚ñ‚¾‚²‚Ä
 ƒOƒŠƒ‹
@@ -1145,6 +1159,8 @@ Size Matters: ‚ ‚È‚½‚Í•Ší‚Ì‘å‚«‚³‚É•À‚È‚ç‚Ê‚±‚¾‚í‚è‚ðŽ‚Á‚Ä‚¢‚Ü‚·B‚±‚Ì”\—Í‚ð1ƒ
 ‘«‚ð•‰‚µ‚½ê‡‘Ò‹@‚ª‚Å‚«‚È‚­‚È‚è‚Ü‚·B ‡–°‚É‚Í‰e‹¿‚ ‚è‚Ü‚¹‚ñB
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒh‚ÌŽüˆÍ‚É‚ ‚é—L“Å”pŠü•¨‚Ìƒv[ƒ‹‚É‘«‚ð“¥‚Ý“ü‚ê‚é‚ÆA‘«‚Æ‘Ì—Í‚ÉŒp‘±“I‚Èƒ_ƒ[ƒW‚ð—^‚¦‚é‚æ‚¤‚É‚È‚è‚Ü‚·B ƒpƒ[ƒA[ƒ}[‚ÆRADƒX[ƒc‚ªƒ_ƒ[ƒW‚ð–h‚¬‚Ü‚·B
 Magnetic Personality: ƒJƒŠƒXƒ}‚ª“’…‚Ì”@‚­ˆì‚êo‚éI ‚ ‚È‚½‚Í‚Æ‚Ä‚àƒ‚ƒe‚é‚Ì‚ÅAƒRƒ“ƒpƒjƒIƒ“‚ð’Ç‰Á‚Åˆêl“¯s‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚·B ‚½‚¾‚µ“¯s‚Å‚«‚él”‚Í3l‚Ü‚Å‚Å‚·B 
+Against All Varmints: ŒÃ‚¢—Fl’B‚ªšº‚ð”í‚Á‚Ä‚¢‚é‚±‚Æ‚É‘Ï‚¦‚ç‚ê‚È‚­‚È‚è‚Ü‚µ‚½B BBƒKƒ“, ƒo[ƒ~ƒ“ƒ^[ƒ‰ƒCƒtƒ‹, ƒVƒ“ƒOƒ‹ƒVƒ‡ƒbƒgƒKƒ“, ƒLƒƒƒ‰ƒoƒ“EƒVƒ‡ƒbƒgƒKƒ“, ‚Ü‚½‚Í10mmƒsƒXƒgƒ‹‹y‚ÑSMG‚ðŽg—p‚·‚é‚Æ, ƒ_ƒ[ƒW‚ª30%‘‰Á‚µ‚Ü‚·B
+Plasma Spaz: ‚ ‚È‚½‚Íƒvƒ‰ƒYƒ}‚É‹»•±‚µ‚·‚¬‚ÄŽ©•ªŽ©g‚ð—}‚¦‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñI ‘S‚Ä‚Ìƒvƒ‰ƒYƒ}•Ší(ƒOƒŒƒl[ƒh‚ðŠÜ‚Þ)‚ÌUŒ‚‘¬“x‚ª25%‘‰Á‚µ‚Ü‚·B
 Œy“x‚Ì’E…Çó
 ’†’ö“x‚Ì’E…Çó
 d“x‚Ì’E…Çó

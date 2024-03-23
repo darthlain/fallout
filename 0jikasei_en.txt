@@ -207,11 +207,13 @@ Multiplas Rifle Tri-Barrel
 .22LR HP
 .22LR, Plinking
 .22LR P
+.22LR, JHP Hand Load
 Breakdown .22LR
 Breakdown .22 LR
 Breakdown .22LR Hollow Point
 Breakdown .22LR Plinking
 Case, .22LR
+Ammo Box, .22LR Plinking
 .308 Round
 .308
 .308 Round [%]
@@ -338,6 +340,7 @@ Breakdown 5mm Armor Piercing
 Breakdown 5mm Hollow Point
 Breakdown 5mm Surplus
 Breakdown 5mm JSP Hand Load
+Ammo Box, 5mm Surplus
 5.56mm Round
 5.56mm Round [%]
 5.56mm
@@ -363,6 +366,7 @@ Breakdown 5.56mm Armor Piercing
 Breakdown 5.56mm Hollow Point
 Breakdown 5.56mm Surplus
 Breakdown 5.56mm Match Hand Load
+Ammo Box, 5.56mm Surplus
 .223 Round
 Breakdown .223
 Case, .223
@@ -538,6 +542,8 @@ Hull, 12 Gauge
 20ga PS
 20 Gauge, Dragon's Breath
 20ga DB
+20 Ga. Coin Shot
+20 Gauge, Coin Shot
 Breakdown 20 Ga.
 Breakdown 20 Ga. Slug
 Breakdown 20 Ga. 3/0 Buck
@@ -699,6 +705,7 @@ HELIOS One: Solar Collection Tower
 Red Rock Amphitheatre
 Red Rock Summit
 The Fort Summit
+Deathclaw Promontory
 Dog
 Wasteland Traveler
 Veteran Hunter
@@ -727,6 +734,7 @@ Great Khan Marksman
 Chairman
 Chairman Greeter
 Gomorrah Prostitute
+Boomer Explorer
 Case Box, .22LR
 House: Reloading Bench
 Box, Pistol Repair Parts
@@ -744,6 +752,9 @@ Super-Mutant
 Hired Hand
 Herding dog
 Mercenary Camp
+Mercenary Leader
+Nightkin Elite
+Graveyard
 Challenges
 Next Challenge Type
 Powder Ganger Deputy
@@ -1036,6 +1047,9 @@ That guy Benny was a piece of work.
 What was  that about the surplus ammo?
 You're here for the money. I told the Omertas I was good for it! I just need more time!
 Every station except Charlie has been given the new security codes. Charlie was wiped out.
+That's horrible!
+He's usually down around the proving ground if you want to say yo.
+Hey there. In from out of town, ain't you? Name's Dusty.
 Box of Bandages
 Soldering Iron
 Grill
@@ -1145,6 +1159,8 @@ Adds additional requirements for Fast Travelling. See 'Fast Travel' page for mor
 Prevents waiting with cripped legs while standing up. Sleeping is unaffected.
 Pools of toxic waste found around the wasteland will now inflict constant leg and health damage when stepped in. Power Armor and Radiation Suits will prevent damage.
 With the Magnetic Personality perk, you become a fountain of Charisma! Since you're just so likable, you can now recruit an additional companion.  But don't forget, more than 3 is always a crowd.
+You're sick of your old friends collecting dust. You do 30% more damage when using BB Guns, Varmint Rifles, Single Shotguns, Caravan Shotguns, or 10mm Pistols and SMGs.
+You're just so excited about plasma that you can't (magnetically) contain yourself! The attack speed of all plasma weapons (including Plasma Grenades) is increased by 25%.
 Minor Dehydration.
 Adv. Dehydration.
 Deadly Dehydration.
