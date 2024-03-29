@@ -93,6 +93,7 @@ Cby. Rep. maple stock
 Hunting rifle extended mag
 Hunting rifle scope
 Hunting rifle custom action
+Hunting Rifle Clean Bolt
 Light MG expanded drums
 Svc. Rifle forged receiver
 Svc. Rifle Upgraded Springs
@@ -231,6 +232,7 @@ Ammo Box, .22LR Plinking
 .308 JSP
 .308, JSP Hand Load
 .308, JSP (Hand Load)
+Case, .308
 Breakdown .308
 Breakdown .308 Armor Piercing
 Breakdown .308 Hollow Point
@@ -249,6 +251,7 @@ Breakdown .308 JSP Hand Load
 .38 Special Round
 .38 Spc.
 .38 Special, FMJ
+Case, .357 Magnum
 Breakdown .357 Magnum
 Breakdown .357 Magnum Round
 Breakdown .357 Magnum Hollow Point
@@ -270,6 +273,7 @@ Case, .38 Special
 .44 Special Round
 .44 Spc.
 .44 Special, FMJ
+Case, .44 Magnum
 Breakdown .44 Magnum
 Breakdown .44 Magnum Round
 Breakdown .44 Magnum Hollow Point
@@ -335,6 +339,7 @@ Breakdown .50 MG Match Hand Load
 5mm, JSP Hand Load (GRA)
 5mm, JSP (Hand Load)
 5mm JSP
+Case, 5mm
 Breakdown 5mm
 Breakdown 5mm Armor Piercing
 Breakdown 5mm Hollow Point
@@ -361,6 +366,7 @@ Ammo Box, 5mm Surplus
 5.56mm, Match Hand Load
 5.56mm, Match Hand Load (GRA)
 5.56mm, Match (Hand Load)
+Case, 5.56mm
 Breakdown 5.56mm
 Breakdown 5.56mm Armor Piercing
 Breakdown 5.56mm Hollow Point
@@ -387,6 +393,7 @@ Case, .223
 9mm, JHP (Hand Load) (GRA)
 9mm, JHP (Hand Load)
 9mm JHP
+Case, 9mm
 Breakdown 9mm
 Breakdown 9mm +P
 Breakdown 9mm Hollow Point
@@ -404,6 +411,7 @@ Breakdown 9mm JHP Hand Load
 10mm, JHP Hand Load
 10mm, JHP (Hand Load)
 10mm Round, Armor Piercing
+Case, 10mm
 Breakdown 10mm
 Breakdown 10mm Hollow Point
 Breakdown 10mm JHP Hand Load
@@ -420,6 +428,7 @@ Breakdown 10mm JHP Hand Load
 12.7mm, JHP Hand Load (GRA)
 12.7mm Round (Hand Load)
 12.7mm JHP
+Case, 12.7mm
 Breakdown 12.7mm
 Breakdown 12.7mm Hollow Point
 Breakdown 12.7mm JHP Hand Load
@@ -714,6 +723,7 @@ Hunter's Dog
 Viper Gang Mutt
 Viper Guard Dog
 Paranoid Prospector
+Crucified Trooper
 Repairman
 Gun Runner Merchant
 Gun Runner Trader
@@ -1050,6 +1060,9 @@ Every station except Charlie has been given the new security codes. Charlie was 
 That's horrible!
 He's usually down around the proving ground if you want to say yo.
 Hey there. In from out of town, ain't you? Name's Dusty.
+Why wouldn't this stop the Legion?
+Still feels pretty good, though, doesn't it?
+Okay. We'll make it a point to stop there.
 Box of Bandages
 Soldering Iron
 Grill
