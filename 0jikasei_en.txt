@@ -198,6 +198,7 @@ Lever-Action Rifle Sights
 Double-Barreled Shotgun Maplewood Stock
 Double-Barreled Shotgun Turkey Chokes
 Multiplas Rifle Tri-Barrel
+Marksman Carbine: Exp. Mag.
 .22LR
 .22LR Round
 22LR
@@ -667,6 +668,8 @@ Alien Power Cell [%]
 Railway Spikes [%]
 Dart [%]
 Slg
+HV
+Hiv.
 Silent
 Silenced .22 Pistol
 Silenced .22 SMG
@@ -677,6 +680,7 @@ Scoped .44 Magnum
 Marksman Carbine
 Gobi Campaign Scout Rifle
 Sawed-Off Shotgun
+Fat Man
 AER14 Prototype
 Baseball bat
 Baseball bat (GRA)
@@ -685,6 +689,7 @@ Machete
 Throwing Tomahawk
 Frag Grenade
 Star Paladin Cross' Laser Pistol
+Black Combat Armor
 Regulator Combat Armor, Reinforced
 Commando Armor, Reinforced
 Salvaged Power Armor
@@ -698,6 +703,7 @@ Stimpak, Homemade
 Moonshine
 Dog Stew
 Wasteland Hot Dog
+Lad's Life
 Pile of Giant Mantis Eggs
 Legion Raid Camp
 Griffin Wares Sacked Caravan
@@ -724,6 +730,7 @@ Viper Gang Mutt
 Viper Guard Dog
 Paranoid Prospector
 Crucified Trooper
+Counterfelter
 Repairman
 Gun Runner Merchant
 Gun Runner Trader
@@ -759,6 +766,7 @@ Box, Sharpening Sets
 Human Fresh
 Human Flesh
 Super-Mutant
+Blind Deathclaw
 Hired Hand
 Herding dog
 Mercenary Camp
@@ -1063,6 +1071,35 @@ Hey there. In from out of town, ain't you? Name's Dusty.
 Why wouldn't this stop the Legion?
 Still feels pretty good, though, doesn't it?
 Okay. We'll make it a point to stop there.
+Boost my charisma.
+I want to be more intelligent.
+Enhance my agility.
+Can you make me luckier?
+There's a ridge called Coyote Tail on the south side. That's where we set up.
+How could you kill innocent people like that?
+That's not what I would've done at all.
+Maybe not. Maybe I wouldn't have either at one point. But that's why they train you. Break you down till you're automatic.
+I'd like to stay here for the night. Think some things over.
+I'd prefer not to right now.
+Something's wrong. Got a group coming our way. Looks like a Legion raiding party. It's big.
+Might be too big. Even for us.
+If you want out I won't blame you. But I'm going to stay. See if I can hold them off.
+Why would they come to Bitter Springs?
+Let's get out of here. Let them have Bitter Springs.
+I guess one of the settlers was connected, because we sent everything we had. We figured this was a gang hideout, but... they'd led us to their home.
+What happened?
+Ha! If only it was this easy all the time.
+Tell the truth... I think this is exactly what I've been waiting for.
+Back west, you don't see too many of these. Lakes, I mean. Natural or man-made. Any kind, really.
+But if you're here long enough, it starts to seem normal. That's what a ranger's life is now. Looking east.
+The Mojave has a way of burning decent people up, but it sounds like you've done right by the NCR. It's appreciated. Now what can I do for you?
+The best of the best, worst of the worst. He came out of NCR, one of the Followers of the Apocalypse.
+Word is that the Legion's old timers have shown up, Caesar's veterans from the Red Okie Centuria and what was the Painted Rock tribe.
+Caesar's a hard man to figure out, but he always wants you to know when more troops are at your front door.
+This job isn't all gunfighting and gulping shots of whiskey, no matter what the boys and ladies out there say.
+How does spreading false intel help anything?
+I messed up. Made a mistake. I thought I could help get us out of here, but... it didn't work out.
+Send me all the Legion you can. I'll be waiting for them.
 Box of Bandages
 Soldering Iron
 Grill
