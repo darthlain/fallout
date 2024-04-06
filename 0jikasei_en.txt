@@ -674,6 +674,7 @@ Silent
 Silenced .22 Pistol
 Silenced .22 SMG
 Silenced 10mm Pistol
+Weathered 10mm Pistol
 .357 Magnum Revolver
 .44 Magnum Revolver
 Scoped .44 Magnum
@@ -689,6 +690,7 @@ Machete
 Throwing Tomahawk
 Frag Grenade
 Star Paladin Cross' Laser Pistol
+Courier Duster
 Black Combat Armor
 Regulator Combat Armor, Reinforced
 Commando Armor, Reinforced
@@ -730,6 +732,7 @@ Viper Gang Mutt
 Viper Guard Dog
 Paranoid Prospector
 Crucified Trooper
+Crucified Slave
 Counterfelter
 Repairman
 Gun Runner Merchant
@@ -1003,7 +1006,7 @@ Carlitos is trading what he stole for Joana. I was hired to see that he does.
 Your boss kept it a secret. Carlitos would've not dealt directly with Omertas.
 I don't know how we pulled this off. For a minute there, I thought we were not going to make it.
 Let's get one thing straight. I see any crimson, I'm taking the shot. You don't like that, you're on your own.
-Okay. No sense keeping you in bed anymore. Let's see if we can get you on your feet.
+Well, I got most of it right, anyway. Stuff that mattered.
 Sure can. The NCR was founded from the survivors of one of the great Vaults. We started as a small settlement called Shady Sands.
 I wouldn't head that direction if I were you, though. Got critters up there that don't take kindly to getting shot.
 Stick to the roads when you can, and steer clear of the hills north of Goodsprings. The critters up there are big and poisonous.
@@ -1104,6 +1107,11 @@ Orris shouldn't be a problem any longer.
 Ah, so it went down like that, huh? I guess it can't be helped now.
 You're not subtle, but you get the job done. That's good enough for me. Maybe you can help me with something more important.
 On second thought, if I can whip this band of hooligans into obedience, a stray tough guy or two shouldn't be a problem.
+What is it you had in mind?
+Great Khans! Drive Caesar's dog out of our camp! If he's too slow to flee, kill him!
+Teach you to mess with me.
+I don't believe it. Who the hell are you, lady? How did you just walk right up and pull him out of there?
+I don't believe it. Who the hell are you, man? How did you just walk right up and pull him out of there?
 Box of Bandages
 Soldering Iron
 Grill
