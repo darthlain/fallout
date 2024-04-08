@@ -755,6 +755,7 @@ Chairman
 Chairman Greeter
 Gomorrah Prostitute
 Boomer Explorer
+The Forecaster
 Case Box, .22LR
 House: Reloading Bench
 Box, Pistol Repair Parts
@@ -1112,6 +1113,25 @@ Great Khans! Drive Caesar's dog out of our camp! If he's too slow to flee, kill 
 Teach you to mess with me.
 I don't believe it. Who the hell are you, lady? How did you just walk right up and pull him out of there?
 I don't believe it. Who the hell are you, man? How did you just walk right up and pull him out of there?
+Doc Mitchell said you could teach me to survive in the desert.
+I don't know who screwed up, but the Powder Gangers are loose. It was one group that attacked us and took our entire supply of dynamite.
+We'd see them occasionally, but they didn't seem too keen on getting too close to the quarry. Not sure if it was the noise or all the workers.
+I can't believe that an entire pack moved into the quarry. I thought that kind of bad luck only happened in New Vegas.
+About a week ago, this trader, Ringo, comes into town. Survivor of an attack, he says. Bad men after him, needs a place to hide.
+We figured he was just in shock, so we gave him a place to lie low. We didn't actually expect anyone to come after him.
+Cobb hasn't exactly been looking for Ringo too hard - I think he's afraid that Ringo will ambush him, which is probably true.
+He's holed up at the abandoned gas station up the hill.
+You mean murder him? That's not our way, even if Cobb is scum. He can bluster and threaten all he wants.
+He's a convict. Just without the chains. Said his name was Cobb. "Powder Gangers" is what they call themselves. Plenty more like him out there.
+If you were able to get Ringo out of this mess, you'd have a decent reputation around Goodsprings. I'd even set you up with a discount.
+How can I get Easy Pete's dynamite?
+No, none at all. We've been traveling together since I picked her up a few days ago, and she's been friendly this whole time.
+All I can tell you is to find Cachino. He's the lowest level Lieutenant you're going to be able to talk to.
+Hey, thanks for all the hard work back there. I'm going to run a tight ship here, don't you worry.
+How did Tabitha end up in control?
+The community ended up being mostly second gen - not very bright, but easy to influence. Fine, until the Nightkin came along, led by Tabitha...
+But with no signs of Tabitha's weakening, and none of the second-gens ready to revolt or to come to Jacobstown, there wasn't much I could do.
+I have my own reasons to stay away from Jacobstown for a while - reasons we won't be discussing - so I've stayed here.
 Box of Bandages
 Soldering Iron
 Grill
