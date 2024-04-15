@@ -5,22 +5,24 @@
 @FalloutNV.esm:08F215			42	42	-1	0.3	22	-1	-1	-1	3	; .44 Magnum Revolver
 @FalloutNV.esm:127C6C			48	48	-1	0.25	22	-1	-1	-1	3.5	; Mysterious Magnum
 @FalloutNV.esm:0E3778			-1	-1	-1	0.45	-1	-1	-1	-1	-1	; 9mm Pistol
-@FalloutNV.esm:00434F			26	-1	-1	0.5	-1	-1	-1	-1	-1	; 10mm Pistol
-@FalloutNV.esm:1734D4			29	-1	-1	0.5	-1	-1	-1	-1	-1	; Weathered 10mm Pistol
+@FalloutNV.esm:00434F			24	24	-1	0.5	-1	-1	-1	-1	-1	; 10mm Pistol
+@FalloutNV.esm:1734D4			26	26	1.5	0.5	-1	-1	-1	-1	-1	; Weathered 10mm Pistol
 @HonestHearts.esm:008E1A		-1	-1	-1	0.45	-1	-1	-1	-1	-1	; .45 Auto Pistol
 @HonestHearts.esm:009DBE		-1	-1	-1	0.35	-1	-1	-1	-1	-1	; A Light Shining in Darkness
-@FalloutNV.esm:08F214			64	64	1.25	0.25	27	-1	-1	-1	-1	; Hunting Revolver
-@GunRunnersArsenal.esm:000852		64	64	1.25	0.25	27	-1	-1	-1	-1	; Hunting Revolver (GRA)
-@FalloutNV.esm:129A44			69	69	-1	-1	24	-1	-1	-1	-1	; Ranger Sequoia	
-@FalloutNV.esm:0E9C3B			-1	-1	-1	0.35	-1	-1	-1	-1	-1	; Service Rifle
+@FalloutNV.esm:08F214			62	62	1.25	0.25	27	-1	-1	-1	-1	; Hunting Revolver
+@GunRunnersArsenal.esm:000852		62	62	1.25	0.25	27	-1	-1	-1	-1	; Hunting Revolver (GRA)
+@FalloutNV.esm:129A44			67	67	-1	-1	24	-1	-1	-1	-1	; Ranger Sequoia	
+@FalloutNV.esm:0E9C3B			-1	-1	-1	0.5	-1	-1	-1	-1	-1	; Service Rifle
 @GunRunnersArsenal.esm:000812		-1	-1	-1	0.2	-1	-1	-1	-1	-1	; Battle Rifle
 @FalloutNV.esm:0F062B			-1	-1	-1	0.15	-1	-1	-1	-1	-1	; This Machine
 @FalloutNV.esm:106FEA			27	27	-1	-1	-1	-1	-1	-1	-1	; Marksman Carbine
 @FalloutNV.esm:106FEB			30	30	-1	-1	-1	-1	-1	-1	-1	; All-American
 @FalloutNV.esm:00434C			-1	-1	-1	2.5	-1	-1	-1	-1	-1	; Sawed-off Shotgun
 @FalloutNV.esm:1673CD			-1	-1	-1	2	-1	-1	-1	-1	-1	; Big Boomer
+@GunRunnersArsenal.esm:000813		25	25	-1	0.35	-1	-1	-1	-1	3.5	; 5.56mm Pistol
+@FalloutNV.esm:133058			27	27	-1	0.3	-1	-1	-1	-1	3.5	; That Gun
+@GunRunnersArsenal.esm:000806		24	24	-1	0.5	-1	-1	-1	-1	-1	; Bozar
 
-@FalloutNV.esm:004333			-1	-1	-1	-1	-1	120	-1	-1	-1	; Hunting Rifle
 @FalloutNV.esm:08F217			-1	-1	-1	-1	22	-1	-1	-1	4.5	; 9mm Submachine Gun
 @FalloutNV.esm:0E32F4			-1	-1	-1	-1	22	-1	-1	-1	4.5	; Vance's 9mm Submachine Gun
 @FalloutNV.esm:08ED0A			62	-1	-1	-1	-1	-1	-1	-1	-1	; Riot Shotgun
@@ -28,6 +30,7 @@
 @FalloutNV.esm:1735E3			-1	-1	-1	2.2	20	-1	-1	-1	5	; Sturdy Caravan Shotgun
 @FalloutNV.esm:08ED0C			-1	-1	-1	1.7	22	-1	-1	-1	4	; Lever-action Shotgun
 @FalloutNV.esm:08F213			46	46	-1	0.7	-1	-1	-1	-1	-1	; 12.7mm Pistol
-@GunRunnersArsenal.esm:000805		60	60	-1	0.5	-1	-1	-1	-1	-1	; Li'l Devil
+@GunRunnersArsenal.esm:000805		53	53	-1	0.5	-1	-1	-1	-1	-1	; Li'l Devil
 @FalloutNV.esm:0CD539			52	52	1.25	-1	-1	-1	-1	-1	-1	; Trail Carbine
-@FalloutNV.esm:08F21A			-1	-1	-1	-1	-1	-1	-1	-1	-1	; Cowboy Repeater
+@FalloutNV.esm:07EA24			20	20	1.5	-1	30	-1	-1	-1	5	; Vermint Rifle
+@HonestHearts.esm:00996C		-1	-1	-1	-1	-1	-1	-1	-1	7.5	; .45 Auto Submachine Gun
