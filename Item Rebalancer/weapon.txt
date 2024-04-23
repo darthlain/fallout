@@ -1,8 +1,8 @@
 ; ID					DAM	CRT	CRCH	SPRD	AP	CND	SKILL	VAL	WGT
 @FalloutNV.esm:0E393B			55	-1	-1	-1	35	-1	-1	-1	5.5	; Single Shotgun
 @FalloutNV.esm:08F216			-1	-1	1.25	0.35	20	-1	-1	-1	-1	; .357 Magnum Revolver
-@FalloutNV.esm:08F215			42	42	-1	0.35	22	-1	-1	-1	3	; .44 Magnum Revolver
-@FalloutNV.esm:127C6C			48	48	-1	0.3	22	-1	-1	-1	3.5	; Mysterious Magnum
+@FalloutNV.esm:08F215			-1	-1	-1	0.35	22	-1	-1	-1	3	; .44 Magnum Revolver
+@FalloutNV.esm:127C6C			-1	-1	-1	0.3	22	-1	-1	-1	3.5	; Mysterious Magnum
 @FalloutNV.esm:0E3778			-1	-1	-1	0.5	-1	-1	-1	-1	-1	; 9mm Pistol
 @FalloutNV.esm:00434F			-1	-1	-1	0.55	-1	-1	-1	-1	-1	; 10mm Pistol
 @FalloutNV.esm:1734D4			-1	-1	1.5	0.55	-1	-1	-1	-1	-1	; Weathered 10mm Pistol
@@ -14,7 +14,6 @@
 @GunRunnersArsenal.esm:000805		-1	-1	-1	0.5	-1	-1	-1	-1	-1	; Li'l Devil
 @GunRunnersArsenal.esm:000812		-1	-1	-1	0.2	-1	-1	-1	-1	-1	; Battle Rifle
 @FalloutNV.esm:0F062B			-1	-1	-1	0.15	-1	-1	-1	-1	-1	; This Machine
-@FalloutNV.esm:0CD539			52	52	1.25	-1	-1	-1	-1	-1	-1	; Trail Carbine
 @FalloutNV.esm:07EA24			-1	-1	1.5	-1	30	-1	-1	-1	5	; Vermint Rifle
 @FalloutNV.esm:00434C			-1	-1	-1	2.5	-1	-1	-1	-1	-1	; Sawed-off Shotgun
 @FalloutNV.esm:1673CD			-1	-1	-1	2	-1	-1	-1	-1	-1	; Big Boomer
