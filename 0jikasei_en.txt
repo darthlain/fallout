@@ -718,6 +718,7 @@ Cottonwood Cove Docks
 Ringo's Caravan
 Primm Encampment
 Bitter Springs Command Outpost
+Nellis Tunnel South
 HELIOS One: Solar Collection Tower
 Red Rock Amphitheatre
 Red Rock Summit
@@ -770,7 +771,6 @@ Box, Sharpening Sets
 Human Fresh
 Human Flesh
 Super-Mutant
-Blind Deathclaw
 Hired Hand
 Herding dog
 Mercenary Camp
