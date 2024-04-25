@@ -678,6 +678,7 @@ Weathered 10mm Pistol
 .357 Magnum Revolver
 .44 Magnum Revolver
 Scoped .44 Magnum
+Vermint Rifle
 Marksman Carbine
 Gobi Campaign Scout Rifle
 Sawed-Off Shotgun
@@ -688,6 +689,7 @@ Baseball bat (GRA)
 Axe
 Machete
 Throwing Tomahawk
+Cosmic Knife (Clean)
 Frag Grenade
 Star Paladin Cross' Laser Pistol
 Courier Duster
@@ -757,17 +759,7 @@ Chairman Greeter
 Gomorrah Prostitute
 Boomer Explorer
 The Forecaster
-Case Box, .22LR
 House: Reloading Bench
-Box, Pistol Repair Parts
-Box, Rifle Repair Parts
-Box, Wood Repair Sets
-Box, Revolver Repair Parts
-Box, SMG Repair Parts
-Box, Shotgun Repair Parts
-Box, Energy Pistol Repair Parts
-Box, Light Armor Repair Parts
-Box, Sharpening Sets
 Human Fresh
 Human Flesh
 Super-Mutant
@@ -842,6 +834,17 @@ You win [%] chip(s)
 Distribute 1 Point
 Distribute [%] Points
 Bent Tin Can = Tin Can!
+[Return] Cigarette (Carton)
+[Return] Cigarette (Pack)
+[Return] Hat, Fedora
+[Return] Casualwear
+[Return] Casualwear (Soiled)
+[Return] Parkstroller Outfit
+[Return] Parkstroller Outfit (Soiled)
+[Return] Relaxedwear
+[Return] Relaxedwear (Soiled)
+[Return] Spring Outfit
+[Return] Spring Outfit (Soiled)
 Rat
 Cannibal
 Ferocious Loyalty
@@ -1133,6 +1136,23 @@ The community ended up being mostly second gen - not very bright, but easy to in
 But with no signs of Tabitha's weakening, and none of the second-gens ready to revolt or to come to Jacobstown, there wasn't much I could do.
 I have my own reasons to stay away from Jacobstown for a while - reasons we won't be discussing - so I've stayed here.
 I hope she hasn't gotten lonely.
+There's no escape from here until I let you go. The sooner you accept your situation, the better.
+That structure you see above the Fountain - the Sierra Madre Casino... you need to break inside. A... heist. Too many years in the making.
+A long story, FEV... a virus with an even longer story... it gave birth to the docile one, turned him into a Super Mutant long ago.
+In that case, I will bring him along, I don't need you.
+All right, let's get out of here.
+Look, I'm here to help.
+It'll come to us, Dog. Just wait. We'll kill it together.
+Can't believe the idiot swallowed his collar.
+...to return here if I leave.
+But not you.
+I didn't bring you here.
+You want to know how I got here?
+The "Master" - Elijah... reminds Dog of someone from long ago. His leader, commander. Commanders.
+The way back doesn't matter... try to leave, try to disobey, and your collar ends the journey faster than you can say, "begin again."
+We'll see.
+If it isn't the clever one. What do you want?
+Something needs to die.
 Box of Bandages
 Soldering Iron
 Grill
