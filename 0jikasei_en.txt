@@ -86,6 +86,7 @@ Assault carb. ext. mags
 Assault carb. forged receiver
 Assault carb. light bolt
 Auto. Rifle Upgr. Internals
+[Mod] Automatic Rifle Upgraded Internals
 Brush gun forged receiver
 Cby. Rep. custom action
 Cby. Rep. long tube
@@ -137,9 +138,9 @@ Plas. pistol mag. accelerator
 Plas. pistol recycler
 Holorifle focus optics
 [Mod] Holorifle focus optics
-Holorifle advanced calibration
+Holorifle Adv. Calibration
 [Mod] Holorifle advanced calibration
-Holorifle reinforced components
+Holorifle Reinf. Components
 [Mod] Holorifle reinforced components
 LAER Mod - Auxiliary Recharger Clip
 LAER Mod - Prismatic Lens
@@ -689,6 +690,7 @@ Baseball bat (GRA)
 Axe
 Machete
 Throwing Tomahawk
+Cosmic Knife Clean
 Cosmic Knife (Clean)
 Frag Grenade
 Star Paladin Cross' Laser Pistol
@@ -700,6 +702,7 @@ Salvaged Power Armor
 Composite Recon Helmet
 Red Racer Jumpsuit
 Wastelander's Gear
+Vera's Outfit
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
@@ -709,6 +712,7 @@ Dog Stew
 Wasteland Hot Dog
 Lad's Life
 Pile of Giant Mantis Eggs
+Vending Machine Code - "Microfusion Cells"
 Legion Raid Camp
 Griffin Wares Sacked Caravan
 Correctional Facility Yard
@@ -1153,6 +1157,42 @@ The way back doesn't matter... try to leave, try to disobey, and your collar end
 We'll see.
 If it isn't the clever one. What do you want?
 Something needs to die.
+The Sierra Madre. Mmm... beauty, isn't she. She the one who invited you here?
+Or maybe you didn't catch her voice on the radio. Woke up, confused, like some of the others. Least you're still breathing.
+Just because I work in entertainment, doesn't mean I'm a moron.
+I'm in. If that's all, let's head out.
+I know what's out there. It's why I've planted a mine field, shotguns, and explosives all the way on the road to my little boudoir here.
+Tourists, you bet. They don't stay long... and they don't stay alive long.
+Where did they come from?
+You shoot them, they get back up. You stab them, they get back up.
+Always in the mood for another drink. What's the recipe?
+Good, well done... now, for the festivities, and your parts in all this.
+The owner of the Sierra Madre... for whatever reason... keyed the Grand Opening to the Gala Event itself.
+The real work? What was this, a warm-up?
+No... ths is a heist of the centuries. We're not plundering the Sierra Madre - we're plundering history, taking from the Old World itself.
+What is the Gala Event?
+Who are you?
+You better have brought enough meat. I can feel Dog's teeth tearing at my ribs, hungry to get out.
+You're good at fetching... this should keep him where he belongs. For now. I'll wait... send the signal, we'll be ready.
+Sure does like to make a presentation... wish he'd keep it down, or else the Ghost People are going to swarm the gates, Vera Hologram or no.
+Ghost in name and image. Still a looker, though. Got to hand it to Sinclair, sure can pick 'em. Well or get picked. Whichever.
+So made the introductions, and guess what? He builds this place for her, like some kind of Cleopatra obsession. Wasn't always a deathtrap.
+Didn't think much of our chances, now I'm thinking I was wrong. What's the next step?
+I'd shed a tear, but I'm sure we'll be chatting again.
+But listen... when this thing goes off, try and get into the Sierra Madre without me? You'll wish you hadn't.
+Yeah, "thumbs up" - you better appreciate it.
+This is what the Old World stood for, even with bombs about to rain down on them. Now look at it.
+I don't want you to be under anyone's control, even mine.
+How did you get up there?
+Not much help against the ghosts, still, if you're about to give up, call it quits? Throw it to me so I can eat a bullet first.
+Would have been the biggest heist in history. Sinclair left holding the bag. Ruined.
+Now we finish the job. Rob the Sierra Madre, rip out its heart. Last chapter of Frederick Sinclair, close the book.
+You did? Looks like even the Old World can't keep you out when you've got a mind to get in.
+You ready? The sequence is: "Begin." "Again." "Let." "Go."
+I... never mind. Let me get the vault open... "Begin again... but know when to let go." Sounds like you.
+"Begin again - but know when to let go."
+"Begin again, but know when to let go." Let's see what happens.
+After that... I wandered, alone. Saw the storms of the Divide, walked among the Ciphers of the West. Traveled to the Big Empty.
 Box of Bandages
 Soldering Iron
 Grill
