@@ -679,7 +679,6 @@ Weathered 10mm Pistol
 .357 Magnum Revolver
 .44 Magnum Revolver
 Scoped .44 Magnum
-Vermint Rifle
 Marksman Carbine
 Gobi Campaign Scout Rifle
 Sawed-Off Shotgun
@@ -1193,6 +1192,7 @@ I... never mind. Let me get the vault open... "Begin again... but know when to l
 "Begin again - but know when to let go."
 "Begin again, but know when to let go." Let's see what happens.
 After that... I wandered, alone. Saw the storms of the Divide, walked among the Ciphers of the West. Traveled to the Big Empty.
+Dog forgot himself, as did the voice that raged within him. After their passing, a new voice spoke within the mutant's shell.
 Box of Bandages
 Soldering Iron
 Grill
