@@ -679,6 +679,7 @@ Weathered 10mm Pistol
 .357 Magnum Revolver
 .44 Magnum Revolver
 Scoped .44 Magnum
+Varmint Rifle
 Marksman Carbine
 Gobi Campaign Scout Rifle
 Sawed-Off Shotgun
@@ -775,6 +776,7 @@ Graveyard
 Challenges
 Next Challenge Type
 Powder Ganger Deputy
+Normal
 Blue
 Green
 Cigarette
@@ -1193,6 +1195,22 @@ I... never mind. Let me get the vault open... "Begin again... but know when to l
 "Begin again, but know when to let go." Let's see what happens.
 After that... I wandered, alone. Saw the storms of the Divide, walked among the Ciphers of the West. Traveled to the Big Empty.
 Dog forgot himself, as did the voice that raged within him. After their passing, a new voice spoke within the mutant's shell.
+I think only Caesar can lead the Legion. I've never met anyone who could take his place. I couldn't. I never had a mind for logistics.
+This type of .45 Automatic pistol was designed by one of my tribe almost four hundred years ago. Learning its use is a New Canaanite rite of passage.
+I was a translator years ago, but it's hard to keep up with all of the tribal variations.
+Mostly it's the mountain Bighorners - whole herd of them up on the cliffs there. Usually they're not too aggressive, but lately... hoo!
+I like your bear glove. Where can I get one?
+You don't want to leave Zion. You'd rather kill every last one of the White Legs.
+Well, I'm guessing you're pretty mad about something.
+Daniel believes that if we leave, if the Sorrows leave, the White Legs will stop. He doesn't understand what this kind of tribe is like.
+And what kind of tribe is that?
+He's not the kind to let his subordinates do all the killing. No, he likes to have a hand in it, with that spear of his.
+You are kind to offer, but no, there's nothing you can do. We don't use chems, but I learned long ago that I'm immune to their effects.
+Exposing my body to the air is like living through it again. But it's better to be clean than comfortable.
+I traveled along the Long 15 and followed 89 south into Arizona. Along the way, I met two men from a group called the Followers of the Apocalypse.
+Edward Sallow and Bill Calhoun. They came to teach the tribes. Calhoun was a good man. Edward was the one who got us into trouble down the road.
+We did, and the Blackfoots were friendly enough at first, but eventually... I've thought back to that day so many times I must have mistranslated.
+Something must have been mixed up, because the Blackfoots decided we weren't going to leave. The rest is history, assuming Edward hasn't changed it.
 Box of Bandages
 Soldering Iron
 Grill

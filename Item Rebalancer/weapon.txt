@@ -3,12 +3,11 @@
 @FalloutNV.esm:08F216			-1	-1	1.25	0.35	20	-1	-1	-1	-1	; .357 Magnum Revolver
 @FalloutNV.esm:08F215			-1	-1	-1	0.35	22	-1	-1	-1	3	; .44 Magnum Revolver
 @FalloutNV.esm:127C6C			-1	-1	-1	0.3	-1	-1	-1	-1	3.5	; Mysterious Magnum
-@DeadMoney.esm:00BBC2			-1	-1	-1	0.35	-1	-1	-1	-1	-1	; Police Pistol
+@DeadMoney.esm:00BBC2			-1	-1	-1	0.35	-1	-1	-1	-1	2.5	; Police Pistol
 @FalloutNV.esm:0E3778			-1	-1	-1	0.55	-1	-1	-1	-1	-1	; 9mm Pistol
 @FalloutNV.esm:00434F			-1	-1	-1	0.55	-1	-1	-1	-1	-1	; 10mm Pistol
 @FalloutNV.esm:1734D4			-1	-1	1.5	0.55	-1	-1	-1	-1	-1	; Weathered 10mm Pistol
-@HonestHearts.esm:008E1A		-1	-1	-1	0.35	-1	-1	-1	-1	-1	; .45 Auto Pistol
-@HonestHearts.esm:009DBE		-1	-1	-1	0.3	-1	-1	-1	-1	-1	; A Light Shining in Darkness
+@HonestHearts.esm:008E1A		-1	-1	-1	0.55	-1	-1	-1	-1	-1	; .45 Auto Pistol
 @FalloutNV.esm:08F214			-1	-1	1.25	0.25	-1	-1	-1	-1	-1	; Hunting Revolver
 @GunRunnersArsenal.esm:000852		-1	-1	1.25	0.25	-1	-1	-1	-1	-1	; Hunting Revolver (GRA)
 @FalloutNV.esm:08F213			-1	-1	-1	0.55	-1	-1	-1	-1	-1	; 12.7mm Pistol
@@ -18,11 +17,13 @@
 @FalloutNV.esm:07EA24			20	20	1.5	-1	30	-1	-1	-1	5	; Vermint Rifle
 @FalloutNV.esm:00434C			-1	-1	-1	2.5	-1	-1	-1	-1	-1	; Sawed-off Shotgun
 @FalloutNV.esm:1673CD			-1	-1	-1	2	-1	-1	-1	-1	-1	; Big Boomer
-@GunRunnersArsenal.esm:000813		25	25	-1	0.35	-1	-1	-1	-1	3.5	; 5.56mm Pistol
-@FalloutNV.esm:133058			27	27	-1	0.3	-1	-1	-1	-1	3.5	; That Gun
+@GunRunnersArsenal.esm:000813		24	24	-1	0.35	-1	-1	-1	-1	3.5	; 5.56mm Pistol
+@FalloutNV.esm:133058			26	26	-1	0.3	-1	-1	-1	-1	3.5	; That Gun
 @GunRunnersArsenal.esm:000806		24	24	-1	0.5	-1	-1	-1	-1	-1	; Bozar
 @DeadMoney.esm:00A7A9			-1	-1	-1	1.6	-1	-1	-1	-1	-1	; Automatic Rifle
 @HonestHearts.esm:00996C		-1	-1	-1	-1	-1	-1	-1	-1	7.5	; .45 Auto Submachine Gun
+@FalloutNV.esm:0E377A			-1	-1	-1	-1	-1	-1	-1	-1	1.5	; Silenced .22 Pistol
+@FalloutNV.esm:08F218			-1	-1	-1	-1	-1	-1	-1	-1	6.5	; Silenced .22 SMG
 
 @FalloutNV.esm:08F217			-1	-1	-1	-1	22	-1	-1	-1	4.5	; 9mm Submachine Gun
 @FalloutNV.esm:0E32F4			-1	-1	-1	-1	22	-1	-1	-1	4.5	; Vance's 9mm Submachine Gun

@@ -104,9 +104,9 @@ Lƒ`ƒ…[ƒu(Cby.ƒŠƒs[ƒ^[)
 CFƒp[ƒc(ƒXƒiƒCƒp[ƒ‰ƒCƒtƒ‹)
 ƒXƒR[ƒv(ƒgƒŒƒCƒ‹ƒJ[ƒrƒ“)
 ƒ‰ƒ~ƒl[ƒgƒXƒgƒbƒN(ƒgƒŒƒCƒ‹ƒJ[ƒrƒ“)
-Šg’£ƒ}ƒKƒWƒ“(ƒo[ƒ~ƒ“ƒ^[ƒ‰ƒCƒtƒ‹)
-ˆÃŽ‹ƒXƒR[ƒv(ƒo[ƒ~ƒ“ƒ^[ƒ‰ƒCƒtƒ‹)
-ƒTƒCƒŒƒ“ƒT[(ƒo[ƒ~ƒ“ƒ^[ƒ‰ƒCƒtƒ‹)
+Šg’£ƒ}ƒKƒWƒ“(ƒo[ƒ~ƒ“ƒgƒ‰ƒCƒtƒ‹)
+ˆÃŽ‹ƒXƒR[ƒv(ƒo[ƒ~ƒ“ƒgƒ‰ƒCƒtƒ‹)
+ƒTƒCƒŒƒ“ƒT[(ƒo[ƒ~ƒ“ƒgƒ‰ƒCƒtƒ‹)
 ƒRƒ“ƒyƒ“ƒZƒCƒ^[(.45ƒI[ƒgSMG)
 ƒhƒ‰ƒ€ƒ}ƒKƒWƒ“(.45ƒI[ƒgSMG)
 ƒhƒ‰ƒ€ƒ}ƒKƒWƒ“(9mmSMG)
@@ -160,7 +160,7 @@ CFƒtƒŒ[ƒ€(ƒKƒgƒŠƒ“ƒOƒŒ[ƒU[)
 ƒƒ“ƒOƒoƒŒƒ‹(25mmG.APW)
 ‰ü—Çƒp[ƒc(25mmG.APW)
 ƒƒ“ƒOƒoƒŒƒ‹(ƒOƒŒƒl[ƒhƒ‰ƒCƒtƒ‹)
-ƒŠƒgƒ‹ƒ{[ƒCEƒLƒbƒg(ƒtƒ@ƒbƒgƒ}ƒ“)
+ƒŠƒgƒ‹ƒ{[ƒCEƒLƒbƒg(FatMan)
 ‚‘¬ƒLƒbƒg(ƒOƒŒƒl[ƒhƒ}ƒVƒ“ƒKƒ“)
 —U“±ƒVƒXƒeƒ€(ƒ~ƒTƒCƒ‹ƒ‰ƒ“ƒ`ƒƒ[)
 ƒAƒ‹ƒtƒ@ƒXƒgƒ‰ƒCƒN(ƒŒƒbƒhƒOƒŒƒA)
@@ -679,6 +679,7 @@ BB [%]
 .357ƒ}ƒOƒiƒ€ƒŠƒ{ƒ‹ƒo[
 .44ƒ}ƒOƒiƒ€ƒŠƒ{ƒ‹ƒo[
 ƒXƒR[ƒv•t‚«.44ƒ}ƒOƒiƒ€
+ƒo[ƒ~ƒ“ƒgƒ‰ƒCƒtƒ‹
 ƒ}[ƒNƒXƒ}ƒ“ƒJ[ƒrƒ“
 ƒSƒrƒLƒƒƒ“ƒy[ƒ“EƒXƒJƒEƒgƒ‰ƒCƒtƒ‹
 ƒ\[ƒhƒIƒtEƒVƒ‡ƒbƒgƒKƒ“
@@ -775,6 +776,7 @@ NCRŠÏŒõ‹q
 ƒ`ƒƒƒŒƒ“ƒWˆê——
 ŽŸ‚Ìƒy[ƒW
 ƒvƒŠƒ€Œx”õ•º
+Normal
 ƒuƒ‹[
 ƒOƒŠ[ƒ“
 ƒ^ƒoƒR
@@ -1152,7 +1154,7 @@ NCR‚Í‚±‚¤‚¢‚¤‚±‚Æ‚É‚à‚Á‚Æ’ˆÓ‚ð•¥‚¤‚×‚«‚¾‚Ë
 ŒN‚ð‚±‚ÌŠX‚É˜A‚ê‚Ä‚«‚½‚Ì‚ÍŽ„‚¶‚á‚È‚¢
 Ž„‚ª‚Ç‚¤‚â‚Á‚Ä‚±‚±‚É—ˆ‚½‚©‚ª’m‚è‚½‚¢H
 "ƒ}ƒXƒ^["cƒGƒŠƒ„‚ÍƒhƒbƒO‚ÉÌ‚Ì’N‚©‚ðŽv‚¢o‚³‚¹‚éc ”Þ‚ÌŽåcŽi—ßŠ¯cŽi—ßŠ¯’Bc
-‹A‚è“¹‚ÍŠÖŒW‚È‚¢c “¦‚°‚æ‚¤‚ªA”½R‚µ‚æ‚¤‚ªA‚³‚ ‚â‚è’¼‚»‚¤‚ÆŒ¾‚¤‚æ‚è‘‚­—·‚ÍI‚í‚é‚¾‚ë‚¤‚æ
+‹A‚è“¹‚ÍŠÖŒW‚È‚¢c “¦‚°‚æ‚¤‚ªA”½R‚µ‚æ‚¤‚ªA"‚³‚ o”­‚¾"‚ÆŒ¾‚¤‚æ‚è‘‚­—·‚ÍI‚í‚é‚¾‚ë‚¤‚æ
 ‚Ç‚¤‚¾‚©
 ‚¨‚âA—˜Œû‚È‚â‚Â‚¶‚á‚È‚¢‚©B ‰½‚Ì—p‚¾H
 Ž€‚ñ‚Å‚à‚ç‚¤
@@ -1193,6 +1195,22 @@ NCR‚Í‚±‚¤‚¢‚¤‚±‚Æ‚É‚à‚Á‚Æ’ˆÓ‚ð•¥‚¤‚×‚«‚¾‚Ë
 "‚â‚è’¼‚»‚¤A‚Å‚àŽè•ú‚·‚×‚«‚Æ‚«‚à‚ ‚é" ‚Æ‚É‚©‚­‚â‚Á‚Ä‚Ý‚Ü‚µ‚å‚¤
 ‚»‚ê‚©‚çcŒÇ“Æ‚Éœfœr‚¢•à‚¢‚½B ƒfƒBƒoƒCƒh‚Ì—’‚ð–Ú‚Ì“–‚½‚è‚É‚µA¼‚ÌƒTƒCƒtƒ@[ƒY‚Æ‚¢‚¤•”‘°‚ÆŠÖ‚í‚è‚ðŽ‚Á‚½‚è‚µ‚½c ‚»‚µ‚ÄƒrƒbƒOEƒGƒ“ƒvƒeƒB‚É“ž’B‚µ‚½
 ƒhƒbƒO‚ÍŽ©•ªŽ©g‚ð–Y‚êAŽ©•ª‚Ì’†‚©‚ç•·‚±‚¦‚ér‚ê‹¶‚¤º‚à–Y‚ê‚½B ‚»‚ÌŒãAƒ~ƒ…[ƒ^ƒ“ƒg‚ÌŠk‚Ì’†‚©‚çV‚½‚Èº‚ª•·‚±‚¦‚Ä‚«‚½
+ƒŠ[ƒWƒ‡ƒ“‚ÌŽw“±ŽÒ‚ÍƒV[ƒU[‚¾‚¯B“z‚Ì‘ã‚í‚è‚ª–±‚Ü‚éŽÒ‚È‚Ç‚¢‚È‚¢BŽ„‚É‚Íƒ€ƒŠ‚¾B•ºâ‹Šw‚ÉŽã‚¢‚©‚ç‚È
+‚±‚Ìƒ^ƒCƒv‚Ì.45Ž©“®Œe‚Í–ñ400”N‘O‚ÉŽ„‚Ì•”‘°‚ÌŽÒ‚É‚æ‚Á‚ÄÝŒv‚³‚ê‚½B ‚±‚Ìe‚ÌŽg—p–@‚ðŠw‚Ô‚±‚Æ‚Íƒjƒ…[EƒJƒi[ƒ“l‚Ì’Ê‰ß‹V—ç‚È‚Ì‚¾
+Ž„‚Í‰½”N‚à‘O‚É’Ê–ó‚ð‚µ‚Ä‚¢‚½‚ªA•”‘°“à‚É‘¶Ý‚·‚é–³”‚Ìæa‚É‚Â‚¢‚Ä‚¢‚­‚Ì‚Í¢“ï‚¾‚Á‚½
+ŽR‚ÌƒrƒbƒOƒz[ƒi[‚ª‚Ù‚Æ‚ñ‚Ç‚¾‚ÈA‚»‚±‚Ì‚ª‚¯‚Ìã‚É‘å‚«‚È‚Þ‚ê‚ª‚ ‚éB •’i‚Í‚»‚±‚Ü‚ÅƒLƒ‡ƒEƒ{ƒE‚¶‚á‚È‚¢‚ªA‚³‚¢‚«‚ñ‚Íc hoo!
+‚¢‚¢ƒxƒAEƒOƒ[ƒu‚¾‚ËB ‚Ç‚±‚Å“üŽè‚Å‚«‚éH
+‚ ‚È‚½‚ÍƒUƒCƒIƒ“‚ð—£‚ê‚½‚­‚È‚¢B ‚Þ‚µ‚ëƒzƒƒCƒgƒŒƒbƒOƒX‚ð–Å‚Ú‚·‚×‚«‚¾‚Æl‚¦‚Ä‚¢‚é
+‚¤[‚ñA‚ ‚È‚½‚Í‰½‚©‚É‚Æ‚Ä‚à“{‚Á‚Ä‚¢‚é‚ñ‚¶‚á‚È‚¢‚©‚ÆŽv‚¤
+ƒ_ƒjƒGƒ‹‚Í‰äX‚Æƒ\ƒ[ƒY‚ª‘Þ‹Ž‚·‚ê‚ÎAƒzƒƒCƒgEƒŒƒbƒOƒY‚àŽ~‚Ü‚é‚ÆM‚¶‚Ä‚¢‚éB ”Þ‚Í‚±‚ÌŽí‚Ì•”‘°‚Ì‚È‚ñ‚½‚é‚©‚ð‚Ü‚é‚Å—‰ð‚µ‚Ä‚¢‚È‚¢
+‚±‚ÌŽí‚Ì•”‘°‚Æ‚ÍH
+“z‚Í•”‰º‚É‘S‚Ä”C‚¹‚é‚Ì‚Å‚Í‚È‚­A‚Þ‚µ‚ëŽ©‚ç‘„‚ðŽ‚Á‚Ä“G‚ðŽE‚µ‚És‚­
+‹CŽ‚¿‚ÍŠð‚µ‚¢‚ªA\•ª‚¾A‚Å‚«‚é‚±‚Æ‚Í‚È‚É‚à‚È‚¢B ‰äX‚É‰»Šw•¨Ž¿‚ðŽg‚¤KŠµ‚Í‚È‚¢‚ªAŽ„‚Ì‘Ì‚Í‰»Šw•¨Ž¿‚Ì‰e‹¿‚ðŽó‚¯‚È‚¢‚±‚Æ‚ðÌ‚©‚ç’m‚Á‚Ä‚¢‚é
+‹ó‹C‚É‚ðŽN‚¹‚Î‚Ü‚½‚ ‚ÌŽž‚Æ“¯‚¶’É‚Ý‚ÉP‚í‚ê‚éB‚¾‚ª‰õ“K‚³‚æ‚è´Œ‰‚Ì‚Ù‚¤‚ªd—v‚¾
+Ž„‚Íƒƒ“ƒO15(Interstate 15)‚É‰ˆ‚Á‚Äi‚ÝA89(US Route 89)‚ð“ì‚Éi‚ÝƒAƒŠƒ]ƒi‚É“ü‚Á‚½B ‚»‚Ì“r’†‚ÅƒAƒ|ƒJƒŠƒvƒX‚ÌŽg“k‚ÆŒÄ‚Î‚ê‚é‘gD‚ÌA“ñl‚Ì’j‚Éo‰ï‚Á‚½
+ƒGƒhƒ[ƒhEƒTƒƒE‚Æƒrƒ‹EƒJƒ‹ƒt[ƒ“B ”Þ‚ç‚Í•”‘°‚É•¨Ž–‚ð‹³‚¦‚é‚½‚ß‚É—ˆ‚½B ƒJƒ‹ƒt[ƒ“‚Í‚¢‚¢“z‚¾‚Á‚½B ƒGƒhƒ[ƒh‚Í“¹’†‚Ìƒgƒ‰ƒuƒ‹ƒƒCƒJ[‚¾‚Á‚½
+ƒuƒ‰ƒbƒNƒtƒbƒg‚ÍÅ‰‚Í—FD“I‚¾‚Á‚½‚ªAÅI“I‚É‚Íc Ž„‚Í‰½“x‚à‚±‚Ì“ú‚Ì‚±‚Æ‚ðŽv‚¢o‚µ‚½AŽ„‚ª‚È‚É‚©ŠÔˆá‚¦‚ÄŒ¾—t‚ð–ó‚µ‚½‚ç‚µ‚©‚Á‚½
+‰½‚ç‚©‚ÌŒë‰ð‚ª‚ ‚Á‚ÄAƒuƒ‰ƒbƒNƒtƒbƒg‚Í‰äX‚ð•Ô‚³‚È‚¢‚ÆŒˆ‚ß‚½B Žc‚è‚Í—ðŽj‚ªŽ¦‚·’Ê‚èB ƒGƒhƒ[ƒh‚ª‘‚«Š·‚¦‚Ä‚¢‚È‚¯‚ê‚Î‚Ì˜b‚¾‚ª
 •ï‘Ñƒ{ƒbƒNƒX
 ‚Í‚ñ‚¾‚²‚Ä
 ƒOƒŠƒ‹
@@ -1302,7 +1320,7 @@ Size Matters: ‚ ‚È‚½‚Í•Ší‚Ì‘å‚«‚³‚É•À‚È‚ç‚Ê‚±‚¾‚í‚è‚ðŽ‚Á‚Ä‚¢‚Ü‚·B‚±‚Ì”\—Í‚ð1ƒ
 ‘«‚ð•‰‚µ‚½ê‡‘Ò‹@‚ª‚Å‚«‚È‚­‚È‚è‚Ü‚·B ‡–°‚É‚Í‰e‹¿‚ ‚è‚Ü‚¹‚ñB
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒh‚ÌŽüˆÍ‚É‚ ‚é—L“Å”pŠü•¨‚Ìƒv[ƒ‹‚É‘«‚ð“¥‚Ý“ü‚ê‚é‚ÆA‘«‚Æ‘Ì—Í‚ÉŒp‘±“I‚Èƒ_ƒ[ƒW‚ð—^‚¦‚é‚æ‚¤‚É‚È‚è‚Ü‚·B ƒpƒ[ƒA[ƒ}[‚ÆRADƒX[ƒc‚ªƒ_ƒ[ƒW‚ð–h‚¬‚Ü‚·B
 Magnetic Personality: ƒJƒŠƒXƒ}‚ª“’…‚Ì”@‚­ˆì‚êo‚éI ‚ ‚È‚½‚Í‚Æ‚Ä‚àƒ‚ƒe‚é‚Ì‚ÅAƒRƒ“ƒpƒjƒIƒ“‚ð’Ç‰Á‚Åˆêl“¯s‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚·B ‚½‚¾‚µ“¯s‚Å‚«‚él”‚Í3l‚Ü‚Å‚Å‚·B 
-Against All Varmints: ŒÃ‚¢—Fl’B‚ªšº‚ð”í‚Á‚Ä‚¢‚é‚±‚Æ‚É‘Ï‚¦‚ç‚ê‚È‚­‚È‚è‚Ü‚µ‚½B BBƒKƒ“, ƒo[ƒ~ƒ“ƒ^[ƒ‰ƒCƒtƒ‹, ƒVƒ“ƒOƒ‹ƒVƒ‡ƒbƒgƒKƒ“, ƒLƒƒƒ‰ƒoƒ“EƒVƒ‡ƒbƒgƒKƒ“, ‚Ü‚½‚Í10mmƒsƒXƒgƒ‹‹y‚ÑSMG‚ðŽg—p‚·‚é‚Æ, ƒ_ƒ[ƒW‚ª30%‘‰Á‚µ‚Ü‚·B
+Against All Varmints: ŒÃ‚¢—Fl’B‚ªšº‚ð”í‚Á‚Ä‚¢‚é‚±‚Æ‚É‘Ï‚¦‚ç‚ê‚È‚­‚È‚è‚Ü‚µ‚½B BBƒKƒ“, ƒo[ƒ~ƒ“ƒgƒ‰ƒCƒtƒ‹, ƒVƒ“ƒOƒ‹ƒVƒ‡ƒbƒgƒKƒ“, ƒLƒƒƒ‰ƒoƒ“EƒVƒ‡ƒbƒgƒKƒ“, ‚Ü‚½‚Í10mmƒsƒXƒgƒ‹‹y‚ÑSMG‚ðŽg—p‚·‚é‚Æ, ƒ_ƒ[ƒW‚ª30%‘‰Á‚µ‚Ü‚·B
 Plasma Spaz: ‚ ‚È‚½‚Íƒvƒ‰ƒYƒ}‚É‹»•±‚µ‚·‚¬‚ÄŽ©•ªŽ©g‚ð—}‚¦‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñI ‘S‚Ä‚Ìƒvƒ‰ƒYƒ}•Ší(ƒOƒŒƒl[ƒh‚ðŠÜ‚Þ)‚ÌUŒ‚‘¬“x‚ª25%‘‰Á‚µ‚Ü‚·B
 Œy“x‚Ì’E…Çó
 ’†’ö“x‚Ì’E…Çó
