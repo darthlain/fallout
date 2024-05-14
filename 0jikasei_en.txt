@@ -668,9 +668,12 @@ Flechettes
 Alien Power Cell [%]
 Railway Spikes [%]
 Dart [%]
+Spr.
 Slg
 HV
 Hiv.
+OC
+MC
 Silent
 Silenced .22 Pistol
 Silenced .22 SMG
@@ -692,6 +695,8 @@ Machete
 Throwing Tomahawk
 Cosmic Knife Clean
 Cosmic Knife (Clean)
+Corrosive Glove
+Sterilizer Glove
 Frag Grenade
 Star Paladin Cross' Laser Pistol
 Courier Duster
@@ -703,6 +708,8 @@ Composite Recon Helmet
 Red Racer Jumpsuit
 Wastelander's Gear
 Vera's Outfit
+Hazmat Darklight Cowl
+Hazmat Suit
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
@@ -710,6 +717,7 @@ Stimpak, Homemade
 Moonshine
 Dog Stew
 Wasteland Hot Dog
+Irr. Sunset Sars.
 Lad's Life
 Pile of Giant Mantis Eggs
 Vending Machine Code - "Microfusion Cells"
@@ -722,6 +730,8 @@ Fremont Street
 Freeside Outskirts
 Cottonwood Cove Docks
 Ringo's Caravan
+Haggling Harry
+Haggling Harry's Stop & Shop
 Primm Encampment
 Bitter Springs Command Outpost
 Nellis Tunnel South
@@ -1211,6 +1221,37 @@ I traveled along the Long 15 and followed 89 south into Arizona. Along the way, 
 Edward Sallow and Bill Calhoun. They came to teach the tribes. Calhoun was a good man. Edward was the one who got us into trouble down the road.
 We did, and the Blackfoots were friendly enough at first, but eventually... I've thought back to that day so many times I must have mistranslated.
 Something must have been mixed up, because the Blackfoots decided we weren't going to leave. The rest is history, assuming Edward hasn't changed it.
+The White Legs were able to reach us here, but it's only because Zion is close to the Long 15. They can't pursue us east of here. It's too wild.
+Throughout our history, we have called many places Zion. This valley is full of God's beauty, but it's just a place. Zion is more than this.
+If we sacrifice grace for a piece of land, we may live in this valley, but we will no longer dwell in Zion. It's better for us to leave now.
+They're hateful savages who live only to plunder and destroy. Their leader is a devil called Salt-Upon-Wounds.
+We lost the Tar Walkers. And the Crazy Horns. We did our best, but we made mistakes. We paid for them, but they paid more.
+I'd like to get out from under that debt someday. Until then, it's enough to stop ourselves from getting deeper in the hole.
+Really? You think so? Hoo! I'm going to do it. After all this is over, I'm going to go explore civilization!
+Prepare to meet your maker.
+If what you believe is true, he'll pay for it later. The Sorrows don't need to see you do this.
+I want to take from them what they took from me, from my family. In this life. I want them to suffer. I want all of them to die in fear and pain.
+Sometimes I tell myself  that these wild fires never stop burning. But I'm the one who starts them. Not God. Not them.
+I was a sheriff, believe it or not, for a small town far to the west of here.
+The short version is that sometimes justice is a little slow, and I helped speed it up one too many times.
+I understand that Cooke was behind it all. I kept my head down the whole time. Didn't want any part of it.
+Assuming an NCR pardon comes with the job - and it had better - I'll also need to be able to do  things my own way.
+What, my Pip-Boy?
+Are you sure? I'm a good listener. Got the ears for it.
+I'm sometimes called a "Courier."
+And you return, as curious as a teddy bear. Are you stuck in a looping gesture of greeting?
+"Looping gesture of greeting?"
+Doesn't that prove you're wrong?
+Are you... my brain?
+There's no need to be sarcastic. Meeting your own brain is a slightly odd event.
+I thought I'd save everyone some time and just kill you.
+Your Brain
+Not in Goodsprings, no. But if you're up for a little scavenging, there's always the schoolhouse.
+The New California Republic. Bunch of settlers and soldiers coming in from the West, fixing on making Nevada  their own.
+They've been holding off this other group from the East, too.
+A little bit ago the convicts there staged a coup, killed the guards that weren't able to escape, and have been ransacking the area since then.
+Hello there. It's good to see a friendly face. Almost took you for a raider, I did. Name's Malcolm. Malcolm Holmes.
+It started off innocently enough. I was  traveling, as I often do, and happened to observe you picking up one of those blue-star caps.
 Box of Bandages
 Soldering Iron
 Grill
@@ -1322,6 +1363,7 @@ Pools of toxic waste found around the wasteland will now inflict constant leg an
 With the Magnetic Personality perk, you become a fountain of Charisma! Since you're just so likable, you can now recruit an additional companion.  But don't forget, more than 3 is always a crowd.
 You're sick of your old friends collecting dust. You do 30% more damage when using BB Guns, Varmint Rifles, Single Shotguns, Caravan Shotguns, or 10mm Pistols and SMGs.
 You're just so excited about plasma that you can't (magnetically) contain yourself! The attack speed of all plasma weapons (including Plasma Grenades) is increased by 25%.
+You handle animals really well when they are dead and gain a damage bonus against the living ones.
 Minor Dehydration.
 Adv. Dehydration.
 Deadly Dehydration.
