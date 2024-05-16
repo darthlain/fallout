@@ -703,6 +703,9 @@ Courier Duster
 Black Combat Armor
 Regulator Combat Armor, Reinforced
 Commando Armor, Reinforced
+NCR Face Wrap Armor
+NCR Bandoleer Armor
+NCR Mantle Armor
 Salvaged Power Armor
 Composite Recon Helmet
 Red Racer Jumpsuit
@@ -781,11 +784,11 @@ Hired Hand
 Herding dog
 Mercenary Camp
 Mercenary Leader
-Nightkin Elite
 Graveyard
 Challenges
 Next Challenge Type
 Powder Ganger Deputy
+NCR Deputy
 Normal
 Blue
 Green
@@ -1252,6 +1255,16 @@ They've been holding off this other group from the East, too.
 A little bit ago the convicts there staged a coup, killed the guards that weren't able to escape, and have been ransacking the area since then.
 Hello there. It's good to see a friendly face. Almost took you for a raider, I did. Name's Malcolm. Malcolm Holmes.
 It started off innocently enough. I was  traveling, as I often do, and happened to observe you picking up one of those blue-star caps.
+Ahhh! Please don't kill me, I swear I'll have - wait. You... you don't work for Mr. Bishop, do you?
+You're with the NCR, right?
+Uh... no. No. They're gonna think I'm having trouble letting go. They're good soldiers. I don't give them enough credit.
+On better days I help keep the peace. Boone and Vargas watch the road, I watch the town. Tell myself I'm doing some good.
+Hey hey, back for seconds, huh?
+I'm looking for a little R&R.
+How are you today? Santiago is fabulous!
+More of the usual. We're keeping an eye on the troopers to make sure they don't do anything stupid.
+Blake is where, exactly?
+Not the kind of things you like to see go missing.
 Box of Bandages
 Soldering Iron
 Grill

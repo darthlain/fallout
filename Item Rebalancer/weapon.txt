@@ -1,7 +1,7 @@
 ; ID					DAM	CRT	CRCH	SPRD	AP	CND	SKILL	VAL	WGT
 @FalloutNV.esm:0E393B			55	-1	-1	-1	35	-1	-1	-1	5.5	; Single Shotgun
 @FalloutNV.esm:08F216			-1	-1	-1	0.35	23	-1	-1	-1	-1	; .357 Magnum Revolver
-@FalloutNV.esm:08F215			-1	-1	-1	0.35	23	-1	-1	-1	3	; .44 Magnum Revolver
+@FalloutNV.esm:08F215			-1	-1	-1	0.35	22	-1	-1	-1	3	; .44 Magnum Revolver
 @FalloutNV.esm:127C6C			-1	-1	-1	0.3	-1	-1	-1	-1	3.5	; Mysterious Magnum
 @DeadMoney.esm:00BBC2			-1	-1	-1	0.35	-1	-1	-1	-1	-1	; Police Pistol
 @FalloutNV.esm:0E3778			-1	-1	-1	0.55	-1	-1	-1	-1	-1	; 9mm Pistol
@@ -40,3 +40,6 @@
 @OldWorldBlues.esm:0112BA		-1	-1	-1	-1	-1	-1	-1	-1	7.5	; Christine's COS Silencer Rifle
 
 @FalloutNV.esm:1735E4			20	-1	-1	-1	-1	-1	-1	-1	-1	; Mercenary's Grenade Rifle
+@FalloutNV.esm:09073B			-1	-1	-1	-1	-1	-1	-1	-1	5.5	; Laser RCW
+@OldWorldBlues.esm:00B9CF		-1	-1	-1	-1	-1	-1	-1	-1	6	; LAER
+@OldWorldBlues:esm:015DD3		-1	-1	-1	-1	-1	-1	-1	-1	6	; Elijah's advanced LAER
