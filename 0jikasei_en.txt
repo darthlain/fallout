@@ -765,6 +765,7 @@ NCR Recon Unit
 NCR Engineer
 NCR Clerk
 NCR Tourist
+NCR Heavy Trooper
 Legion Hunter
 Legion Prospector
 Fiend Attack Dog
@@ -782,6 +783,7 @@ Human Flesh
 Super-Mutant
 Hired Hand
 Herding dog
+Raider Camp
 Mercenary Camp
 Mercenary Leader
 Graveyard
@@ -1265,6 +1267,13 @@ How are you today? Santiago is fabulous!
 More of the usual. We're keeping an eye on the troopers to make sure they don't do anything stupid.
 Blake is where, exactly?
 Not the kind of things you like to see go missing.
+Seen them grow from a single town - Shady Sands - into the republic. They've done good for the most part.
+Actually, do you want to tag along with me?
+Raul, I think I need to head on without you.
+Civilizing Primm will show what we can do for everyone else in these territories.
+Sure, boss.
+Where to, pardner?
+Hey, here is that gun I promised you. I suggest using it while they are talking, I'm pretty sure they're going to kill you after they've talked.
 Box of Bandages
 Soldering Iron
 Grill
