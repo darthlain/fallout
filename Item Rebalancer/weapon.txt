@@ -12,14 +12,11 @@
 @GunRunnersArsenal.esm:000852		-1	-1	-1	0.25	-1	-1	-1	-1	-1	; Hunting Revolver (GRA)
 @FalloutNV.esm:08F213			-1	-1	-1	0.55	-1	-1	-1	-1	-1	; 12.7mm Pistol
 @GunRunnersArsenal.esm:000805		-1	-1	-1	0.5	-1	-1	-1	-1	-1	; Li'l Devil
-@GunRunnersArsenal.esm:000812		-1	-1	-1	0.25	-1	-1	-1	-1	-1	; Battle Rifle
-@FalloutNV.esm:0F062B			-1	-1	-1	0.2	-1	-1	-1	-1	-1	; This Machine
+@GunRunnersArsenal.esm:000812		-1	-1	-1	0.35	-1	-1	-1	-1	-1	; Battle Rifle
+@FalloutNV.esm:0F062B			-1	-1	-1	0.3	-1	-1	-1	-1	-1	; This Machine
 @FalloutNV.esm:07EA24			20	20	1.5	-1	30	-1	-1	-1	-1	; Vermint Rifle
 @FalloutNV.esm:00434C			-1	-1	-1	2.5	-1	-1	-1	-1	-1	; Sawed-off Shotgun
 @FalloutNV.esm:1673CD			-1	-1	-1	2	-1	-1	-1	-1	-1	; Big Boomer
-@GunRunnersArsenal.esm:000813		24	24	-1	0.35	-1	-1	-1	-1	3.5	; 5.56mm Pistol
-@FalloutNV.esm:133058			26	26	-1	0.3	-1	-1	-1	-1	3.5	; That Gun
-@GunRunnersArsenal.esm:000806		24	24	-1	0.55	-1	-1	-1	-1	-1	; Bozar
 @DeadMoney.esm:00A7A9			-1	-1	-1	1.6	-1	-1	-1	-1	-1	; Automatic Rifle
 @FalloutNV.esm:0E377A			-1	-1	-1	-1	-1	-1	-1	-1	1.5	; Silenced .22 Pistol
 @FalloutNV.esm:08F218			-1	-1	-1	-1	-1	-1	-1	-1	6	; Silenced .22 SMG
@@ -28,7 +25,7 @@
 @FalloutNV.esm:0E32F4			-1	-1	-1	-1	24	-1	-1	-1	4.5	; Vance's 9mm Submachine Gun
 @FalloutNV.esm:0CD53A			-1	-1	-1	-1	24	-1	-1	-1	4.5	; Caravan Shotgun
 @FalloutNV.esm:1735E3			-1	-1	-1	2.2	24	-1	-1	-1	5	; Sturdy Caravan Shotgun
-@FalloutNV.esm:08ED0C			-1	-1	-1	1.7	22	-1	-1	-1	4	; Lever-action Shotgun
+@FalloutNV.esm:08ED0C			-1	-1	-1	1.7	22	-1	-1	-1	-1	; Lever-action Shotgun
 
 @FalloutNV.esm:004333			-1	-1	-1	-1	-1	120	-1	-1	-1	; Hunting Rifle
 @FalloutNV.esm:121148			-1	-1	-1	-1	-1	-1	-1	-1	7	; Brush Gun
