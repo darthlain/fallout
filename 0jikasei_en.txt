@@ -726,7 +726,9 @@ Pile of Giant Mantis Eggs
 Vending Machine Code - "Microfusion Cells"
 Legion Raid Camp
 Griffin Wares Sacked Caravan
+Wrecked Highwayman
 Correctional Facility Yard
+Legion Dead Drop
 The Ultra-Luxe
 The King's School of Impersonation
 Fremont Street
@@ -1283,6 +1285,22 @@ I've run with some tough gangs, but I gotta admit they add got nothing on the Le
 Be careful. You may want to talk to Lieutenant Hayes.
 He's in a tent down the road. Just stay on the west side of the overpass if you don't want to get shot.
 Wait - you're that courier. Hey. know what Boxcars needs, friend? Some fucking pain relief!
+Yes, but you're on a short leash.
+Fair enough. Maybe one day I'll have your complete trust, and I can be on a long leash. A girl can dream.
+Corporal Betsy's coming to you to fix her brain. It's not workng right.
+I'm just another Wasteland wanderer. Why the suspicion?
+You've got a sharp eye on you. I take it you like guns, huh? Question is, can you handle more than just a weapon...
+What's that about knowing how to handle more than just a weapon?
+We ain't ordinary, are we? See, I pack good brass up with slow-burning powder, then cap it with a heavy semiwadcutter bullet.
+That's how you make .44 ammo that'll put the fear of the heavens on any waster that dare cross your path.
+So long, warrior.
+Schematics - .44 Magnum, Hand Load
+And that my employer is paying me a pretty penny to loot it.
+This slave is wearing a standard issue slave collar.
+<Strenght, Repair or Science> Trigger explosion
+What can I do about that?
+Tell you what. I'll pay you for what you did, but I'll do you one better, too.
+There's a move we have in the Rangers for knocking an opponent off his feet. Saved my butt a bunch of times, maybe it will for you too.
 Box of Bandages
 Soldering Iron
 Grill
