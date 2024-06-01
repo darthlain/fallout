@@ -254,6 +254,7 @@ Breakdown .308 JSP Hand Load
 .38 Spc.
 .38 Special, FMJ
 Case, .357 Magnum
+Case Box, .357 Magnum
 Breakdown .357 Magnum
 Breakdown .357 Magnum Round
 Breakdown .357 Magnum Hollow Point
@@ -276,6 +277,7 @@ Case, .38 Special
 .44 Spc.
 .44 Special, FMJ
 Case, .44 Magnum
+Case Box, .44 Magnum
 Breakdown .44 Magnum
 Breakdown .44 Magnum Round
 Breakdown .44 Magnum Hollow Point
@@ -369,6 +371,7 @@ Ammo Box, 5mm Surplus
 5.56mm, Match Hand Load (GRA)
 5.56mm, Match (Hand Load)
 Case, 5.56mm
+Case Box, 5.56mm
 Breakdown 5.56mm
 Breakdown 5.56mm Armor Piercing
 Breakdown 5.56mm Hollow Point
@@ -414,6 +417,7 @@ Breakdown 9mm JHP Hand Load
 10mm, JHP (Hand Load)
 10mm Round, Armor Piercing
 Case, 10mm
+Case Box, 10mm
 Breakdown 10mm
 Breakdown 10mm Hollow Point
 Breakdown 10mm JHP Hand Load
@@ -1301,6 +1305,19 @@ This slave is wearing a standard issue slave collar.
 What can I do about that?
 Tell you what. I'll pay you for what you did, but I'll do you one better, too.
 There's a move we have in the Rangers for knocking an opponent off his feet. Saved my butt a bunch of times, maybe it will for you too.
+You see that you and I are of a different stripe, don't you? We don't have to dream that we're important. We are.
+Ready to try your luck?
+Luck's about to change, I can feel it.
+You're the talk of the day around the casino tables.
+Step up to the tables, let's see what you got.
+I've heard about you.
+Almost outta caps...
+Roulette, blackjack, slots... they have it all here.
+Such a small thing, isn't it? And yet so... capacious. So very dear.
+I hear Benny got force-fed a little slice of heaven. Man what I would have paid to see that loathesome little weasel eat it.
+Why is surplus ammo not good?
+Special ammo includes things like armor-piercing bullets which don't hurt the target as much but let you punch through armor easier.
+There's also hollow point bullets which have the opposite effect - you can kill unarmored targets easier, but they don't do shit against armor.
 Box of Bandages
 Soldering Iron
 Grill
