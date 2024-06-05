@@ -772,6 +772,7 @@ NCR Engineer
 NCR Clerk
 NCR Tourist
 NCR Heavy Trooper
+NCR Lieutenant
 Legion Hunter
 Legion Prospector
 Fiend Attack Dog
@@ -1318,6 +1319,19 @@ I hear Benny got force-fed a little slice of heaven. Man what I would have paid 
 Why is surplus ammo not good?
 Special ammo includes things like armor-piercing bullets which don't hurt the target as much but let you punch through armor easier.
 There's also hollow point bullets which have the opposite effect - you can kill unarmored targets easier, but they don't do shit against armor.
+How may I serve your Legion, Caesar?
+Down the hill, at the west edge of camp, is an old building. It was here when the Fort was taken in 2277.
+When Paladin Ramos informed me that Veronica was approaching with an outsider in tow, at first I didn't know what to think.
+Report anything you find to me, and we'll move from there.
+We're a tiny splinter from a shrinking group. We don't take on new members. But we're still picking fights with the big boys.
+Sorry about that. Just because I love them doesn't mean some of them aren't assholes.
+Now that the datastore is fixed, what do you think of Hardin trying to get McNamara dismissed?
+This little stunt is probably what got them killed in the first place. Out normal patrol routes are known to be relatively safe.
+Don't get me wrong, he's a good man, but Elder McNamara's done all right by us. If it weren't for him, none of us would have survivied at HELIOS.
+And those involved crimes that someone like Elder McNamara is just not capable of. You can look it up for yourself, if you want.
+That place was hardly defensible, and we knew the NCR was moving in on us, but the Elder refused to budge, insisting that he just needed "more time".
+Elder Elijah was nowhere to be found, so McNamara took charge and led what remained of us on a counter-offensive west.
+We lost a lot of men and women, but we broke through and made it here. Make no mistake, McNamara saved this chapter that day.
 Box of Bandages
 Soldering Iron
 Grill
