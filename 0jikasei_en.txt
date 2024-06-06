@@ -820,6 +820,7 @@ Squatter's Encampment
 Highway 95 Viper's Encampment
 Vipers' Lair
 Abandoned Mine
+Abandoned Brotherhood Safehouse
 Novac Sewer
 Greenblood Caves
 Infested NCR Bunker Lower Level
@@ -1332,6 +1333,16 @@ And those involved crimes that someone like Elder McNamara is just not capable o
 That place was hardly defensible, and we knew the NCR was moving in on us, but the Elder refused to budge, insisting that he just needed "more time".
 Elder Elijah was nowhere to be found, so McNamara took charge and led what remained of us on a counter-offensive west.
 We lost a lot of men and women, but we broke through and made it here. Make no mistake, McNamara saved this chapter that day.
+That they have not responded to this violence shows either an unwillingness or inability to properly defend their borders, which is telling.
+...So now I'm going to have your death on my conscience, too. Great.
+Maybe you misheard me.
+I've been trying to get the Elder to send out scouts for years, and he's always been resistant to the idea. Said they'd be a vulnerability.
+I could hardly call myself Head Paladin if I didn't. It's one of the first things every initiate learns when they start training. What about it?
+One of the few times an Elder was dismissed was due to it.
+I could be wrong, but I think that's a dead end. McNamara's always followed orders, and we've been incommunicado since fleeing HELIOS.
+Right the first time, ugly. I've come to kill you.
+They say those robots on the Strip are running around with different faces or something. Don't ask, because I don't know...
+Pleasure doing business with you.
 Box of Bandages
 Soldering Iron
 Grill
