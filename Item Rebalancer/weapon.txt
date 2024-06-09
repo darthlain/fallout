@@ -1,8 +1,8 @@
 ; ID					DAM	CRT	CRCH	SPRD	AP	CND	SKILL	VAL	WGT
 @FalloutNV.esm:0E393B			55	-1	-1	-1	35	-1	-1	-1	4.5	; Single Shotgun
-@FalloutNV.esm:08F216			-1	-1	-1	0.4	22	-1	-1	-1	-1	; .357 Magnum Revolver
-@FalloutNV.esm:08F215			39	39	-1	0.4	23	-1	-1	-1	3	; .44 Magnum Revolver
-@FalloutNV.esm:127C6C			45	45	-1	0.35	-1	-1	-1	-1	3.5	; Mysterious Magnum
+@FalloutNV.esm:08F216			-1	-1	-1	-1	23	-1	-1	-1	-1	; .357 Magnum Revolver
+@FalloutNV.esm:08F215			39	39	-1	0.5	-1	-1	-1	-1	3	; .44 Magnum Revolver
+@FalloutNV.esm:127C6C			45	45	-1	0.4	-1	-1	-1	-1	3.5	; Mysterious Magnum
 @FalloutNV.esm:0E3778			-1	-1	-1	0.55	-1	-1	-1	-1	-1	; 9mm Pistol
 @FalloutNV.esm:00434F			-1	-1	-1	0.6	-1	-1	-1	-1	-1	; 10mm Pistol
 @FalloutNV.esm:1734D4			-1	-1	1.5	0.6	-1	-1	-1	-1	-1	; Weathered 10mm Pistol
@@ -16,15 +16,15 @@
 @GunRunnersArsenal.esm:000812		-1	-1	-1	0.4	-1	-1	-1	-1	-1	; Battle Rifle
 @FalloutNV.esm:0F062B			-1	-1	-1	0.35	-1	-1	-1	-1	-1	; This Machine
 @FalloutNV.esm:07EA24			20	20	1.5	-1	30	-1	-1	-1	4.5	; Vermint Rifle
-@FalloutNV.esm:0E5817			-1	-1	-1	-1	-1	-1	-1	-1	5.5	; Ratslayer
+@FalloutNV.esm:0E5B17			-1	-1	-1	-1	-1	-1	-1	-1	5.5	; Ratslayer
 @FalloutNV.esm:00434C			-1	-1	-1	2.5	-1	-1	-1	-1	-1	; Sawed-off Shotgun
 @FalloutNV.esm:1673CD			-1	-1	-1	2	-1	-1	-1	-1	-1	; Big Boomer
 @DeadMoney.esm:00A7A9			-1	-1	-1	1.6	-1	-1	-1	-1	-1	; Automatic Rifle
 @FalloutNV.esm:0E377A			-1	-1	-1	-1	-1	-1	-1	-1	1.5	; Silenced .22 Pistol
 @FalloutNV.esm:08F218			-1	-1	-1	-1	-1	-1	-1	-1	6.5	; Silenced .22 SMG
 
-@FalloutNV.esm:08F217			-1	-1	-1	-1	23	-1	-1	-1	5	; 9mm Submachine Gun
-@FalloutNV.esm:0E32F4			-1	-1	-1	-1	23	-1	-1	-1	5	; Vance's 9mm Submachine Gun
+@FalloutNV.esm:08F217			-1	-1	-1	-1	22	-1	-1	-1	5	; 9mm Submachine Gun
+@FalloutNV.esm:0E32F4			-1	-1	-1	-1	22	-1	-1	-1	5	; Vance's 9mm Submachine Gun
 @FalloutNV.esm:0CD53A			-1	-1	-1	-1	23	-1	-1	-1	5.5	; Caravan Shotgun
 @FalloutNV.esm:1735E3			-1	-1	-1	2.2	23	-1	-1	-1	6	; Sturdy Caravan Shotgun
 @FalloutNV.esm:08ED0C			-1	-1	-1	-1	-1	-1	-1	-1	3.5	; Lever-action Shotgun
@@ -42,3 +42,27 @@
 
 @FalloutNV.esm:004330			-1	-1	-1	1	-1	-1	-1	50	-1	; Frag Grenade
 @HonestHearts.esm:00BCB4		-1	-1	-1	-1	-1	-1	-1	35	-1	; Fire Bomb
+
+@FalloutNV.esm:015163			-1	-1	-1	-1	-1	-1	-1	25	0.01	; Buffout
+@FalloutNV.esm:015164			-1	-1	-1	-1	-1	-1	-1	50	0.1	; Jet
+@FalloutNV.esm:015165			-1	-1	-1	-1	-1	-1	-1	25	0.01	; Mentats
+@FalloutNV.esm:015166			-1	-1	-1	-1	-1	-1	-1	50	0.1	; Psycho
+@FalloutNV.esm:0CB5A9			-1	-1	-1	-1	-1	-1	-1	25	0.01	; Fixer
+@FalloutNV.esm:07EA1B			-1	-1	-1	-1	-1	-1	-1	25	0.01	; Cateye
+@FalloutNV.esm:0CEA5F			-1	-1	-1	-1	-1	-1	-1	50	0.1	; Rebound
+@FalloutNV.esm:050F8F			-1	-1	-1	-1	-1	-1	-1	50	0.1	; Med-X
+@FalloutNV.esm:015168			-1	-1	-1	-1	-1	-1	-1	25	0.01	; Rad-X
+@FalloutNV.esm:015167			-1	-1	-1	-1	-1	-1	-1	50	0.1	; RadAway
+@FalloutNV.esm:0E2C6F			-1	-1	-1	-1	-1	-1	-1	50	0.5	; Antivenom
+@FalloutNV.esm:120D81			-1	-1	-1	-1	-1	-1	-1	200	0.5	; Turbo
+@FalloutNV.esm:13B2C3			-1	-1	-1	-1	-1	-1	-1	200	0.5	; Hydra
+@FalloutNV.esm:0CED8C			-1	-1	-1	-1	-1	-1	-1	200	0.5	; Steady
+@FalloutNV.esm:009180			-1	-1	-1	-1	-1	-1	-1	75	-1	; Rushing Water
+@FalloutNV.esm:146CCB			-1	-1	-1	-1	-1	-1	-1	75	0.01	; Party time Mentats
+@FalloutNV.esm:146CCD			-1	-1	-1	-1	-1	-1	-1	100	0.1	; Rocket
+@FalloutNV.esm:146CCA			-1	-1	-1	-1	-1	-1	-1	100	0.1	; Slasher
+@FalloutNV.esm:0C9CF4			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Ultrajet
+@DeadMoney.esm:012C38			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Ghost Sight
+@FalloutNV.esm:122B49			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Dixon's Jet
+@FalloutNV.esm:167476			-1	-1	-1	-1	-1	-1	-1	75	-1	; Mother Darkness
+@FalloutNV.esm:167477			-1	-1	-1	-1	-1	-1	-1	150	-1	; Tremble
