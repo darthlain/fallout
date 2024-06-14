@@ -703,6 +703,8 @@ Corrosive Glove
 Sterilizer Glove
 Frag Grenade
 Star Paladin Cross' Laser Pistol
+Arcade's Ripper
+Arcade's Plasma Defender
 Courier Duster
 Black Combat Armor
 Regulator Combat Armor, Reinforced
@@ -783,6 +785,8 @@ Chairman
 Chairman Greeter
 Gomorrah Prostitute
 Boomer Explorer
+Brotherhood Procurement Specialist
+Junk Merchant
 The Forecaster
 House: Reloading Bench
 Human Fresh
@@ -1343,6 +1347,28 @@ I could be wrong, but I think that's a dead end. McNamara's always followed orde
 Right the first time, ugly. I've come to kill you.
 They say those robots on the Strip are running around with different faces or something. Don't ask, because I don't know...
 Pleasure doing business with you.
+Well, it's about about damn time. What took you... oh.
+I've been in the Reaper's shadow for a long time now, and I though he'd finally showed up to collect. He's just mocking me now.
+Yeah, you do that.
+Just let me know if you're available for the op. After what they did to Searchlight, they have a shitstorm coming.
+I'll give you some caps for each one you bring back to me. There's an old rifle in it for you if you can bring me at least 10.
+Oh and take these radiation supplies. You'll need them.
+You aren't feral, are you?
+Couldn't you tell? That damn radiation bomb got me. I can't serve the NCR like this...
+Doesn't mean he isn't suffering, or that he won't go feral eventually.
+If he's a ghoul he should be put down. I can't let a rabid dog suffer.
+Is there somewhere else he can go?
+I'll go ask him about it.
+Good luck with that.
+The weir dest one has to be the Great Khans and their trained Deathclaws at Foxtrot. These reports can't be accurate. Can they?
+Maybe fifty rangers wil die on that dam. We lose over a thousand troopers every year. Being here is crazy. Getting out's the only sane thing to do.
+But you're inventing your own intelligence reports. I've seen the logs and talked to the rangers.
+It took some people getting killed to realize I had gone too far. I had to stop.
+That shot came from the Chief's office!
+At least with the lockdown lifted I'll be able to resupply my store more often. So what are you here for?
+Your Pip-Boy has received a signal telling you to continue up this pass.
+How can I best use your skills?
+I just think we should right now.
 Box of Bandages
 Soldering Iron
 Grill
@@ -1455,6 +1481,7 @@ With the Magnetic Personality perk, you become a fountain of Charisma! Since you
 You're sick of your old friends collecting dust. You do 30% more damage when using BB Guns, Varmint Rifles, Single Shotguns, Caravan Shotguns, or 10mm Pistols and SMGs.
 You're just so excited about plasma that you can't (magnetically) contain yourself! The attack speed of all plasma weapons (including Plasma Grenades) is increased by 25%.
 You handle animals really well when they are dead and gain a damage bonus against the living ones.
+With the Bloody Mess Perk, characters and creatures you kill will often explode into a red, gut-ridden, eyeball-strewn paste. Fun! Oh, and you'll do 5% extra damage with all weapons.
 Minor Dehydration.
 Adv. Dehydration.
 Deadly Dehydration.
