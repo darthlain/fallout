@@ -117,6 +117,7 @@ Varmint rifle silencer
 12.7mm SMG laser sight
 12.7mm SMG stacked magazine
 12.7mm SMG suppressor
+12.7mm SMG Silencer
 Sil. .22 SMG exp. drums
 Hunting shotgun long tube
 Hunting shotgun choke
@@ -706,6 +707,8 @@ Star Paladin Cross' Laser Pistol
 Arcade's Ripper
 Arcade's Plasma Defender
 Courier Duster
+Ulysses' Duster
+Ulysses' Mask
 Black Combat Armor
 Regulator Combat Armor, Reinforced
 Commando Armor, Reinforced
@@ -719,11 +722,13 @@ Wastelander's Gear
 Vera's Outfit
 Hazmat Darklight Cowl
 Hazmat Suit
+Breathing Mask
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
 Stimpak, Homemade
 Moonshine
+MRE
 Dog Stew
 Wasteland Hot Dog
 Irr. Sunset Sars.
@@ -753,6 +758,7 @@ The Fort Summit
 Deathclaw Promontory
 Dog
 Wasteland Traveler
+Wasteland Wanderer
 Veteran Hunter
 Scavenger's Dog
 Hunter's Dog
@@ -788,6 +794,7 @@ Boomer Explorer
 Brotherhood Procurement Specialist
 Junk Merchant
 The Forecaster
+Moneygrubber
 House: Reloading Bench
 Human Fresh
 Human Flesh
@@ -798,6 +805,7 @@ Raider Camp
 Mercenary Camp
 Mercenary Leader
 Graveyard
+Repair Kit
 Challenges
 Next Challenge Type
 Powder Ganger Deputy
@@ -1369,6 +1377,15 @@ At least with the lockdown lifted I'll be able to resupply my store more often. 
 Your Pip-Boy has received a signal telling you to continue up this pass.
 How can I best use your skills?
 I just think we should right now.
+What are you planning to do once you have the specs?
+You're resourceful. That machine, robot with you - can help you find the warheads you need to destroy... and their trigger, the detonator.
+You and that machine, are all that remains of NCR here... rest fell to radiation, fire... and what burrows below.
+All due respect sir, I think you're making a mistake. We're close to a break through with the Duraframe Eyebots, I can feel it! Yes, sir.
+Yeah, I'm beginning to see where you get it from.
+That was a .308 round. Probably hand-loaded - that would have destroyed most robots your size.
+Elevator to the Temple
+What happened at the Divide, what I did, was an accident. What you're doing - it's madness.
+Even if you have no faith in the NCR, I do. My actions have proven it.
 Box of Bandages
 Soldering Iron
 Grill
