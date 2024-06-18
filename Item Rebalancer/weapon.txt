@@ -43,6 +43,7 @@
 @LonesoneRoad.esm:00925E		-1	-1	-1	-1	-1	-1	50	-1	-1	; H&H Tools Nail Gun
 @FalloutNV.esm:004326			-1	-1	-1	-1	-1	-1	25	-1	-1	; Combat Knife
 @FalloutNV.esm:11A8B9			-1	-1	-1	-1	-1	-1	50	-1	-1	; Fire Axe
+@GunRunnersArsenal.esm:000817		-1	-1	-1	-1	-1	-1	50	1250	-1	; Katana
 @FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	50	-1	-1	; Thump-Thump
 @FalloutNV.esm:1735E4			20	-1	-1	-1	-1	-1	-1	-1	-1	; Mercenary's Grenade Rifle
 @GunRunnersArsenal.esm:00081B		-1	-1	-1	-1	-1	-1	50	2100	-1	; 25mm Grenade APW
