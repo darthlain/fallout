@@ -1499,6 +1499,35 @@ Against All Varmints: 古い友人達が埃を被っていることに耐えられなくなりました。 B
 Plasma Spaz: あなたはプラズマに興奮しすぎて自分自身を抑えることができません！ 全てのプラズマ武器(グレネードを含む)の攻撃速度が25%増加します。
 Animal Control: 動物に対してダメージボーナスを獲得し、かつ死んだ動物に対してのアイテムの獲得量が多くなります
 Bloody Mess: 殺した敵が爆発して内臓や目玉が飛び散り、周囲を赤く染めます。 楽しいですね！…おっと、ついでに全ての武器で5%の追加ダメージを与えることが出来ます
+In Shining Armor (DM)
+Junk Rounds (DM)
+Light Touch (DM)
+Old World Gourmet (DM)
+And Stay Back (DM)
+Heavyweight (DM)
+Hobbler (DM)
+Grunt (HH)
+Home on the Range (HH)
+Sneering Imperialist (HH)
+Tribal Wisdom (HH)
+Fight the Power! (HH)
+Eye for Eye (HH)
+Atomic! (OWB)
+Mile in Their Shoes (OWB)
+Them'S Good Eatin' (OWB)
+Implant GRX (OWB)
+Alertness (LR)
+Irradiated Beauty (LR)
+Voracious Reader (LR)
+Lessons Learned (LR)
+Tunnel Runner (LR)
+Roughin' It (LR)
+Burden to Bear (LR)
+Broad Daylight (LR)
+Ain't Like That Now (LR)
+Just Lucky I'm Alive (LR)
+Thought You Died (LR)
+Mad Bomber (GRA)
 軽度の脱水症状
 中程度の脱水症状
 重度の脱水症状

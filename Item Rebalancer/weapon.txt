@@ -41,7 +41,6 @@
 @FalloutNV.esm:08ED0A			-1	-1	-1	-1	-1	-1	-1	-1	7	; Riot Shotgun
 
 @LonesoneRoad.esm:00925E		-1	-1	-1	-1	-1	-1	50	-1	-1	; H&H Tools Nail Gun
-
 @FalloutNV.esm:004326			-1	-1	-1	-1	-1	-1	25	-1	-1	; Combat Knife
 @FalloutNV.esm:11A8B9			-1	-1	-1	-1	-1	-1	50	-1	-1	; Fire Axe
 @FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	50	-1	-1	; Thump-Thump

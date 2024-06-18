@@ -1499,6 +1499,35 @@ You're sick of your old friends collecting dust. You do 30% more damage when usi
 You're just so excited about plasma that you can't (magnetically) contain yourself! The attack speed of all plasma weapons (including Plasma Grenades) is increased by 25%.
 You handle animals really well when they are dead and gain a damage bonus against the living ones.
 With the Bloody Mess Perk, characters and creatures you kill will often explode into a red, gut-ridden, eyeball-strewn paste. Fun! Oh, and you'll do 5% extra damage with all weapons.
+In Shining Armor
+Junk Rounds
+Light Touch
+Old World Gourment
+And Stay Back
+Heavyweight
+Hobbler
+Grunt
+Home on the Range
+Sneering Imperialist
+Tribal Wisdom
+Fight the Power!
+Eye for Eye
+Atomic!
+Mile in Their Shoes
+Them's Good Eatin'
+Implant GRX
+Alertness
+Irradiated Beauty
+Voracious Reader
+Lessons Learned
+Tunnel Runner
+Roughin' It
+Burden to Bear
+Broad Daylight
+Ain't Like That now
+Just Lucky I'm Alive
+Thought You Died
+Mad Bomber
 Minor Dehydration.
 Adv. Dehydration.
 Deadly Dehydration.
