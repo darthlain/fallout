@@ -46,7 +46,7 @@
 @GunRunnersArsenal.esm:000817		-1	-1	-1	-1	-1	-1	50	1250	-1	; Katana
 @FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	50	-1	-1	; Thump-Thump
 @FalloutNV.esm:1735E4			20	-1	-1	-1	-1	-1	-1	-1	-1	; Mercenary's Grenade Rifle
-@GunRunnersArsenal.esm:00081B		-1	-1	-1	-1	-1	-1	50	2100	-1	; 25mm Grenade APW
+@GunRunnersArsenal.esm:00081B		-1	-1	-1	-1	-1	-1	-1	2100	-1	; 25mm Grenade APW
 @FalloutNV.esm:09073B			-1	-1	-1	-1	-1	-1	-1	-1	5.5	; Laser RCW
 @OldWorldBlues.esm:00B9CF		-1	-1	-1	-1	-1	-1	-1	-1	6	; LAER
 @OldWorldBlues:esm:015DD3		-1	-1	-1	-1	-1	-1	-1	-1	6	; Elijah's advanced LAER
