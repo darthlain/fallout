@@ -1,30 +1,33 @@
 ; ID					DAM	CRT	CRCH	SPRD	AP	CND	SKILL	VAL	WGT
 @FalloutNV.esm:0E393B			55	-1	-1	-1	35	-1	-1	-1	4.5	; Single Shotgun
 @FalloutNV.esm:08F216			-1	-1	-1	-1	23	-1	-1	-1	-1	; .357 Magnum Revolver
+@FalloutNV.esm:0E2C86			-1	-1	-1	-1	-1	-1	-1	-1	-1	; Lucky
 @FalloutNV.esm:08F215			39	39	-1	0.5	-1	-1	-1	-1	3	; .44 Magnum Revolver
 @FalloutNV.esm:127C6C			45	45	-1	0.4	-1	-1	-1	-1	3.5	; Mysterious Magnum
-@FalloutNV.esm:0E3778			-1	-1	-1	0.55	-1	-1	-1	-1	-1	; 9mm Pistol
-@FalloutNV.esm:00434F			-1	-1	-1	0.6	-1	-1	-1	-1	-1	; 10mm Pistol
-@FalloutNV.esm:1734D4			-1	-1	1.5	0.6	-1	-1	-1	-1	-1	; Weathered 10mm Pistol
+@FalloutNV.esm:0E3778			-1	-1	-1	0.6	-1	-1	-1	-1	-1	; 9mm Pistol
+@FalloutNV.esm:0E7655			-1	-1	-1	0.3	-1	-1	-1	-1	-1	; Maria
+@FalloutNV.esm:00434F			-1	-1	-1	0.7	-1	-1	-1	-1	-1	; 10mm Pistol
+@FalloutNV.esm:1734D4			-1	-1	1.5	0.7	-1	-1	-1	-1	-1	; Weathered 10mm Pistol
 @HonestHearts.esm:008E1A		-1	-1	-1	0.6	-1	-1	-1	-1	-1	; .45 Auto Pistol
 @FalloutNV.esm:08F214			-1	-1	-1	0.25	-1	-1	-1	-1	-1	; Hunting Revolver
 @GunRunnersArsenal.esm:000852		-1	-1	-1	0.25	-1	-1	-1	-1	-1	; Hunting Revolver (GRA)
+@FalloutNV.esm:129A44			-1	-1	-1	-1	-1	-1	-1	-1	-1	; Ranger Sequoia
 @FalloutNV.esm:08F213			43	43	-1	0.6	-1	-1	-1	-1	-1	; 12.7mm Pistol
 @GunRunnersArsenal.esm:000805		48	48	-1	0.55	-1	-1	-1	-1	-1	; Li'l Devil
-@GunRunnersArsenal.esm:000813		24	24	-1	-1	-1	-1	-1	-1	3.5	; 5.56mm Pistol
+@GunRunnersArsenal.esm:000813		24	24	-1	-1	-1	-1	25	-1	3.5	; 5.56mm Pistol
 @FalloutNV.esm:133058			26	26	-1	-1	-1	-1	-1	-1	3.5	; That Gun
-@GunRunnersArsenal.esm:000812		-1	-1	-1	0.4	-1	-1	-1	-1	-1	; Battle Rifle
+@GunRunnersArsenal.esm:000812		-1	-1	-1	0.4	-1	-1	50	-1	-1	; Battle Rifle
 @FalloutNV.esm:0F062B			-1	-1	-1	0.35	-1	-1	-1	-1	-1	; This Machine
 @FalloutNV.esm:07EA24			20	20	1.5	-1	30	-1	-1	-1	4.5	; Vermint Rifle
-@FalloutNV.esm:0E5B17			-1	-1	-1	-1	-1	-1	-1	-1	5.5	; Ratslayer
-@FalloutNV.esm:00434C			-1	-1	-1	2.5	-1	-1	-1	-1	-1	; Sawed-off Shotgun
+@FalloutNV.esm:0E5B17			-1	-1	-1	-1	-1	-1	50	-1	5.5	; Ratslayer
+@FalloutNV.esm:00434C			-1	-1	-1	2.5	-1	-1	25	-1	-1	; Sawed-off Shotgun
 @FalloutNV.esm:1673CD			-1	-1	-1	2	-1	-1	-1	-1	-1	; Big Boomer
-@DeadMoney.esm:00A7A9			-1	-1	-1	1.6	-1	-1	-1	-1	-1	; Automatic Rifle
+@DeadMoney.esm:00A7A9			-1	-1	-1	1.6	-1	-1	50	-1	-1	; Automatic Rifle
 @FalloutNV.esm:0E377A			-1	-1	-1	-1	-1	-1	-1	-1	1.5	; Silenced .22 Pistol
 @FalloutNV.esm:08F218			-1	-1	-1	-1	-1	-1	-1	-1	6.5	; Silenced .22 SMG
 
 @FalloutNV.esm:08F217			-1	-1	-1	-1	22	-1	-1	-1	5	; 9mm Submachine Gun
-@FalloutNV.esm:0E32F4			-1	-1	-1	-1	22	-1	-1	-1	5	; Vance's 9mm Submachine Gun
+@FalloutNV.esm:0E32F4			-1	-1	-1	-1	22	-1	50	-1	5	; Vance's 9mm Submachine Gun
 @FalloutNV.esm:0CD53A			-1	-1	-1	-1	23	-1	-1	-1	5.5	; Caravan Shotgun
 @FalloutNV.esm:1735E3			-1	-1	-1	2.2	23	-1	-1	-1	6	; Sturdy Caravan Shotgun
 @FalloutNV.esm:08ED0C			-1	-1	-1	-1	-1	-1	-1	-1	3.5	; Lever-action Shotgun
@@ -38,7 +41,13 @@
 @GunRunnersArsenal.esm:00084E		-1	-1	-1	-1	-1	-1	-1	-1	8	; 12.7mm Submachine Gun (GRA)
 @FalloutNV.esm:08ED0A			-1	-1	-1	-1	-1	-1	-1	-1	7	; Riot Shotgun
 
+@LonesoneRoad.esm:00925E		-1	-1	-1	-1	-1	-1	50	-1	-1	; H&H Tools Nail Gun
+
+@FalloutNV.esm:004326			-1	-1	-1	-1	-1	-1	25	-1	-1	; Combat Knife
+@FalloutNV.esm:11A8B9			-1	-1	-1	-1	-1	-1	50	-1	-1	; Fire Axe
+@FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	50	-1	-1	; Thump-Thump
 @FalloutNV.esm:1735E4			20	-1	-1	-1	-1	-1	-1	-1	-1	; Mercenary's Grenade Rifle
+@GunRunnersArsenal.esm:00081B		-1	-1	-1	-1	-1	-1	50	2100	-1	; 25mm Grenade APW
 @FalloutNV.esm:09073B			-1	-1	-1	-1	-1	-1	-1	-1	5.5	; Laser RCW
 @OldWorldBlues.esm:00B9CF		-1	-1	-1	-1	-1	-1	-1	-1	6	; LAER
 @OldWorldBlues:esm:015DD3		-1	-1	-1	-1	-1	-1	-1	-1	6	; Elijah's advanced LAER

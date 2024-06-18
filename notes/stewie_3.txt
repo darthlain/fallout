@@ -1,0 +1,78 @@
+
+b24HourClock = 1
+24時間形式
+
+bAddRGBSliders = 1
+HUDカラーのRGBスライダーを追加
+
+bAimingSpeed = 0
+エイム中の移動ペナルティーをなくす
+
+bBetterPickupPrompt = 1
+アイテムあさり時のプロンプト強化
+
+bCacheQuestAndNoteMenu = 1
+なんかよくわからないが高速化するらしい
+
+bCompassHeightIndicator = 1
+NPCコンパス上下表示
+
+bCookableGrenades = 0
+手榴弾の攻撃ボタンを押した瞬間から一定時間で爆発する
+
+bDebugLockpickMenu = 0
+ロックピックチート
+
+bDecreasedDialogueClickDelay = 1
+ダイアログのディレイがなくなる
+
+bDescriptiveMarkerAddedMessage = 1
+マーカーが追加されたときに場所の名前が表示される
+
+bDeselectQuests = 1
+アクティブなクエストの選択を解除できる
+
+bDesableTutorialMessages = 1
+チュートリアルを削除
+
+bFasterHackingTransition = 1
+ハッキング後の遅延を短縮
+
+bFasterSleepWait = 1
+待機時間のカウント速度上昇
+
+bFasterTitleMenu = 1
+タイトル画面短縮
+
+bKeepPipboyLightOnCellChange = 1
+外部セルに入ったときにPip-Boyのライト状態を維持する
+
+bLevelUpScrollWheelSupport = 1
+スキルポイントを割り当てるときにスクロールホイールのサポート
+
+bManualReload = 1
+マニュアルリロード
+
+bNoAutoContinueDialog = 1
+ダイアログオートを無効
+
+bRemoveDownloadsButton = 1
+メインメニューのダウンロードボタンを削除
+
+bShowWeaponAmmoUseInMenus = 1
+武器がショット毎に使用する弾薬の量を表示
+
+bSightingNodeSupport = 1
+アイアンサイト照準をサポート
+
+bTickFix = 1
+よくわからんバグフィックス
+
+bVatsExitKey = 1
+VATSを即座に終了するキーを追加
+
+bKeepCrosshair = 1
+アイアンサイトで照準時クロスが見えるようにする
+
+bDisableInteriorFog = 1
+室内の霧効果を無効

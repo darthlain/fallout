@@ -1,0 +1,141 @@
+NV (NOT TTW) 個人的MOD整理
+別に必須系でも書くとは限らない
+
+
+
+lStewieAI's Tweaks and Engine Fixes
+たくさんの良機能を追加するMOD 設定しないと効果なし
+最初ini自体は空(というかファイル自体がないっぽい)でゲームのオプションから設定しなきゃっぽい
+
+Stewie Tweaks Essentials INI
+stewieの最低限の設定？
+
+(Outdated) Inactive Window Scroll Fix
+別ウインドウスクロール問題の解決 一回alt-tabしないと機能しない
+stewieに同じ機能のやつがあるがなんか機能しない (アプデで改善されたかも 知らない)
+
+VATS Lag Fix
+VATSのラグを完全になくす 有能
+
+Further 3rd Person Camera
+fallout3のように 3人称カメラの距離を自キャラからかなり離すことができるようになる
+
+Faster Terminals
+端末高速化 stewieにあるかもわからん
+
+5x faster waiting v2
+waitを高速化
+
+Brighter Larger Radius Pip-Boy Light
+ピップボーイのライトを明るくする x5使用
+
+Faster Pip-Boy Animation (2x)
+ピップボーイを覗くアニメーションを高速化
+
+Menus (自作)
+自作のMenusからAキーを別キーに変えてwasdできるようにってmod
+
+Take All Button R
+アイテム出し入れ画面のMenus
+
+Easy Unlocking
+Easy Hacking
+ロックピックとハッキングのチート stewieにあるかも
+
+Rhonda the Merchant
+クリムゾンキャラバンにロンダというなんでも売っている系の売人を追加する デバッグで使用
+
+Neotropic's Weapon Display (Non HUD Version)
+武器の詳細なステータスをゲーム画面で確認できる デバッグで使用
+
+JAM - Just Assorted Mods
+複数の便利機能を追加 照準やらスプリントやら
+
+Primary Needs HUD
+色んな情報を画面に出すやつ HARDCOREステと時間だけにして使っている
+
+Delay DLC Redux
+DLCクエストのお知らせを良さげに遅らせる
+
+Better Character Creation
+最初のステ振りを高速に
+
+Uncut Wasteland
+なんかカットされたコンテンツを復元するらしい
+
+The Living Desert
+Mojave Raiders
+Mojave Wildlife
+ロアなNPC増やす系
+
+NPC's Sprint In Combat
+近接のNPCが素早く走って迫ってくる
+
+NVMMP - New Vegas Map Marker Project
+マップマーカーを増やす
+
+Harder Better Faster Stronger (Standard)
+トレードの金銭価値をいい感じにより厳しくする
+
+Vigor - A Vanilla JSawyer Fork
+JSawyerフォーク ロアな感じでよさげ
+
+Agility Affects Movement Speed
+Agilityが移動速度に影響するように
+
+True Fallout 3 Aiming
+一人称エイムのアイアンサイトを無効化しfallout3ライクに
+
+--------------------------------------------------------------------------------
+* 使ってない 以前使っていた *
+--------------------------------------------------------------------------------
+
+Dead Money - No Collar Explosion and No Poison Cloud Damage
+DeadMoneyを簡単にするMOD 使ったことない
+
+JSawyer Ultimate Edition
+以前使ってたがvigorのほうが良さげ
+
+famine - A loot rarity mod
+戦利品をスクリプトで少なくするMOD?
+
+Gun Runners' Arsenal Merged
+(GRA)を削除する？ 似たようなMojaveArsenalより良さげだったと思う vigor導入で引退
+
+Hunting Revolver Iron Sights
+ハンティングリボルバーのアイアンサイトをプラグインで追加
+
+Vicious Wastes
+バランス調整Mod .22ピストルで無双できる残念具合だったような記憶
+
+A World of (Less) Pain
+ロアっぽく？ ダンジョンを増やす 合わなかった
+
+Blitz - VATS Melle Range Increase
+fo4のblitzっぽく近接vatsの距離を伸ばす 面白かったけど無双ゲーになった 特にモラレスの死体で屋根に登れたのが印象に残った
+
+A World Of Pain
+色々増やす 非ロアな感じなので合わなかった
+
+--------------------------------------------------------------------------------
+* 必須っぽいけどなんで必要なのかよく知らないMOD達 *
+--------------------------------------------------------------------------------
+
+JIP LN NVSE Plugin
+JohnnyGuitar NVSE
+NVTF - New Vegas Tick Fix
+UIO - User Interface Organizer
+The Mod Configuration Menu
+Yukichigai Unofficial Patch - YUP
+Unofficial Patch NVSE Plus
+Combat Lag Fix (NVSE)
+ShowOff xNVSE Plugin
+Show Off INI
+GECK Extender
+kNVSE Animation Plugin
+FNV Mod Limit Fix
+ISControl Enabler and Ironsights adjuster
+Throwable Weapon Fixes
+Improved Lighting Shaders
+Crash Logger
+White Legs Hostile - Honest Hearts Faction Fix

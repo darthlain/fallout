@@ -1,0 +1,245 @@
+lStewieAI's Tweaks and Engine Fixes 個人的メモ
+
+--------------------------------------------------------------------------------
+* New *
+--------------------------------------------------------------------------------
+bMapSelectableCompanions = 1
+離れてるコンパニオンを召喚できるようになるっぽい
+
+bWaterSourcesShowH20 = 0
+H20表示みたいなやつ？
+
+bAutoUnlockTerminals = 1
+ハッキングのミニゲーム無効？
+
+bHiddenFragsFix = 1
+ゴーストピープルのガスタンクを爆発させることができる？
+
+bWeaponModdingSkillRequirement = 1
+武器の改造にスキルが必要になる
+
+bForceHiResWeaponModels = 1
+NPCの武器が一人称用の高画質なものに切り替わる
+
+bMaxVATSDistanceUsesWeaponRange = 1
+VATSの武器の命中率がその武器のSpreadが影響するようになる？
+
+bShowModNameInPerkDescriptions = 0
+perkの説明にそのmod名を含ませる
+
+bPreventTeammateFootstepSounds
+コンパニオンが足音を立てなくなる
+
+bSemiAutoQueue
+よくわからん セミオートに関するもの オート化とか？
+
+bVATSTargetPlayerProjectiles
+VATSで自分が投げたものも対象にできる
+
+bReloadWhileFiring
+射撃アニメの間もリロードできるように
+
+--------------------------------------------------------------------------------
+* 注意 *
+--------------------------------------------------------------------------------
+
+bMapLocationDisplayDistance = 0
+マップ画面の地名の名前に距離を追加する 日本語表記が改善する
+
+bBarterAffectsRepairCosts = 1
+NPCの修理コストをBarterで軽減できる
+
+bCompassFadeLeftSide = 1
+コンパスのフェード？
+
+bCompassLocationDistanceBasedAlpha = 1
+コンパスのフェード
+
+bCompassNPCHeightIndicator = 1
+コンパスのNPCの高低差の表現
+
+bFastTravelCostsSpecialNukaBottles = 0
+ファストトラベルで特殊コーラを消費する
+
+bIgnoreCompanionsVATS = 0
+VATSからコンパニオンを削除する
+
+bNoAudioDistortion = 1
+NPCの音声の歪みを排除
+
+bNoCompanionKillXP = 1
+コンパニオンが得た経験値を得るのを無効
+
+bNoFastTravelIfLegsCrippled = 0
+足を負傷してるときはファストトラベルを禁止する
+
+bNoFreeBarterItems = 1
+薬莢などを無料でなくする
+
+bNoHealingInCombat = 0
+戦闘時に回復禁止
+
+bNoLockEncounterZoneLevels = 1
+スポーンのレベル固定を無効
+
+bNoRedCrosshairOnEnemies = 1
+敵にクロスヘアをあわせたときに色が赤に変わるのを無効
+
+bNPCsDropLiveGrenades = 1
+NPCがグレネードを投げる直前で麻痺や死亡した場合に爆発するグレネードを落とす
+
+bRemoveLandingAnim = 1
+ジャンプ着陸時のアニメ再生をオフに
+
+bShowDoorsOnCompass = 1
+コンパスに近くのドアを表示する
+
+bShowInventorySortButton = 1
+インベントリのソートボタンを表示する
+
+bWeaponRequirementsMatter = 1
+必要なSTRとスキルがなければ武器を装備できない
+
+bWeightlessWornArmor = 0
+装備アーマーを重量に数えない
+
+bWeightlessWornPowerArmor = 1
+装備中のパワーアーマーを重量に数えない
+
+bUseCustomBarterPriceMultipliers = 1
+fBuyMultAid = 1.700000
+fBuyMultAmmo = 1.700000
+fBuyMultArmor = 1.700000
+fBuyMultMisc = 1.700000
+fBuyMultWeapon = 1.700000
+fBuyMultWeaponMod = 1.300000
+fSellMultAid = 0.300000
+fSellMultAmmo = 0.300000
+fSellMultArmor = 0.300000
+fSellMultMisc = 0.300000
+fSellMultWeapon = 0.300000
+fSellMultWeaponMod = 0.300000
+売り買いの乗数を変更
+
+--------------------------------------------------------------------------------
+* 良さげA *
+--------------------------------------------------------------------------------
+
+bLightStepAffectsCompanions = 1
+プレイヤーのLightStepをコンパニオンにも適応する
+
+bUseWeaponRepairKitsInRepairMenu = 1
+武器修理メニューに修理キットを表示
+
+bAllowOpenPipboyDuringCameraShake = 1
+画面が揺れているときでもPIPBOYを開ける
+
+bAllowVATSWhileAnimsPlay = 1
+キャラアニメーション再生中にキャンセルしてVATSを発動できる
+
+bDisableCompanionKillcam = 1
+コンパニオンのキルカメラ無効
+
+bNoAutoContinueDialog = 1
+会話をオートで読むのを無効
+
+bNoDropWeaponSoundOnPlayerDeath = 1
+ゲームオーバー時装備が外れる音を出さないようにする
+
+bNoFoodWornOffMessage = 1
+多分食品の薬品みたいなメッセージの無効
+
+bNoHackingRetryDelay = 1
+ハッキングのリトライのディレイを無効
+
+bShowCurrencyInContainers = 1
+Miscページに派閥通貨を置く
+
+bRecentlyDeadNPCIndicator = 1
+死んだNPCにカーソルを合わせるまでコンパスに表示する
+
+bUnequipWeaponMods = 1
+武器MODを外せるようになる
+
+bColorWeaponCndLabel = 1
+低CNDの武器の色を変えて警告する
+
+bMarkNotesUnread = 1
+右クリックでそのノートを未読にできる
+
+bPauseHolotapes = 1
+ダブルタップでホロテープの再生を一時停止できる
+
+bSortEquipableAmmo = 1
+アイテム画面で装備可能な弾薬が一番上に並べ替えられる
+
+b24HourSleepWaitClock = 1
+待機の時間表記が24時間形式になる
+
+bStatsMenuPercentageXP = 1
+経験値を%で表示する
+
+bUsingKeysRewardsXP = 1
+ロックピックでなく鍵を使って開けても経験値がもらえる
+
+bHideCursorInDialog = 0
+対話中にマウスカーソルを非表示にする
+(対話中に取引画面になることがあって、これが1だとカーソルが見えないまま取引しないといけなくなる)
+
+ManualReload
+RememberWeaponAmmos
+bRemoveDownloadsButton = 1
+
+--------------------------------------------------------------------------------
+* 良さげB *
+--------------------------------------------------------------------------------
+
+bSleepWaitSliderShowsWakeTime = 1
+待機画面でいつ待機が終わるかが表示される
+
+bStrengthAffectsAllThrowables = 0
+近接投擲のStrengthのペナルティーがグレネードや地雷にも適応される
+
+bTargetProjectilesInVATS = 1
+Vatsで投擲物を撃てるようになる
+
+bVATSAPDisplayIncludesReloadCost = 1
+VATS時にリロードコストを表示する
+
+bAdjustableScopeZoom = 1
+ホイールでスコープのズーム
+
+bClearNearbyPlayerMarker = 1
+マーカーが近くにある場合は削除する
+
+bNoMapMarkerAddedPopup = 1
+新規ロケーションマーカーが追加された時のメッセージを無効にする
+
+bPreventStealingCapsAfterRepair = 1
+NPCの修理代金は販売に回される
+
+bRemoveDeadNPCCrippleCriticalMessages = 1
+たぶん死亡したNPCのクリティカル等のメッセージを無効にする
+
+bSilentSneakPowerAttacks = 1
+スニークアタック時大声を上げない
+
+bVATSAutoTargetHead = 1
+VATS時に最初に頭に選択を合わせる
+
+--------------------------------------------------------------------------------
+* 知らん *
+--------------------------------------------------------------------------------
+
+bChallengeMenuIcons = 1
+bAddNightVisionToggle = 1
+bAgilityScalesJumpHeight = 0
+bAmmoLabelUseLongName = 0
+bNPCsDetectMineExplosions = 1
+bShowBarterTotalWhenOverSellLimit = 1
+bSwapAmmoWithWeaponHolstered = 0
+bSynchronizeContainerCategories = 0
+iDateFormat = 2
+
+bUseWASDAsArrowKeys = 1
+bAlwaysAllowWASD = 1
