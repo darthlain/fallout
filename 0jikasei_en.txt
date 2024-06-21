@@ -697,6 +697,7 @@ Baseball bat
 Baseball bat (GRA)
 Axe
 Machete
+Machete Gladius
 Throwing Tomahawk
 Cosmic Knife Clean
 Cosmic Knife (Clean)
@@ -1386,6 +1387,28 @@ That was a .308 round. Probably hand-loaded - that would have destroyed most rob
 Elevator to the Temple
 What happened at the Divide, what I did, was an accident. What you're doing - it's madness.
 Even if you have no faith in the NCR, I do. My actions have proven it.
+Don't get me wrong - the NCR's got a lot of decent folk in it. It's just that they make you part of them whether you like it or not.
+Can you repair my stuff by chance?
+You are too weak to use this weapon.
+Sign says you go south... just look for the rollercoaster. Oh and don't go north, a caravan just got sacked up the road.
+The mine was broken when disarmed.
+You should talk to Lieutenant Hayes. He's in a tent down the road. Just stay on the west side of the overpass if you don't want to get shot.
+I'm Lieutenant Hayes of the New California Republic Army, 5th Battalion, 1st Company. What's your business?
+I'm Sergeant McGee of the New California Republic Army, 5th Battalion, 1st Company. If you want to talk about something, speak to Lieutenant Hayes.
+Aaron Kimball, the president of the New California Republic, is going to visit Hoover Dam to "boost morale."
+So I finally get to meet the courier who's caused so much trouble for the New California Republic.
+Welcome to Vegas, capital of the sixth state of the New California Republic!
+What's the New California Republic?
+As a young man I was taught to venerate President Tandi of Shady Sands. "The Founding Mother of the New California Republic."
+The New California Republic's got the most power in Nevada. Money, troops, you name it.
+This? This is - or was - the big house. The New California Republic Correctional Facility. Not much "correcting" went on here, just slave labor.
+It is because of men and women like Private First Class Jeremy Watson that Nevada and the New California Republic remain free and secure.
+Private First Class Jeremy Watson, on behalf of the senate and people of the New California Republic,
+It is my pleasure to introduce to you. The President of the New California Republic, Aaron Kimball!
+beneath the flag of the New California Republic, dedicated to Old World values of democracy and the rule of law.
+Clanden, under the authority of the New California Republic, I place you under arrest for murder.
+Where do you come from that you haven't heard of the NCR? Nevermind, it doesn't matter much.
+Well, it's no secret. Our interest here is twofold.
 Box of Bandages
 Soldering Iron
 Grill

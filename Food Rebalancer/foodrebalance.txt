@@ -2,6 +2,8 @@ Vigor YUP
 今のところNVのみ TTWは非対応
 Survivalスキルの値に応じて回復量が上がるのを考慮する
 
+medicineの価値を高めたいと思ったが あんま出来良くないかも
+
 NAME				H2O	FOD	HP
 アリの卵				15->2
 アリの肉				25->5
