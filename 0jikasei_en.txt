@@ -1390,6 +1390,7 @@ Even if you have no faith in the NCR, I do. My actions have proven it.
 Don't get me wrong - the NCR's got a lot of decent folk in it. It's just that they make you part of them whether you like it or not.
 Can you repair my stuff by chance?
 You are too weak to use this weapon.
+You are too weak and inexperienced to use this weapon.
 Sign says you go south... just look for the rollercoaster. Oh and don't go north, a caravan just got sacked up the road.
 The mine was broken when disarmed.
 You should talk to Lieutenant Hayes. He's in a tent down the road. Just stay on the west side of the overpass if you don't want to get shot.
@@ -1409,6 +1410,10 @@ beneath the flag of the New California Republic, dedicated to Old World values o
 Clanden, under the authority of the New California Republic, I place you under arrest for murder.
 Where do you come from that you haven't heard of the NCR? Nevermind, it doesn't matter much.
 Well, it's no secret. Our interest here is twofold.
+Then I bid you "Vale" - until we meet again.
+Heard you helped out Jackson, thanks for that. Caravans are still waiting for clearance to move out, but at least there's movement.
+What are those statues of?
+Hey, you're not a ghoul!
 Box of Bandages
 Soldering Iron
 Grill
@@ -1574,6 +1579,7 @@ Dead Mole Rat
 Dead Giant Ant
 Dead Mirelurk
 Dead Cazador
+Dead Ghoul
 Which limb would you like to heal?
 All
 Nevermind
