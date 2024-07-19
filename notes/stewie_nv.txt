@@ -21,8 +21,8 @@ bWeaponModdingSkillRequirement = 1
 bForceHiResWeaponModels = 1
 NPCの武器が一人称用の高画質なものに切り替わる
 
-bMaxVATSDistanceUsesWeaponRange = 1
-VATSの武器の命中率がその武器のSpreadが影響するようになる？
+bMaxVATSDistanceUsesWeaponRange = 0
+VATS発動の射程がその武器のSpreadが影響するようになる
 
 bShowModNameInPerkDescriptions = 0
 perkの説明にそのmod名を含ませる

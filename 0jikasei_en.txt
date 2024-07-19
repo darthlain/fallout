@@ -1390,6 +1390,7 @@ Even if you have no faith in the NCR, I do. My actions have proven it.
 Don't get me wrong - the NCR's got a lot of decent folk in it. It's just that they make you part of them whether you like it or not.
 Can you repair my stuff by chance?
 You are too weak to use this weapon.
+You are too inexperienced to use this weapon.
 You are too weak and inexperienced to use this weapon.
 Sign says you go south... just look for the rollercoaster. Oh and don't go north, a caravan just got sacked up the road.
 The mine was broken when disarmed.
@@ -1414,6 +1415,10 @@ Then I bid you "Vale" - until we meet again.
 Heard you helped out Jackson, thanks for that. Caravans are still waiting for clearance to move out, but at least there's movement.
 What are those statues of?
 Hey, you're not a ghoul!
+Well... that was a bit messier than I would have liked. Was there anything else?
+Go right ahead, trooper.
+To be frank, I have no idea. I leave the fighting to Colonel Hsu, and I expect him to leave the science to me.
+Too many people have opinions on things they know nothing about. And the more ignorant they are, the more opinions they have.
 Box of Bandages
 Soldering Iron
 Grill
