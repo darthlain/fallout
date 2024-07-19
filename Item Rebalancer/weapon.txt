@@ -21,12 +21,13 @@
 @FalloutNV.esm:0E5B17			-1	-1	-1	-1	-1	-1	50	-1	-1	; Ratslayer
 @FalloutNV.esm:00434C			-1	-1	-1	2.5	-1	-1	-1	-1	-1	; Sawed-off Shotgun
 @FalloutNV.esm:1673CD			-1	-1	-1	2	-1	-1	-1	-1	-1	; Big Boomer
-@DeadMoney.esm:00A7A9			-1	-1	-1	1.6	-1	-1	-1	-1	-1	; Automatic Rifle
+@DeadMoney.esm:00A7A9			-1	-1	-1	1.2	-1	-1	-1	-1	-1	; Automatic Rifle
 @FalloutNV.esm:0E377A			-1	-1	-1	-1	-1	-1	-1	-1	1.5	; Silenced .22 Pistol
 @FalloutNV.esm:08F218			-1	-1	-1	-1	-1	-1	-1	-1	6.5	; Silenced .22 SMG
 
-@FalloutNV.esm:08F217			-1	-1	-1	-1	22	-1	-1	-1	4.5	; 9mm Submachine Gun
-@FalloutNV.esm:0E32F4			-1	-1	-1	-1	22	-1	50	-1	5	; Vance's 9mm Submachine Gun
+@FalloutNV.esm:08F217			-1	-1	-1	1.8	22	-1	-1	-1	4.5	; 9mm Submachine Gun
+@FalloutNV.esm:0E32F4			-1	-1	-1	-1	22	-1	50	-1	5.5	; Vance's 9mm Submachine Gun
+@FalloutNV.esm:004321			-1	-1	-1	2	-1	-1	-1	-1	-1	; 10mm Submachine Gun
 @FalloutNV.esm:0CD53A			-1	-1	-1	-1	23	-1	-1	-1	4.5	; Caravan Shotgun
 @FalloutNV.esm:1735E3			-1	-1	-1	2.2	23	-1	-1	-1	5	; Sturdy Caravan Shotgun
 @FalloutNV.esm:08ED0C			-1	-1	-1	-1	-1	-1	-1	-1	4	; Lever-action Shotgun
@@ -42,9 +43,21 @@
 @HonestHearts.esm:00996C		-1	-1	-1	-1	-1	-1	-1	-1	9.5	; .45 Auto Submachine Gun
 
 @GunRunnersArsenal.esm:000817		-1	-1	-1	-1	-1	-1	-1	1250	-1	; Katana
-@FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	50	-1	-1	; Thump-Thump
-@FalloutNV.esm:1735E4			20	-1	-1	-1	-1	-1	-1	-1	-1	; Mercenary's Grenade Rifle
+@GunRunnersArsenal.esm:000807		-1	-1	-1	-1	-1	-1	-1	3900	-1	; Nuka-Breaker
+@GunRunnersArsenal.esm:000810		-1	-1	-1	-1	-1	-1	-1	7500	-1	; Greased Lightning
+@GunRunnersArsenal.esm:000803		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Sprtel-Wood 9700
+@GunRunnersArsenal.esm:00080A		-1	-1	-1	-1	-1	-1	-1	15000	-1	; The Smitty Special
+@GunRunnersArsenal.esm:000809		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Two-Step Goodbye
+@GunRunnersArsenal.esm:000805		-1	-1	-1	-1	-1	-1	-1	8000	-1	; Li'l Devil
+@GunRunnersArsenal.esm:000806		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Bozar
+@GunRunnersArsenal.esm:00080B		-1	-1	-1	-1	-1	-1	-1	4500	-1	; Cleansing Flame
+@GunRunnersArsenal.esm:000808		-1	-1	-1	-1	-1	-1	-1	4500	-1	; Embrace of the Mantis King!
+
+@FalloutNV.esm:0FF576			-1	-1	-1	-1	-1	-1	50	-1	-1	; Grenade Rifle
+@FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	75	-1	-1	; Thump-Thump
+@FalloutNV.esm:1735E4			20	-1	-1	-1	-1	-1	25	-1	-1	; Mercenary's Grenade Rifle
 @GunRunnersArsenal.esm:00081B		-1	-1	-1	-1	-1	-1	-1	2100	-1	; 25mm Grenade APW
+
 @FalloutNV.esm:09073B			-1	-1	-1	-1	-1	-1	-1	-1	5.5	; Laser RCW
 @OldWorldBlues.esm:00B9CF		-1	-1	-1	-1	-1	-1	-1	-1	6	; LAER
 @OldWorldBlues:esm:015DD3		-1	-1	-1	-1	-1	-1	-1	-1	6	; Elijah's advanced LAER
