@@ -32,7 +32,7 @@
 @FalloutNV.esm:1735E3			-1	-1	-1	2.2	23	-1	-1	-1	5	; Sturdy Caravan Shotgun
 @FalloutNV.esm:08ED0C			-1	-1	-1	-1	-1	-1	-1	-1	4	; Lever-action Shotgun
 
-@FalloutNV.esm:004333			-1	-1	-1	-1	-1	120	-1	-1	7	; Hunting Rifle
+@FalloutNV.esm:004333			-1	-1	-1	-1	-1	120	75	-1	7	; Hunting Rifle
 @FalloutNV.esm:004353			-1	-1	-1	-1	-1	-1	-1	-1	9.5	; Sniper Rifle
 @FalloutNV.esm:1429E1			-1	-1	-1	-1	-1	-1	-1	-1	6	; Gobi Compaign Scout Rifle
 @OldWorldBlues.esm:0112BA		-1	-1	-1	-1	-1	-1	-1	-1	7	; Christine's COS Silencer Rifle
@@ -66,6 +66,9 @@
 
 @FalloutNV.esm:004330			-1	-1	-1	-1	-1	-1	-1	50	-1	; Frag Grenade
 @HonestHearts.esm:00BCB4		-1	-1	-1	-1	-1	-1	-1	35	-1	; Fire Bomb
+
+@FalloutNV.esm:073D57			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Bandana
+@FalloutNV.esm:17409D			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Jessup's bandana
 
 @FalloutNV.esm:015163			-1	-1	-1	-1	-1	-1	-1	25	0.01	; Buffout
 @FalloutNV.esm:015164			-1	-1	-1	-1	-1	-1	-1	50	0.1	; Jet

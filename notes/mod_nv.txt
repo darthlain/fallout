@@ -11,8 +11,8 @@ Stewie Tweaks Essentials INI
 stewieの最低限の設定？
 
 (Outdated) Inactive Window Scroll Fix
-別ウインドウスクロール問題の解決 一回alt-tabしないと機能しない
-stewieに同じ機能のやつがあるがなんか機能しない (アプデで改善されたかも 知らない)
+別ウインドウスクロール問題の解決 自環境では一回alt-tabしないと機能しない
+stewieに同じ機能のやつがあるがなんか機能しない
 
 VATS Lag Fix
 VATSのラグを完全になくす 有能
@@ -42,9 +42,6 @@ Easy Unlocking
 Easy Hacking
 ロックピックとハッキングのチート stewieにあるかも
 
-Rhonda the Merchant
-クリムゾンキャラバンにロンダというなんでも売っている系の売人を追加する デバッグで使用
-
 Neotropic's Weapon Display (Non HUD Version)
 武器の詳細なステータスをゲーム画面で確認できる デバッグで使用
 
@@ -60,6 +57,9 @@ DLCクエストのお知らせを良さげに遅らせる
 Better Character Creation
 最初のステ振りを高速に
 
+Enhanced Item Info - Extra UI HUD
+インベントリ画面で武器の要求スキルを見るのに使ってる
+
 Uncut Wasteland
 なんかカットされたコンテンツを復元するらしい
 
@@ -74,9 +74,6 @@ NPC's Sprint In Combat
 NVMMP - New Vegas Map Marker Project
 マップマーカーを増やす
 
-Harder Better Faster Stronger (Standard)
-トレードの金銭価値をいい感じにより厳しくする
-
 Vigor - A Vanilla JSawyer Fork
 JSawyerフォーク ロアな感じでよさげ
 
@@ -85,6 +82,15 @@ Agilityが移動速度に影響するように
 
 True Fallout 3 Aiming
 一人称エイムのアイアンサイトを無効化しfallout3ライクに
+
+New Vegas Uncut系 (作者moburma80のやつ)
+uncut系modたくさん 5はおすすめ 8も一度は見ておきたい
+
+Harder Better Faster Stronger (Standard)
+トレードの金銭価値をいい感じにより厳しくする
+
+Rhonda the Merchant
+クリムゾンキャラバンにロンダというなんでも売っている系の売人を追加する デバッグで使用
 
 --------------------------------------------------------------------------------
 * 使ってない 以前使っていた *

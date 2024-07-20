@@ -794,6 +794,7 @@ Gomorrah Prostitute
 Boomer Explorer
 Brotherhood Procurement Specialist
 Junk Merchant
+Destitute Traveler
 The Forecaster
 Moneygrubber
 House: Reloading Bench
@@ -1331,6 +1332,7 @@ Roulette, blackjack, slots... they have it all here.
 Such a small thing, isn't it? And yet so... capacious. So very dear.
 I hear Benny got force-fed a little slice of heaven. Man what I would have paid to see that loathesome little weasel eat it.
 Why is surplus ammo not good?
+What makes the surplus ammo inferior?
 Special ammo includes things like armor-piercing bullets which don't hurt the target as much but let you punch through armor easier.
 There's also hollow point bullets which have the opposite effect - you can kill unarmored targets easier, but they don't do shit against armor.
 How may I serve your Legion, Caesar?
@@ -1419,6 +1421,23 @@ Well... that was a bit messier than I would have liked. Was there anything else?
 Go right ahead, trooper.
 To be frank, I have no idea. I leave the fighting to Colonel Hsu, and I expect him to leave the science to me.
 Too many people have opinions on things they know nothing about. And the more ignorant they are, the more opinions they have.
+Back home we don't waste time talking to strangers, either.
+The Strip ain't nothing but a monster. Chews folks up, sucks out their caps, and spits 'em back out.
+I sat down at a roulette table with my life savings. An hour later, it was gone.
+Our guys put the Monorail back to work!
+I won big my first night on the Strip. I kept chasing that feeling. Right into the gutter.
+I came east to strike it rich, and now I'm broker than ever. What do I tell my family back home?
+Go ahead.
+Tell you what. I'll pay for what you did, but I'll do you one  better, too.
+Don't worry, I won't have you lashed to a cross like the rest of these degenerates. It's useful that you happened by.
+I want you to witness the fate of the town of Nipton, to memorize every detail. And then, when you move on?
+I want you to teach everyone you meet the lesson that Caesar's Legion taught here, especially any NCR troops you run across.
+I am Vulpes Inculta, of Caesar's Legion. I serve my master as the greatest of his Frumentarii.
+What can be said? He's a man of towering intellect, the founder of the Legion, conquerer of 86 tribes.
+Don't worry, you'll know him well when you serve him. Or you'll be dead.
+First up was the "lucky losers." They got decapitated - guess that's "lucky" 'cause it's pretty quick.
+Clear out the critters on the road to Ivanpah Lake.
+Don't mistake that for coward talk, though. We're a town of survivors. We'll fight tooth and nail if pushed, but we don't go looking for trouble.
 Box of Bandages
 Soldering Iron
 Grill
