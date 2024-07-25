@@ -8,8 +8,8 @@
 @FalloutNV.esm:00434F			-1	-1	-1	0.7	-1	-1	-1	-1	-1	; 10mm Pistol
 @FalloutNV.esm:1734D4			-1	-1	1.5	0.7	-1	-1	-1	-1	-1	; Weathered 10mm Pistol
 @HonestHearts.esm:008E1A		-1	-1	-1	0.6	-1	-1	-1	-1	-1	; .45 Auto Pistol
-@FalloutNV.esm:08F214			-1	-1	-1	0.25	-1	-1	-1	-1	-1	; Hunting Revolver
-@GunRunnersArsenal.esm:000852		-1	-1	-1	0.25	-1	-1	-1	-1	-1	; Hunting Revolver (GRA)
+@FalloutNV.esm:08F214			-1	-1	-1	-1	-1	-1	-1	-1	-1	; Hunting Revolver
+@GunRunnersArsenal.esm:000852		-1	-1	-1	-1	-1	-1	-1	-1	-1	; Hunting Revolver (GRA)
 @FalloutNV.esm:129A44			-1	-1	-1	-1	-1	-1	-1	-1	-1	; Ranger Sequoia
 @FalloutNV.esm:08F213			43	43	-1	0.7	-1	-1	-1	-1	-1	; 12.7mm Pistol
 @GunRunnersArsenal.esm:000805		48	48	-1	0.65	-1	-1	-1	-1	-1	; Li'l Devil
@@ -32,7 +32,7 @@
 @FalloutNV.esm:1735E3			-1	-1	-1	2.2	23	-1	-1	-1	5	; Sturdy Caravan Shotgun
 @FalloutNV.esm:08ED0C			-1	-1	-1	-1	-1	-1	-1	-1	4	; Lever-action Shotgun
 
-@FalloutNV.esm:004333			-1	-1	-1	-1	-1	120	-1	-1	7	; Hunting Rifle
+@FalloutNV.esm:004333			-1	-1	-1	-1	-1	120	-1	-1	7.5	; Hunting Rifle
 @FalloutNV.esm:004353			-1	-1	-1	-1	-1	-1	-1	-1	9.5	; Sniper Rifle
 @FalloutNV.esm:1429E1			-1	-1	-1	-1	-1	-1	-1	-1	6	; Gobi Compaign Scout Rifle
 @OldWorldBlues.esm:0112BA		-1	-1	-1	-1	-1	-1	-1	-1	7	; Christine's COS Silencer Rifle
@@ -43,15 +43,16 @@
 @HonestHearts.esm:00996C		-1	-1	-1	-1	-1	-1	-1	-1	9.5	; .45 Auto Submachine Gun
 
 @GunRunnersArsenal.esm:000817		-1	-1	-1	-1	-1	-1	-1	1250	-1	; Katana
-@GunRunnersArsenal.esm:000807		-1	-1	-1	-1	-1	-1	-1	3900	-1	; Nuka-Breaker
-@GunRunnersArsenal.esm:000810		-1	-1	-1	-1	-1	-1	-1	7500	-1	; Greased Lightning
-@GunRunnersArsenal.esm:000803		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Sprtel-Wood 9700
-@GunRunnersArsenal.esm:00080A		-1	-1	-1	-1	-1	-1	-1	15000	-1	; The Smitty Special
-@GunRunnersArsenal.esm:000809		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Two-Step Goodbye
-@GunRunnersArsenal.esm:000805		-1	-1	-1	-1	-1	-1	-1	8000	-1	; Li'l Devil
-@GunRunnersArsenal.esm:000806		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Bozar
-@GunRunnersArsenal.esm:00080B		-1	-1	-1	-1	-1	-1	-1	4500	-1	; Cleansing Flame
-@GunRunnersArsenal.esm:000808		-1	-1	-1	-1	-1	-1	-1	4500	-1	; Embrace of the Mantis King!
+
+@GunRunnersArsenal.esm:000807		-1	-1	-1	-1	-1	-1	-1	3000	-1	; Nuka-Breaker
+@GunRunnersArsenal.esm:000810		-1	-1	-1	-1	-1	-1	-1	6000	-1	; Greased Lightning
+@GunRunnersArsenal.esm:000803		-1	-1	-1	-1	-1	-1	-1	12000	-1	; Sprtel-Wood 9700
+@GunRunnersArsenal.esm:00080A		-1	-1	-1	-1	-1	-1	-1	12000	-1	; The Smitty Special
+@GunRunnersArsenal.esm:000809		-1	-1	-1	-1	-1	-1	-1	12000	-1	; Two-Step Goodbye
+@GunRunnersArsenal.esm:000805		-1	-1	-1	-1	-1	-1	-1	6000	-1	; Li'l Devil
+@GunRunnersArsenal.esm:000806		-1	-1	-1	-1	-1	-1	-1	12000	-1	; Bozar
+@GunRunnersArsenal.esm:00080B		-1	-1	-1	-1	-1	-1	-1	3000	-1	; Cleansing Flame
+@GunRunnersArsenal.esm:000808		-1	-1	-1	-1	-1	-1	-1	3000	-1	; Embrace of the Mantis King!
 
 @FalloutNV.esm:0FF576			-1	-1	-1	-1	-1	-1	50	-1	-1	; Grenade Rifle
 @FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	75	-1	-1	; Thump-Thump

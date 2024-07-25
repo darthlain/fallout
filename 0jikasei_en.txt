@@ -792,6 +792,7 @@ Chairman
 Chairman Greeter
 Gomorrah Prostitute
 Boomer Explorer
+Boomer Expedition Leader
 Brotherhood Procurement Specialist
 Junk Merchant
 Destitute Traveler
@@ -1438,6 +1439,16 @@ Don't worry, you'll know him well when you serve him. Or you'll be dead.
 First up was the "lucky losers." They got decapitated - guess that's "lucky" 'cause it's pretty quick.
 Clear out the critters on the road to Ivanpah Lake.
 Don't mistake that for coward talk, though. We're a town of survivors. We'll fight tooth and nail if pushed, but we don't go looking for trouble.
+The Brotherhood is failing. I've always known that. If we don't change course, we're going to fall apart or... fade away.
+I think you should know something about Benny.
+Really? You got something to say about the big boss, huh? Well, why don't you say it to his face instead of yapping at me?
+I found this lighter in Boulder City. He dropped it when he killed his partners.
+Seems a little mean to use his invitation against him like that, but I'm sure it's all for the best!
+Sure, I'll keep an eye out.
+What other entertainment is there on the Strip?
+I am the greatest of Caesar's Frumentarii. It was not a challenge to find you. Nor is this my first visit to the Strip.
+You've been a busy courier, haven't you? You take your obligation to deliver a package very seriously - an ethic for which I am grateful.
+I will admit, when you ignored my invitation, I predicted... negative outcomes. But - you have a way of exceeding expectations, don't you?
 Box of Bandages
 Soldering Iron
 Grill
