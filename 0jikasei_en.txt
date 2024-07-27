@@ -679,6 +679,7 @@ HV
 Hiv.
 OC
 MC
+Inc.
 Silent
 Silenced .22 Pistol
 Silenced .22 SMG
@@ -1449,6 +1450,15 @@ What other entertainment is there on the Strip?
 I am the greatest of Caesar's Frumentarii. It was not a challenge to find you. Nor is this my first visit to the Strip.
 You've been a busy courier, haven't you? You take your obligation to deliver a package very seriously - an ethic for which I am grateful.
 I will admit, when you ignored my invitation, I predicted... negative outcomes. But - you have a way of exceeding expectations, don't you?
+First Recon's at Camp Forlorn Hope. Now we've got a chance to hold it.
+Oh! Why, uh, of course! I would never let you fight my kidnappers with my help. Uh, without it! You lead the way!
+I'm going to help Ringo take on the Powder Gangers. I might need your help.
+However, between you, me, and Ringo, we aren't exactly a force to be reckoned with. A lot of people around here look up to Trudy.
+Finally, there's a good chance we'll all end up with extra holes in us, so if Doc Mitchell could cough up some extra stimpaks, that'd be great.
+Grrr! Lily smash! Haha.
+My request is perfectly reasonable. Give us the Stealth Boy specs and there will be no need for us to splatter the room with your insides.
+Nice work with the Nightkin. I've never seen anyone able to talk their kind out of anything once they had their mind set to it.
+I believe in the NCR, but that doesn't make it right for them to roll over anyone who doesn't want any part of 'em.
 Box of Bandages
 Soldering Iron
 Grill

@@ -26,7 +26,7 @@
 @FalloutNV.esm:08F218			-1	-1	-1	-1	-1	-1	-1	-1	6.5	; Silenced .22 SMG
 
 @FalloutNV.esm:08F217			-1	-1	-1	1.8	22	-1	-1	-1	4.5	; 9mm Submachine Gun
-@FalloutNV.esm:0E32F4			-1	-1	-1	-1	22	-1	50	-1	5.5	; Vance's 9mm Submachine Gun
+@FalloutNV.esm:0E32F4			-1	-1	-1	-1	22	-1	50	-1	5	; Vance's 9mm Submachine Gun
 @FalloutNV.esm:004321			-1	-1	-1	2	-1	-1	-1	-1	-1	; 10mm Submachine Gun
 @FalloutNV.esm:0CD53A			-1	-1	-1	-1	23	-1	-1	-1	4.5	; Caravan Shotgun
 @FalloutNV.esm:1735E3			-1	-1	-1	2.2	23	-1	-1	-1	5	; Sturdy Caravan Shotgun
