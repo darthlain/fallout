@@ -94,3 +94,18 @@
 @FalloutNV.esm:122B49			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Dixon's Jet
 @FalloutNV.esm:167476			-1	-1	-1	-1	-1	-1	-1	75	-1	; Mother Darkness
 @FalloutNV.esm:167477			-1	-1	-1	-1	-1	-1	-1	150	-1	; Tremble
+
+@FalloutNV.esm:0EC4B0			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Boxing Times
+@FalloutNV.esm:0EC4AB			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Fixin' Things
+@FalloutNV.esm:0EC4A6			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Future Weapons Today
+@FalloutNV.esm:0EC4AF			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Lad's Life
+@FalloutNV.esm:0EC4AD			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; La Fantoma!
+@FalloutNV.esm:0EC4A8			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Locksmith's Reader
+@FalloutNV.esm:0EC4AE			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Meeting People
+@FalloutNV.esm:0EC4AC			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Milsurp Review
+@FalloutNV.esm:0EC4A7			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Patriot's Cookbook
+@FalloutNV.esm:0EC4B1			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Programmer's Digest
+@FalloutNV.esm:0EC4A4			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Salesman Weekly
+@FalloutNV.esm:-1EC4AA			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Tales of Chivalrie
+@FalloutNV.esm:0EC4A9			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Today's Physician
+@FalloutNV.esm:135689			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; True Police Stories

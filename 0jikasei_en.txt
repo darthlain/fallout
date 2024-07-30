@@ -802,6 +802,7 @@ Moneygrubber
 House: Reloading Bench
 Human Fresh
 Human Flesh
+Sentry Bot
 Super-Mutant
 Hired Hand
 Herding dog
@@ -889,6 +890,37 @@ Bent Tin Can = Tin Can!
 [Return] Relaxedwear (Soiled)
 [Return] Spring Outfit
 [Return] Spring Outfit (Soiled)
+Peacekeeper
+Ranger of the Wastes
+Desert Avenger
+Vegas Crusader
+Guardian of the Wastes
+Restorer of Faith
+Savior of the Damned
+Drifter
+Renegade
+Wanderer
+Vagabond of the Wastes
+Observer
+Vegas Councilor
+Strider of the Wastes
+Beholder
+Renegade of the Wastes
+Loner
+Moneygrubber
+Profiteer
+Grifter
+Deceiver
+Fat Cat
+Pirate of the Wastes
+Betrayer
+Ne'er-do-well
+Vegas Crime lord
+Villain of the Wastes
+Scourge of the Wastes
+Architect of Doom
+Bringer of Sorrow
+Agent of Chaos
 Rat
 Cannibal
 Ferocious Loyalty
@@ -1320,6 +1352,7 @@ Schematics - .44 Magnum, Hand Load
 And that my employer is paying me a pretty penny to loot it.
 This slave is wearing a standard issue slave collar.
 <Strenght, Repair or Science> Trigger explosion
+<Repair 50> Deactivate the collar
 What can I do about that?
 Tell you what. I'll pay you for what you did, but I'll do you one better, too.
 There's a move we have in the Rangers for knocking an opponent off his feet. Saved my butt a bunch of times, maybe it will for you too.
@@ -1459,6 +1492,19 @@ Grrr! Lily smash! Haha.
 My request is perfectly reasonable. Give us the Stealth Boy specs and there will be no need for us to splatter the room with your insides.
 Nice work with the Nightkin. I've never seen anyone able to talk their kind out of anything once they had their mind set to it.
 I believe in the NCR, but that doesn't make it right for them to roll over anyone who doesn't want any part of 'em.
+A friend in Sloan told me to come to you about some chemical supplies.
+...Relax. I'm fucking with you.
+You have a very bright future ahead of you. Thanks to your actions today, so does the rest of mankind.
+I'm here for Melody's bear.
+That's okay, I'll fix him! Can I have him now?
+Not so fast. What will you give me for him?
+You can't sprint with your legs crippled!
+Wow! You really pulled the wool over his eyes!
+But you're going to cut the price to 250 because I'm just that charming, right?
+We've outlasted the end of the world. We'll outlast these upstarts.
+Waiting in a hole for everyone else to die.
+This is a dead end for us.
+I see no evidence of that. Nor do I see anyone out there with a solution to our problems.
 Box of Bandages
 Soldering Iron
 Grill
