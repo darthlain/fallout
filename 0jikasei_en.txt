@@ -797,7 +797,6 @@ Boomer Expedition Leader
 Brotherhood Procurement Specialist
 Junk Merchant
 Destitute Traveler
-The Forecaster
 Moneygrubber
 House: Reloading Bench
 Human Fresh
@@ -1505,6 +1504,43 @@ We've outlasted the end of the world. We'll outlast these upstarts.
 Waiting in a hole for everyone else to die.
 This is a dead end for us.
 I see no evidence of that. Nor do I see anyone out there with a solution to our problems.
+In order to maintain the peace, and adhere to the strictures of the lockdown, I need to send someone else to discover what happened to them.
+Should our worst fears become realized, please bring back all three of the holotapes from the patrols. Otherwise, bring our brothers home.
+Why should I trust you?
+How do you propose to do that?
+I'd slap him around, but he stood at my parents' wedding.
+Plus he used to make excuses to get me out of my punishment when I'd slept through Head Scribe Taggart's lectures. Figure I owe him for that.
+The Brotherhood's strategy for survival worked back when we had a larger force, and no organized enemies.
+I'm with you. Being around here isn't the same anymore.
+The word came down from the Elder that I'm to offer you some of our lesser wares, as if I didn't have other matters on my mind.
+I've got it right here.
+This presents a bit of a problem. Jack isn't allowed to leave Nellis, and I doubt she would make it through the artillery alive.
+When people have got nothing left, they can always turn to the Followers.
+There are so many refugees to care for.
+Someone entered the Lucky 38. That's never happened before.
+The Followers are always on the look out for new friends like yourself.
+I didn't know the Brotherhood had any people out here.
+The Securitrons in and around the Strip have been upgraded. It's almost like Vegas has an army now.
+Medicine's running low again.
+Someone killed Benny, the Chairmen's bigshot, in his own casino. Violence begets violence...
+I have no idea how most of these people would survive without us.
+All that wealth is wasted on the Strip. There are people in Freeside who need food and medicine.
+I appreciate how you've been helping us so far.
+Keep an eye out for trouble.
+Did you see the monorail explode? The destruction was absolute.
+That is one battered Eyebot. It's a miracle it's still functioning.
+Wish the Followers would get me some better armor.
+If you'Ve seen half the things I've seen out in the Wasteland, I can't say I blame you. I might be able to help with that.
+I finished the Crimson Caravan run.
+So long as the Khans keep making it, I keep getting high.
+You hear about this courier doing shit around the Strip? Like what, delivering mail?
+Primm is going to be much tougher to push around with that new sheriff down there.
+People all scared of those robots on the Strip since they changed. Like who needs the Strip anyway?
+You see a Ranger in black, run the other way. Take you out from a quarter mile off.
+A flying robot? Man, I must be fucked up.
+I hear they are led by a guy caling himself Motor-Runner. I think he is in one of the other wings, although I haven't seen him myself.
+My buddy saw some sort of elite ranger squad the other day. They took out his group from a quarter mile off.
+I finished the Vault 3 run.
 Box of Bandages
 Soldering Iron
 Grill

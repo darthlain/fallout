@@ -77,17 +77,11 @@ NVMMP - New Vegas Map Marker Project
 Vigor - A Vanilla JSawyer Fork
 JSawyerフォーク ロアな感じでよさげ
 
-Agility Affects Movement Speed
-Agilityが移動速度に影響するように
-
 True Fallout 3 Aiming
 一人称エイムのアイアンサイトを無効化しfallout3ライクに
 
 New Vegas Uncut系 (作者moburma80のやつ)
 uncut系modたくさん 5はおすすめ 8も一度は見ておきたい
-
-Harder Better Faster Stronger (Standard)
-トレードの金銭価値をいい感じにより厳しくする
 
 Rhonda the Merchant
 クリムゾンキャラバンにロンダというなんでも売っている系の売人を追加する デバッグで使用
@@ -95,6 +89,12 @@ Rhonda the Merchant
 --------------------------------------------------------------------------------
 * 使ってない 以前使っていた *
 --------------------------------------------------------------------------------
+
+Agility Affects Movement Speed
+Agilityが移動速度に影響するように
+
+Harder Better Faster Stronger (Standard)
+トレードの金銭価値をいい感じにより厳しくする
 
 Dead Money - No Collar Explosion and No Poison Cloud Damage
 DeadMoneyを簡単にするMOD 使ったことない
