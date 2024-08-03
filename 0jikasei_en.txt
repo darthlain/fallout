@@ -718,6 +718,7 @@ NCR Face Wrap Armor
 NCR Bandoleer Armor
 NCR Mantle Armor
 Salvaged Power Armor
+Followers Lab Coat, Reinforced
 Composite Recon Helmet
 Red Racer Jumpsuit
 Wastelander's Gear
@@ -1541,6 +1542,27 @@ A flying robot? Man, I must be fucked up.
 I hear they are led by a guy caling himself Motor-Runner. I think he is in one of the other wings, although I haven't seen him myself.
 My buddy saw some sort of elite ranger squad the other day. They took out his group from a quarter mile off.
 I finished the Vault 3 run.
+Me, specifically? No. I'm sure Julie Farkas does, though. Lab coat, pointly hair. Answers to the name "Julie Farkas," strangely enough.
+No worries. My guy will be here soon enough, just wait.
+Fixer is for pansies!
+Also, I would like to extend an invitation to join the Followers of the Apocalypse.
+I think I can handle that for you.
+Tell you what. Bring us those suits, and you can come with us while we loot the town. You can keep a share.
+It's about damn time. You ready to go?
+Price is being held by the NCR.  A Ranger replaced him.
+I took care of the Ranger.
+Okay, you can have ED-E for a little bit.
+This is excellent news. I'll send him back to you soon.
+I know where to hit you where it hurts the most.
+I... don't know how to thank you for bringing Rhonda back to me, stranger.
+Too bad I got this ironclad contract with the Garrets. They'll never let me out of it.
+I've been around a while. Currently working for the Followers as a gun for hire, but it's getting rather dull.
+That's a bit cryptic, Beatrix.
+I'm in the market for something a little unusual.
+Well done. The Boomers' firepower may prove an advantage when the battle for Hoover Dam comes around.
+Your history of aggression towards the NCR has rendered you useless in this concern, unable to influence the outcome of events.
+Consequently, I have to "wait and see" what happens. It's... grotesque.
+I don't want no whining about "Oh, Mr. Masterson, I left my one-of-a-kind plasma cannon back at base, can we go back for it?"
 Box of Bandages
 Soldering Iron
 Grill

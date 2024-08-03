@@ -34,6 +34,7 @@
 @FalloutNV.esm:1429E1			-1	-1	-1	-1	-1	-1	-1	-1	6	; Gobi Compaign Scout Rifle
 @OldWorldBlues.esm:0112BA		-1	-1	-1	-1	-1	-1	-1	-1	7	; Christine's COS Silencer Rifle
 @FalloutNV.esm:121148			-1	-1	-1	-1	-1	-1	-1	-1	7	; Brush Gun
+@GunRunnersArsenal.esm:00080E		-1	-1	-1	-1	-1	-1	-1	-1	7.5	; Medicine Stick
 @FalloutNV.esm:1429D1			-1	-1	-1	-1	-1	-1	-1	-1	8	; 12.7mm Submachine Gun
 @GunRunnersArsenal.esm:00084E		-1	-1	-1	-1	-1	-1	-1	-1	8	; 12.7mm Submachine Gun (GRA)
 @FalloutNV.esm:08ED0A			-1	-1	-1	-1	-1	-1	-1	-1	7	; Riot Shotgun
@@ -65,8 +66,18 @@
 @FalloutNV.esm:004330			-1	-1	-1	-1	-1	-1	-1	50	-1	; Frag Grenade
 @HonestHearts.esm:00BCB4		-1	-1	-1	-1	-1	-1	-1	35	-1	; Fire Bomb
 
+@FalloutNV.esm:0CEE21			-1	-1	-1	-1	-1	-1	-1	-1	4	; Space Suit Helmet
 @FalloutNV.esm:073D57			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Bandana
 @FalloutNV.esm:17409D			-1	-1	-1	-1	-1	-1	-1	-1	0.1	; Jessup's bandana
+
+@FalloutNV.esm:1613BD			-1	-1	-1	-1	-1	-1	-1	-1	0.5	; Bitter Drink
+
+@HonestHearts.esm:008E17		-1	-1	-1	-1	-1	-1	-1	1000	-1	; .45 AP HD Slide
+@HonestHearts.esm:008E18		-1	-1	-1	-1	-1	-1	-1	1000	-1	; .45 AP Silencer
+@HonestHearts.esm:00996A		-1	-1	-1	-1	-1	-1	-1	2500	-1	; .45 Auto SMG Comp.
+@HonestHearts.esm:00996B		-1	-1	-1	-1	-1	-1	-1	2500	-1	; .45 Auto SMG Drums
+@HonestHearts.esm:00CC05		-1	-1	-1	-1	-1	-1	-1	1000	-1	; War Club Casings
+@HonestHearts.esm:00CC06		-1	-1	-1	-1	-1	-1	-1	1000	-1	; War Club Honors
 
 @FalloutNV.esm:015163			-1	-1	-1	-1	-1	-1	-1	25	0.01	; Buffout
 @FalloutNV.esm:015164			-1	-1	-1	-1	-1	-1	-1	50	0.1	; Jet

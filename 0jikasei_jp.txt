@@ -718,6 +718,7 @@ NCR•¢–ÊƒA[ƒ}[
 NCR’e‘ÑƒA[ƒ}[
 NCR•z•tƒA[ƒ}[
 ƒTƒ‹ƒx[ƒWƒpƒ[ƒA[ƒ}[
+‹­‰»‚³‚ê‚½ƒAƒ|ƒJƒŠƒvƒX‚Ì”’ˆß
 ‡¬ƒŠƒRƒ“ƒwƒ‹ƒƒbƒg
 ƒŒƒbƒhƒŒ[ƒT[ƒWƒƒƒ“ƒvƒX[ƒc
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒ_[ƒYEƒMƒA
@@ -1541,6 +1542,27 @@ NCR‚ðM‚¶‚Ä‚¢‚éB ‚¾‚ªA‚¾‚©‚ç‚Æ‚¢‚Á‚ÄNCR‚É‚È‚è‚½‚­‚È‚¢lX‚ð‚È‚¢‚ª‚µ‚ë‚É‚·‚é‚Ì‚
 ƒ‚[ƒ^[ƒ‰ƒ“ƒi[‚Æ–¼æ‚é’j‚ª“z‚ç‚ð—¦‚¢‚Ä‚¢‚é‚Æ•·‚¢‚Ä‚¢‚éB ‚Ü‚¾Œ©‚½‚±‚Æ‚È‚¢‚ªA“z‚Í‘¼‚ÌƒEƒCƒ“ƒO‚Ì‚Ç‚±‚©‚É‹‚é‚¾‚ë‚¤
 ˆÈ‘OA—Fl‚ªƒGƒŠ[ƒgƒŒƒ“ƒWƒƒ[•”‘à‚Ì‚æ‚¤‚È‚à‚Ì‚ð–ÚŒ‚‚µ‚½‚ç‚µ‚¢B 1/4ƒ}ƒCƒ‹—£‚ê‚½‚Æ‚±‚ë‚©‚ç“z‚Ì•”‘à‚ª‘S–Å‚µ‚½‚ñ‚¾‚Æ
 Vault3‚Ö‚Ì‚¨Žg‚¢‚ÍI‚í‚Á‚½‚¼
+‰´‚ð‚©H —pŽ–‚Í“Á‚É‚È‚¢‚ÈA‚¾‚ªƒWƒ…ƒŠ[Eƒtƒ@[ƒJƒX‚È‚ç‰½‚©‚ ‚é‚ÆŽv‚¤‚¼B ”’ˆßB ƒcƒ“ƒcƒ““ªB –­‚È‚±‚Æ‚É–¼‚Í‘Ì‚ð•\‚µ‚Ä‚¢‚é
+S”z‚µ‚È‚¢‚Å‚­‚êB “z‚Í‚·‚®‚±‚±‚É—ˆ‚é‚©‚çA‘Ò‚Á‚Ä‚Ä‚­‚ê
+ƒtƒBƒNƒT[‚Í—X‚µ‚¢“z‚ª‚·‚é‚à‚Ì‚¾I
+‚»‚ê‚ÉA‚ ‚È‚½‚ÉƒAƒ|ƒJƒŠƒvƒX‚ÌŽg“k‚É“ü‚Á‚Ä‚Ù‚µ‚¢‚Ì
+‚»‚ê‚È‚ç‘Îˆ‚Å‚«‚é‚ÆŽv‚¤
+‚¢‚¢‚¾‚ë‚¤A‚»‚ÌƒX[ƒc‚ðŽ‚Á‚Ä‚«‚Ä‚­‚êB ‚»‚ÌŒã‰´’B‚Æˆê‚É’¬‚Å•¨•i‚ð‹™‚éB ‚¨‘O‚É‚à•ª‚¯‘O‚ð‚â‚é‚¼
+‚¢‚æ‚¢‚æ‚¾B €”õ‚Í‚¢‚¢‚©H
+ƒvƒ‰ƒCƒX‚ÍNCR‚ÉS‘©‚³‚ê‚Ä‚¢‚éB ƒŒƒ“ƒWƒƒ[‚ª‘ã‚í‚è‚É‹‚½
+ƒŒƒ“ƒWƒƒ[‚ðŽn––‚µ‚Ä‚«‚½
+‚¢‚¢‚¾‚ë‚¤B ED-E‚ð­‚µ‚ÌŠÔ—a‚¯‚æ‚¤
+‚±‚ê‚Í‘f°‚ç‚µ‚¢ƒjƒ…[ƒX‚¾B ‚·‚®‚É•Ô‚·‚©‚ç‚È
+ˆê”Ô’É‚¢‚Æ‚±‚ë‚É‹ò‚ç‚í‚¹‚Ä‚â‚é
+Ž„c ƒƒ“ƒ_‚ðŽæ‚è–ß‚µ‚Ä‚­‚ê‚½‚±‚Æ‚É‚Ç‚¤‚¨—ç‚ðŒ¾‚¦‚Î‚¢‚¢‚Ì‚©‚í‚©‚ç‚È‚¢‚íA‚æ‚»ŽÒ‚æ
+Žc”O‚¾‚ªA‰´‚ÍƒKƒŒƒbƒg‚ÆŒµŠi‚ÈŒ_–ñ‚ðŒ‹‚ñ‚¾‚ñ‚¾B ‚¾‚©‚ç“z‚ç‚Í‰´‚ðŽè•ú‚³‚È‚¢‚¾‚ë‚¤‚º
+‚¢‚ë‚¢‚ë‚â‚Á‚Ä‚«‚½‚¯‚ÇA¡‚ÍƒAƒ|ƒJƒŠƒvƒX‚ÌŒÙ‚í‚êƒKƒ“ƒ}ƒ“‚ËB ‚Å‚à‚¾‚ñ‚¾‚ñ‘Þ‹ü‚É‚È‚Á‚Ä‚«‚½‚í
+‚¿‚å‚Á‚Æ•s‰Â‰ð‚¾‚ËAƒxƒAƒgƒŠƒNƒX
+‚¿‚å‚Á‚Æ•Ï‚í‚Á‚½ƒRƒg‚Ì‚½‚ß‚É‚±‚±‚É‚¢‚é‚ñ‚¾‚ªc
+‚æ‚­‚â‚Á‚½B ƒu[ƒ}[‚Ì‰Î—Í‚Íƒt[ƒo[ƒ_ƒ€‚Ìí‚¢‚Å–ð‚É—§‚Â‚¾‚ë‚¤
+NCR‚É‘Î‚·‚é‚¨‘O‚Ì‚±‚ê‚Ü‚Å‚ÌUŒ‚“I‚È‘Ô“x‚É‚æ‚Á‚ÄA‚±‚Ì–â‘è‚É‚Â‚¢‚Ä‚¨‘O‚ðNCR‚É”hŒ­‚·‚é‚±‚Æ‚ª‚Å‚«‚È‚­‚È‚Á‚½
+‚æ‚Á‚ÄA‰½‚ª‹N‚±‚é‚©"Œ©Žç‚é"‚µ‚©‚È‚¢B ŽÀ‚Éc ƒOƒƒeƒXƒN‚¾
+"‚ ‚ ƒ}ƒXƒ^[ƒ\ƒ“‚³‚ñB Ž„‚Ìƒ†ƒj[ƒN‚Èƒvƒ‰ƒYƒ}ƒLƒƒƒmƒ“‚ð‰Æ‚É–Y‚ê‚Ä‚«‚Ü‚µ‚½B Žæ‚è‚É–ß‚Á‚Ä‚¢‚¢‚Å‚·‚©H" ‚Æ‚¢‚¤‚æ‚¤‚È‹YŒ¾‚ð•·‚­‚Ì‚Í‚²‚ß‚ñ‚¾‚©‚ç‚È
 •ï‘Ñƒ{ƒbƒNƒX
 ‚Í‚ñ‚¾‚²‚Ä
 ƒOƒŠƒ‹
