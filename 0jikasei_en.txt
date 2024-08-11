@@ -786,9 +786,11 @@ NCR Heavy Trooper
 NCR Lieutenant
 Legion Hunter
 Legion Prospector
+Disguised Frumentarius
 Fiend Attack Dog
 Fiend Underboss
 Great Khan Chem Dealer
+Great Khan Chem Pusher
 Great Khan Marksman
 Chairman
 Chairman Greeter
@@ -1542,7 +1544,7 @@ A flying robot? Man, I must be fucked up.
 I hear they are led by a guy caling himself Motor-Runner. I think he is in one of the other wings, although I haven't seen him myself.
 My buddy saw some sort of elite ranger squad the other day. They took out his group from a quarter mile off.
 I finished the Vault 3 run.
-Me, specifically? No. I'm sure Julie Farkas does, though. Lab coat, pointly hair. Answers to the name "Julie Farkas," strangely enough.
+Me, specifically? No. I'm sure Julie Farkas does, though. Lab coat, pointy hair. Answers to the name "Julie Farkas," strangely enough.
 No worries. My guy will be here soon enough, just wait.
 Fixer is for pansies!
 Also, I would like to extend an invitation to join the Followers of the Apocalypse.
@@ -1563,6 +1565,35 @@ Well done. The Boomers' firepower may prove an advantage when the battle for Hoo
 Your history of aggression towards the NCR has rendered you useless in this concern, unable to influence the outcome of events.
 Consequently, I have to "wait and see" what happens. It's... grotesque.
 I don't want no whining about "Oh, Mr. Masterson, I left my one-of-a-kind plasma cannon back at base, can we go back for it?"
+Well I'll be. I was starting to lose hope we'd be able to get any of this, much less all of it. Tribals are smart but... well, they're ignorant.
+These supplies are a godsend, but if we're going to evacuate Zion without drawing more White Leg attention, I need you to go back into the valley.
+Even if I trusted you, I'd not share my secrets just for your pretty face, stranger.
+You can't help but notice that the Brotherhood barely exists to these people out here. We're like an urban myth. No real presence on the Outside.
+We just don't adapt like we should. Used to be that all you needed to get your way was a suit of power armor and a laser rifle.
+The Brotherhood is living in the past. Eventually they'll have to change.
+Machetes at twenty paces, hey? I accept your challenge.
+I know where you live Ramos. Open up.
+You were the last one to check out the missing laser pistol, right.
+A free woman. It's... been awhile since I've seen a woman who wasn't a slave. I forget myself - are you injured?
+Is that guard position still available?
+I was able to convince the Omerta thugs that crossing the Legion was unwise.
+If you haven't noticed, the NCR bolsters its presence on the Strip from here. Sends troopers on the monorail in shifts.
+At first I couldn't believe my luck. But since I haven't produced results - for obvious reasons - I feel him looking at me differently now.
+Colonel Hsu really knows what he's doing. Now if only someone'd explain that to ol' General Wait-and-See Oliver...
+Private Crenshaw. He's dead now.
+He confessed it to me. Right before he died.
+Hsu bought it. You should be in the clear.
+When you move on, teach everyone you meet the lessons Caesar's Legion taught here. Especially any NCR troops you run across.
+It's not quite the same as making you luckier, but you'll be able to nudge things your way more often. I can do the implant for 4,000 caps.
+Looking to elevate his social status, is he?
+Unfortunately, the trap my subordinates set for him failed. And as he escaped, he saw their faces. Now he's wary.
+Mmm. Yes. He was none too pleased when he discovered who we took. The boy is in the freezer, back through the kitchen.
+So you're a rancher?
+Now everywhere I go, folks I never even met shake my hand and call me "Mr. Gunderson." Don't quite know what to make of that.
+Let of people out there resent success, might wanna take a swipe at me. This makes them think twice.
+There was an investigator who came through here last week. He'd been hired by a young man whose bride-to-be went missing during their stay here.
+I'm investigating someone else. A man. And he just recently went missing.
+Is there any way I could talk to the investigator?
 Box of Bandages
 Soldering Iron
 Grill
