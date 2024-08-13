@@ -44,12 +44,12 @@
 
 @GunRunnersArsenal.esm:000807		-1	-1	-1	-1	-1	-1	-1	3000	-1	; Nuka-Breaker
 @GunRunnersArsenal.esm:000810		-1	-1	-1	-1	-1	-1	-1	6000	-1	; Greased Lightning
-@GunRunnersArsenal.esm:000803		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Sprtel-Wood 9700
-@GunRunnersArsenal.esm:00080A		-1	-1	-1	-1	-1	-1	-1	15000	-1	; The Smitty Special
+@GunRunnersArsenal.esm:000803		-1	-1	-1	-1	-1	-1	-1	12000	-1	; Sprtel-Wood 9700
+@GunRunnersArsenal.esm:00080A		-1	-1	-1	-1	-1	-1	-1	12000	-1	; The Smitty Special
 @GunRunnersArsenal.esm:000809		-1	-1	-1	-1	-1	-1	-1	12000	-1	; Two-Step Goodbye
 @GunRunnersArsenal.esm:000805		-1	-1	-1	-1	-1	-1	-1	6000	-1	; Li'l Devil
 @GunRunnersArsenal.esm:000806		-1	-1	-1	-1	-1	-1	-1	12000	-1	; Bozar
-@GunRunnersArsenal.esm:00080B		-1	-1	-1	-1	-1	-1	-1	3000	-1	; Cleansing Flame
+@GunRunnersArsenal.esm:00080B		-1	-1	-1	-1	-1	-1	-1	4500	-1	; Cleansing Flame
 @GunRunnersArsenal.esm:000808		-1	-1	-1	-1	-1	-1	-1	3000	-1	; Embrace of the Mantis King!
 
 @FalloutNV.esm:0FF576			-1	-1	-1	-1	-1	-1	50	-1	-1	; Grenade Rifle

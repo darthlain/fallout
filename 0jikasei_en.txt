@@ -625,29 +625,29 @@ Mini Nuke, Timed
 Mini Nuke, Timed (GRA)
 Mini Nuke, Tim.
 Energy Cell
-Energy Cell [%]
+Energy Cell[%]
 Energy Cell, Over Charge
-E Cell OC
+E Cell OC[%]
 Energy Cell, Max Charge
-E Cell MC
+E Cell MC[%]
 Energy Cell, Bulk
-E Cell B
+E Cell B[%]
 Energy Cell, Optimized
 Energy Cell, Optimized (GRA)
 Energy Cell, Optimized (Vigilant Recycler)
-E Cell, Opt.
+E Cell, Opt.[%]
 Microfusion Cell
 Microfusion Cell [%]
-MF Cell
+MF Cell[%]
 Microfusion Cell, Over Charge
-MF Cell OC
+MF Cell OC[%]
 Microfusion Cell, Max Charge
-MF Cell MC
+MF Cell MC[%]
 Microfusion Cell, Bulk
-MF Cell B
+MF Cell B[%]
 Microfusion Cell, Optimized
 Microfusion Cell, Optimized (Vigilant Recycler)
-MF Cell, Opt.
+MF Cell, Opt.[%]
 Flamer Fuel
 Flamer Fuel [%]
 Flamer Fuel, Homemade
@@ -1594,6 +1594,53 @@ Let of people out there resent success, might wanna take a swipe at me. This mak
 There was an investigator who came through here last week. He'd been hired by a young man whose bride-to-be went missing during their stay here.
 I'm investigating someone else. A man. And he just recently went missing.
 Is there any way I could talk to the investigator?
+I've heard your group dines on human flesh.
+I can assure you that the only thing the White Glove Society is guilty of is preparing the tastiest cuisine you'll ever sample.
+That is, of course, if you can afford it.
+<Lie> I, too, know what it is to feel the Craving. How can I support your cause?
+I'm in a bind. I've been planning an exquisite Society dinner, but there's a bit of a problem with the main course.
+He's got a powerful and temperamental father.
+[Attack] He's the least of your problems right now, cannibal.
+I think you have the wrong person for this job.
+He cut ties with his family and left their estate to wander. He was ideal. Corn-fed and well-to-do, but no one to miss him if he were to disappear.
+I asked for a last-minute replacement. And they stole the son of the most dangerous Brahmin baron in New Vegas while he stayed at this very hotel.
+Needless to say, this could be a disaster if things aren't put back the way they should be. And I still need somebody reputable to serve for dinner.
+Strictly speaking, we're no longer allowed to eat people. But I'm hoping the right person and preparation might sway Marjorie to see things my way.
+I need a replacement, and I need the boy taken care of. The replacement must be healthy and well-bred. One can't very well make steak from gristle.
+Wouldn't putting St. Clair's body into a dumpster give it a terrible taste?
+Not this one. Empty. I don't believe it's seen use since before the war.
+And what would the point be, really? Who would pick up his trash if he used it?
+But for our purposes, it should keep his body safe and hidden until my cohorts can recover it.
+Ted Gunderson is his name. It would be simplest if we could convince him this was all an unfortunate misunderstanding.
+But if he won't listen, we can't very well let him go. He'll have to be slaughtered and served. Then we wouldn't need the replacement.
+But you would need to deal with his father, Heck. Perhaps if you could smear some of Ted's blood around his father's hotel room, you could frame him.
+Couldn't Heck just claim intruders killed his son?
+No. Everyone he meets, he tells the same story. That his son disappeared from the casino, not from his room. He'll look guilty.
+You done right by me. I appreciate it.
+You know, if you knew what you were doing I coulda been out of there hours ago.
+Any word as to our arrangement?
+Just as I asked. What a magnificent relief! By now, barring any more bungling, my underlings should have him on his way here.
+Did you succeed in turning the White Glove Society back to cannibalism?
+We'll know after tonight's banquet at 7 o'clock. I'll only be telling everyone what they've eaten after they've eaten it.
+I certainly did. Philippe created an extraordinary amuse bouche from the flesh of the late Mr. St. Clair.
+Everyone at the banquet loved it! I told them what it was and the room was quiet for a moment, but then we all had a hearty laugh.
+What's next, now that the White Glove Society has tasted human flesh again?
+Will you serve human flesh at the Gourmand?
+I don't care for their incivility or the hodgepodge of sporting equipment that passes for fashion with them.
+I won't destroy the Brotherhood of Steel.
+I'll destroy the Brotherhood.
+Seriously, let's talk about your health.
+I thank you for saving my life. You're a warrior and a healer - a rare combination.
+It's none of your business.
+You're the boss.
+So, you must be the Courier the reports mentioned. Pass this message on to your commander - Hoover Dam will not fall while I still draw breath.
+Surrender, general. The dam is almost taken.
+That's exactly why I'm here, General Oliver.
+This doesn't have to end in bloodshed, general.
+The Legion has more men on their way as well.
+There's still time. You could escape. I won't stop you.
+Then let's stop wasting time, shall we?
+And what about your duty to your men?
 Box of Bandages
 Soldering Iron
 Grill
