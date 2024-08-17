@@ -680,6 +680,7 @@ Hiv.
 OC
 MC
 Inc.
+DB
 Silent
 Silenced .22 Pistol
 Silenced .22 SMG
