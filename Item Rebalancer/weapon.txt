@@ -79,6 +79,21 @@
 @HonestHearts.esm:00CC05		-1	-1	-1	-1	-1	-1	-1	1000	-1	; War Club Casings
 @HonestHearts.esm:00CC06		-1	-1	-1	-1	-1	-1	-1	1000	-1	; War Club Honors
 
+@FalloutNV.esm:02937E			-1	-1	-1	-1	-1	-1	-1	-1	0.053	; .44 Magnum
+@FalloutNV.esm:13E437			-1	-1	-1	-1	-1	-1	-1	-1	0.053	; .44 Magnum HP
+@FalloutNV.esm:13E438			-1	-1	-1	-1	-1	-1	-1	-1	0.053	; .44 Magnum SWC
+@FalloutNV.esm:15E8ED			-1	-1	-1	-1	-1	-1	-1	-1	0.053	; .44 Special
+@HonestHearts.esm:00947B		-1	-1	-1	-1	-1	-1	-1	-1	0.045	; .45 Auto
+@HonestHearts.esm:009E6A		-1	-1	-1	-1	-1	-1	-1	-1	0.045	; .45 Auto HP
+@HonestHearts.esm:009E6B		-1	-1	-1	-1	-1	-1	-1	-1	0.045	; .45 Auto +P
+@HonestHearts.esm:009E6C		-1	-1	-1	-1	-1	-1	-1	-1	0.045	; .45 Super
+@FalloutNV.esm:121133			-1	-1	-1	-1	-1	-1	-1	-1	0.085	; .45-70G
+@FalloutNV.esm:13E43D			-1	-1	-1	-1	-1	-1	-1	-1	0.085	; .45-70G HP
+@FalloutNV.esm:13E43E			-1	-1	-1	-1	-1	-1	-1	-1	0.085	; .45-70G SWC
+@FalloutNV.esm:1429CF			-1	-1	-1	-1	-1	-1	-1	-1	0.074	; 12.7mm
+@FalloutNV.esm:1613D4			-1	-1	-1	-1	-1	-1	-1	-1	0.074	; 12.7mm HP
+@GunRunnersArsenal.esm:000A2B		-1	-1	-1	-1	-1	-1	-1	-1	0.074	; 12.7mm JHP
+
 @FalloutNV.esm:015163			-1	-1	-1	-1	-1	-1	-1	25	0.01	; Buffout
 @FalloutNV.esm:015164			-1	-1	-1	-1	-1	-1	-1	50	0.1	; Jet
 @FalloutNV.esm:015165			-1	-1	-1	-1	-1	-1	-1	25	0.01	; Mentats
