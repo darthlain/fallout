@@ -40,6 +40,7 @@
 @HonestHearts.esm:00996C		-1	-1	-1	-1	-1	-1	-1	-1	-1	; .45 Auto Submachine Gun
 
 @GunRunnersArsenal.esm:000817		-1	-1	-1	-1	-1	-1	-1	1250	-1	; Katana
+
 @GunRunnersArsenal.esm:000807		-1	-1	-1	-1	-1	-1	-1	3000	-1	; Nuka-Breaker
 @GunRunnersArsenal.esm:000810		-1	-1	-1	-1	-1	-1	-1	6000	-1	; Greased Lightning
 @GunRunnersArsenal.esm:000803		-1	-1	-1	-1	-1	-1	-1	12000	-1	; Sprtel-Wood 9700
@@ -79,10 +80,10 @@
 @FalloutNV.esm:13E437			-1	-1	-1	-1	-1	-1	-1	-1	0.048	; .44 Magnum HP
 @FalloutNV.esm:13E438			-1	-1	-1	-1	-1	-1	-1	-1	0.048	; .44 Magnum SWC
 @FalloutNV.esm:15E8ED			-1	-1	-1	-1	-1	-1	-1	-1	0.048	; .44 Special
-@HonestHearts.esm:00947B		-1	-1	-1	-1	-1	-1	-1	-1	0.042	; .45 Auto
-@HonestHearts.esm:009E6A		-1	-1	-1	-1	-1	-1	-1	-1	0.042	; .45 Auto HP
-@HonestHearts.esm:009E6B		-1	-1	-1	-1	-1	-1	-1	-1	0.042	; .45 Auto +P
-@HonestHearts.esm:009E6C		-1	-1	-1	-1	-1	-1	-1	-1	0.042	; .45 Super
+@HonestHearts.esm:00947B		-1	-1	-1	-1	-1	-1	-1	-1	0.045	; .45 Auto
+@HonestHearts.esm:009E6A		-1	-1	-1	-1	-1	-1	-1	-1	0.045	; .45 Auto HP
+@HonestHearts.esm:009E6B		-1	-1	-1	-1	-1	-1	-1	-1	0.045	; .45 Auto +P
+@HonestHearts.esm:009E6C		-1	-1	-1	-1	-1	-1	-1	-1	0.045	; .45 Super
 @FalloutNV.esm:121133			-1	-1	-1	-1	-1	-1	-1	-1	0.085	; .45-70G
 @FalloutNV.esm:13E43D			-1	-1	-1	-1	-1	-1	-1	-1	0.085	; .45-70G HP
 @FalloutNV.esm:13E43E			-1	-1	-1	-1	-1	-1	-1	-1	0.085	; .45-70G SWC

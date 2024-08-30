@@ -659,13 +659,15 @@ Flamer Fuel, Optimized (Vigilant Recycler)
 Fuel, Opt.
 Electron Charge Pack
 Electron Charge Pack [%]
+EC Pack[%]
 Electron Charge Pack, Over Charge
+EC Pack OC[%]
 Electron Charge Pack, Max Charge
-EC Pack MC
+EC Pack MC[%]
 Electron Charge Pack, Bulk
 Electron Charge Pack, Optimized
 Electron Charge Pack, Optimized (Vigilant Recycler)
-EC Pack, Opt.
+EC Pack, Opt.[%]
 BB
 BB [%]
 Nalis
@@ -843,6 +845,7 @@ Abandoned Mine
 Abandoned Brotherhood Safehouse
 Novac Sewer
 Greenblood Caves
+Angel Cave
 Infested NCR Bunker Lower Level
 Claw Nest
 Cook Cook's Kitchen
@@ -1642,6 +1645,18 @@ The Legion has more men on their way as well.
 There's still time. You could escape. I won't stop you.
 Then let's stop wasting time, shall we?
 And what about your duty to your men?
+What's weapon mods? And why's the ammo special?
+We do. Though the White Legs destroyed New Canaan, they didn't destroy all of our supply caches.
+Can't say they seem that dangerous to me, but Joshua says they "won the West."
+BEWARE - A VENGEFUL SPIRIT STALKS THESE CANYONS
+You are the courier Lord Caesar has spoken of. The slaughter begins, then.
+How do you propose we deal with NCR?
+I'll see what I can do to convince him the Dam belongs to us.
+This slaughter pleases me. No act is more sacred than consecrating a site in the blood of one's enemies.
+Caesar entered The Strip as though it was his Triumph. The Legion pushed the NCR out of New Vegas entirely, driving them back to the Mojave Outpost.
+Caesar honored him with a golden coin, minted in celebration of his contributions and distributed throughout the wasteland.
+Caesar honored her with a golden coin, minted in celebration of her contributions and distributed throughout the wasteland.
+Not understanding the gravity of the Legion's imminent takeover of Primm, Sheriff Primm Slim valiantly attempts to resist Caesar's will.
 Box of Bandages
 Soldering Iron
 Grill
@@ -1755,6 +1770,7 @@ You're sick of your old friends collecting dust. You do 30% more damage when usi
 You're just so excited about plasma that you can't (magnetically) contain yourself! The attack speed of all plasma weapons (including Plasma Grenades) is increased by 25%.
 You handle animals really well when they are dead and gain a damage bonus against the living ones.
 With the Bloody Mess Perk, characters and creatures you kill will often explode into a red, gut-ridden, eyeball-strewn paste. Fun! Oh, and you'll do 5% extra damage with all weapons.
+You're Good Natured at heart, more prone to solving problems with your mind than violence. You gain +5 to Barter, Medicine, Repair, Science, and Speech, but have -5 to Energy Weapons, Explosives, Guns, Melee Weapons, and Unarmed.
 In Shining Armor
 Junk Rounds
 Light Touch

@@ -659,13 +659,15 @@ MFƒZƒ‹ Å“K‰»[%]
 ”R—¿ Å“K‰»
 [“dƒpƒbƒN
 [“dƒpƒbƒN [%]
+[“dƒpƒbƒN [%]
 [“dƒpƒbƒN ƒI[ƒo[ƒ`ƒƒ[ƒW
+[“dƒpƒbƒN ƒI[ƒo[ƒ`ƒƒ[ƒW[%]
 [“dƒpƒbƒN MAXƒ`ƒƒ[ƒW
-[“dƒpƒbƒN MAXƒ`ƒƒ[ƒW
+[“dƒpƒbƒN MAXƒ`ƒƒ[ƒW[%]
 [“dƒpƒbƒN ƒoƒ‹ƒN
 [“dƒpƒbƒN Å“K‰»
 [“dƒpƒbƒN Å“K‰»
-[“dƒpƒbƒN Å“K‰»
+[“dƒpƒbƒN Å“K‰»[%]
 BB
 BB [%]
 ƒNƒM
@@ -843,6 +845,7 @@ NORMAL
 •úŠü‚³‚ê‚½BOS‚Ì‰B‚ê‰Æ
 ƒmƒoƒbƒN‰º…“¹
 ƒOƒŠ[ƒ“ƒuƒ‰ƒbƒh“´ŒA
+ƒGƒ“ƒWƒFƒ‹“´ŒA
 r‚ç‚³‚ê‚½NCRƒoƒ“ƒJ[‰ºŠK‘w
 ƒNƒ[EƒlƒXƒg
 ƒNƒbƒNEƒNƒbƒN‚ÌƒLƒbƒ`ƒ“
@@ -1642,6 +1645,18 @@ B.O.S.‚ð’×‚µ‚Ä‚­‚é
 ‚Ü‚¾ŽžŠÔ‚Í‚ ‚éB Ž~‚ß‚È‚¢‚©‚ç’Eo‚µ‚ë
 Œä‘õ‚Í‚¢‚¢AŒˆ’…‚ð‚Â‚¯‚æ‚¤‚¶‚á‚È‚¢‚©H
 •”‰º‚É‘Î‚·‚é‹`–±‚ª‚ ‚é‚¾‚ë‚¤H
+•ŠíMOD‚Æ‚Í‚È‚ñ‚¾H ‚±‚Ì’e–ò‚Ì‰½‚ª“ÁŽê‚È‚ñ‚¾H
+‚ ‚é‚¼B ƒjƒ…[EƒJƒi[ƒ“‚ÍƒzƒƒCƒgƒŒƒbƒOƒX‚É”j‰ó‚³‚ê‚½‚ªA•¨Ž‘‚Í‚¢‚­‚Â‚©¶‚«Žc‚Á‚½
+‚»‚ê‚Ù‚Ç‚«‚¯‚ñ‚É‚ÍŒ©‚¦‚È‚¢‚ªƒWƒ‡ƒVƒ…ƒA‚É‚æ‚ê‚Î"¼•”‚ðƒZƒC‚µ‚½"‚ç‚µ‚¢‚È
+*Œx* ‚±‚Ì’J‚Í‰…—ì‚ªœpœj‚µ‚Ä‚¢‚é
+‹M—l‚ª‰ä‚ªŽåŒNAƒV[ƒU[‚ª‰]‚Á‚Ä‚¢‚½‰^‚Ñ‰®‚¾‚ÈB ‚³‚ ŽEC‚ðŽn‚ß‚é‚¼
+NCR‚É‚Ç‚Ì‚æ‚¤‚É‘Îˆ‚·‚×‚«‚Æl‚¦‚Ä‚¢‚éH
+ƒ_ƒ€‚ª—Ž‚¿‚½‚±‚Æ‚ð‚¤‚Ü‚­“z‚É•ª‚©‚ç‚¹‚é•û–@‚ðl‚¦‚Ä‚Ý‚é
+Œ©Ž–‚ÈŽEC‚Å‚ ‚Á‚½B “G‚ÌŒŒ‚ð’n‚É•ù‚°‚ésˆ×‚Ù‚Ç_¹‚È‚à‚Ì‚Í‚È‚¢
+ƒV[ƒU[‚ÍŸ—˜‚ÌØ‚ð”[‚ß‚é‚©‚Ì‚²‚Æ‚­ƒXƒgƒŠƒbƒv‚É“ü‚Á‚½B ƒŠ[ƒWƒ‡ƒ“‚ÍNCR‚ðƒjƒ…[ƒxƒKƒX‚©‚çŠ®‘S‚É’Ç‚¢o‚µAƒ‚ƒnƒr‘O£Šî’n‚Ü‚Å’Ç‚¢•Ô‚µ‚½
+ƒV[ƒU[‚Í”Þ‚ÌvŒ£‚ðÌ‚¦‹à‰Ý‚ð’’‘¢‚µAƒEƒFƒCƒXƒgƒ‰ƒ“ƒh’†‚É—¬’Ê‚³‚¹‚½
+ƒV[ƒU[‚Í”Þ—‚ÌvŒ£‚ðÌ‚¦‹à‰Ý‚ð’’‘¢‚µAƒEƒFƒCƒXƒgƒ‰ƒ“ƒh’†‚É—¬’Ê‚³‚¹‚½
+ƒvƒŠƒ€‚ªƒŠ[ƒWƒ‡ƒ“‚É‚æ‚Á‚ÄŠÔ‚à‚È‚­æ‚ÁŽæ‚ç‚ê‚é‚Æ‚¢‚¤Ž–‚Ìd‘å‚³‚ð—‰ð‚µ‚Ä‚¢‚È‚¢ƒvƒŠƒ€EƒXƒŠƒ€•ÛˆÀŠ¯‚ÍA—EŠ¸‚É‚àƒV[ƒU[‚ÌˆÓŽu‚É’ïR‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚éc
 •ï‘Ñƒ{ƒbƒNƒX
 ‚Í‚ñ‚¾‚²‚Ä
 ƒOƒŠƒ‹
@@ -1754,7 +1769,8 @@ Magnetic Personality: ƒJƒŠƒXƒ}‚ª“’…‚Ì”@‚­ˆì‚êo‚éI ‚ ‚È‚½‚Í‚Æ‚Ä‚àƒ‚ƒe‚é‚Ì‚ÅAƒ
 Against All Varmints: ŒÃ‚¢—Fl’B‚ªšº‚ð”í‚Á‚Ä‚¢‚é‚±‚Æ‚É‘Ï‚¦‚ç‚ê‚È‚­‚È‚è‚Ü‚µ‚½B BBƒKƒ“, ƒ”ƒ@[ƒ~ƒ“ƒgƒ‰ƒCƒtƒ‹, ƒVƒ“ƒOƒ‹ƒVƒ‡ƒbƒgƒKƒ“, ƒLƒƒƒ‰ƒoƒ“EƒVƒ‡ƒbƒgƒKƒ“, ‚Ü‚½‚Í10mmƒsƒXƒgƒ‹‹y‚ÑSMG‚ðŽg—p‚·‚é‚Æ, ƒ_ƒ[ƒW‚ª30%‘‰Á‚µ‚Ü‚·B
 Plasma Spaz: ‚ ‚È‚½‚Íƒvƒ‰ƒYƒ}‚É‹»•±‚µ‚·‚¬‚ÄŽ©•ªŽ©g‚ð—}‚¦‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñI ‘S‚Ä‚Ìƒvƒ‰ƒYƒ}•Ší(ƒOƒŒƒl[ƒh‚ðŠÜ‚Þ)‚ÌUŒ‚‘¬“x‚ª25%‘‰Á‚µ‚Ü‚·B
 Animal Control: “®•¨‚É‘Î‚µ‚Äƒ_ƒ[ƒWƒ{[ƒiƒX‚ðŠl“¾‚µA‚©‚ÂŽ€‚ñ‚¾“®•¨‚É‘Î‚µ‚Ä‚ÌƒAƒCƒeƒ€‚ÌŠl“¾—Ê‚ª‘½‚­‚È‚è‚Ü‚·
-Bloody Mess: ŽE‚µ‚½“G‚ª”š”­‚µ‚Ä“à‘Ÿ‚â–Ú‹Ê‚ª”ò‚ÑŽU‚èAŽüˆÍ‚ðÔ‚­õ‚ß‚Ü‚·B Šy‚µ‚¢‚Å‚·‚ËIc‚¨‚Á‚ÆA‚Â‚¢‚Å‚É‘S‚Ä‚Ì•Ší‚Å5%‚Ì’Ç‰Áƒ_ƒ[ƒW‚ð—^‚¦‚é‚±‚Æ‚ªo—ˆ‚Ü‚·
+Bloody Mess: ŽE‚µ‚½“G‚ª‚µ‚Î‚µ‚Î”š”­‚µ‚Ä“à‘Ÿ‚â–Ú‹Ê‚ª”ò‚ÑŽU‚èAŽüˆÍ‚ðÔ‚­õ‚ß‚Ü‚·B Šy‚µ‚¢‚Å‚·‚ËIc‚¨‚Á‚ÆA‚Â‚¢‚Å‚É‘S‚Ä‚Ì•Ší‚Å5%‚Ì’Ç‰Áƒ_ƒ[ƒW‚ð—^‚¦‚é‚±‚Æ‚ªo—ˆ‚Ü‚·
+Good Natured: ‚ ‚È‚½‚Í¶ˆ‚Ì‘Pl‚Å–\—Í‚æ‚è‚à“ª”]‚Å–â‘è‚ð‰ðŒˆ‚·‚éŒXŒü‚ª‚ ‚è‚Ü‚·B Barter, Medicine, Repair, Science, Speech‚É+5‚Ìƒ{[ƒiƒX‚ð“¾‚Ü‚·‚ªAEnergy Weapons, Explosives, Guns, Melee Weapons, Explosives‚É-5‚Ìƒyƒiƒ‹ƒeƒB‚ª—^‚¦‚ç‚ê‚Ü‚·
 In Shining Armor (DM)
 Junk Rounds (DM)
 Light Touch (DM)
