@@ -1,5 +1,5 @@
 ; ID					DAM	CRT	CRCH	SPRD	AP	CND	SKILL	VAL	WGT
-@FalloutNV.esm:0E393B			60	-1	-1	-1	35	-1	-1	-1	5.5	; Single Shotgun
+@FalloutNV.esm:0E393B			60	-1	-1	-1	35	-1	-1	-1	5	; Single Shotgun
 @FalloutNV.esm:08F216			-1	-1	-1	-1	23	-1	-1	-1	-1	; .357 Magnum Revolver
 @FalloutNV.esm:08F215			39	39	-1	0.5	-1	-1	-1	-1	3	; .44 Magnum Revolver
 @FalloutNV.esm:127C6C			45	45	-1	-1	-1	-1	-1	-1	3.5	; Mysterious Magnum
@@ -24,8 +24,8 @@
 @FalloutNV.esm:08F217			-1	-1	-1	1.8	23	-1	-1	-1	4.5	; 9mm Submachine Gun
 @FalloutNV.esm:0E32F4			-1	-1	-1	-1	23	-1	50	-1	5	; Vance's 9mm Submachine Gun
 @FalloutNV.esm:004321			-1	-1	-1	2	-1	-1	-1	-1	-1	; 10mm Submachine Gun
-@FalloutNV.esm:0CD53A			-1	-1	-1	-1	23	-1	-1	-1	4.5	; Caravan Shotgun
-@FalloutNV.esm:1735E3			-1	-1	-1	2.2	23	-1	-1	-1	5	; Sturdy Caravan Shotgun
+@FalloutNV.esm:0CD53A			-1	-1	-1	-1	23	-1	-1	-1	5.5	; Caravan Shotgun
+@FalloutNV.esm:1735E3			-1	-1	-1	2.2	23	-1	-1	-1	6	; Sturdy Caravan Shotgun
 @FalloutNV.esm:08ED0C			-1	-1	-1	-1	-1	-1	-1	-1	4	; Lever-action Shotgun
 
 @FalloutNV.esm:004333			-1	-1	-1	-1	-1	120	-1	-1	7.5	; Hunting Rifle
@@ -43,11 +43,11 @@
 
 @GunRunnersArsenal.esm:000807		-1	-1	-1	-1	-1	-1	-1	3000	-1	; Nuka-Breaker
 @GunRunnersArsenal.esm:000810		-1	-1	-1	-1	-1	-1	-1	6000	-1	; Greased Lightning
-@GunRunnersArsenal.esm:000803		-1	-1	-1	-1	-1	-1	-1	12000	-1	; Sprtel-Wood 9700
-@GunRunnersArsenal.esm:00080A		-1	-1	-1	-1	-1	-1	-1	12000	-1	; The Smitty Special
-@GunRunnersArsenal.esm:000809		-1	-1	-1	-1	-1	-1	-1	12000	-1	; Two-Step Goodbye
-@GunRunnersArsenal.esm:000805		-1	-1	-1	-1	-1	-1	-1	6000	-1	; Li'l Devil
-@GunRunnersArsenal.esm:000806		-1	-1	-1	-1	-1	-1	-1	12000	-1	; Bozar
+@GunRunnersArsenal.esm:000803		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Sprtel-Wood 9700
+@GunRunnersArsenal.esm:00080A		-1	-1	-1	-1	-1	-1	-1	15000	-1	; The Smitty Special
+@GunRunnersArsenal.esm:000809		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Two-Step Goodbye
+@GunRunnersArsenal.esm:000805		-1	-1	-1	-1	-1	-1	-1	8000	-1	; Li'l Devil
+@GunRunnersArsenal.esm:000806		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Bozar
 @GunRunnersArsenal.esm:00080B		-1	-1	-1	-1	-1	-1	-1	4500	-1	; Cleansing Flame
 @GunRunnersArsenal.esm:000808		-1	-1	-1	-1	-1	-1	-1	3000	-1	; Embrace of the Mantis King!
 
@@ -57,9 +57,9 @@
 @GunRunnersArsenal.esm:00081B		-1	-1	-1	-1	-1	-1	-1	2100	-1	; 25mm Grenade APW
 
 @FalloutNV.esm:09073B			-1	-1	-1	-1	-1	-1	-1	-1	5.5	; Laser RCW
-@OldWorldBlues.esm:00B9CF		-1	-1	-1	-1	-1	-1	-1	-1	7	; LAER
-@OldWorldBlues:esm:015DD3		-1	-1	-1	-1	-1	-1	-1	-1	7	; Elijah's advanced LAER
-@FalloutNV.esm:15837B			-1	-1	-1	-1	-1	-1	-1	-1	9	; Gauss Rifle
+@OldWorldBlues.esm:00B9CF		-1	-1	-1	-1	-1	-1	-1	-1	8	; LAER
+@OldWorldBlues:esm:015DD3		-1	-1	-1	-1	-1	-1	-1	-1	8	; Elijah's advanced LAER
+@FalloutNV.esm:15837B			-1	-1	-1	-1	-1	-1	-1	-1	8.5	; Gauss Rifle
 @FalloutNV.esm:15B38D			-1	-1	-1	-1	-1	-1	-1	-1	9.5	; YCS/186
 @HonestHearts.esm:00C626		-1	-1	-1	-1	-1	-1	50	-1	-1	; Compliance Regulator
 
