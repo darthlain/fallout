@@ -770,6 +770,7 @@ Scavenger's Dog
 Hunter's Dog
 Viper Gang Mutt
 Viper Guard Dog
+Viper Hunting Dog
 Paranoid Prospector
 Crucified Trooper
 Crucified Slave
@@ -934,6 +935,7 @@ Miss Fortune
 Meltdown
 Implant GRX
 Wild Wasteland
+Increases rate of fire.
 Edit Traits
 Edit Tag Skills
 Exit
@@ -1657,6 +1659,13 @@ Caesar entered The Strip as though it was his Triumph. The Legion pushed the NCR
 Caesar honored him with a golden coin, minted in celebration of his contributions and distributed throughout the wasteland.
 Caesar honored her with a golden coin, minted in celebration of her contributions and distributed throughout the wasteland.
 Not understanding the gravity of the Legion's imminent takeover of Primm, Sheriff Primm Slim valiantly attempts to resist Caesar's will.
+Allow me to introduce myself! I'm the Securitron that dug you up in the bone orchard outside Goodsprings.
+Is there anything more beautiful than a beautiful busty brahmin riding a caraveneer off into the sunset... Wait I don't think that came out right.
+My youngers think our guns can keep out the world, but I think we need to let it in, just a little, or become its victim.
+But... Of course. It's all right. Thank you.
+(Optional) Find a way to disgrace Karl in front of Papa Khan.
+That's close enough. What do you want with the Great Khans?
+Wish I had a First Recon guy looking after me.
 Box of Bandages
 Soldering Iron
 Grill
@@ -1824,6 +1833,7 @@ Dead Giant Ant
 Dead Mirelurk
 Dead Cazador
 Dead Ghoul
+Dead Legionary
 Which limb would you like to heal?
 All
 Nevermind
