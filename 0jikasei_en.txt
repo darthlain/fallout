@@ -744,6 +744,7 @@ Vending Machine Code - "Microfusion Cells"
 Legion Raid Camp
 Griffin Wares Sacked Caravan
 Wrecked Highwayman
+Cliffside Prospector Camp
 Correctional Facility Yard
 Legion Dead Drop
 The Ultra-Luxe
@@ -788,6 +789,8 @@ NCR Clerk
 NCR Tourist
 NCR Heavy Trooper
 NCR Lieutenant
+NCR Mercenary Techie
+Legion Recruit
 Legion Hunter
 Legion Prospector
 Disguised Frumentarius
@@ -796,6 +799,7 @@ Fiend Underboss
 Great Khan Chem Dealer
 Great Khan Chem Pusher
 Great Khan Marksman
+Omerta Underboss
 Chairman
 Chairman Greeter
 Gomorrah Prostitute
@@ -953,6 +957,7 @@ I'll be waiting.
 Yeah? What do you want?
 Not anymore?
 Is there something you need?
+You are now Well Rested!
 Report to Ranger Grant.
 I'll submit to the credit check. <5000 caps required>
 I'll submit to the credit check. <5000 caps required.>
@@ -1666,6 +1671,25 @@ But... Of course. It's all right. Thank you.
 (Optional) Find a way to disgrace Karl in front of Papa Khan.
 That's close enough. What do you want with the Great Khans?
 Wish I had a First Recon guy looking after me.
+'Cause they know I ain't just barking here. What I say's got bite, 'cause it's the truth.
+No-bark Noonan
+Have you tried calling him hurtful names?
+You sure talk tough for someone who's afraid to die.
+And if you can't go through with it, you look even weaker.
+We got ourselves a little Ranger family reunion now. Time's right for a feud.
+I'd gladly fight at your side.
+You ever think about being a Ranger?
+You got my respect.
+Those beasts drug the rest of the men away. Oh God, I hope they don't come back for me.
+You have, have you? Misdirection. When you're pinned down, outnumbered, and two days from any help, it's just about the best friend you can have.
+Go on. Go fetch a ranger and do this right.
+Help Dr. Richards with his patients.
+Hanlon was the one sending out the false reports. He killed himself rather than turning himself in.
+It seems that the territories are about to blow up.
+We get called on to end it. I've had my share. Some of them, you think, maybe you could've gotten them out.
+Maybe it's not the Legion that got them killed. Maybe it's your orders and you following them.
+No. People die out there. Often enough that no one worries about blame. They're too anxious to forget it happened in the first place, I guess.
+Besides. I was on break when it happened.
 Box of Bandages
 Soldering Iron
 Grill

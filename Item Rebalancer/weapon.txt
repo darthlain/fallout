@@ -10,15 +10,15 @@
 @HonestHearts.esm:008E1A		-1	-1	-1	0.6	-1	-1	-1	-1	-1	; .45 Auto Pistol
 @FalloutNV.esm:08F213			43	43	-1	0.7	-1	-1	-1	-1	-1	; 12.7mm Pistol
 @GunRunnersArsenal.esm:000805		48	48	-1	0.65	-1	-1	-1	-1	-1	; Li'l Devil
-@GunRunnersArsenal.esm:000813		24	24	-1	-1	-1	-1	35	-1	3.5	; 5.56mm Pistol
-@FalloutNV.esm:133058			26	26	-1	-1	-1	-1	-1	-1	3.5	; That Gun
+@GunRunnersArsenal.esm:000813		-1	-1	-1	-1	-1	-1	35	-1	3.5	; 5.56mm Pistol
+@FalloutNV.esm:133058			-1	-1	-1	-1	-1	-1	-1	-1	3.5	; That Gun
 @FalloutNV.esm:0E9C38			-1	-1	-1	0.45	-1	-1	-1	-1	-1	; Service Rifle
 @GunRunnersArsenal.esm:000812		-1	-1	-1	0.4	-1	-1	60	-1	-1	; Battle Rifle
 @FalloutNV.esm:0F062B			-1	-1	-1	0.35	-1	-1	-1	-1	-1	; This Machine
 @FalloutNV.esm:07EA24			20	20	1.5	-1	28	-1	-1	-1	-1	; Vermint Rifle
 @FalloutNV.esm:0E5B17			-1	-1	-1	-1	-1	-1	50	-1	-1	; Ratslayer
-@FalloutNV.esm:00434C			-1	-1	-1	3	-1	-1	-1	-1	-1	; Sawed-off Shotgun
-@FalloutNV.esm:1673CD			-1	-1	-1	2.7	-1	-1	-1	-1	-1	; Big Boomer
+@FalloutNV.esm:00434C			-1	-1	-1	2.7	-1	-1	-1	-1	-1	; Sawed-off Shotgun
+@FalloutNV.esm:1673CD			-1	-1	-1	2.4	-1	-1	-1	-1	-1	; Big Boomer
 @DeadMoney.esm:00A7A9			-1	-1	-1	1.2	-1	-1	-1	-1	-1	; Automatic Rifle
 @FalloutNV.esm:0E377A			-1	-1	-1	-1	-1	-1	-1	-1	2	; Silenced .22 Pistol
 
@@ -34,9 +34,8 @@
 @FalloutNV.esm:1429E1			-1	-1	-1	-1	-1	-1	-1	-1	6	; Gobi Compaign Scout Rifle
 @OldWorldBlues.esm:0112BA		-1	-1	-1	-1	-1	-1	-1	-1	7	; Christine's COS Silencer Rifle
 @FalloutNV.esm:121148			-1	-1	-1	-1	-1	-1	-1	-1	7	; Brush Gun
-@GunRunnersArsenal.esm:00080E		-1	-1	-1	-1	-1	-1	-1	-1	7.5	; Medicine Stick
-@FalloutNV.esm:1429D1			-1	-1	-1	-1	-1	-1	-1	-1	8	; 12.7mm Submachine Gun
-@GunRunnersArsenal.esm:00084E		-1	-1	-1	-1	-1	-1	-1	-1	8	; 12.7mm Submachine Gun (GRA)
+@FalloutNV.esm:1429D1			-1	-1	-1	-1	-1	-1	-1	-1	7	; 12.7mm Submachine Gun
+@GunRunnersArsenal.esm:00084E		-1	-1	-1	-1	-1	-1	-1	-1	7	; 12.7mm Submachine Gun (GRA)
 @FalloutNV.esm:08ED0A			-1	-1	-1	-1	-1	-1	-1	-1	7	; Riot Shotgun
 @HonestHearts.esm:00996C		-1	-1	-1	-1	-1	-1	-1	-1	-1	; .45 Auto Submachine Gun
 
@@ -51,6 +50,9 @@
 @GunRunnersArsenal.esm:000806		-1	-1	-1	-1	-1	-1	-1	15000	-1	; Bozar
 @GunRunnersArsenal.esm:00080B		-1	-1	-1	-1	-1	-1	-1	4500	-1	; Cleansing Flame
 @GunRunnersArsenal.esm:000808		-1	-1	-1	-1	-1	-1	-1	3000	-1	; Embrace of the Mantis King!
+@GunRunnersArsenal.esm:000804		-1	-1	-1	-1	-1	-1	-1	13500	-1	; Esther
+@GunRunnersArsenal.esm:00080F		-1	-1	-1	-1	-1	-1	-1	8000	-1	; Gehenna
+@GunRunnersArsenal.esm:00080E		-1	-1	-1	-1	-1	-1	-1	15000	7.5	; Medicine Stick
 
 @FalloutNV.esm:0FF576			-1	-1	-1	-1	-1	-1	50	-1	-1	; Grenade Rifle
 @FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	75	-1	-1	; Thump-Thump
@@ -88,9 +90,9 @@
 @FalloutNV.esm:121133			-1	-1	-1	-1	-1	-1	-1	-1	0.085	; .45-70G
 @FalloutNV.esm:13E43D			-1	-1	-1	-1	-1	-1	-1	-1	0.085	; .45-70G HP
 @FalloutNV.esm:13E43E			-1	-1	-1	-1	-1	-1	-1	-1	0.085	; .45-70G SWC
-@FalloutNV.esm:1429CF			-1	-1	-1	-1	-1	-1	-1	-1	0.079	; 12.7mm
-@FalloutNV.esm:1613D4			-1	-1	-1	-1	-1	-1	-1	-1	0.079	; 12.7mm HP
-@GunRunnersArsenal.esm:000A2B		-1	-1	-1	-1	-1	-1	-1	-1	0.079	; 12.7mm JHP
+@FalloutNV.esm:1429CF			-1	-1	-1	-1	-1	-1	-1	-1	0.074	; 12.7mm
+@FalloutNV.esm:1613D4			-1	-1	-1	-1	-1	-1	-1	-1	0.074	; 12.7mm HP
+@GunRunnersArsenal.esm:000A2B		-1	-1	-1	-1	-1	-1	-1	-1	0.074	; 12.7mm JHP
 
 @FalloutNV.esm:015169			-1	-1	-1	-1	-1	-1	-1	50	-1	; Stimpak
 @FalloutNV.esm:015163			-1	-1	-1	-1	-1	-1	-1	25	0.01	; Buffout
