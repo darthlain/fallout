@@ -717,6 +717,8 @@ Ulysses' Mask
 Black Combat Armor
 Regulator Combat Armor, Reinforced
 Commando Armor, Reinforced
+Lightweight Leather Armor
+Lightweight Metal Armor
 NCR Face Wrap Armor
 NCR Bandoleer Armor
 NCR Mantle Armor
@@ -744,6 +746,8 @@ Vending Machine Code - "Microfusion Cells"
 Legion Raid Camp
 Griffin Wares Sacked Caravan
 Wrecked Highwayman
+Crescent Canyon West
+Crescent Canyon East
 Cliffside Prospector Camp
 Correctional Facility Yard
 Legion Dead Drop
@@ -784,6 +788,7 @@ Gun Runner Sentry Bot
 NCR Scout
 NCR Deserter
 NCR Recon Unit
+NCR Captain
 NCR Engineer
 NCR Clerk
 NCR Tourist
@@ -851,6 +856,8 @@ Abandoned Brotherhood Safehouse
 Novac Sewer
 Greenblood Caves
 Angel Cave
+Collapsed Overpass Tunnel
+Collapsed Overpass Tunnel Entrance
 Infested NCR Bunker Lower Level
 Claw Nest
 Cook Cook's Kitchen
@@ -1431,7 +1438,7 @@ I just think we should right now.
 What are you planning to do once you have the specs?
 You're resourceful. That machine, robot with you - can help you find the warheads you need to destroy... and their trigger, the detonator.
 You and that machine, are all that remains of NCR here... rest fell to radiation, fire... and what burrows below.
-All due respect sir, I think you're making a mistake. We're close to a break through with the Duraframe Eyebots, I can feel it! Yes, sir.
+All due respect sir, I think you're making a mistake. We're close to a breakthrough with the Duraframe Eyebots, I can feel it! Yes, sir.
 Yeah, I'm beginning to see where you get it from.
 That was a .308 round. Probably hand-loaded - that would have destroyed most robots your size.
 Elevator to the Temple
@@ -1690,6 +1697,17 @@ We get called on to end it. I've had my share. Some of them, you think, maybe yo
 Maybe it's not the Legion that got them killed. Maybe it's your orders and you following them.
 No. People die out there. Often enough that no one worries about blame. They're too anxious to forget it happened in the first place, I guess.
 Besides. I was on break when it happened.
+Ranger here - where's the fight?
+You're lucky I happened to be nearby.
+Curtis? He's been in the NCR long before our conflict with the Legion. There's just no way...
+You know, if you were serving, you'd probably be halfway to general by now.
+From here on out, we fight for Chief Hanlon.
+There's other places to go.
+Are you an outlaw now?
+I'm going to find you.
+So you refused to deliver the Chip - what, to set me up to die?
+If you wanted me dead, why did you wait?
+Kimball, Caesar, House... you'd think their whole world was that wall, cutting the Colorado. If I'd never laid eyes on it, never spoke of it...
 Box of Bandages
 Soldering Iron
 Grill
@@ -1804,6 +1822,7 @@ You're just so excited about plasma that you can't (magnetically) contain yourse
 You handle animals really well when they are dead and gain a damage bonus against the living ones.
 With the Bloody Mess Perk, characters and creatures you kill will often explode into a red, gut-ridden, eyeball-strewn paste. Fun! Oh, and you'll do 5% extra damage with all weapons.
 You're Good Natured at heart, more prone to solving problems with your mind than violence. You gain +5 to Barter, Medicine, Repair, Science, and Speech, but have -5 to Energy Weapons, Explosives, Guns, Melee Weapons, and Unarmed.
+You've faced torture at the hands of the Marked Men... now it's payback time. (+10% Damage Threshold and +10% Damage against the Marked Men)
 In Shining Armor
 Junk Rounds
 Light Touch

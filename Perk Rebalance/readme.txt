@@ -1,27 +1,24 @@
 YUP Vigor 
 
-Black Widow		CHA4
-Lady Killer		CHA4
-Cherchez La Femme	CHA4
-Confirmed Bachelor	CHA4
-Cannibal		END3 Survival30
+Black Widow		CHA5
+Lady Killer		CHA5
+Cherchez La Femme	CHA5
+Confirmed Bachelor	CHA5
+Cannibal		END5 Survival30
 Gunslinger		AGI5
-Hand Loader		Lv16
+Hand Loader		Lv20
 Shotgun Surgeon		Medicine30
 Commando		PER5
 Cowboy			Survival30
-Pack Rat		INT削除
-StrongBack		END削除
 Super Slam!		Lv16 Melle60 OR Unarmed60
 Terrifying Presence	Lv4 CHA6 Speech30
 Night Person		Lv2 PER3
 FastMetabolism		Lv6
 Life Giver		Lv6
-Long Haul		END削除
 Piercing Strike		Lv8
 Sniper			PER7 AGI削除
 Unstoppable Force	Lv10 Melle60 OR Unarmed60 AND STR5
-Jury Rigging		Lv28 Repair100
+Jury Rigging		Lv30 Repair100
 Action Boy		Lv6 AGI5
 Action Girl		Lv6 AGI5
 Chem Resistant		Lv8
@@ -42,10 +39,10 @@ And Stay Back		Lv24 Guns100
 HeavyWeight		Lv24
 
 Grunt			Lv12 Melle30 Explosives45
-Sneering Imperialist	Lv8 CHA5
+Sneering Imperialist	Lv8 CHA3
 Tribal Wisdom		Lv14
 Fight the Power		Lv12 CHA5
-Eye for Eye		Lv10 END7
+Eye for Eye		Lv10 END6
 
 Alertness		Lv2
 Walker Instinct		Lv4
