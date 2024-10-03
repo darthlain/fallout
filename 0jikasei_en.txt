@@ -318,6 +318,7 @@ Case, .45-70 Gov't
 .50 MG, Incendiary
 .50 MG Round, Incendiary
 .50MG Inc.
+Case, .50 MG
 Breakdown .50 MG
 Breakdown .50 MG Round
 Breakdown .50 MG Armor Piercing
@@ -970,6 +971,7 @@ I'll submit to the credit check. <5000 caps required>
 I'll submit to the credit check. <5000 caps required.>
 I'll submit to the credit check. <5,000 caps required.>
 I want to buy a passport. <5000 caps required.>
+Let's talk about the creature's eggs you need.
 Let's talk about the creature eggs you need.
 Let's talk about the creature eggs that you need.
 Could you help me craft something?
@@ -1708,6 +1710,33 @@ I'm going to find you.
 So you refused to deliver the Chip - what, to set me up to die?
 If you wanted me dead, why did you wait?
 Kimball, Caesar, House... you'd think their whole world was that wall, cutting the Colorado. If I'd never laid eyes on it, never spoke of it...
+[Black Widow] Is it wrong to want a guy who'd shoot me in the head?
+More than you ever dreamed, baby.
+I dig this crazy slang!
+Trips to the basement are rarely so educational, don't you think?
+I'm listening.
+You want me to kill Caesar?
+I don't want you harming a hair on that man's head - assuming you can find one.
+I'm not surprised. The Legion has spies on the Strip.
+An NCR welcome to you.
+So you've been sucked into the decadence of the Strip as well, have you?
+Personal space meaning anything to you, guy?
+Personal space meaning anything to you, lady?
+Got the whiskey, let's do this.
+I'm getting real tired of talking.
+Restart the 2 array generators, then reset the main power breaker.
+Once a republican, always a republican.
+Watch out where you exit. Sewers can lead you to Fiend territory.
+There's always more next day.
+That was a good day for The Thorn.
+Going to eat the next fucking rat I see.
+Quartermaster Mayes
+Search Corpse
+That red beret's looking good, soldier.
+Doesn't matter. Your time's up, Hanlon.
+Oliver can't stand that rangers got credit for victory at Hoover. Whatever I recommend, he does the opposite. I said I wanted them on the ridge.
+He put them right on the western part of the dam itself. We don't have enough firepower to hold that spot.
+If the troopers fallback, and they will, the rangers will advance to cover Oliver's retreat. We lose the dam, Oliver and the senate are ruined.
 Box of Bandages
 Soldering Iron
 Grill
@@ -1745,6 +1774,7 @@ You no longer have radiation sickness.
 (Merciful Thug)
 (Soft-Hearted Devil)
 (Wild Child)
+Just good, honest infantry work! You do 25% more damage with 9mm and .45 Auto Pistols and SMGs, Service Rifles, Assault and Marksman Carbines, Light Machine Guns, Frag Grenades, Light Machine Guns, Frag Grenades, Grenade Rifles and Launchers, and Combat Knives.
 Just good, honest infantry work! You do 20% more damage with 9mm and .45 Auto Pistols and SMGs, Service Rifles, Assault Carbines, Battle Rifles, Light Machine Guns, Frag Grenades, Grenade Rifles and Launchers, and Combat Knives.
 The Flamer that burns twice as bright burns half as long. All weapons have +3% chance to Critically Hit, but equipment condition decays 15% faster.
 Perception affects your accuracy with ranged weapons. A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills.
@@ -1877,6 +1907,7 @@ Dead Mirelurk
 Dead Cazador
 Dead Ghoul
 Dead Legionary
+Dead Boomer
 Which limb would you like to heal?
 All
 Nevermind

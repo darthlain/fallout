@@ -318,6 +318,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 .50MG ÄˆÎ’e
 .50MG ÄˆÎ’e
 .50MG ÄˆÎ’e
+–òä°: .50MG
 •ª‰ð: .50MG
 •ª‰ð: .50MG
 •ª‰ð: .50MG AP
@@ -970,6 +971,7 @@ Traits‚ðƒGƒfƒBƒbƒg
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
 ’Ês‘‚ð”ƒ‚¤ <5000ƒLƒƒƒbƒv•K—v>
+—á‚Ì—‘‚ÌˆË—Š‚É‚Â‚¢‚Ä˜b‚µ‚½‚¢
 —á‚Ì—‘‚ÌˆË—Š‚É‚Â‚¢‚Ä˜b‚µ‚½‚¢
 —á‚Ì—‘‚ÌˆË—Š‚É‚Â‚¢‚Ä˜b‚µ‚½‚¢
 ƒNƒ‰ƒtƒgì‹Æ‚ðŽè“`‚Á‚Ä‚­‚ê‚È‚¢‚©H
@@ -1708,6 +1710,33 @@ Dr.ƒŠƒ`ƒƒ[ƒh‚ÌŠ³ŽÒ‚ÌŽ¡—Ã‚ðŽè“`‚¤
 ‚ ‚ñ‚½‚Íƒ`ƒbƒv‚ð‰^‚ÔŽdŽ–‚ð‹‘”Û‚µ‚½ - Ž„‚ðŽ€‚È‚·‚½‚ß‚ÉH
 Ž„‚ðŽ€‚È‚¹‚½‚¢‚È‚çA‚È‚º‘Ò‚Á‚Ä‚¢‚½H
 ƒLƒ“ƒoƒ‹AƒV[ƒU[AƒnƒEƒXA“z‚ç‚É‚Æ‚Á‚Ä‚ÍƒRƒƒ‰ƒhì‚ðŠu‚Ä‚é‚ ‚Ì•Ç‚ª”Þ‚ç‚Ì¢ŠE‚Ì‘S‚Ä‚¾‚Á‚½‚ë‚¤A‚à‚µ‰´‚ª‚»‚ê‚ðŒ©‚Â‚¯‚¸A’N‚É‚à˜b‚·‚±‚Æ‚ª‚È‚©‚Á‚½‚çc
+[Black Widow] Ž„‚Ì“ª‚ðŒ‚‚¿”²‚¢‚½’j‚ð—~‚µ‚ª‚Á‚¿‚áƒ_ƒ‚¾‚Á‚Ä‚ÌH
+ŒN‚ª–²Œ©‚é‚æ‚è¦‚¢‚¾‚ë‚¤‚ºAƒxƒCƒr[
+‚±‚ÌƒNƒŒƒCƒW[‚ÈƒXƒ‰ƒ“ƒO‹C‚É“ü‚Á‚½‚íI
+’n‰ºŽº‚Ö‚Ì—·s‚ª‚±‚ê‚Ù‚Ç‚½‚ß‚É‚È‚é‚±‚Æ‚Í–Å‘½‚É‚È‚¢‚¾‚ë‚¤‚È
+•·‚¢‚Ä‚é‚æ
+ƒV[ƒU[‚ðŽE‚¹‚ÆH
+“z‚Ì”¯‚Ì–Ñˆê–{‚Å‚à‚Â‚¯‚é‚È - ˆê–{‚Å‚àŽc‚Á‚Ä‚ê‚Î‚Ì˜b‚¾‚ªc
+‹Á‚«‚Í‚µ‚È‚¢B ƒŠ[ƒWƒ‡ƒ“‚ªƒXƒgƒŠƒbƒv’n‹æ‚É‚àƒXƒpƒC‚ð‘—‚Á‚Ä‚¢‚é‚±‚Æ‚Í’m‚Á‚Ä‚¢‚é
+NCR‚ÍŒN‚ðŠ½Œ}‚·‚é
+‚»‚ê‚ÅA‚¨‘O‚àƒXƒgƒŠƒbƒv‚Ì‘Þ”p‚Éˆø‚«ž‚Ü‚ê‚½‚Æ‚¢‚¤–ó‚©H
+‚»‚Ìƒp[ƒ\ƒiƒ‹ƒXƒy[ƒX‚Í‚È‚É‚©ˆÓ–¡‚ª‚ ‚é‚Ì‚©H
+‚»‚Ìƒp[ƒ\ƒiƒ‹ƒXƒy[ƒX‚Í‚È‚É‚©ˆÓ–¡‚ª‚ ‚é‚Ì‚©H
+ƒEƒBƒXƒL[Ž‚Á‚Ä‚«‚½B ‚³‚ ‚â‚ë‚¤
+‚à‚¤‚¨‘O‚Æ˜b‚·‚Ì‚Í‚¤‚ñ‚´‚è‚¾
+2‚Â‚ÌƒAƒŒƒCƒWƒFƒlƒŒ[ƒ^‚ðÄ‹N“®‚µAŽå“dŒ¹ƒuƒŒ[ƒJ[‚ðƒŠƒZƒbƒg‚·‚é
+ˆê“x‹¤˜a“}ˆõ‚É‚È‚Á‚½‚çA‚»‚¢‚Â‚Í‚¸‚Á‚Æ‹¤˜a“}ˆõ‚¾
+oŒû‚ðŠÔˆá‚¦‚é‚È‚æB ‰º…“¹‚ÍƒtƒB[ƒ“ƒh‚Ì“ê’£‚è‚ÉŒq‚ª‚Á‚Ä‚é‚©‚ç‚È
+–¾“ú‚Í‚à‚Á‚ÆŠy‚µ‚­‚È‚é‚¾‚ë‚¤‚º
+¡“ú‚Ìƒ\[ƒ“‚àŠy‚µ‚©‚Á‚½‚È
+¡“ú‚ÌƒƒV‚àƒNƒ\ƒlƒYƒ~‚¾‚æ
+ƒƒCƒYŽåŒvŠ¯
+Ž€‘Ì‚ð’²‚×‚é
+‚©‚Á‚±‚¢‚¢Ô‚¢ƒxƒŒ[–X‚¾‚ÈB •ºŽm‚æ
+ŠÖŒW‚È‚¢B ŠÏ”O‚µ‚ëAƒnƒ“ƒƒ“
+ƒIƒŠƒo[‚Íƒt[ƒo[‚Å‚ÌŸ—˜‚ªƒŒƒ“ƒWƒƒ[‚ÌŒ÷Ñ‚É‚È‚é‚±‚Æ‚ðŒ™‚ª‚Á‚Ä‚¢‚éB Ž„‚ª‰½‚ð’ñˆÄ‚µ‚Ä‚àA”Þ‚Í³”½‘Î‚Ì‚±‚Æ‚ð‚·‚éB Ž„‚ÍƒŒƒ“ƒWƒƒ[•”‘à‚ð‘Oü‚É’u‚­‚×‚«‚¾‚ÆŒ¾‚Á‚½‚Ì‚¾
+‰äX‚Íƒ_ƒ€‚Ì¼‚ÌŠe’n‚Éƒoƒ‰ƒoƒ‰‚É”z’u‚³‚ê‚½B ‚»‚Ì’n“_‚ð–h‰q‚·‚é‚¾‚¯‚Ì\•ª‚È‰Î—Í‚àŽ‚½‚¹‚Ä‚­‚ê‚È‚©‚Á‚½
+‚¨‚»‚ç‚­ƒ_ƒ€‚©‚ç‚Ì“P‘Þ‚ð—]‹V‚È‚­‚³‚ê‚é‚¾‚ë‚¤A‚»‚¤‚È‚ê‚ÎƒŒƒ“ƒWƒƒ[’B‚ÍƒIƒŠƒo[‚Ì“¦‚°“¹‚ðŠm•Û‚·‚é‚½‚ß‚É‘Oü‚Éo‚éB ‰äX‚Íƒ_ƒ€‚ðŽ¸‚¢AƒIƒŠƒo[‚Æ‹c‰ï‚Í”j–Å‚·‚é
 •ï‘Ñƒ{ƒbƒNƒX
 ‚Í‚ñ‚¾‚²‚Ä
 ƒOƒŠƒ‹
@@ -1745,7 +1774,8 @@ Rad-X x4
 (‹`‘¯)
 (—D‚µ‚¢ˆ«–‚)
 (–\‚ê‚ñ–V)
-Grunt: •à•º‚Æ‚µ‚Ä‘f°‚ç‚µ‚¢A’…ŽÀ‚ÈŽdŽ–‚Ô‚è‚Å‚·I@9mm‚Æ.45ƒI[ƒg‚ÌƒsƒXƒgƒ‹, SMG, ƒT[ƒrƒXƒ‰ƒCƒtƒ‹, ƒAƒTƒ‹ƒgƒJ[ƒrƒ“, ƒoƒgƒ‹ƒ‰ƒCƒtƒ‹, ƒ‰ƒCƒgƒ}ƒVƒ“ƒKƒ“, ƒtƒ‰ƒOƒOƒŒƒl[ƒh, ƒOƒŒƒl[ƒhƒ‰ƒCƒtƒ‹, ƒ‰ƒ“ƒ`ƒƒ[, ƒRƒ“ƒoƒbƒgƒiƒCƒt‚Ìƒ_ƒ[ƒW‚ª20“‘‰Á‚µ‚Ü‚·B
+Grunt: •à•º‚Æ‚µ‚Ä‘f°‚ç‚µ‚¢A’…ŽÀ‚ÈŽdŽ–‚Ô‚è‚Å‚·I@9mm‚Æ.45ƒI[ƒg‚ÌƒsƒXƒgƒ‹‚ÆSMG, ƒT[ƒrƒXƒ‰ƒCƒtƒ‹, ƒAƒTƒ‹ƒgƒJ[ƒrƒ“, ƒ}[ƒNƒXƒ}ƒ“ƒJ[ƒrƒ“, ƒ‰ƒCƒgƒ}ƒVƒ“ƒKƒ“, ƒtƒ‰ƒOƒOƒŒƒl[ƒh, ƒOƒŒƒl[ƒhƒ‰ƒCƒtƒ‹, ƒ‰ƒ“ƒ`ƒƒ[, ƒRƒ“ƒoƒbƒgƒiƒCƒt‚Ìƒ_ƒ[ƒW‚ª25“‘‰Á‚µ‚Ü‚·B
+Grunt: •à•º‚Æ‚µ‚Ä‘f°‚ç‚µ‚¢A’…ŽÀ‚ÈŽdŽ–‚Ô‚è‚Å‚·I@9mm‚Æ.45ƒI[ƒg‚ÌƒsƒXƒgƒ‹‚ÆSMG, ƒT[ƒrƒXƒ‰ƒCƒtƒ‹, ƒAƒTƒ‹ƒgƒJ[ƒrƒ“, ƒoƒgƒ‹ƒ‰ƒCƒtƒ‹, ƒ‰ƒCƒgƒ}ƒVƒ“ƒKƒ“, ƒtƒ‰ƒOƒOƒŒƒl[ƒh, ƒOƒŒƒl[ƒhƒ‰ƒCƒtƒ‹, ƒ‰ƒ“ƒ`ƒƒ[, ƒRƒ“ƒoƒbƒgƒiƒCƒt‚Ìƒ_ƒ[ƒW‚ª20“‘‰Á‚µ‚Ü‚·B
 Built to Destroy: 2”{‚ÌŒõ‚ð•ú‚Â‰Š‚Í2”{‚Ì‘¬‚³‚Å”R‚¦s‚«‚éB ƒNƒŠƒeƒBƒJƒ‹ƒqƒbƒg‚ÌŠm—¦‚ª3%‘‰Á‚µA‘•”õ‚Ìó‘Ô‚Í15%‘‚­—ò‰»‚µ‚Ü‚·B
 Perception‚Í‰“Šu•Ší‚Ì–½’†¸“x‚É‰e‹¿‚µ‚Ü‚·B Explosives, Lockpick, Energy WeaponsƒXƒLƒ‹‚Éƒ{[ƒiƒX‚ª•t‚«‚Ü‚·B
 Charisma‚ÍƒRƒ“ƒpƒjƒIƒ“‚Ì“¯sl”‚ÆŽm‹C‚É‰e‹¿‚µ‚Ü‚·B ‚‚¢‚Ù‚ÇlX‚Ì‚ ‚È‚½‚É‘Î‚·‚éDŠ´“x‚ªã‚ª‚è, Barter‚ÆSpeech‚Éƒ{[ƒiƒX‚ª•t‚«‚Ü‚·B
@@ -1766,7 +1796,7 @@ Demolition Expert: ƒ‰ƒ“ƒN1‚É‚Â‚«, ‘S‚Ä‚Ì”š”­•Ší‚Íƒ_ƒ[ƒW‚ª10%‘‰Á‚µ, ”š”­”¼Œa‚
 Lead Belly: RAD‰˜õ‚³‚ê‚½H‚×•¨‚âˆù‚Ý•¨‚ðÛŽæ‚·‚éÛ‚ÉŽó‚¯‚éRAD’l‚ª50%Œ¸­‚µ‚Ü‚·B ‚Ü‚½¶“÷‚Ìˆ«‰e‹¿‚ðŽó‚¯‚È‚­‚È‚è‚Ü‚·B
 Computer Whiz: ƒpƒXƒ[ƒh‚Ì‘I‘ðŽˆ‚ð‚æ‚èŠÈ’P‚Éi‚èž‚Þ‚±‚Æ‚ª‚Å‚«‚Ü‚·B ˆÈ‘O‚ÉƒƒbƒN‚³‚ê‚½ƒ^[ƒ~ƒiƒ‹‚ÌÄƒnƒbƒLƒ“ƒO‚ðŽŽ‚Ý‚é‚±‚Æ‚à‚Å‚«‚Ü‚·B
 Cowboy: ƒŠƒ{ƒ‹ƒo[, ƒŒƒo[ƒAƒNƒVƒ‡ƒ“e, ƒ_ƒCƒiƒ}ƒCƒg, ƒiƒCƒt, Žè•€‚Ìƒ_ƒ[ƒW‚ª15%‘‰Á‚µ‚Ü‚·B
-Grunt: •à•º‚Æ‚µ‚Ä‘f°‚ç‚µ‚¢A’…ŽÀ‚ÈŽdŽ–‚Ô‚è‚Å‚·I@9mm‚Æ.45ƒI[ƒg‚ÌƒsƒXƒgƒ‹, SMG, ƒT[ƒrƒXƒ‰ƒCƒtƒ‹, ƒoƒgƒ‹ƒ‰ƒCƒtƒ‹, ƒAƒTƒ‹ƒgƒJ[ƒrƒ“, ƒ‰ƒCƒgƒ}ƒVƒ“ƒKƒ“, ƒtƒ‰ƒOƒOƒŒƒl[ƒh, ƒOƒŒƒl[ƒhƒ‰ƒCƒtƒ‹, ƒ‰ƒ“ƒ`ƒƒ[, ƒRƒ“ƒoƒbƒgƒiƒCƒt‚Ìƒ_ƒ[ƒW‚ª20“‘‰Á‚µ‚Ü‚·B
+Grunt: •à•º‚Æ‚µ‚Ä‘f°‚ç‚µ‚¢A’…ŽÀ‚ÈŽdŽ–‚Ô‚è‚Å‚·I@9mm‚Æ.45ƒI[ƒg‚ÌƒsƒXƒgƒ‹‚ÆSMG, ƒT[ƒrƒXƒ‰ƒCƒtƒ‹, ƒoƒgƒ‹ƒ‰ƒCƒtƒ‹, ƒAƒTƒ‹ƒgƒJ[ƒrƒ“, ƒ‰ƒCƒgƒ}ƒVƒ“ƒKƒ“, ƒtƒ‰ƒOƒOƒŒƒl[ƒh, ƒOƒŒƒl[ƒhƒ‰ƒCƒtƒ‹, ƒ‰ƒ“ƒ`ƒƒ[, ƒRƒ“ƒoƒbƒgƒiƒCƒt‚Ìƒ_ƒ[ƒW‚ª20“‘‰Á‚µ‚Ü‚·B
 Infiltrator: ƒsƒbƒLƒ“ƒO’†‚ÉƒwƒAƒsƒ“‚ªŠÈ’P‚É‰ó‚ê‚È‚­‚È‚è‚Ü‚·B ‚³‚ç‚Éù‚ª‰ó‚ê‚½ê‡‚Í, ‚à‚¤ˆê“xƒsƒbƒLƒ“ƒO‚ðŽŽ‚·‚±‚Æ‚ª‚Å‚«‚Ü‚·B ‚±‚ê‚ÍˆÈ‘O‚ÉƒtƒH[ƒXƒƒbƒN‚ðŽŽ‚Ý‚Ä”j‰ó‚µ‚Ä‚µ‚Ü‚Á‚½ù‚É‚à—LŒø‚Å‚·B
 Pack Rat: ’š”J‚È«•ï‚Ì‘åØ‚³‚ðŠw‚Ñ‚Ü‚µ‚½B d—Ê2ˆÈ‰º‚ÌƒAƒCƒeƒ€‚Ìd—Ê‚ª25%Œ¸­‚µ‚Ü‚·B
 Terrifying Presence: “G‚ª‚ ‚È‚½‚ÌŽp‚É‹°‚ê‚ð‚È‚µ‚Ä“¦–S‚·‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·B ‚Ü‚½ó‹µ‚É‚æ‚Á‚Ä‚Í‘Î˜b‚É‚æ‚Á‚Äˆø‚«‹N‚±‚·‚±‚Æ‚ª‰Â”\‚Å‚·B
@@ -1877,6 +1907,7 @@ Mad Bomber (GRA)
 ƒJƒTƒhƒŒƒX‚ÌŽ€‘Ì
 ƒO[ƒ‹‚ÌŽ€‘Ì
 ƒŠ[ƒWƒ‡ƒ“•º‚ÌŽ€‘Ì
+ƒu[ƒ}[‚ÌŽ€‘Ì
 ’¼‚µ‚½‚¢•”ˆÊ‚ð‘I‘ð‚µ‚Ä‚­‚¾‚³‚¢B
 ‘S‚Ä
 ‚â‚ß‚½
