@@ -35,13 +35,15 @@
 @OldWorldBlues.esm:0112BA		-1	-1	-1	-1	-1	-1	-1	-1	7	; Christine's COS Silencer Rifle
 @FalloutNV.esm:121148			-1	-1	-1	-1	-1	-1	-1	-1	7	; Brush Gun
 @GunRunnersArsenal.esm:00080E		-1	-1	-1	-1	-1	-1	-1	-1	7.5	; Medicine Stick
-@FalloutNV.esm:1429D1			-1	-1	-1	-1	-1	-1	-1	-1	7.5	; 12.7mm Submachine Gun
-@GunRunnersArsenal.esm:00084E		-1	-1	-1	-1	-1	-1	-1	-1	7.5	; 12.7mm Submachine Gun (GRA)
+@FalloutNV.esm:1429D1			-1	-1	-1	-1	-1	-1	-1	-1	8	; 12.7mm Submachine Gun
+@GunRunnersArsenal.esm:00084E		-1	-1	-1	-1	-1	-1	-1	-1	8	; 12.7mm Submachine Gun (GRA)
 @FalloutNV.esm:08ED0A			-1	-1	-1	-1	-1	-1	-1	-1	7	; Riot Shotgun
 
 @FalloutNV.esm:0FF576			-1	-1	-1	-1	-1	-1	50	-1	-1	; Grenade Rifle
 @FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	75	-1	-1	; Thump-Thump
 @FalloutNV.esm:1735E4			15	-1	-1	-1	-1	-1	25	-1	-1	; Mercenary's Grenade Rifle
+@LonesomeRoad.esm:0046C4		50	-1	-1	-1	-1	-1	75	-1	-1	; Great Bear Grenade Rifle
+@LonesomeRoad.esm:0046C3		-1	-1	-1	-1	20	-1	75	-1	-1	; Red Victory Grenade Rifle
 
 @FalloutNV.esm:09073B			-1	-1	-1	-1	-1	-1	-1	-1	5	; Laser RCW
 @OldWorldBlues.esm:00B9CF		-1	-1	-1	-1	-1	-1	-1	-1	8	; LAER
@@ -86,9 +88,9 @@
 @FalloutNV.esm:015167			-1	-1	-1	-1	-1	-1	-1	50	0.1	; RadAway
 @FalloutNV.esm:1613BD			-1	-1	-1	-1	-1	-1	-1	-1	0.5	; Bitter Drink
 @FalloutNV.esm:0E2C6F			-1	-1	-1	-1	-1	-1	-1	50	0.5	; Antivenom
-@FalloutNV.esm:120D81			-1	-1	-1	-1	-1	-1	-1	200	0.5	; Turbo
-@FalloutNV.esm:13B2C3			-1	-1	-1	-1	-1	-1	-1	200	0.5	; Hydra
-@FalloutNV.esm:0CED8C			-1	-1	-1	-1	-1	-1	-1	200	0.5	; Steady
+@FalloutNV.esm:120D81			-1	-1	-1	-1	-1	-1	-1	300	0.5	; Turbo
+@FalloutNV.esm:13B2C3			-1	-1	-1	-1	-1	-1	-1	300	0.5	; Hydra
+@FalloutNV.esm:0CED8C			-1	-1	-1	-1	-1	-1	-1	300	0.5	; Steady
 @FalloutNV.esm:009180			-1	-1	-1	-1	-1	-1	-1	75	-1	; Rushing Water
 @FalloutNV.esm:146CCB			-1	-1	-1	-1	-1	-1	-1	75	0.01	; Party time Mentats
 @FalloutNV.esm:146CCD			-1	-1	-1	-1	-1	-1	-1	100	0.1	; Rocket

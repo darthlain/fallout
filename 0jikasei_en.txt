@@ -296,6 +296,7 @@ Case, .44 Special
 .45-70 Gov't, SWC Hand Load
 .45-70 Gov't, SWC (Hand Load)
 .45-70G SWC
+Case Box, .45-70 Gov't
 Breakdown .45-70 Gov't
 Breakdown .45-70 Gov't Hollow Point
 Breakdown .45-70 Gov't SWC Hand Load
@@ -344,7 +345,7 @@ Breakdown .50 MG Match Hand Load
 5mm, JSP Hand Load
 5mm, JSP Hand Load (GRA)
 5mm, JSP (Hand Load)
-5mm JSP
+5mm, JSP (Hand Load) (GRA)
 Case, 5mm
 Breakdown 5mm
 Breakdown 5mm Armor Piercing
@@ -372,6 +373,7 @@ Ammo Box, 5mm Surplus
 5.56mm, Match Hand Load
 5.56mm, Match Hand Load (GRA)
 5.56mm, Match (Hand Load)
+5.56mm, Match (Hand Load) (GRA)
 Case, 5.56mm
 Case Box, 5.56mm
 Breakdown 5.56mm
@@ -1416,7 +1418,7 @@ Right the first time, ugly. I've come to kill you.
 They say those robots on the Strip are running around with different faces or something. Don't ask, because I don't know...
 Pleasure doing business with you.
 Well, it's about about damn time. What took you... oh.
-I've been in the Reaper's shadow for a long time now, and I though he'd finally showed up to collect. He's just mocking me now.
+I've been in the Reaper's shadow for a long time now, and I thought he'd finally showed up to collect. He's just mocking me now.
 Yeah, you do that.
 Just let me know if you're available for the op. After what they did to Searchlight, they have a shitstorm coming.
 I'll give you some caps for each one you bring back to me. There's an old rifle in it for you if you can bring me at least 10.
@@ -1737,6 +1739,21 @@ Doesn't matter. Your time's up, Hanlon.
 Oliver can't stand that rangers got credit for victory at Hoover. Whatever I recommend, he does the opposite. I said I wanted them on the ridge.
 He put them right on the western part of the dam itself. We don't have enough firepower to hold that spot.
 If the troopers fallback, and they will, the rangers will advance to cover Oliver's retreat. We lose the dam, Oliver and the senate are ruined.
+[Black Widow] How about you and I come to another arrangement. It'll be worth it - trust me.
+Well, it has been a while. All right, let's do this.
+Don't leave a trail.
+I'll... I'm sure something good.
+Lead the way.
+Here you go. I hope this helps.
+You find out somethin' about them soldier boys yet?
+The King just sent a messenger over, saying these guys are off-limits. He's probably already heard about what you did here.
+Things have been lots better since you helped with with those soldier boys. Thanks again. So what can I do for you?
+Freedom? Thank God Frank thinks we're enslaved.
+So, are you a cannibal?
+You'll get these back on your way out.
+<Lie> Yeah, I do, and it's time for you to suffer!
+Yes, but you're not coming with me.
+It was more like... being forced to watch something you can't stop.
 Box of Bandages
 Soldering Iron
 Grill
