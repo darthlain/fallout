@@ -708,6 +708,7 @@ Machete Gladius
 Throwing Tomahawk
 Cosmic Knife Clean
 Cosmic Knife (Clean)
+Blade of the East
 Corrosive Glove
 Sterilizer Glove
 Frag Grenade
@@ -952,6 +953,7 @@ Wild Wasteland
 Increases rate of fire.
 Edit Traits
 Edit Tag Skills
+Corpses Eaten
 Exit
 [%]. Map marker added.
 Yeah.
@@ -1508,7 +1510,7 @@ I am the greatest of Caesar's Frumentarii. It was not a challenge to find you. N
 You've been a busy courier, haven't you? You take your obligation to deliver a package very seriously - an ethic for which I am grateful.
 I will admit, when you ignored my invitation, I predicted... negative outcomes. But - you have a way of exceeding expectations, don't you?
 First Recon's at Camp Forlorn Hope. Now we've got a chance to hold it.
-Oh! Why, uh, of course! I would never let you fight my kidnappers with my help. Uh, without it! You lead the way!
+[SUCCEEDED] Oh! Why, uh, of course! I would never let you fight my kidnappers with my help. Uh, without it! You lead the way!
 I'm going to help Ringo take on the Powder Gangers. I might need your help.
 However, between you, me, and Ringo, we aren't exactly a force to be reckoned with. A lot of people around here look up to Trudy.
 Finally, there's a good chance we'll all end up with extra holes in us, so if Doc Mitchell could cough up some extra stimpaks, that'd be great.
@@ -1754,6 +1756,23 @@ You'll get these back on your way out.
 <Lie> Yeah, I do, and it's time for you to suffer!
 Yes, but you're not coming with me.
 It was more like... being forced to watch something you can't stop.
+Maybe you're willing to listen to reason.
+This battle is decided, that's why I am here.
+Well... except Vegas.
+It is not the strength of the West that will slow you, it is their weakness.
+NCR's weakness is its size - it'll take your entire army to hold the West.
+I don't believe this means we'll see the last of you - or the Legion.
+If the West is one day filled with ones such as you, perhaps it shall be a worthy fight, indeed.
+You speak in circles - what of the East? I am the East, and I will prove it this day.
+If you need all the East to crush the West...
+I'm sorry, you shouldn't have to see me like this. I'm not gonna be very good company right now.
+I did have another thing to teach, but I'll understand if you'd rather I just pay you so you can be on your way.
+If you let the hostages free now, maybe the NCR would just let you go.
+A bunch of degenerate slavers, led by a madman who calls himself Caesar. Every one of them is a barbarian to the last.
+I've even heard one of their leaders, the Legate or something, goes around with a human skull on his head. Savages to the last.
+Most people just call it NCRCF. That's NCR Correctional Facility.
+I'll be back with the caps.
+Fancy-pants? No, I ain't seen hide-nor-hair of him since the tussle in Goodsprings. I'm sure he ran back to the soft-living of New Vegas, 'though.
 Box of Bandages
 Soldering Iron
 Grill
