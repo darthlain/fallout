@@ -220,6 +220,7 @@ Case, .22LR
 Ammo Box, .22LR Plinking
 .308 Round
 .308
+.308 Caliber Round
 .308 Round [%]
 .308, AP
 .308 AP
@@ -263,6 +264,7 @@ Breakdown .357 Magnum JFP Hand Load
 Breakdown .38 Special
 Case, .38 Special
 .44 Magnum Round
+.44 Round, Magnum
 .44 Magnum [%]
 .44 Mag.
 .44 Magnum, HP
@@ -341,6 +343,7 @@ Breakdown .50 MG Match Hand Load
 5mm, Surplus
 5mm S
 [%] 5mm, Surplus(s) added
+5mm JSP
 5mm, JSP
 5mm, JSP Hand Load
 5mm, JSP Hand Load (GRA)
@@ -461,6 +464,7 @@ Breakdown .45 Auto Hollow Point
 Breakdown .45 Super
 Case, .45 Auto
 .32 Round
+.32 Caliber Round
 .32 Round [%]
 .32 Round, +P
 12 Gauge Round
@@ -686,9 +690,11 @@ OC
 MC
 Inc.
 DB
+Exp.
 Silent
 Silenced .22 Pistol
 Silenced .22 SMG
+.32 Pistol
 Silenced 10mm Pistol
 Weathered 10mm Pistol
 .357 Magnum Revolver
@@ -699,6 +705,7 @@ Marksman Carbine
 Gobi Campaign Scout Rifle
 Sawed-Off Shotgun
 Fat Man
+Fat Man (GRA)
 AER14 Prototype
 Baseball bat
 Baseball bat (GRA)
@@ -712,6 +719,7 @@ Blade of the East
 Corrosive Glove
 Sterilizer Glove
 Frag Grenade
+Jericho's Chinese Assault Rifle
 Star Paladin Cross' Laser Pistol
 Arcade's Ripper
 Arcade's Plasma Defender
@@ -848,10 +856,12 @@ Museum Gun Locker Key
 Evergreen Mills Storage Room Key
 Smiling Jack's Vendor Key
 Madam's Key
+Rivet City Hangar Key
 Washington Monument Security Terminal
 Galaxy News Radio
 Tranquility Lane
 Oasis
+Arlington Metro
 Squatter's Encampment
 Highway 95 Viper's Encampment
 Vipers' Lair
@@ -901,6 +911,7 @@ You win [%] chip(s)
 Distribute 1 Point
 Distribute [%] Points
 Bent Tin Can = Tin Can!
+Thief[%]
 [Return] Cigarette (Carton)
 [Return] Cigarette (Pack)
 [Return] Hat, Fedora
@@ -1773,6 +1784,19 @@ I've even heard one of their leaders, the Legate or something, goes around with 
 Most people just call it NCRCF. That's NCR Correctional Facility.
 I'll be back with the caps.
 Fancy-pants? No, I ain't seen hide-nor-hair of him since the tussle in Goodsprings. I'm sure he ran back to the soft-living of New Vegas, 'though.
+I don't. I was just trying to get myself out of trouble.
+I heard someone's been breaking in here at night. Looks like it's you.
+Really? And how would you know where I'm supposed to be?
+As in chem fiends. Biggest gang of raiders I've ever seen. Nothing like addiction to swell your numbers. Psychotic, and completely unpredictable.
+I'm not going to offer money, I wanted to drink for it.
+That takes care of that.
+I'm glad Ringo's back. Got a good story to tell, too.
+2500 caps? I'm doing you a favor by paying you now. I doubt you were expected to survive this.
+You want to buy some chems from my personal stash?
+Someone is targeting us, I'm gonna kill that fucker when I find out who did it.
+Talk to the idiot wearing sunglasses in the back of the HELIOS One plant building.
+I should've taken the Fiend's head for myself.
+As we've done with the Fiends, we'll kill anyone who resists our fight for peace.
 Box of Bandages
 Soldering Iron
 Grill
@@ -1939,11 +1963,14 @@ Dead Mercenary
 Dead Raider
 Dead Mole Rat
 Dead Giant Ant
+Dead Fire Ant
 Dead Mirelurk
 Dead Cazador
 Dead Ghoul
 Dead Legionary
 Dead Boomer
+Dead Brotherhood of Steel Initiate
+Dead Super Mutant
 Which limb would you like to heal?
 All
 Nevermind
@@ -2042,7 +2069,7 @@ Step outside the city limits, and it's snake city... nothing but "hissssssss."
 Where's Doctor Li's lab?
 I'm Doctor Madison Li. I worked with your father many years ago. Your mother as well, in fact.
 The Commonwealth itself is nothing but a war-ravaged quagmire of violence and despair. Inside the sealed environment of the Institute, however...
-But... the Institute's affairs are none of your concern. Your undeveloped mind couldn’t even begin to comprehend what we’ve accomplished.
+But... the Institute's affairs are none of your concern. Your undeveloped mind couldn't even begin to comprehend what we've accomplished.
 My God, I... I remember. I remember it all. From before. Zimmer. The Commonwealth. The Institute. My God, all those runners I brought down...
 There was a holotape that got circulated. I think I've got a copy of it...
 Yeah, here it is. Give it a listen. That's a man's voice! Hoax for sure!
@@ -2099,3 +2126,71 @@ Alright sure, why not. The people have a tendency to wait until the last minute 
 Never mind. Just thought I'd ask.
 So, what are the results?
 Can you believe that you won the election?
+Now are you going to give me that sweetroll, or am I going to have to give you a knuckle sandwich?
+That's fine, son. I'm glad to see you're not letting Butch bully you.
+Of course she likes me. I'm a really charming guy.
+Are you ready for your surprise?
+What kind of surprise?
+Your own BB gun! It's a little old, but it should work perfectly.
+You did it! You opened the door! My God, I almost didn't believe it was possible.
+I couldn't have done it without your help.
+When I say I'm going to do something.... I do it.
+Oh, certainly, your majesty!
+Then consider this Armored Vault Suit to be Megaton's gift to your mighty empire.
+You'll live just long enough to regret your error in judgement.
+As Requested
+Sara Silver
+Hey smoothskin, do you need something? A drink, maybe? Anything? Anything at all?
+Gah! Fuck! What are you?
+But, please! See for yourself! Come by for a drink or twelve. You and I, oh, we're going to be fast friends. Fast friends!
+Oh, your daddy passed through here, all right. Here and gone. Got what he came for, and then left. I'm assuming you'll do the same, correct?
+Some fellas came by here a while ago that said they was lookin' for some troublemaker that came out from one of them Vaults.
+Y'all come back now, y'hea'?
+You watch out for 'guai! They're all over!
+I hear rumors the place is full of swamps and killer plants, but I don't know about all that.
+All you know of robots are those buckets of bolts -- those Mr. Handshakers and whatnot. Well... that's not ALL a robot can be.
+If this android "wandered" off, why would he want a new mind and face?
+Maybe.... MAYBE he didn't exactly wander off. Maybe he fled. Escaped captivity, as it were, if he began to misinterpret his "situation."
+Yeah... great. They can't even keep tabs on their robots.
+Aren't you afraid someone will use your own guns to rob you?
+Mirelurk gives me gas. I'd rather have squirrel.
+Not now. I'm busy.
+Uh... maybe you should sit in the corner. I can check to see if we have any squirrel if you wish.
+This probably isn't the best place for you to stand...
+You think I didn't know that? I've been hiding in this place for days!
+For more top of the line RobCo products, see your local Showroom.
+Automated Maintenance
+Running default office protocol... ERROR. Loading daily agenda... ERROR.
+Here, take a bit, my treat - taste kind of grates after a while.
+I still need to study a living specimen with radiation poisoning.
+I need someone to research how to travel through a minefield.
+Hi, I'm Maggie. I live with Billy. Billy Creel. Do you know him? He's not my dad or anything, but he takes care of me now.
+How did you meet Billy?
+A long, long time ago, he saved me from Raiders!
+Fast hands and faster wits can get you an awful lot. Including landmines.
+What do you know about the android from the Commonwealth?
+Have you heard the so called "android recording?" It sounds like an ordinary man!
+Here's a spare copy of that old holotape. It's a hoax for sure.
+What're we standing around here for when there's plenty of action around?
+What is it, mister?
+What happened here?
+Doctor Lesko's Shack
+He's... he's dead?
+I'll stop whatever started this, I promise you.
+Why don't you just forget about it and clear on out of here?
+Fine, I'll take care of everything.
+I may be able to correct this error, but I can't get near my equipment.
+Thanks for not attacking us. Most people don't tolerate Ghouls.
+It's a city of Ghouls. It's the only place in the Wasteland that belongs to our kind.
+Whew! I thought I was a goner. You saved my life.
+Vera, your nephew Bryan lost his folks and needs a place to live.
+I suspect that he is making a stand inside of that building, but an Initiate won't be able to stand for long against those Mutants.
+Chinese Remnant Soldier
+Chinese Remnant Captain
+Chinese Remnant Sergeant
+Chinese Remnant Officer
+Falls Church/Mason Dst Metro
+Arlington/Falls Church Metro
+Falls Church
+Lead on. We will ensure your safe passage through Falls Church.
+We cannot offer you much in return, but know that you may travel through Falls Church under our protection.
