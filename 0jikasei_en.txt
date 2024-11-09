@@ -911,7 +911,7 @@ You win [%] chip(s)
 Distribute 1 Point
 Distribute [%] Points
 Bent Tin Can = Tin Can!
-Thief[%]
+Thief [%]
 [Return] Cigarette (Carton)
 [Return] Cigarette (Pack)
 [Return] Hat, Fedora
@@ -960,6 +960,8 @@ Ferocious Loyalty
 Miss Fortune
 Meltdown
 Implant GRX
+Contract Killer
+Lawbringer
 Wild Wasteland
 Increases rate of fire.
 Edit Traits
@@ -1967,10 +1969,14 @@ Dead Fire Ant
 Dead Mirelurk
 Dead Cazador
 Dead Ghoul
+Dead Feral Ghoul
 Dead Legionary
 Dead Boomer
 Dead Brotherhood of Steel Initiate
+Dead Brotherhood of Steel Knight
+Dead Enclave Soldier
 Dead Super Mutant
+Dead And Researcher
 Which limb would you like to heal?
 All
 Nevermind
@@ -2091,7 +2097,7 @@ I'm sorry, but that's...
 What? What are you talking about? That doesn't even make sense...
 James... Your father caused an overload. He sacrificed himself to keep the Enclave from getting the purifier, and to buy us some time to escape.
 In all that time, all we've managed to do is to contain the threat. Hold them back, so they don't overrun every blasted settlement out here.
-Initiate! You've got a lot of nerve interrupt... Oh, my apologies, stranger. I thought you were one of these worthless Initiates.
+Initiate! You've got a lot of nerve to interrupt... Oh, my apologies, stranger. I thought you were one of these worthless Initiates.
 Perk Added
 Why do you think I ride these Initiates so hard? I make training hell so fighting those Uglies won't be.
 It is the Scribes, the Scribes who make the Brotherhood what it truly is! The brawn is useless without the brain, hmm? He he he.
@@ -2194,3 +2200,86 @@ Arlington/Falls Church Metro
 Falls Church
 Lead on. We will ensure your safe passage through Falls Church.
 We cannot offer you much in return, but know that you may travel through Falls Church under our protection.
+Until next time, this is Three Dog, awoooo, and you're listening to Galaxy News Radio, Bringing you the truth, no matter how bad it hurts.
+What's up Wastelanders? This is Three Dog, wow wow, and you're listening to GNR! That's Galaxy News Radio, in case you forgot...
+Thanks for listening, children. This is Three Dog, awooooo, and you're listening to Galaxy News Radio. We're Radio Free Wasteland, and we're here... for you.
+Seems we've got, dalalala, a bit of news. Just listen to this.
+Now what if I, the all-powerful Three Dog, wow wow wow, were to tell you that somewhere right here in the Capital Wasteland, there’s a place with LOTS of trees.
+Dad says it could be worse; that there are a lot of starving kids in other places. But still, I wish I had more kids to play with.
+The same things that all parents do! My mom cooks and cleans the house and my dad goes to work with Mr. Wilson.
+He keeps saying stuff to my mom about keeping the family going, and how when him and Mr. Wilson were brothers, they didn't want to get married.
+I've been thinking quite a bit lately about something we can all relate to, something that is unquestionably, inescapably... American.
+And it's good to meet you too! Feel free to stay in Andale as long as you'd like. Heck, stop by the house for dinner sometime if you like.
+Can't you tell the difference between me and a feral? Fine. I'll show you the goddamn difference! Just you wait! You'll get yours. All of you!
+Oh yeah? Is he expecting you? Well then, run along. It's not wise to keep Roy waiting. Has a bit of a temper that one. You watch yourself.
+Tenpenny and his pack of elitist wannabes are in for a real treat soon enough. They can't keep us out of that tower forever.
+Ah... Never mind.
+We've got rights. And we'll take them if they aren't given to us.
+Ghouls aren't built for luxury and comfort, is that it? You think Ghouls belong scurrying around in the dark dank underbelly of the Wasteland?
+We tried playing nice, but they shot at us. Fuck 'em. It's time for them and their bigot ways to die.
+What's your interest in all this?
+Nope, I still don't get it.
+So, let's buckle down and get to work on this chapter. What's first?
+Kid, out here cocky will get you killed. I've seen a Super Mutant strike squad like that take down five well armed soldiers.
+But fine, next time you want to take them on yourself and buy yourself an early retirement, go right ahead.
+Three Dog is the man in charge. He keeps that signal broadcasting, pretty much single handedly. He's um... interesting. I'll give him that much.
+There's people out there trying to just barely make it from day to day. Fighting to stay alive and make something out of what they got.
+Since you know all about this cause, no need to explain the effect. Let's get you on your way.
+Slave Map
+Hellooooo Capital Wasteland! This is Three Dog, awoooo, coming to you loud and proud from Galaxy News Radio.
+And here's... me! Hahaha. With the news.
+And least they have the common courtesy to miss most of the time. Still... bigots.
+That's right. As long as you don't bother us, we won't bother you. Feel free to come and go, trade, sleep, whatever.
+We've got a nice little deal going down here. We'd like to keep it nice.
+What sort of payment are we talking about?
+I found a big box of copies of the book in one of the back rooms.
+Here, take one. Nobody around here wants 'em.
+Bugger off, ye bastards bugger off... ye'll get nae more this evenin'... how's it go?
+I'm...  shit... I forget.
+I'm afraid she's going to be out for a while. She's not well at all.
+She hasn't been conscious since they brought her in a few days ago.
+Well, I'm going to make them pay. Uh... before I get into the details, you don't have anything against killing do you?
+I don't give away anything for free. Besides, it's obviously worth something to you.
+Yeah, what is it- Oh! Oh my! Someone new! I'm so sorry, you must think I'm terribly rude! Welcome! Welcome to Carol's Place! I'm Carol.
+I wish I knew more about America.
+What's goin' on here, kid? I thought you were some sort of badass.
+This is the part where you tell me what the hell you are doing bothering an old man who obviously wants to be left alone... Get on with it already!
+Doc
+Never mind. You need a drink. Cherry! I'm thirsty over here!
+I come from the Land of the Mirelurks! They demand you surrender the Republic!
+A talking Super Mutant? What's next, a dog on a bicycle?
+Just go inside and find one of their spawning pods, probably down near the water.
+Put this observer inside, and get out quietly. And be sure not to kill any Mirelurks inside their nest! If you do, it could ruin the validity of the study!
+Practically speak robot, do you? As long as you don't write it in all ones and zeroes, then I guess it'll be fine. Thanks!
+In fact, here: just in case your expertise fails you, a few pulse grenades, and my old science textbook. Enjoy!
+Well, yes, but it was hardly any place of importance until I arrived on the scene. That's all ancient history now. No one would ever care about it.
+This place is a real dump.
+That lasted until about 18 years ago, when those ambitious backbiters like Li and her little team showed up.
+Oh my... It's brilliant! Even I'm astounded by my genius! Oh no no, it's more than that. By OUR genius!
+But now, the very first copy of our book goes to you. It wouldn't nearly be as good without your input. You're the real Wasteland survival guru!
+The only difference between us is that I'm bringing home the bacon for my family.
+Tortoiseshell Glasses
+We'll do our best, is what we'll do. Me and the kids here in Andale... what's left of it, anyway.
+Now what if I, the all-powerful Three Dog, wow wow wow, were to tell you that somewhere right here in the Capital Wasteland, there's a place with LOTS of trees.
+That wasn't the plan. I suppose I have to pay for the key anyway though.
+Thanks, you're not so bad yourself.
+What will it be then? Rapiers? Pistols at dawn? Out with it!
+Look me up in the Underworld if you ever need me. I usually hang there since the Ghouls don't hit on me all the time.
+Gray Head Wrap
+No way. If they were, you'd be staring at a burned out ghost town. I think the Family are just a bunch of punks.
+Sigh. Look... you can call me crazy if you want but there is something odd about those creeps.
+Don't you have some houses to be checking?
+Oh, this is all I needed right now. What am I going to do? They'll keep coming back until all of us are dead!
+Richter
+Yeah... I know, I could really get this little shithole going if I had some better stuff.
+I need you to repair my weapons.
+That would be where you're wrong, By locking down this Vault, I'm protecting its future.
+I won't risk all of our lives just for a few people's passing fancy of taking a Wasteland vacation. I hope you can understand that.
+There you are!
+I'm afraid I can't abide by that. I can't imagine Tenpenny would allow it. But I certainly won't.
+You got any caps? I'll escort you to Big Town, but it'll cost you.
+Only people under 18 get to live in Little Lamplight.
+So, when you're done with those little kids, we can go to Big Town together! I'll wait outside for you.
+Bah! I thought you were more interesting than that.
+Fine. But you better not get caught with that!
+Rockbreaker's Last Gas
