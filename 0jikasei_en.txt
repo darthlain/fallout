@@ -575,6 +575,7 @@ Breakdown 20 Ga. Magnum
 Breakdown 20 Ga. Pulse Slug
 Hull, 20 Gauge
 Shotgun Shell [%]
+Shell x 2
 25mm Grenade
 25mmG
 25mm Grenade, High Explosive
@@ -703,6 +704,7 @@ Scoped .44 Magnum
 Varmint Rifle
 Marksman Carbine
 Gobi Campaign Scout Rifle
+Reservist's Rifle
 Sawed-Off Shotgun
 Fat Man
 Fat Man (GRA)
@@ -743,6 +745,7 @@ Vera's Outfit
 Hazmat Darklight Cowl
 Hazmat Suit
 Breathing Mask
+Linden's Outcast Power Armor
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
@@ -1962,11 +1965,13 @@ Your Sleep Deprivation level has decreased.
 You no longer have Sleep Deprivation sickness.
 Dead Wastelander
 Dead Mercenary
+Dead Wasteland Merchant
 Dead Raider
 Dead Mole Rat
 Dead Giant Ant
 Dead Fire Ant
 Dead Mirelurk
+Dead Deathclaw
 Dead Cazador
 Dead Ghoul
 Dead Feral Ghoul
@@ -1975,8 +1980,13 @@ Dead Boomer
 Dead Brotherhood of Steel Initiate
 Dead Brotherhood of Steel Knight
 Dead Enclave Soldier
+Dead Enclave Officer
 Dead Super Mutant
 Dead And Researcher
+Dead Failed FEV Subject
+Dead Swampfolk Creeper
+Dead Pitt Slave
+Dead Branchtender
 Which limb would you like to heal?
 All
 Nevermind
@@ -2150,7 +2160,7 @@ Hey smoothskin, do you need something? A drink, maybe? Anything? Anything at all
 Gah! Fuck! What are you?
 But, please! See for yourself! Come by for a drink or twelve. You and I, oh, we're going to be fast friends. Fast friends!
 Oh, your daddy passed through here, all right. Here and gone. Got what he came for, and then left. I'm assuming you'll do the same, correct?
-Some fellas came by here a while ago that said they was lookin' for some troublemaker that came out from one of them Vaults.
+Some fellas came out here a while ago that said they was lookin' for some dogooder that came out from one of them Vaults.
 Y'all come back now, y'hea'?
 You watch out for 'guai! They're all over!
 I hear rumors the place is full of swamps and killer plants, but I don't know about all that.
@@ -2283,3 +2293,66 @@ So, when you're done with those little kids, we can go to Big Town together! I'l
 Bah! I thought you were more interesting than that.
 Fine. But you better not get caught with that!
 Rockbreaker's Last Gas
+Ha! Good plan. I'll try to get around behind 'em. I like how you think, kid.
+Bandit
+She used to take care of me. She liked my company guarding. She liked it when I used to tell jokes.
+Turn in the FEV virus over to Elder Lyons.
+Infect the Project Purity water supply.
+Hey kiddies, this is Three Dog, wow wow -- your voice in the darkness. Or... at least, the radiation.
+Aqua Pura Crate
+Well, that depends on who you ask.
+Tell me the whole story.
+Butcher, our team medic, has always suspected something's is in the area they are looking for or being attracted to.
+Fear not, my poor lost flock! Hahaha. For the Shepherd of Vault 101 has come to guide you to the promised land! Maybe. Listen to this.
+Oh no no! Little baby scared?
+That's a relief. I told her she was nuts when she decided to try to sneak out of here. Guess I was wrong. Now, let's talk about getting out of here.
+I almost got everyone killed in Vernon Square. What kind of a responsible leader does that? It was one bad decision after another.
+I dragged myself here from Lamplight. I didn't believe all the stories about Big Town, but I wasn't about to let everyone else go there without me.
+Right. Of course. Rescuing me was a job to you, and you're a real professional.
+Well, here you go. I wish I had more I could give you.
+Brown Head Wrap
+I found Slavers guarding the Memorial. They're all gone now.
+Have you heard about that new cult? They took our water!
+Here, read this. It's one of their pamphlets.
+Holy Water
+Novice
+Officer Lapelletier
+I suppose I don't really need it pushing papers around here, do I?
+Alright. Consider it an advance on your payment. You better not disappoint.
+Oh, and put this on. We're a gang. We all wear the same uniform.
+He loves me! He really loves me! Now I bet he'll ask me to get married.
+I suppose that could work... yes. Yes.
+here's the contract. And I'll take my payment in full.
+Oh... oh my god. That's his voice! It's really him!
+I'd like to buy some ammo from you.
+Bullets! Stimpaks! Armor! Weapons! Junk! If you need it, Madam Panada has already anticipated your need and procured it months ago!
+I thought so. Those things do carry a smell, don't they?
+Let me take 'em off your hands, then.
+Swamplurk Queen
+Coffin
+Good things, sweetie. Tonic's brewed and bottled.
+Here's your pay and cut of the batch. Enjoy it!
+Familiar Piece of Brain
+Upon recovering your piece of mind, you've learned to protect what matters.
+You now take less damage to your head.
+They attacked while I slept.  I... I don't expect to survive. I only pray that you haven't taken that book to Obadiah. You must take up my mission.
+Plik's Safari
+I found some of it. Some was here when I got here. I get some from them mercs.
+Yes, thank you so much! And now that she's got this boat and carrying all this cargo...
+well, I can afford to actually pay you! Thank you so much!
+Oasis Exile Coordinates
+Fort Constantine Warhead Storage Key
+I've never seen anyplace like this.
+They listen when I talk, but they don't hear... you know what I mean?
+Oh no, no, no, no, no. It wouldn't be murder. You'd be doing me a favor.
+Oh no no, don't worry about them. When you decide to go down there, I'll have a little chat with Birch and the rest of the gang.
+They usually don't understand a word I say, but I'll make em' come around.
+Just, just, think about it, okay?
+Oh, no no no no no no no! Fire would be too painful for me and poor old Bob. You keep that stuff away from us!
+Yeah, leave it to good old Bob to get me stuck above some caves. Now my dang feet are cold!
+In the meantime, I have these Treeminders bothering me every day about things I don't even care about. and I can't stand it anymore.
+Hey, hey, hey, I thought that too... at first.
+It's kinda... embarrassing really. Once a year, Bob decides he's going to go ahead and start growing these weird pods filled with tiny seeds.
+So, it looks like you decided to do things their way huh. How come?
+Should we give em' another chance, Herbert?
+Fine, fine... I mean Bob. I still think it's funny when I call him Herbert.
