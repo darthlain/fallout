@@ -1918,6 +1918,7 @@ Animal Control: 動物に対してダメージボーナスを獲得し、かつ死んだ動物に対してのア
 Bloody Mess: 殺した敵がしばしば爆発して内臓や目玉が飛び散り、周囲を赤く染めます。 楽しいですね！…おっと、ついでに全ての武器で5%の追加ダメージを与えることが出来ます
 Good Natured: あなたは生粋の善人で暴力よりも頭脳で問題を解決する傾向があります。 Barter, Medicine, Repair, Science, Speechに+5のボーナスを得ますが、Energy Weapons, Explosives, Guns, Melee Weapons, Explosivesに-5のペナルティが与えられます
 Marked: 今こそマークドマンに苦しめられた怨みを晴らすときです。 (マークドマンに対するDTと与えるダメージ+10%)
+Guns: 実弾系弾薬(.22LR, .357マグナム, 5mm, 10mm, 5.56mm, .308, .45-70ガバメント等)を使用するあらゆる武器の有効性を決定します 
 In Shining Armor (DM)
 Junk Rounds (DM)
 Light Touch (DM)

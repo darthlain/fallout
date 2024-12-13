@@ -1,19 +1,19 @@
 ; ID					DAM	CRT	CRCH	SPRD	AP	CND	SKILL	VAL	WGT
-@FalloutNV.esm:0E393B			60	-1	-1	-1	35	-1	-1	-1	4.5	; Single Shotgun
+@FalloutNV.esm:0E393B			60	-1	-1	-1	35	-1	-1	-1	5	; Single Shotgun
 @FalloutNV.esm:08F216			-1	-1	-1	-1	23	-1	-1	-1	-1	; .357 Magnum Revolver
 @FalloutNV.esm:08F215			39	39	-1	0.5	-1	-1	-1	-1	3	; .44 Magnum Revolver
 @FalloutNV.esm:127C6C			45	45	-1	-1	-1	-1	-1	-1	3.5	; Mysterious Magnum
-@FalloutNV.esm:0E3778			-1	-1	-1	0.55	-1	-1	-1	-1	-1	; 9mm Pistol
-@FalloutNV.esm:00434F			24	24	-1	0.65	-1	-1	-1	-1	-1	; 10mm Pistol
-@FalloutNV.esm:1734D4			-1	-1	1.5	0.65	16	-1	-1	-1	-1	; Weathered 10mm Pistol
-@HonestHearts.esm:008E1A		-1	-1	-1	0.65	-1	-1	-1	-1	-1	; .45 Auto Pistol
-@FalloutNV.esm:08F213			43	43	-1	0.65	-1	-1	-1	-1	-1	; 12.7mm Pistol
-@GunRunnersArsenal.esm:000805		48	48	-1	0.65	-1	-1	-1	-1	-1	; Li'l Devil
-@FalloutNV.esm:08F214			-1	-1	-1	0.3	-1	-1	-1	-1	-1	; Hunting Revolver
-@GunRunnersArsenal.esm:000852		-1	-1	-1	0.3	-1	-1	-1	-1	-1	; Hunting Revolver (GRA)
+@FalloutNV.esm:0E3778			-1	-1	-1	0.6	-1	-1	-1	-1	-1	; 9mm Pistol
+@FalloutNV.esm:00434F			24	24	-1	0.7	-1	-1	-1	-1	-1	; 10mm Pistol
+@FalloutNV.esm:1734D4			-1	-1	1.5	0.7	16	-1	-1	-1	-1	; Weathered 10mm Pistol
+@HonestHearts.esm:008E1A		-1	-1	-1	0.7	-1	-1	-1	-1	-1	; .45 Auto Pistol
+@FalloutNV.esm:08F213			43	43	-1	0.7	-1	-1	-1	-1	-1	; 12.7mm Pistol
+@GunRunnersArsenal.esm:000805		48	48	-1	0.7	-1	-1	-1	-1	-1	; Li'l Devil
+@FalloutNV.esm:08F214			-1	-1	1.5	0.3	-1	-1	-1	-1	-1	; Hunting Revolver
+@GunRunnersArsenal.esm:000852		-1	-1	1.5	0.3	-1	-1	-1	-1	-1	; Hunting Revolver (GRA)
 @GunRunnersArsenal.esm:000813		-1	-1	-1	-1	-1	-1	35	-1	3	; 5.56mm Pistol
 @FalloutNV.esm:133058			-1	-1	-1	-1	-1	-1	-1	-1	3	; That Gun
-@FalloutNV.esm:0E9C38			-1	-1	-1	0.45	-1	-1	-1	-1	7.5	; Service Rifle
+@FalloutNV.esm:0E9C38			-1	-1	-1	-1	-1	-1	-1	-1	7.5	; Service Rifle
 @GunRunnersArsenal.esm:000812		-1	-1	-1	0.4	-1	-1	60	-1	8.5	; Battle Rifle
 @FalloutNV.esm:0F062B			-1	-1	-1	0.35	-1	-1	-1	-1	8.5	; This Machine
 @FalloutNV.esm:07EA24			20	20	1.5	-1	28	-1	-1	-1	5	; Vermint Rifle
@@ -23,6 +23,8 @@
 @DeadMoney.esm:00A7A9			-1	-1	-1	1	-1	-1	-1	-1	-1	; Automatic Rifle
 @FalloutNV.esm:0E377A			-1	-1	-1	-1	-1	-1	-1	-1	2	; Silenced .22 Pistol
 @FalloutNV.esm:08F218			-1	-1	-1	-1	-1	-1	-1	-1	6.5	; Silenced .22 SMG
+@HonestHearts.esm:00996C		-1	-1	-1	-1	-1	-1	-1	-1	9.5	; .45 Auto Submachine Gun
+@HonestHearts.esm:00DD79		-1	-1	-1	0.2	24	-1	-1	-1	-1	; Survivalist's Rifle
 
 @FalloutNV.esm:08F217			-1	-1	-1	1.8	26	-1	-1	-1	4.5	; 9mm Submachine Gun
 @FalloutNV.esm:0E32F4			-1	-1	-1	-1	26	-1	-1	-1	5	; Vance's 9mm Submachine Gun

@@ -1918,6 +1918,7 @@ You handle animals really well when they are dead and gain a damage bonus agains
 With the Bloody Mess Perk, characters and creatures you kill will often explode into a red, gut-ridden, eyeball-strewn paste. Fun! Oh, and you'll do 5% extra damage with all weapons.
 You're Good Natured at heart, more prone to solving problems with your mind than violence. You gain +5 to Barter, Medicine, Repair, Science, and Speech, but have -5 to Energy Weapons, Explosives, Guns, Melee Weapons, and Unarmed.
 You've faced torture at the hands of the Marked Men... now it's payback time. (+10% Damage Threshold and +10% Damage against the Marked Men)
+Guns determines your effectiveness with any weapon that uses coventional ammunition (.22LR, .357 Megnum, 5mm, 10mm, 5.56mm, .308, .45-70 Gov't etc.).
 In Shining Armor
 Junk Rounds
 Light Touch
