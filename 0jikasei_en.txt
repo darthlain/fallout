@@ -1256,7 +1256,7 @@ I have my own reasons to stay away from Jacobstown for a while - reasons we won'
 I hope she hasn't gotten lonely.
 There's no escape from here until I let you go. The sooner you accept your situation, the better.
 That structure you see above the Fountain - the Sierra Madre Casino... you need to break inside. A... heist. Too many years in the making.
-A long story, FEV... a virus with an even longer story... it gave birth to the docile one, turned him into a Super Mutant long ago.
+A long story. FEV... a virus with an even longer story... it gave birth to the docile one, turned him into a Super Mutant long ago.
 In that case, I will bring him along, I don't need you.
 All right, let's get out of here.
 Look, I'm here to help.
@@ -1802,6 +1802,12 @@ Someone is targeting us, I'm gonna kill that fucker when I find out who did it.
 Talk to the idiot wearing sunglasses in the back of the HELIOS One plant building.
 I should've taken the Fiend's head for myself.
 As we've done with the Fiends, we'll kill anyone who resists our fight for peace.
+Moving on...
+Yes, that's exactly what I'm telling you to do. Move on.
+Did you know you have a robot following you?
+Howitzer Firing Mechanism
+Wastelander
+Where is Master? Did he go away? Dog will be good this time.
 Box of Bandages
 Soldering Iron
 Grill
@@ -1919,6 +1925,7 @@ With the Bloody Mess Perk, characters and creatures you kill will often explode 
 You're Good Natured at heart, more prone to solving problems with your mind than violence. You gain +5 to Barter, Medicine, Repair, Science, and Speech, but have -5 to Energy Weapons, Explosives, Guns, Melee Weapons, and Unarmed.
 You've faced torture at the hands of the Marked Men... now it's payback time. (+10% Damage Threshold and +10% Damage against the Marked Men)
 Guns determines your effectiveness with any weapon that uses coventional ammunition (.22LR, .357 Megnum, 5mm, 10mm, 5.56mm, .308, .45-70 Gov't etc.).
+Allows you to apply antivenom and stimpaks to your companions when they are poisoned.
 In Shining Armor
 Junk Rounds
 Light Touch

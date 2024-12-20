@@ -1802,6 +1802,12 @@ NCR‚ÌŽã“_‚Í‚»‚Ì‘å‚«‚³‚¾ - ¼•”‚ðè—Ì‚·‚é‚É‚Í‘SŒR‚ðŽ‚Á‚Ä‚µ‚È‚¢‚Æ•s‰Â”\‚¾
 ƒwƒŠƒIƒX1‚Ì‰œ‚É‚¢‚éƒTƒ“ƒOƒ‰ƒX‚ð‚©‚¯‚½”nŽ­‚Æ˜b‚·
 ƒtƒB[ƒ“ƒh‚Ìe‹Ê‚ÍŽ„‚ÌŽè‚Å“¢‚¿Žæ‚è‚½‚©‚Á‚½
 ƒtƒB[ƒ“ƒh‚Ì‚æ‚¤‚ÉA•½˜a‚Ì‚½‚ß‚Ìí‚¢‚É’ïR‚·‚é‚à‚Ì‚ÍŠFŽE‚µ‚É‚·‚ê‚Î‚¢‚¢
+ˆø‚«•Ô‚»‚¤c
+‚ ‚ A‚³‚Á‚«‚©‚ç‚»‚¤‚·‚é‚×‚«‚¾‚ÆŒ¾‚Á‚Ä‚¢‚éB ˆø‚«•Ô‚¹
+ƒƒ{ƒbƒg‚É‚Â‚¯‚ç‚ê‚Ä‚é‚¯‚Ç‘åä•vH
+žÖ’e–C‚Ì”­ŽË‹@\
+ƒEƒFƒCƒXƒgƒ‰ƒ“ƒ_[
+ƒ}ƒXƒ^[‚Í‚Ç‚±‚¾H ‚Ç‚±‚©‚É‚¢‚Á‚½‚Ì‚©H ƒhƒbƒO‚¢‚¢Žq‚É‚È‚é
 •ï‘Ñƒ{ƒbƒNƒX
 ‚Í‚ñ‚¾‚²‚Ä
 ƒOƒŠƒ‹
@@ -1919,6 +1925,7 @@ Bloody Mess: ŽE‚µ‚½“G‚ª‚µ‚Î‚µ‚Î”š”­‚µ‚Ä“à‘Ÿ‚â–Ú‹Ê‚ª”ò‚ÑŽU‚èAŽüˆÍ‚ðÔ‚­õ‚ß‚Ü‚·
 Good Natured: ‚ ‚È‚½‚Í¶ˆ‚Ì‘Pl‚Å–\—Í‚æ‚è‚à“ª”]‚Å–â‘è‚ð‰ðŒˆ‚·‚éŒXŒü‚ª‚ ‚è‚Ü‚·B Barter, Medicine, Repair, Science, Speech‚É+5‚Ìƒ{[ƒiƒX‚ð“¾‚Ü‚·‚ªAEnergy Weapons, Explosives, Guns, Melee Weapons, Explosives‚É-5‚Ìƒyƒiƒ‹ƒeƒB‚ª—^‚¦‚ç‚ê‚Ü‚·
 Marked: ¡‚±‚»ƒ}[ƒNƒhƒ}ƒ“‚É‹ê‚µ‚ß‚ç‚ê‚½‰…‚Ý‚ð°‚ç‚·‚Æ‚«‚Å‚·B (ƒ}[ƒNƒhƒ}ƒ“‚É‘Î‚·‚éDT‚Æ—^‚¦‚éƒ_ƒ[ƒW+10%)
 Guns: ŽÀ’eŒn’e–ò(.22LR, .357ƒ}ƒOƒiƒ€, 5mm, 10mm, 5.56mm, .308, .45-70ƒKƒoƒƒ“ƒg“™)‚ðŽg—p‚·‚é‚ ‚ç‚ä‚é•Ší‚Ì—LŒø«‚ðŒˆ’è‚µ‚Ü‚· 
+ƒRƒ“ƒpƒjƒIƒ“‚ª“Å‚Éœë‚Á‚½‚Æ‚«‚ÉƒAƒ“ƒ`ƒxƒmƒ€‚ÆƒXƒeƒBƒ€ƒpƒbƒN‚ð—^‚¦‚é‚±‚Æ‚ª‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚·
 In Shining Armor (DM)
 Junk Rounds (DM)
 Light Touch (DM)

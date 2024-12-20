@@ -13,9 +13,8 @@
 @GunRunnersArsenal.esm:000852		-1	-1	1.5	0.3	-1	-1	-1	-1	-1	; Hunting Revolver (GRA)
 @GunRunnersArsenal.esm:000813		-1	-1	-1	-1	-1	-1	35	-1	3	; 5.56mm Pistol
 @FalloutNV.esm:133058			-1	-1	-1	-1	-1	-1	-1	-1	3	; That Gun
-@FalloutNV.esm:0E9C38			-1	-1	-1	-1	-1	-1	-1	-1	7.5	; Service Rifle
-@GunRunnersArsenal.esm:000812		-1	-1	-1	0.4	-1	-1	60	-1	8.5	; Battle Rifle
-@FalloutNV.esm:0F062B			-1	-1	-1	0.35	-1	-1	-1	-1	8.5	; This Machine
+@GunRunnersArsenal.esm:000812		-1	-1	-1	0.4	-1	-1	60	-1	-1	; Battle Rifle
+@FalloutNV.esm:0F062B			-1	-1	-1	0.35	-1	-1	-1	-1	-1	; This Machine
 @FalloutNV.esm:07EA24			20	20	1.5	-1	28	-1	-1	-1	5	; Vermint Rifle
 @FalloutNV.esm:0E5B17			-1	-1	-1	-1	-1	-1	50	-1	-1	; Ratslayer
 @FalloutNV.esm:00434C			-1	-1	-1	2.7	-1	-1	-1	-1	-1	; Sawed-off Shotgun
@@ -23,31 +22,37 @@
 @DeadMoney.esm:00A7A9			-1	-1	-1	1	-1	-1	-1	-1	-1	; Automatic Rifle
 @FalloutNV.esm:0E377A			-1	-1	-1	-1	-1	-1	-1	-1	2	; Silenced .22 Pistol
 @FalloutNV.esm:08F218			-1	-1	-1	-1	-1	-1	-1	-1	6.5	; Silenced .22 SMG
+@FalloutNV.esm:0906DF			-1	-1	-1	-1	25	-1	-1	-1	-1	; Light Machine Gun
 @HonestHearts.esm:00996C		-1	-1	-1	-1	-1	-1	-1	-1	9.5	; .45 Auto Submachine Gun
-@HonestHearts.esm:00DD79		-1	-1	-1	0.2	24	-1	-1	-1	-1	; Survivalist's Rifle
+@HonestHearts.esm:00DD79		-1	-1	-1	0.15	24	-1	-1	-1	-1	; Survivalist's Rifle
 
-@FalloutNV.esm:08F217			-1	-1	-1	1.8	26	-1	-1	-1	4.5	; 9mm Submachine Gun
-@FalloutNV.esm:0E32F4			-1	-1	-1	-1	26	-1	-1	-1	5	; Vance's 9mm Submachine Gun
+@FalloutNV.esm:08F217			-1	-1	-1	1.8	25	-1	-1	-1	4.5	; 9mm Submachine Gun
+@FalloutNV.esm:0E32F4			-1	-1	-1	-1	25	-1	-1	-1	4.5	; Vance's 9mm Submachine Gun
 @FalloutNV.esm:004321			-1	-1	-1	2	-1	-1	-1	-1	-1	; 10mm Submachine Gun
 @FalloutNV.esm:0CD53A			-1	-1	-1	-1	25	-1	-1	-1	5	; Caravan Shotgun
 @FalloutNV.esm:1735E3			-1	-1	-1	2.2	25	-1	-1	-1	5.5	; Sturdy Caravan Shotgun
-@FalloutNV.esm:08ED0C			-1	-1	-1	-1	-1	-1	-1	-1	4.5	; Lever-action Shotgun
+@FalloutNV.esm:08ED0C			-1	-1	-1	-1	-1	-1	-1	-1	4	; Lever-action Shotgun
 
 @FalloutNV.esm:004333			-1	-1	-1	-1	-1	-1	-1	-1	7.5	; Hunting Rifle
 @FalloutNV.esm:004353			-1	-1	-1	-1	-1	-1	-1	-1	9.5	; Sniper Rifle
 @FalloutNV.esm:1429E1			-1	-1	-1	-1	-1	-1	-1	-1	6	; Gobi Compaign Scout Rifle
 @OldWorldBlues.esm:0112BA		-1	-1	-1	-1	-1	-1	-1	-1	7	; Christine's COS Silencer Rifle
+@FalloutNV.esm:08F21E			-1	-1	-1	-1	-1	-1	-1	-1	7	; Assault Carbine
+@GunRunnersArsenal.esm:000850		-1	-1	-1	-1	-1	-1	-1	-1	7	; Assault Carbine (GRA)
+@FalloutNV.esm:105FEA			-1	-1	-1	-1	-1	-1	-1	-1	7	; Marksman Carbine
+@FalloutNV.esm:106FEB			-1	-1	-1	-1	-1	-1	-1	-1	7	; All-American
+@FalloutNV.esm:0CD539			-1	-1	-1	-1	-1	-1	-1	-1	6	; Trail Carbine
 @FalloutNV.esm:121148			-1	-1	-1	-1	-1	-1	-1	-1	7	; Brush Gun
 @GunRunnersArsenal.esm:00080E		-1	-1	-1	-1	-1	-1	-1	-1	7.5	; Medicine Stick
-@FalloutNV.esm:1429D1			-1	-1	-1	-1	-1	-1	-1	-1	8	; 12.7mm Submachine Gun
-@GunRunnersArsenal.esm:00084E		-1	-1	-1	-1	-1	-1	-1	-1	8	; 12.7mm Submachine Gun (GRA)
+@FalloutNV.esm:1429D1			-1	-1	-1	-1	-1	-1	-1	-1	7	; 12.7mm Submachine Gun
+@GunRunnersArsenal.esm:00084E		-1	-1	-1	-1	-1	-1	-1	-1	7	; 12.7mm Submachine Gun (GRA)
 @FalloutNV.esm:08ED0A			-1	-1	-1	-1	-1	-1	-1	-1	7	; Riot Shotgun
 
 @FalloutNV.esm:0FF576			-1	-1	-1	-1	-1	-1	50	-1	-1	; Grenade Rifle
 @FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	75	-1	-1	; Thump-Thump
 @FalloutNV.esm:1735E4			15	-1	-1	-1	-1	-1	25	-1	-1	; Mercenary's Grenade Rifle
 @LonesomeRoad.esm:0046C4		60	-1	-1	-1	-1	-1	75	-1	-1	; Great Bear Grenade Rifle
-@LonesomeRoad.esm:0046C3		-1	-1	-1	-1	20	-1	75	-1	-1	; Red Victory Grenade Rifle
+@LonesomeRoad.esm:0046C3		-1	-1	-1	-1	23	-1	75	-1	-1	; Red Victory Grenade Rifle
 
 @FalloutNV.esm:09073B			-1	-1	-1	-1	-1	-1	-1	-1	5	; Laser RCW
 @OldWorldBlues.esm:00B9CF		-1	-1	-1	-1	-1	-1	-1	-1	8	; LAER
