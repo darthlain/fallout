@@ -12,11 +12,14 @@ Confirmed Bachelor	+CHA4
 Pack Rat		Lv8  -> Lv16
 Hand Loader		Lv6  -> Lv18
 Jury Rigging		Lv14 -> Lv28
-Grim Reaper's Sprint	+AGI6
+Grim Reaper's Sprint	+AGI7
 
+Grunt			Lv8  -> Lv16 Explosive20 -> 45
 And Stay Back		Lv10 -> Lv20
 Heavy Weight		Lv12 -> Lv24
-Certified Tech		Lv40 -> Lv24 +INT8
-Ain't Like That Now	Lv50 -> Lv24 +CHA8
-Just Lucky I'm Alive	Lv50 -> Lv24 +CHA8
-Thought You Died	Lv50 -> Lv24 +CHA8
+Certified Tech		Lv40 -> Lv20 +INT8
+Ain't Like That Now	Lv50 -> Lv25 +CHA8
+Just Lucky I'm Alive	Lv50 -> Lv25 +CHA8
+Thought You Died	Lv50 -> Lv25 +CHA8
+
+25perkはどれか一つのみ

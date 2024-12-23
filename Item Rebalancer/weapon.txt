@@ -40,7 +40,7 @@
 @FalloutNV.esm:08F21E			-1	-1	-1	-1	-1	-1	-1	-1	7	; Assault Carbine
 @GunRunnersArsenal.esm:000850		-1	-1	-1	-1	-1	-1	-1	-1	7	; Assault Carbine (GRA)
 @FalloutNV.esm:105FEA			-1	-1	-1	-1	-1	-1	-1	-1	7	; Marksman Carbine
-@FalloutNV.esm:106FEB			-1	-1	-1	-1	-1	-1	-1	-1	7	; All-American
+@FalloutNV.esm:106FEB			-1	-1	-1	-1	-1	-1	-1	-1	7.5	; All-American
 @FalloutNV.esm:0CD539			-1	-1	-1	-1	-1	-1	-1	-1	6	; Trail Carbine
 @FalloutNV.esm:121148			-1	-1	-1	-1	-1	-1	-1	-1	7	; Brush Gun
 @GunRunnersArsenal.esm:00080E		-1	-1	-1	-1	-1	-1	-1	-1	7.5	; Medicine Stick
