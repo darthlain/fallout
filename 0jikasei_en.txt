@@ -439,6 +439,7 @@ Breakdown 10mm JHP Hand Load
 12.7mm, JHP Hand Load
 12.7mm, JHP (Hand Load)
 12.7mm, JHP Hand Load (GRA)
+12.7mm, JHP (Hand Load) (GRA)
 12.7mm Round (Hand Load)
 12.7mm JHP
 Case, 12.7mm
@@ -810,6 +811,7 @@ NCR Tourist
 NCR Heavy Trooper
 NCR Lieutenant
 NCR Mercenary Techie
+NCR Recon Lieutenant
 Legion Recruit
 Legion Hunter
 Legion Prospector
@@ -969,7 +971,6 @@ Wild Wasteland
 Increases rate of fire.
 Edit Traits
 Edit Tag Skills
-Corpses Eaten
 Exit
 [%]. Map marker added.
 Yeah.
@@ -1820,6 +1821,7 @@ Legend goes that Graham was the meanest, toughest son of a bitch in the whole da
 Turns out Caesar's first war chief, the Malpais Legate, was a New Canaanite. Joshua Graham.
 Well at Hoover Dam, the Malpais Legate finally met his match. Hanlon and Oliver kicked his New Canaanite butt right back over the river.
 Probably just a tribal ghost story. But New Canaan's been silent for a long time. Maybe it's a coincidence. Maybe the Malpais Legate is dead.
+Plasma.
 Box of Bandages
 Soldering Iron
 Grill
@@ -2007,6 +2009,7 @@ Dead Failed FEV Subject
 Dead Swampfolk Creeper
 Dead Pitt Slave
 Dead Branchtender
+Dead Gary [%]
 Which limb would you like to heal?
 All
 Nevermind
@@ -2376,3 +2379,9 @@ It's kinda... embarrassing really. Once a year, Bob decides he's going to go ahe
 So, it looks like you decided to do things their way huh. How come?
 Should we give em' another chance, Herbert?
 Fine, fine... I mean Bob. I still think it's funny when I call him Herbert.
+Battle Ant
+Battle Robot
+I'm mayor of Canterbury Commons, think of me as your own Uncle Roe.
+And take this, as our thanks for cleaning up the town.
+[Dashwood] Just over here! This large boulder! And now... the secret knock.  And... voila!
+Bethesda Offices Safe Key
