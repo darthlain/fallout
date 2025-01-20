@@ -1822,6 +1822,10 @@ Turns out Caesar's first war chief, the Malpais Legate, was a New Canaanite. Jos
 Well at Hoover Dam, the Malpais Legate finally met his match. Hanlon and Oliver kicked his New Canaanite butt right back over the river.
 Probably just a tribal ghost story. But New Canaan's been silent for a long time. Maybe it's a coincidence. Maybe the Malpais Legate is dead.
 Plasma.
+Part of my plan involved automated security for the region.
+I see. Yes Man, please throw General Oliver from the Dam.
+I've seen worse things happen to better people.
+I'm hit!
 Box of Bandages
 Soldering Iron
 Grill
@@ -1940,6 +1944,8 @@ You're Good Natured at heart, more prone to solving problems with your mind than
 You've faced torture at the hands of the Marked Men... now it's payback time. (+10% Damage Threshold and +10% Damage against the Marked Men)
 Guns determines your effectiveness with any weapon that uses coventional ammunition (.22LR, .357 Megnum, 5mm, 10mm, 5.56mm, .308, .45-70 Gov't etc.).
 Allows you to apply antivenom and stimpaks to your companions when they are poisoned.
+You have equipped faction armor! If you have become the enemy of a faction, you can disguise youself by wearing one of their outfits. While disguised, members of that faction will consider you a friend.
+Watch out however: if you commit a crime against a faction member, that faction will still become hostile toward you for several days, regardless of your disguise. You also won't fool anyone if you put on your disguise while being attacked!
 In Shining Armor
 Junk Rounds
 Light Touch
