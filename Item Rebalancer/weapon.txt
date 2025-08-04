@@ -1,55 +1,45 @@
 ; ID					DAM	CRT	CRCH	SPRD	AP	CND	SKILL	VAL	WGT
-@FalloutNV.esm:0E393B			60	-1	-1	-1	35	-1	-1	-1	5	; Single Shotgun
-@FalloutNV.esm:08F216			-1	-1	-1	-1	23	-1	-1	-1	-1	; .357 Magnum Revolver
-@FalloutNV.esm:08F215			39	39	-1	0.5	-1	-1	-1	-1	3	; .44 Magnum Revolver
-@FalloutNV.esm:127C6C			45	45	-1	-1	-1	-1	-1	-1	3.5	; Mysterious Magnum
-@FalloutNV.esm:0E3778			-1	-1	-1	0.6	-1	-1	-1	-1	-1	; 9mm Pistol
-@FalloutNV.esm:00434F			24	24	-1	0.7	-1	-1	-1	-1	-1	; 10mm Pistol
-@HonestHearts.esm:008E1A		-1	-1	-1	0.7	-1	-1	-1	-1	-1	; .45 Auto Pistol
-@FalloutNV.esm:08F213			43	43	-1	0.7	-1	-1	-1	-1	-1	; 12.7mm Pistol
-@GunRunnersArsenal.esm:000805		48	48	-1	0.7	-1	-1	-1	-1	-1	; Li'l Devil
+@FalloutNV.esm:0E393B			60	-1	-1	-1	-1	-1	-1	-1	4.5	; Single Shotgun
+@FalloutNV.esm:08F216			-1	-1	-1	0.35	21	-1	-1	-1	-1	; .357 Magnum Revolver
+@FalloutNV.esm:08F215			39	39	-1	0.35	23	-1	-1	-1	3	; .44 Magnum Revolver
+@FalloutNV.esm:127C6C			45	45	-1	0.3	-1	-1	-1	-1	3.5	; Mysterious Magnum
+@FalloutNV.esm:0E3778			-1	-1	-1	0.5	-1	-1	-1	-1	-1	; 9mm Pistol
+@FalloutNV.esm:00434F			25	25	-1	0.55	-1	-1	-1	-1	-1	; 10mm Pistol
+@HonestHearts.esm:008E1A		-1	-1	-1	0.55	-1	-1	-1	-1	-1	; .45 Auto Pistol
+@HonestHearts.esm:00996C		-1	-1	-1	-1	-1	-1	-1	-1	7.5	; .45 Auto SMG
+@FalloutNV.esm:08F213			43	43	-1	0.55	-1	-1	-1	-1	-1	; 12.7mm Pistol
+@GunRunnersArsenal.esm:000805		48	48	-1	0.5	-1	-1	-1	-1	-1	; Li'l Devil
 @FalloutNV.esm:08F214			-1	-1	1.5	0.25	-1	-1	-1	-1	-1	; Hunting Revolver
 @GunRunnersArsenal.esm:000852		-1	-1	1.5	0.25	-1	-1	-1	-1	-1	; Hunting Revolver (GRA)
-@GunRunnersArsenal.esm:000813		-1	-1	-1	-1	-1	-1	-1	-1	3	; 5.56mm Pistol
-@FalloutNV.esm:133058			-1	-1	-1	-1	-1	-1	-1	-1	3	; That Gun
-@GunRunnersArsenal.esm:000812		-1	-1	-1	0.5	-1	-1	-1	-1	-1	; Battle Rifle
-@FalloutNV.esm:0F062B			-1	-1	-1	0.4	-1	-1	-1	-1	-1	; This Machine
-@FalloutNV.esm:07EA24			20	20	1.5	-1	30	-1	-1	-1	5	; Vermint Rifle
-@FalloutNV.esm:0E5B17			-1	-1	-1	-1	-1	-1	50	-1	-1	; Ratslayer
-@FalloutNV.esm:00434C			-1	-1	-1	2.7	-1	-1	-1	-1	-1	; Sawed-off Shotgun
-@FalloutNV.esm:1673CD			-1	-1	-1	2.4	-1	-1	-1	-1	-1	; Big Boomer
+@GunRunnersArsenal.esm:000813		-1	-1	-1	0.35	-1	-1	-1	-1	3.5	; 5.56mm Pistol
+@FalloutNV.esm:133058			-1	-1	-1	0.35	-1	-1	-1	-1	3.5	; That Gun
+@GunRunnersArsenal.esm:000812		-1	-1	-1	0.25	-1	-1	-1	-1	-1	; Battle Rifle
+@FalloutNV.esm:0F062B			-1	-1	-1	0.2	-1	-1	-1	-1	-1	; This Machine
+@FalloutNV.esm:07EA24			20	20	1.5	-1	-1	-1	-1	-1	-1	; Vermint Rifle
+@FalloutNV.esm:00434C			-1	-1	-1	2.5	-1	-1	-1	-1	-1	; Sawed-off Shotgun
+@FalloutNV.esm:1673CD			-1	-1	-1	2	-1	-1	-1	-1	-1	; Big Boomer
 @DeadMoney.esm:00A7A9			-1	-1	-1	1	-1	-1	-1	-1	-1	; Automatic Rifle
 @FalloutNV.esm:0E377A			-1	-1	-1	-1	-1	-1	-1	-1	2	; Silenced .22 Pistol
 @FalloutNV.esm:08F218			-1	-1	-1	-1	-1	-1	-1	-1	6	; Silenced .22 SMG
-@FalloutNV.esm:0906DF			-1	-1	-1	-1	26	-1	-1	-1	-1	; Light Machine Gun
-@HonestHearts.esm:00DD79		-1	-1	-1	0.25	24	-1	-1	-1	-1	; Survivalist's Rifle
+@HonestHearts.esm:00DD79		-1	-1	-1	0.25	-1	-1	-1	-1	-1	; Survivalist's Rifle
 
-@FalloutNV.esm:08F217			-1	-1	-1	1.8	25	-1	-1	-1	4.5	; 9mm Submachine Gun
-@FalloutNV.esm:0E32F4			-1	-1	-1	-1	25	-1	-1	-1	4.5	; Vance's 9mm Submachine Gun
-@FalloutNV.esm:004321			-1	-1	-1	2	-1	-1	-1	-1	-1	; 10mm Submachine Gun
 @FalloutNV.esm:0CD53A			-1	-1	-1	-1	25	-1	-1	-1	4.5	; Caravan Shotgun
-@FalloutNV.esm:08ED0C			-1	-1	-1	-1	-1	-1	-1	-1	4	; Lever-action Shotgun
+@FalloutNV.esm:08ED0C			-1	-1	-1	-1	-1	-1	-1	-1	4.5	; Lever-action Shotgun
 
-@FalloutNV.esm:0FF576			-1	-1	-1	-1	-1	-1	50	-1	-1	; Grenade Rifle
-@FalloutNV.esm:1429E2			-1	-1	-1	-1	-1	-1	75	-1	-1	; Thump-Thump
-@LonesomeRoad.esm:0046C4		70	-1	-1	-1	-1	-1	75	-1	-1	; Great Bear Grenade Rifle
-@LonesomeRoad.esm:0046C3		-1	-1	-1	-1	20	-1	75	-1	-1	; Red Victory Grenade Rifle
+@LonesomeRoad.esm:0046C4		70	-1	-1	-1	-1	-1	-1	-1	-1	; Great Bear Grenade Rifle
+@LonesomeRoad.esm:0046C3		-1	-1	-1	-1	20	-1	-1	-1	-1	; Red Victory Grenade Rifle
 
-@FalloutNV.esm:09073B			-1	-1	-1	-1	-1	-1	-1	-1	5	; Laser RCW
 @OldWorldBlues.esm:00B9CF		-1	-1	-1	-1	-1	-1	-1	-1	8	; LAER
 @OldWorldBlues:esm:015DD3		-1	-1	-1	-1	-1	-1	-1	-1	8	; Elijah's advanced LAER
-@FalloutNV.esm:15837B			-1	-1	-1	-1	-1	-1	-1	-1	14	; Gauss Rifle
-@FalloutNV.esm:15B38D			-1	-1	-1	-1	-1	-1	-1	-1	16	; YCS/186
+;@FalloutNV.esm:15837B			-1	-1	-1	-1	-1	-1	-1	-1	14	; Gauss Rifle
+;@FalloutNV.esm:15B38D			-1	-1	-1	-1	-1	-1	-1	-1	16	; YCS/186
 
-@FalloutNV.esm:1734D4			-1	-1	-1	0.7	-1	-1	25	-1	2	; Weathered 10mm Pistol
-@FalloutNV.esm:1735E3			-1	-1	-1	2.2	25	-1	25	-1	5	; Sturdy Caravan Shotgun
-@FalloutNV.esm:1735E4			15	-1	-1	-1	-1	-1	50	-1	-1	; Mercenary's Grenade Rifle
+@FalloutNV.esm:1734D4			27	27	-1	0.5	-1	-1	-1	-1	-1	; Weathered 10mm Pistol
+@FalloutNV.esm:1735E3			-1	-1	-1	2.2	25	-1	-1	-1	4.5	; Sturdy Caravan Shotgun
+@FalloutNV.esm:1735E4			30	-1	-1	-1	-1	-1	-1	-1	-1	; Mercenary's Grenade Rifle
 
 @FalloutNV.esm:004330			-1	-1	-1	-1	-1	-1	-1	50	-1	; Frag Grenade
 @HonestHearts.esm:00BCB4		-1	-1	-1	-1	-1	-1	-1	35	-1	; Fire Bomb
-
-@FalloutNV.esm:10D2CD			-1	-1	-1	-1	-1	-1	-1	-1	13	; NCR Trooper Fatigues
-@FalloutNV.esm:0CEE21			-1	-1	-1	-1	-1	-1	-1	-1	4	; Space Suit Helmet
 
 @HonestHearts.esm:008E17		-1	-1	-1	-1	-1	-1	-1	1000	-1	; .45 AP HD Slide
 @HonestHearts.esm:008E18		-1	-1	-1	-1	-1	-1	-1	1000	-1	; .45 AP Silencer
@@ -58,16 +48,16 @@
 @HonestHearts.esm:00CC05		-1	-1	-1	-1	-1	-1	-1	1000	-1	; War Club Casings
 @HonestHearts.esm:00CC06		-1	-1	-1	-1	-1	-1	-1	1000	-1	; War Club Honors
 
-@HonestHearts.esm:00947B		-1	-1	-1	-1	-1	-1	-1	-1	0.050	; .45 Auto
-@HonestHearts.esm:009E6A		-1	-1	-1	-1	-1	-1	-1	-1	0.050	; .45 Auto HP
-@HonestHearts.esm:009E6B		-1	-1	-1	-1	-1	-1	-1	-1	0.050	; .45 Auto +P
-@HonestHearts.esm:009E6C		-1	-1	-1	-1	-1	-1	-1	-1	0.050	; .45 Super
-@FalloutNV.esm:121133			-1	-1	-1	-1	-1	-1	-1	-1	0.080	; .45-70G
-@FalloutNV.esm:13E43D			-1	-1	-1	-1	-1	-1	-1	-1	0.080	; .45-70G HP
-@FalloutNV.esm:13E43E			-1	-1	-1	-1	-1	-1	-1	-1	0.080	; .45-70G SWC
-@FalloutNV.esm:1429CF			-1	-1	-1	-1	-1	-1	-1	-1	0.079	; 12.7mm
-@FalloutNV.esm:1613D4			-1	-1	-1	-1	-1	-1	-1	-1	0.079	; 12.7mm HP
-@GunRunnersArsenal.esm:000A2B		-1	-1	-1	-1	-1	-1	-1	-1	0.079	; 12.7mm JHP
+;@HonestHearts.esm:00947B		-1	-1	-1	-1	-1	-1	-1	-1	0.055	; .45 Auto
+;@HonestHearts.esm:009E6A		-1	-1	-1	-1	-1	-1	-1	-1	0.055	; .45 Auto HP
+;@HonestHearts.esm:009E6B		-1	-1	-1	-1	-1	-1	-1	-1	0.055	; .45 Auto +P
+;@HonestHearts.esm:009E6C		-1	-1	-1	-1	-1	-1	-1	-1	0.055	; .45 Super
+;@FalloutNV.esm:121133			-1	-1	-1	-1	-1	-1	-1	-1	0.080	; .45-70G
+;@FalloutNV.esm:13E43D			-1	-1	-1	-1	-1	-1	-1	-1	0.080	; .45-70G HP
+;@FalloutNV.esm:13E43E			-1	-1	-1	-1	-1	-1	-1	-1	0.080	; .45-70G SWC
+;@FalloutNV.esm:1429CF			-1	-1	-1	-1	-1	-1	-1	-1	0.079	; 12.7mm
+;@FalloutNV.esm:1613D4			-1	-1	-1	-1	-1	-1	-1	-1	0.079	; 12.7mm HP
+;@GunRunnersArsenal.esm:000A2B		-1	-1	-1	-1	-1	-1	-1	-1	0.079	; 12.7mm JHP
 @FalloutNV.esm:029371			-1	-1	-1	-1	-1	-1	-1	-1	0.01	; Flamer Fuel
 @FalloutNV.esm:166F62			-1	-1	-1	-1	-1	-1	-1	-1	0.01	; Flamer Fuel Homemade
 @GunRunnersArsenal.esm:000875		-1	-1	-1	-1	-1	-1	-1	-1	0.01	; Flamer Fuel Optimized

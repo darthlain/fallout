@@ -88,9 +88,9 @@ CFƒp[ƒc(ƒAƒ“ƒ`ƒ}ƒeƒŠƒAƒ‹R)
 ‰ü—Çƒp[ƒc(ƒI[ƒgƒ}ƒ`ƒbƒNƒ‰ƒCƒtƒ‹)
 ‰ü—Çƒp[ƒc(ƒI[ƒgƒ}ƒ`ƒbƒNƒ‰ƒCƒtƒ‹)
 ’b‘¢ƒŒƒV[ƒo[(ƒuƒ‰ƒbƒVƒ…ƒKƒ“)
-Œy—ÊƒŒƒo[(Cby.ƒŠƒs[ƒ^[)
-Lƒ`ƒ…[ƒu(Cby.ƒŠƒs[ƒ^[)
-Œy—ÊƒXƒgƒbƒN(Cby.ƒŠƒs[ƒ^[)
+Œy—ÊƒŒƒo[(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
+Lƒ`ƒ…[ƒu(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
+Œy—ÊƒXƒgƒbƒN(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
 Šg’£ƒ}ƒKƒWƒ“(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
 ƒXƒR[ƒv(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
 Œy—ÊƒŒƒo[(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
@@ -707,6 +707,7 @@ MAX
 ƒSƒrƒLƒƒƒ“ƒy[ƒ“EƒXƒJƒEƒgƒ‰ƒCƒtƒ‹
 —\”õ•º‚Ìƒ‰ƒCƒtƒ‹
 ƒ\[ƒhƒIƒtEƒVƒ‡ƒbƒgƒKƒ“
+ƒVƒ‡ƒ‹ƒ_[ƒ}ƒEƒ“ƒgEƒ}ƒVƒ“ƒKƒ“
 ƒtƒ@ƒbƒgƒ}ƒ“
 ƒtƒ@ƒbƒgƒ}ƒ“ (GRA)
 AER14ƒvƒƒgƒ^ƒCƒv
@@ -722,6 +723,7 @@ AER14ƒvƒƒgƒ^ƒCƒv
 •…H«ƒOƒ[ƒu
 –Å‹ÛƒOƒ[ƒu
 ƒtƒ‰ƒOƒOƒŒƒl[ƒh
+ÄˆÎƒOƒŒƒl[ƒh
 ƒWƒFƒŠƒR‚Ì’†‘ŒRƒAƒTƒ‹ƒgƒ‰ƒCƒtƒ‹
 ƒXƒ^[ƒpƒ‰ƒfƒBƒ“EƒNƒƒX‚ÌƒŒ[ƒU[ƒsƒXƒgƒ‹
 ƒAƒ‹ƒPƒCƒh‚ÌƒŠƒbƒp[
@@ -760,6 +762,7 @@ MRE(•ÄŒR—pƒŒ[ƒVƒ‡ƒ“)
 ƒWƒƒƒCƒAƒ“ƒgEƒ}ƒ“ƒeƒBƒX‚Ì—‘‚ÌŽR
 ”Ì”„ƒR[ƒh - "ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹"
 ƒŠ[ƒWƒ‡ƒ“PŒ‚‘àƒLƒƒƒ“ƒv
+NCR’E‘–•ºƒLƒƒƒ“ƒv
 —ª’D‚³‚ê‚½ƒOƒŠƒtƒBƒ“ƒEƒFƒAEƒLƒƒƒ‰ƒoƒ“
 ‘å”j‚µ‚½ƒnƒCƒEƒFƒCƒ}ƒ“
 ƒNƒŒƒZƒ“ƒgƒLƒƒƒjƒIƒ“¼
@@ -778,6 +781,7 @@ NCRCF ’†’ë
 ƒvƒŠƒ€ NCRƒLƒƒƒ“ƒv
 ƒrƒ^[ƒXƒvƒŠƒ“ƒOƒX NCRƒLƒƒƒ“ƒv
 ƒlƒŠƒXƒgƒ“ƒlƒ‹ “ì
+ƒlƒŠƒXƒgƒ“ƒlƒ‹ –k
 ‘¾—zŒõŽûWƒ^ƒ[
 “¬‹Zê
 ƒOƒŒ[ƒgEƒJ[ƒ“‚Ìƒƒ“ƒOƒnƒEƒX
@@ -827,7 +831,9 @@ NCR’ãŽ@ƒ‹[ƒeƒiƒ“ƒg
 ƒSƒ‚ƒ‰‚Ì©•w
 ƒu[ƒ}[EƒGƒNƒXƒvƒ[ƒ‰[
 ƒu[ƒ}[‰“ªƒŠ[ƒ_[
+BOSƒVƒjƒAEƒpƒ‰ƒfƒBƒ“
 BOS‚Ì’²’BƒXƒyƒVƒƒƒŠƒXƒg
+ƒnƒbƒs[ƒgƒŒƒCƒ‹¤l
 ƒWƒƒƒ“ƒN‹ÆŽÒ
 –³ˆê•¶‚Ì—·sŽÒ
 Žç‘K“z
@@ -838,6 +844,7 @@ BOS‚Ì’²’BƒXƒyƒVƒƒƒŠƒXƒg
 ƒX[ƒp[Eƒ~ƒ…[ƒ^ƒ“ƒg
 –qê]‹Æˆõ
 –q’{Œ¢
+ƒeƒCƒ€EƒiƒCƒgƒXƒg[ƒJ[
 ƒŒƒCƒ_[ƒLƒƒƒ“ƒv
 —b•ºƒLƒƒƒ“ƒv
 —b•º‘à’·
@@ -1257,6 +1264,7 @@ NCR‚Í‚±‚¤‚¢‚¤‚±‚Æ‚É‚à‚Á‚Æ’ˆÓ‚ð•¥‚¤‚×‚«‚¾‚Ë
 Žâ‚µ‚¢Žv‚¢‚ð‚µ‚Ä‚¢‚È‚¢‚Æ‚¢‚¢‚Ì‚Å‚·‚ªc
 Ž„‚ªŠJ•ú‚µ‚È‚¢ŒÀ‚èA‚±‚±‚©‚ço‚é‚±‚Æ‚Í‚Å‚«‚ñB‘‚­Ž©•ª‚Ìó‹µ‚ðŽó‚¯“ü‚ê‚é‚Ì‚ªg‚Ì‚½‚ß‚¾
 •¬…‚Ìã‚ÉŒ©‚¦‚é‚ ‚ÌŒš•¨ - ‚»‚ê‚ªƒVƒGƒ‰Eƒ}ƒhƒŒEƒJƒWƒm‚¾c ŒN‚É‚Í‚»‚±‚ÖN“ü‚µ‚Ä‚à‚ç‚¤B Œ¾‚í‚Îc ‹àŒÉ”j‚è‚¾‚ÈB ‰½”N‚à‚©‚¯‚Ä€”õ‚µ‚½‚Ì‚¾
+‚»‚Ìc‹àŒÉ”j‚è‚ð¬‚µ‹‚°‚é‚½‚ß‚ÉlŽè‚ª•K—v‚È‚í‚¯‚¾B ’N‚¾H
 ’·‚¢•¨Œê‚¾B FEVc ‚±‚ÌƒEƒCƒ‹ƒX‚É‚Í‚Æ‚Ä‚à’·‚¢•¨Œê‚ª‚ ‚éc ‚»‚ê‚ª‚Í‚é‚©Ì‚É‚ ‚Ì]‡‚ÈŽÒ‚ð¶‚Ýo‚µAƒX[ƒp[Eƒ~ƒ…[ƒ^ƒ“ƒg‚É•Ï‚¦‚½‚Ì‚¾
 ‚»‚¤‚¢‚¤‚±‚Æ‚È‚çA”Þ‚¾‚¯˜A‚ê‚Äs‚­B ‚¨‘O‚Í•K—v‚È‚¢
 Œˆ‚Ü‚è‚¾‚ÈB ‚»‚ê‚¶‚áˆê‚És‚­‚©
@@ -1826,6 +1834,17 @@ NCR‚ÌŽã“_‚Í‚»‚Ì‘å‚«‚³‚¾ - ¼•”‚ðè—Ì‚·‚é‚É‚Í‘SŒR‚ðŽ‚Á‚Ä‚µ‚È‚¢‚Æ•s‰Â”\‚¾
 ƒI[ƒP[B ƒCƒGƒXƒ}ƒ“AƒIƒŠƒo[«ŒR‚ðƒ_ƒ€‚©‚ç•ú‚è“Š‚°‚ë
 ‚¢‚¢l‚Å‚àƒRƒŒ‚æ‚è‚à‚Á‚Æˆ«‚¢Ž€‚É•û‚ð‚·‚é‚Ì‚ðŒ©‚Ä‚«‚½
 UŒ‚‚³‚ê‚½I
+—FD“I‚È“z‚É‰ï‚¦‚ÄŠð‚µ‚¢‚ºB ‚¨‘O‚Ì‚æ‚¤‚È‘¸Œh‚Å‚«‚é“z‚Í‚ ‚Ü‚èŒ©‚È‚¢‚©‚ç‚ÈB ‚È‚É‚©—p‚©‚¢
+‚â‚ A–¼‘O‚ÍƒZƒNƒXƒgƒ“B ƒWƒF[ƒ€ƒYEƒZƒNƒXƒgƒ“ã“™•º‚¾B ƒtƒH[ƒƒ“ƒz[ƒv‚Ö‚æ‚¤‚±‚»
+‚Ý‚ñ‚È‚Ç‚¤Žv‚¨‚¤‚ÆŸŽè‚¾‚¯‚ÇAƒJƒŠƒtƒHƒ‹ƒjƒA‚Åƒoƒ‰ƒ‚ƒ“‚ÌŒQ‚ê‚ð’Ç‚¢‰ñ‚·‚æ‚è‚Íƒ}ƒV‚¾‚Ë
+ƒEƒGƒXƒgƒTƒCƒh‚Ì”é–§‚ðŽç‚é‚Æ‚µ‚Äc Ž„‚É‰½‚Ì—˜‰v‚ª‚ ‚éH
+ƒ_ƒYƒ‹‚Á‚Ä‚Ì‚Í‘Š“––‚«‚Ì—‚Ý‚½‚¢‚Ë
+‹C‚ðˆø‚«’÷‚ß‚È‚¢‚Æ‚È
+‚»‚ÌƒŠƒKƒ^ƒX‚É‚Â‚¢‚Ä‹³‚¦‚Ä‚­‚ê
+‰äX‚ÍƒtƒH[ƒg‚Ö‚ÌUŒ‚Œv‰æ‚Ì‰Šú’iŠK‚É‚ ‚éB “¯–¿ŒR‚É‚à˜A—‚µA‰äX‚Ìw’n‚ÉŒü‚©‚Á‚Ä‚«‚Ä‚¢‚é‚Æ‚±‚ë‚¾
+ƒWƒ~[H ‚·‚Á‚©‚è‘å‚«‚­‚È‚Á‚½‚ËB ‚¨‚Î‚ ‚¿‚á‚ñ‚É‰ï‚¢‚É—ˆ‚Ä‚­‚ê‚Ä‚¤‚ê‚µ‚¢‚æ
+ƒWƒ~[‚Á‚Ä’NH
+ŽE‚·‚Ì‚ª“ï‚µ‚¢‚ÆØ–¾‚³‚ê‚ê‚ÎA‚»‚¤‚·‚éB ”C–±‚ð‹s‚·‚é‚½‚ß‚É‚Í‚Ç‚ñ‚ÈŽè’i‚ðŽg‚Á‚Ä‚à\‚í‚È‚¢B ŒRŠO‚Ìl‚É•‚¯‚ðŒî‚¨‚¤‚Æ‚à‚È
 •ï‘Ñƒ{ƒbƒNƒX
 ‚Í‚ñ‚¾‚²‚Ä
 ƒOƒŠƒ‹
@@ -1946,6 +1965,8 @@ Guns: ŽÀ’eŒn’e–ò(.22LR, .357ƒ}ƒOƒiƒ€, 5mm, 10mm, 5.56mm, .308, .45-70ƒKƒoƒƒ“ƒg“
 ƒRƒ“ƒpƒjƒIƒ“‚ª“Å‚Éœë‚Á‚½‚Æ‚«‚ÉƒAƒ“ƒ`ƒxƒmƒ€‚ÆƒXƒeƒBƒ€ƒpƒbƒN‚ð—^‚¦‚é‚±‚Æ‚ª‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚·
 ¨—ÍƒA[ƒ}[‚ð‘•”õ‚µ‚Ü‚µ‚½I ‚ ‚é¨—Í‚Ì“G‚É‚È‚Á‚½ê‡‚ÍA¨—ÍƒA[ƒ}[‚ð’…‚Ä•Ï‘•‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B •Ï‘•‚µ‚Ä‚¢‚éŠÔA‚»‚Ì¨—Í‚Ìƒƒ“ƒo[‚Í‚ ‚È‚½‚ð–¡•û‚Æ‚Ý‚È‚µ‚Ü‚·B\n
 ’ˆÓ: ¨—Í‚Ìƒƒ“ƒo[‚É‘å‚µ‚Ä”Æßsˆ×‚ðs‚Á‚½ê‡A•Ï‘•‚ÉŠÖŒW‚È‚­‚»‚Ì¨—Í‚Í”“úŠÔ‚ ‚È‚½‚É‘Î‚µ‚Ä“G‘Î“I‚É‚È‚è‚Ü‚·B ‚Ü‚½‚»‚Ì¨—Í‚©‚çUŒ‚‚ðŽó‚¯‚Ä‚¢‚é‚Æ‚«‚É•Ï‘•‚µ‚Ä‚à’N‚àéx‚¹‚Ü‚¹‚ñI
+Žm‹C‚ð‚‚ß‚é‚½‚ß‚Æ‚ ‚é‹£‘ˆ‚ð‚·‚é‚±‚Æ‚É‚µ‚½B ŽE‚µ‚½ƒŠ[ƒWƒ‡ƒ“•º‚ÌŽ¨‚ðŽ‚Á‚Ä‚«‚Ä‚­‚êB ‰´‚ÍH“°‚Å‹L˜^‚µ‚Ä‚¢‚éB Ž¨‚ÍˆêlŽEŠQ‚²‚Æ‚Éˆê‚Â‚¾‚¯‚¾I
+ƒ{ƒX‚ª‚¢‚È‚­‚È‚Á‚½¡AƒtƒB[ƒ“ƒh‚ª‰ó–Å‚·‚é“ú‚à‚»‚¤‰“‚­‚È‚¢‚¾‚ë‚¤
 In Shining Armor (DM)
 Junk Rounds (DM)
 Light Touch (DM)

@@ -17,11 +17,11 @@ Jury Rigging		Lv14 -> Lv26
 
 Grunt			Lv8  -> Lv14 Explosive20 -> 45
 And Stay Back		Lv10 -> Lv14
-Heavy Weight		Lv12 -> Lv20 +Survival70
-Burden To Bear		Lv30 -> Lv26 +Survival90
-Certified Tech		Lv40 -> Lv24 +INT8
-Ain't Like That Now	Lv50 -> Lv25 +CHA8
-Just Lucky I'm Alive	Lv50 -> Lv25 +CHA8
-Thought You Died	Lv50 -> Lv25 +CHA8
+Heavy Weight		Lv12 +Survival70
+Burden To Bear		Lv30 -> Lv20 +Survival70
+Certified Tech		Lv40 -> Lv12 +INT7
+Ain't Like That Now	Lv50 -> Lv13 +CHA7
+Just Lucky I'm Alive	Lv50 -> Lv13 +CHA7
+Thought You Died	Lv50 -> Lv13 +CHA7
 
-25perkはどれか一つのみ
+13perkはどれか一つのみ

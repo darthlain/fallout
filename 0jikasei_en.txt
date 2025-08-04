@@ -707,6 +707,7 @@ Marksman Carbine
 Gobi Campaign Scout Rifle
 Reservist's Rifle
 Sawed-Off Shotgun
+Shoulder Mounted Machine Gun
 Fat Man
 Fat Man (GRA)
 AER14 Prototype
@@ -722,6 +723,7 @@ Blade of the East
 Corrosive Glove
 Sterilizer Glove
 Frag Grenade
+Incendiary Grenade
 Jericho's Chinese Assault Rifle
 Star Paladin Cross' Laser Pistol
 Arcade's Ripper
@@ -760,6 +762,7 @@ Lad's Life
 Pile of Giant Mantis Eggs
 Vending Machine Code - "Microfusion Cells"
 Legion Raid Camp
+NCR Deserter Camp
 Griffin Wares Sacked Caravan
 Wrecked Highwayman
 Crescent Canyon West
@@ -778,6 +781,7 @@ Haggling Harry's Stop & Shop
 Primm Encampment
 Bitter Springs Command Outpost
 Nellis Tunnel South
+Nellis Tunnel North
 HELIOS One: Solar Collection Tower
 Red Rock Amphitheatre
 Red Rock Summit
@@ -827,7 +831,9 @@ Chairman Greeter
 Gomorrah Prostitute
 Boomer Explorer
 Boomer Expedition Leader
+B.O.S. Senior Paladin
 Brotherhood Procurement Specialist
+Happy Trails Merchant
 Junk Merchant
 Destitute Traveler
 Moneygrubber
@@ -838,6 +844,7 @@ Sentry Bot
 Super-Mutant
 Hired Hand
 Herding dog
+Tamed Nighstalker
 Raider Camp
 Mercenary Camp
 Mercenary Leader
@@ -1257,6 +1264,7 @@ I have my own reasons to stay away from Jacobstown for a while - reasons we won'
 I hope she hasn't gotten lonely.
 There's no escape from here until I let you go. The sooner you accept your situation, the better.
 That structure you see above the Fountain - the Sierra Madre Casino... you need to break inside. A... heist. Too many years in the making.
+So I need others to pull off this... heist. Who?
 A long story. FEV... a virus with an even longer story... it gave birth to the docile one, turned him into a Super Mutant long ago.
 In that case, I will bring him along, I don't need you.
 All right, let's get out of here.
@@ -1826,6 +1834,17 @@ Part of my plan involved automated security for the region.
 I see. Yes Man, please throw General Oliver from the Dam.
 I've seen worse things happen to better people.
 I'm hit!
+Nice to see a friendly face around here. We don't get many visitors of your esteem. Something I can do for you.
+Hey there. The name's Sexton. Private James Sexton. Welcome to Forlorn Hope.
+Don't know about you. but this beats herding Brahmin back in California.
+Say I keep Westside's secret - what's in it for me?
+This Dazzle must be some girl.
+Ugh. Need to tighten up my vises again.
+Tell me about the Legate.
+I am in the beginning stages of planning out an assault on The Fort. I've made calls to our allies, and they are on their way to our position.
+Jimmy? Little Jimmy - my, how you're grown up. So good of you to come visit your grandma.
+Who's Jimmy?
+If they've proven hard to kill, yes. Whatever it takes to get the job done, even if it means hiring help from outside the military.
 Box of Bandages
 Soldering Iron
 Grill
@@ -1946,6 +1965,8 @@ Guns determines your effectiveness with any weapon that uses coventional ammunit
 Allows you to apply antivenom and stimpaks to your companions when they are poisoned.
 You have equipped faction armor! If you have become the enemy of a faction, you can disguise youself by wearing one of their outfits. While disguised, members of that faction will consider you a friend.
 Watch out however: if you commit a crime against a faction member, that faction will still become hostile toward you for several days, regardless of your disguise. You also won't fool anyone if you put on your disguise while being attacked!
+I'm having a competition to boost morale. Bring me an ear from every Legion you kill and I'll keep track at the mess hall. Only one ear per kill!  
+Shouldn't be long before the Fiends are wiped out, now that their bosses are gone.
 In Shining Armor
 Junk Rounds
 Light Touch
