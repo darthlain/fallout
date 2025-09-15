@@ -63,24 +63,33 @@ Time Bomb, High Yield (Mad Bomber) (GRA)
 Bottlecap Mine, Efficient (GRA)
 .357 revolver long barrel
 .357 revolver HD cylinder
+.357 Revolver Heavy-Duty Cylinder
 .44 revolver scope
 .44 revolver heavy frame
 .45 AP HD slide
 .45 AP silencer
 .45 AP Improved Sights
 9mm pistol extended mags
+9mm Pistol Extended Magazines
 9mm pistol scope
 10mm pistol silencer
 10mm pistol extended mags
+10mm Pistol Extended Magazines
 10mm pistol laser sight
 12.7mm pistol silencer
 Hunting rev. 6-shot cylinder
+Hunting Revolver 6-Shot Cylinder
 Hunting rev. match barrel
+Hunting Revolver Match Barrel
 Hunting Revolver Scope
 Hunting Rev. Night Vision Scope
+Hunting Revolver Upgraded Scope
 Anti-mat. rifle CF parts
+Anti-Materiel Rifle Carbon Fiber Parts
 Anti-mat. rifle custom bolt
+Anti-Materiel Rifle Custom Bolt
 Anti-mat. rifle suppressor
+Anti-Materiel Rifle Suppressor
 Assault carbine extended magazines
 Assault carb. ext. mags
 Assault carb. forged receiver
@@ -89,17 +98,23 @@ Auto. Rifle Upgr. Internals
 [Mod] Automatic Rifle Upgraded Internals
 Brush gun forged receiver
 Cby. Rep. custom action
+Cowboy Repeater Custom Action
 Cby. Rep. long tube
+Cowboy Repeater Long Tube
 Cby. Rep. maple stock
 Hunting rifle extended mag
+Hunting Rifle Extended Magazines
 Hunting rifle scope
 Hunting rifle custom action
 Hunting Rifle Clean Bolt
 Light MG expanded drums
+Light Machine Gun Expanded Drums
 Svc. Rifle forged receiver
+Service Rifle Forged Receiver
 Svc. Rifle Upgraded Springs
 Svc. Rifle Upgraded Internals
 Svc. Rifle Reflex Sight
+Service Rifle Reflex Sight
 Sniper rifle suppressor
 Sniper rifle carbon fiber parts
 Trail carbine scope
@@ -112,7 +127,9 @@ Varmint rifle silencer
 9mm SMG drums
 9mm SMG light bolt
 10mm SMG extended mags
+10mm SMG Extended Magazines
 10mm SMG Recoil Comp.
+10mm SMG Recoil Compensator
 12.7mm submachine gun silencer
 12.7mm SMG laser sight
 12.7mm SMG stacked magazine
@@ -132,11 +149,17 @@ Laser pistol combat sights
 Laser pistol focus optics
 Laser pistol recycler
 Plasma Def. hi-cap terminal
+Plasma Defender High-Capacity Terminal
 Plasma Def. scope
+Plasma Defender Scope
 Plasma Def. sheath stabilizer
+Plasma Defender Sheath Stabilizer
 Plas. pistol hi-energy ionizer
+Plasma Pistol High-Energy Ionizer
 Plas. pistol mag. accelerator
+Plasma Pistol Magnetic Accelerator
 Plas. pistol recycler
+Plasma Pistol Recycler
 Holorifle focus optics
 [Mod] Holorifle focus optics
 Holorifle Adv. Calibration
@@ -150,32 +173,45 @@ Laser rifle focus optics
 Laser rifle beam splitter
 Laser rifle scope
 Plasma rifle Mag. accelerator
+Plasma Rifle Magnetic Accelerator
 Tri-beam LR focus optics
 Tri-beam LR HD caps
+Tri-beam Laser Rifle Heavy-Duty Capacitor
 Tri-beam LR hi-cap terminal
+Tri-beam Laser Rifle High-Capacity Terminal
 Flamer expanded tanks
 Gat. laser focus optics
+Gatling Laser Focus Optics
 Gat. Laser CF Frame
+Gatling Laser Carbon Fiber Frame
 Plasma caster HS electrode
+Plasma Caster High-Speed Electrode
 25mm G. APW Exp. Drum
+25mm Grenade APW Expanded Drums
 25mm G. APW long barrel
 25mm G. APW upgraded int.
+25mm Grenade APW Upgraded Internals
 Grenade rifle long barrel
 Fat Man Little Boy kit
 Grenade MG High-Speed Kit
+Grenade Machine Gun High-Speed Kit
 Miss. launcher guidance Sys.
+Missile Launcher Guidance System
 Red Glare alpha strike
 Red Glare auto launcher
 Red Glare far sighting
 Chainsaw alloy frame
 Chainsaw carbide teeth
 Chainsaw HD chain
+Chainsaw Heavy-Duty Chain
 Katana authentic blade
 Katana balanced grip
 Katana protective sheath
 Ripper carbide teeth
 Ripper HD chain
+Ripper Heavy-Duty Chain
 Ripper Alloy Frame
+Ripper Light Frame
 Baseball bat cork core
 Baseball bat maple body
 Baseball bat nails
@@ -184,6 +220,7 @@ War club honors
 Bear Trap Fist HD Springs
 Power fist chromed tubes
 Power Fist Hi-Cap Valves
+Power Fist High-Capacity Valves
 Power fist ported chambers
 .32 Pistol Long Barrel
 .32 Pistol Light Action
@@ -201,6 +238,7 @@ Double-Barreled Shotgun Maplewood Stock
 Double-Barreled Shotgun Turkey Chokes
 Multiplas Rifle Tri-Barrel
 Marksman Carbine: Exp. Mag.
+Silenced .22 SMG Expanded Drums
 .22LR
 .22LR Round
 22LR
@@ -708,11 +746,15 @@ Gobi Campaign Scout Rifle
 Reservist's Rifle
 Sawed-Off Shotgun
 Shoulder Mounted Machine Gun
+Great Bear Grenade Rifle
+Red Victory Grenade Rifle
 Fat Man
 Fat Man (GRA)
 AER14 Prototype
 Baseball bat
 Baseball bat (GRA)
+Hatchet
+Throwing Hatchet
 Axe
 Machete
 Machete Gladius
@@ -728,6 +770,7 @@ Jericho's Chinese Assault Rifle
 Star Paladin Cross' Laser Pistol
 Arcade's Ripper
 Arcade's Plasma Defender
+Veronica's Laser Pistol
 Courier Duster
 Ulysses' Duster
 Ulysses' Mask
@@ -749,6 +792,11 @@ Hazmat Darklight Cowl
 Hazmat Suit
 Breathing Mask
 Linden's Outcast Power Armor
+Road Rascal Leather Armor
+Lucky Battle Armor
+Merc Adventurer Outfit, Reinforced
+Merc Charmer Outfit, Reinforced
+Merc Troublemaker Outfit, Reinforced
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
@@ -758,7 +806,9 @@ MRE
 Dog Stew
 Wasteland Hot Dog
 Irr. Sunset Sars.
+Irradiated Banana Yucca
 Lad's Life
+Large Metal Pot
 Pile of Giant Mantis Eggs
 Vending Machine Code - "Microfusion Cells"
 Legion Raid Camp
@@ -837,6 +887,7 @@ Happy Trails Merchant
 Junk Merchant
 Destitute Traveler
 Moneygrubber
+Deranged Bright Follower
 House: Reloading Bench
 Human Fresh
 Human Flesh
@@ -995,6 +1046,8 @@ Not anymore?
 Is there something you need?
 You are now Well Rested!
 Report to Ranger Grant.
+Doctor Ada Straus
+Now there's a fine-looking woman. Just needs to ditch the robe.
 I'll submit to the credit check. <5000 caps required>
 I'll submit to the credit check. <5000 caps required.>
 I'll submit to the credit check. <5,000 caps required.>
@@ -1845,6 +1898,10 @@ I am in the beginning stages of planning out an assault on The Fort. I've made c
 Jimmy? Little Jimmy - my, how you're grown up. So good of you to come visit your grandma.
 Who's Jimmy?
 If they've proven hard to kill, yes. Whatever it takes to get the job done, even if it means hiring help from outside the military.
+What's been going on in the rest of the wasteland?
+You manage to get most of the robot's systems operational.
+Investigate the source of the Black Mountain Radio broadcast.
+Collect Deathclaw Eggs
 Box of Bandages
 Soldering Iron
 Grill

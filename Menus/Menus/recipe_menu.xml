@@ -1,0 +1,533 @@
+<!-- recipe_menu.xml -->
+<!-- 
+// ZENIMAX MEDIA PROPRIETARY INFORMATION
+//
+// This software is developed and/or supplied under the terms of a license
+// or non-disclosure agreement with ZeniMax Media Inc. and may not be copied
+// or disclosed except in accordance with the terms of that agreement.
+//
+//   Copyright (c) 1999 ZeniMax Media Incorporated.
+//   All Rights Reserved.
+//
+// ZeniMax Media Incorporated, Rockville, Maryland 20850
+// http://www.zenimax.com
+//
+// FILE			recipe_menu.xml
+// VERSION		2.0
+// AUTHOR:		Ricardo Gonzalez
+// DATE			12-19-2007
+-->
+<menu name="RecipeMenu">
+	<class> &RecipeMenu; </class>
+	<stackingtype> &no_click_past; </stackingtype>
+
+	<!-- User traits: Set in code-->
+	<_IsContainerListSelected> -1 </_IsContainerListSelected>		<!-- True when container list is selected -->
+	<_ArrowDirection></_ArrowDirection>									<!-- Determines which direction the caps flow arrow faces; set in code-->
+
+	<!-- XBox 360 control bindings -->
+	<xbuttonx> <ref src="RM_ButtonX" trait="clicked"/></xbuttonx>
+	<xbuttonb><ref src="RM_ButtonB" trait="clicked"/></xbuttonb>
+	
+	<_PCButton_R>	RM_ButtonX </_PCButton_R>
+	<_PCButton_X>	RM_ButtonB </_PCButton_X>
+	
+	<user0> 0 </user0>		<!-- 1 if on PS3 -->
+	
+	<rect name="NOGLOW_BRANCH">
+		<id> &noglow_branch; </id>
+		<systemcolor> &hudmain;<!--All menus now pipboy color--> </systemcolor>
+
+<!-- ===== MAIN POSITIONING RECT ===== -->
+		<rect name="RM_MainRect">
+			<width> 1024 </width>
+			<height> 800 </height>
+
+			<!-- Centered on screen-->
+			<x>
+				<copy src="screen()" trait="width"/>
+				<sub src="me()" trait="width"/>
+				<div> 2 </div>
+			</x>
+			<y>
+				<copy src="screen()" trait="height"/>
+				<sub src="me()" trait="height"/>
+				<div> 2 </div>
+			</y>
+		</rect>
+
+		<!-- ===== BACKGROUND TEXTURE ===== -->
+		<image name="RM_Background">
+			<width> 1144 </width>
+			<height> 970 </height>
+			<x>
+				<copy src="sibling(RM_MainRect)" trait="x"/>
+				<sub> 40 </sub>
+			</x>
+			<y>
+				<copy src="sibling(RM_MainRect)" trait="y"/>
+				<sub> 105 </sub>
+			</y>
+			<depth> 1 </depth>
+
+			<filename> Interface\Shared\Background\solid_black.dds </filename>
+			<zoom> &scale; </zoom>
+			<systemcolor> &nosystemcolor; </systemcolor>
+			<brightness> 128 </brightness>
+			<alpha> <copy src="globals()" trait="_background_fill_alpha"/> </alpha>
+		</image>
+
+<!-- ===== START ITEMS (LEFT) SIDE ===== -->
+		<rect name="RM_ItemsRect">
+			<depth> 2 </depth>
+			<locus> &true; </locus>
+
+			<width> 464 </width>
+			<height> 480 </height>
+			<x>
+				<copy src="RM_MainRect" trait="x"/>
+				<add> 20 </add>
+			</x>
+			<y>
+				<copy src="RM_MainRect" trait="y"/>
+				<add> 20 </add>
+			</y>
+
+<!--============================== HEADLINE ==============================-->
+			<image name="RM_Items_headline_v1">
+				<include src="vertical_fade_line.xml"/>
+				<height> 40 </height>
+			</image>
+
+			<image name="RM_Items_headline_h1">
+				<include src="line.xml"/>
+				<_length> 25 </_length>
+			</image>
+
+			<image name="RM_Items_LeftFilterArrow">
+				<id> 0 </id>
+				<filename> Interface\Main\main_arrow_left.dds </filename>
+				<x> 30 </x>
+				<y> -10 </y>
+				<width> 17.5 </width>
+				<height> 35 </height>
+				<zoom> &scale; </zoom>
+				<target> &true; </target>
+			</image>
+
+			<text name="RM_ItemsTitle">
+				<id> 1 </id>
+				<font> 6 </font>
+				<string> &-sRecipes; </string>
+				<x> 50 </x>
+				<y> -10 </y>
+				<target> &true; </target>
+				<wheelable> &true; </wheelable>
+			</text>
+			
+			<image name="RM_Items_RightFilterArrow">
+				<id> 2 </id>
+				<filename> Interface\Main\main_arrow_right.dds </filename>
+				<x>
+					<copy> 60 </copy>
+					<add src="sibling(RM_ItemsTitle)" trait="width"/>
+				</x>
+				<y> -10 </y>
+				<width> 17.5 </width>
+				<height> 35 </height>
+				<zoom> &scale; </zoom>
+				<target> &true; </target>
+			</image>
+
+			<image name="RM_Items_headline_h2">
+				<include src="line.xml"/>
+				<_length>
+					<copy> 464 </copy>
+					<sub src="me()" trait="x"/>
+					<max> 0 </max>
+				</_length>
+
+				<x>	
+					<copy src="sibling(RM_Items_RightFilterArrow)" trait="x"/>
+					<add> 20 </add>
+				</x>
+			</image>
+		
+			<image name="RM_Items_headline_v2">
+				<include src="vertical_fade_line.xml"/>
+				<height> 40 </height>
+				<x> 461 </x>
+			</image>
+
+<!--======================= PLAYER'S INVENTORY =======================-->
+			<hotrect name="RM_Items_InventoryList">
+				<include src="list_box.xml"/>
+				<id> 3 </id> 
+
+				<x> -15 </x>
+				<y> 60 </y>
+				<width> 462 </width>
+				<height> 365 </height>			
+			</hotrect>	
+			
+			<image name="RM_Items_footer_v1">
+				<include src="vertical_fade_line.xml"/>
+				<_bottom_to_top> &true; </_bottom_to_top>
+				<height> 40 </height>
+				<y> 440 </y>
+			</image>
+
+			<image name="RM_Items_footer_h1">
+				<include src="line.xml"/>
+				<_length> 25 </_length>
+				<y> 480 </y>
+			</image>
+			
+			<image name="RM_Items_TitleButton">
+				<filename>
+					<copy src="io()" trait="user0"/>
+					<add> 1 </add>
+					<copy src="me()" trait="_filename_"/>
+				</filename>
+				<texatlas> Interface\InterfaceShared.tai </texatlas>
+				<visible> &xbox; </visible>
+				
+				<width> 85 </width>
+				<height> 85 </height>
+
+				<x> 15 </x>
+				<y> 440 </y>
+				
+				<_filename_1> general_button_lt.dds </_filename_1>
+				<_filename_2> general_button_lb.dds </_filename_2>
+			</image>
+			
+			<image name="RM_Items_footer_h2">
+				<include src="line.xml"/>
+				<_length>
+					<copy src="parent()" trait="width"/>
+					<add src="RM_Items_footer_v2" trait="width"/>
+					<sub src="me()" trait="x"/>
+				</_length>
+				<x>
+					<copy> 25 </copy>
+					<add>
+						<copy> 70 </copy>
+						<onlyif> &xbox; </onlyif>
+					</add>
+				</x>
+				<y> 480 </y>
+			</image>
+			
+			<image name="RM_Items_footer_v2">
+				<include src="vertical_fade_line.xml"/>
+				<_bottom_to_top> &true; </_bottom_to_top>
+				<height> 40 </height>
+				<x> <copy src="parent()" trait="width"/> </x>
+				<y> 440 </y>
+			</image>
+		</rect>		<!-- end RM_ItemsRect -->
+		
+<!-- ============= BEGIN CONTAINER (RIGHT) SIDE ============ -->
+		<rect name="RM_ContainerRect">
+			<depth> 2 </depth>
+			<locus> &true; </locus>
+			
+			<width> 464 </width>
+			<height> 480 </height>
+			<x>
+				<copy src="RM_BottomBracket" trait="x"/>
+				<add> 560 </add>
+			</x>
+			<y> <copy src="sibling(RM_ItemsRect)" trait="y"/> </y>
+
+			<!-- ===== HEADLINE ===== -->
+			<!-- This is the right hand side for the recipe information -->
+			<image name="RM_Container_headline_v1">
+				<include src="vertical_fade_line.xml"/>
+				<height> 40 </height>
+			</image>
+
+			<image name="RM_Container_headline_h1">
+				<include src="line.xml"/>
+				<_length> 25 </_length>
+			</image>
+			
+			<text name="RM_ContainerTitle">
+				<id> 12 </id>
+				<font> 6 </font>
+				<string>&-sMadeAt;</string>
+				<x> 50 </x>
+				<y> -10 </y>
+			</text>
+
+			<text name="RM_MadeAtVariable">
+				<id> 4 </id>
+				<font> 3 </font>
+				<string></string> <!-- SET IN CODE -->
+				<x> 60 </x>
+				<y> 50 </y>
+			</text>
+
+			<text name="RM_SkillRequirementHeader">
+				<id> 13 </id>
+				<font> 6 </font>
+				<string>&-sSkillRequirement;</string>
+				<x> 50 </x>
+				<y> 100 </y>
+			</text>
+			
+			<text name="RM_SkillRequirement">
+				<id> 5 </id>
+				<font> 3 </font>
+				<string></string>
+				<!-- SET IN CODE -->
+				<x> 60 </x>
+				<y> 160 </y>
+			</text>
+
+			<text name="RM_Items_IngredientList">
+				<id> 11 </id>
+				<font> 6 </font>
+				
+				<string>&-sIngredients;</string>
+				<!-- SET IN CODE -->
+				<x> 50 </x>
+				<y> 210 </y>
+			</text>
+			
+			<hotrect name="RM_Items_IngredientList">
+				<include src="list_box.xml"/>
+				<font> 3 </font>
+				<id> 6 </id>
+				<x> 40 </x>
+				<y> 270 </y>
+				<width> 442 </width>
+				<height> 225</height>
+			</hotrect>
+			
+			<image name="RM_Container_footer_v1">
+				<include src="vertical_fade_line.xml"/>
+				<_bottom_to_top> &true; </_bottom_to_top>
+				<height> 40 </height>
+				<y> 480 </y>
+			</image>
+
+			<image name="RM_Container_footer_h1">
+				<include src="line.xml"/>
+				<_length>
+					<copy src="parent()" trait="width"/>
+					<sub> 25 </sub>
+					<sub>
+						<copy> 70 </copy>
+						<onlyif> &xbox; </onlyif>
+					</sub>
+				</_length>
+				<y> 515 </y>
+			</image>
+			
+			<image name="RM_Container_TitleButton">
+				<filename>
+					<copy src="io()" trait="user0"/>
+					<add> 1 </add>
+					<copy src="me()" trait="_filename_"/>
+				</filename>
+				<texatlas> Interface\InterfaceShared.tai </texatlas>
+				<visible> &xbox; </visible>
+				
+				<width> 85 </width>
+				<height> 85 </height>
+
+				<x>
+					<copy src="parent()" trait="width"/>
+					<sub> 100 </sub>
+				</x>
+				<y> 480 </y>
+				
+				<_filename_1> general_button_rt.dds </_filename_1>
+				<_filename_2> general_button_rb.dds </_filename_2>
+			</image>
+			
+			<image name="RM_Container_footer_h2">
+				<include src="line.xml"/>
+				<_length>
+					<copy> 25 </copy>
+					<add src="RM_Container_footer_v2" trait="width"/>
+				</_length>
+				<x>
+					<copy src="parent()" trait="width"/>
+					<sub> 25 </sub>
+				</x>
+				<y> 520 </y>
+			</image>
+			
+			<image name="RM_Container_footer_v2">
+				<include src="vertical_fade_line.xml"/>
+				<_bottom_to_top> &true; </_bottom_to_top>
+				<height> 40 </height>
+				<x> <copy src="parent()" trait="width"/> </x>
+				<y> 480 </y>
+			</image>
+		</rect>		<!-- end RM_ContainerRect -->
+
+
+<!-- ===== BUTTON RECT ===== -->
+		<rect name="RM_ButtonRect">
+			<x>
+				<copy src="RM_ContainerRect" trait="x"/>
+				<add src="RM_ContainerRect" trait="width"/>
+				<sub> 10 </sub>
+			</x>
+			<y> 670 </y>
+			<locus> &true; </locus>
+			<depth> 6 </depth>
+			
+<!-- ===== X BUTTON =====-->
+			<image name="RM_ButtonX">
+				<id> 7 </id>
+				<include src="text_box.xml"/>
+				
+				<!-- Dims if button is not targetable-->
+				<_line_alpha> 
+					<copy> 128 </copy>
+					<add>
+						<copy> 127 </copy>
+						<onlyif src="me()" trait="target"/>
+					</add>
+				</_line_alpha>
+				
+				<_verbuf> 15 </_verbuf>
+				<justify> &right; </justify>
+				<target> &false; </target>
+				<_xbox_button> &xbuttonx; </_xbox_button>
+				<_PCButtonText> &-sPCMenuHintR; </_PCButtonText>
+				<string> &-sAccept; </string>
+			</image>
+
+<!-- ===== B BUTTON =====-->
+			<image name="RM_ButtonB">
+				<id> 8 </id>
+				<include src="text_box.xml"/>
+
+				<_y>
+					<copy src="sibling(RM_ButtonX)" trait="_y"/>
+					<add>
+						<copy src="me()" trait="height"/>
+						<onlyif src="sibling(RM_ButtonX)" trait="visible"/>
+					</add>
+				</_y>
+
+				<_verbuf> 15 </_verbuf>
+				<justify> &right; </justify>
+				<string> &-sExit; </string>
+				
+				<_xbox_button> &xbuttonb; </_xbox_button>
+				<_PCButtonText> &-sPCMenuHintX; </_PCButtonText>
+			</image>
+		</rect>
+<!-- ===== END RM_BUTTONRECT ===== -->
+
+<!-- ===== ITEM ICON ===== -->
+		<image name="RM_ItemIcon">
+			<id> 9 </id>
+			<depth> 2 </depth>
+
+			<x> <copy src="sibling(RM_ItemsRect)" trait="x"/><add> 22 </add></x>
+			<y>
+				<copy src="sibling(RM_ItemsRect)" trait="y"/>
+				<add> 472 </add>
+			</y>
+			<width> 256 </width>
+			<height> 256 </height>
+			<zoom> &scale; </zoom>
+			<visible> &false; </visible>
+		</image>
+
+<!--- ================================= ITEM DATA ================================== --->
+		<rect name="RM_ItemData">
+			<include src="item_stats_display.xml"/>
+			<id> 10 </id>
+			<x>
+				<copy src="RM_MainRect" trait="x"/>
+				<add> 287 </add>
+			</x>
+			<y>
+				<copy src="RM_ContainerRect" trait="y"/>
+				<add> 565 </add>
+			</y>			
+		</rect>
+
+<!-- ===== BOTTOM BRACKET ===== -->
+		<rect name="RM_BottomBracket">
+			<include src="bottom_bracket.xml"/>
+			
+			<width> 1024 </width>
+			<height> 40 </height>
+			<x> <copy src="RM_ItemsRect" trait="x"/> </x>
+			<y> 820 </y>
+			
+			<depth> 2 </depth>
+		</rect>
+	</rect>	<!-- end NOGLOW_BRANCH -->
+	
+<!--======================== LIST BOX TEMPLATE =========================-->
+	<template name="RM_list_template">
+		<hotrect name="RM_list_template_container">
+			<include src="list_box_template.xml"/>
+			<id> 15 </id>		<!-- 40503: Setting ID directly so that it's set at creation time and not later; an empty ID trait can cause certain event handlers to get skipped -->
+			
+			<_Value></_Value>												<!-- The value of the item in caps -->
+			<_NumRecipeed></_NumRecipeed>							<!-- # items in this stack that are up for barter -->
+			<_IsEquipped> &false; </_IsEquipped>						<!-- True if this item is equipped -->
+			<_IsRecipeSelected> &false; </_IsRecipeSelected>		<!-- True if this item has been selected for transaction -->
+			
+			<text name="ListItemText">
+				<font> 2 </font>
+				<string> <copy src="parent()" trait="string"/> </string>
+				<wrapwidth> 320 </wrapwidth>
+				
+				<x> 40 </x>
+				<y> 20 </y>
+			</text>
+
+			<!-- Item sorting value -->
+			<text name="RM_list_template_ItemValue">
+				<font> 2 </font>
+				<justify> &right; </justify>
+				<string> <copy src="parent()" trait="_Value"/> </string>
+
+				<x> 403 </x>
+				<y> 20 </y>
+			</text>
+
+			<!-- Small square denotes an equipped item -->
+			<image name="RM_list_template_ItemMarker">
+				<filename>
+					<copy> 0 </copy>
+					<add>
+						<copy> 1 </copy>
+						<onlyif src="parent()" trait="_IsEquipped"/>
+					</add>
+					<add>
+						<copy> 2 </copy>
+						<onlyif src="parent()" trait="_IsRecipeSelected"/>
+					</add>
+					<copy src="me()" trait="_Filename_"/>
+				</filename>
+				<texatlas> Interface\InterfaceShared.tai </texatlas>
+				<width> 25 </width>
+				<height> 25 </height>
+				
+				<x> 15 </x>
+				<y> 15 </y>
+				<visible>
+					<copy src="parent()" trait="_IsEquipped"/>
+					<or src="parent()" trait="_IsRecipeSelected"/>
+				</visible>
+				
+				<_Filename_1> square_filled.dds </_Filename_1>
+				<_Filename_2> square.dds </_Filename_2>
+			</image>			
+		</hotrect>
+	</template>
+</menu>
