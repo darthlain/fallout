@@ -67,8 +67,11 @@ Bottlecap Mine, Efficient (GRA)
 .44 revolver scope
 .44 revolver heavy frame
 .45 AP HD slide
+.45 Auto Pistol HD Slide
 .45 AP silencer
+.45 Auto Pistol Silencer
 .45 AP Improved Sights
+.45 Auto Pistol Improved Sights
 9mm pistol extended mags
 9mm Pistol Extended Magazines
 9mm pistol scope
@@ -93,7 +96,9 @@ Anti-Materiel Rifle Suppressor
 Assault carbine extended magazines
 Assault carb. ext. mags
 Assault carb. forged receiver
+Assault Carbine Forged Receiver
 Assault carb. light bolt
+Assault Carbine Light Bolt
 Auto. Rifle Upgr. Internals
 [Mod] Automatic Rifle Upgraded Internals
 Brush gun forged receiver
@@ -102,6 +107,7 @@ Cowboy Repeater Custom Action
 Cby. Rep. long tube
 Cowboy Repeater Long Tube
 Cby. Rep. maple stock
+Cowboy Repeater Maple Stock
 Hunting rifle extended mag
 Hunting Rifle Extended Magazines
 Hunting rifle scope
@@ -112,6 +118,7 @@ Light Machine Gun Expanded Drums
 Svc. Rifle forged receiver
 Service Rifle Forged Receiver
 Svc. Rifle Upgraded Springs
+Service Rifle Upgraded Springs
 Svc. Rifle Upgraded Internals
 Svc. Rifle Reflex Sight
 Service Rifle Reflex Sight
@@ -120,10 +127,13 @@ Sniper rifle carbon fiber parts
 Trail carbine scope
 Trail Carbine Laminate Stock
 Varmint rifle extended mags
+Varmint Rifle Extended Magazines
 Varmint rifle night scope
 Varmint rifle silencer
 .45 Auto SMG Comp.
+.45 Auto SMG Compensator
 .45 Auto SMG drums
+.45 Auto SMG Drum Magazine
 9mm SMG drums
 9mm SMG light bolt
 10mm SMG extended mags
@@ -175,6 +185,7 @@ Laser rifle scope
 Plasma rifle Mag. accelerator
 Plasma Rifle Magnetic Accelerator
 Tri-beam LR focus optics
+Tri-beam Laser Rifle Focus Optics
 Tri-beam LR HD caps
 Tri-beam Laser Rifle Heavy-Duty Capacitor
 Tri-beam LR hi-cap terminal
@@ -189,6 +200,7 @@ Plasma Caster High-Speed Electrode
 25mm G. APW Exp. Drum
 25mm Grenade APW Expanded Drums
 25mm G. APW long barrel
+25mm Grenade APW Long Barrel
 25mm G. APW upgraded int.
 25mm Grenade APW Upgraded Internals
 Grenade rifle long barrel
@@ -238,6 +250,7 @@ Double-Barreled Shotgun Maplewood Stock
 Double-Barreled Shotgun Turkey Chokes
 Multiplas Rifle Tri-Barrel
 Marksman Carbine: Exp. Mag.
+Marksman Carbine Extended Magazines
 Silenced .22 SMG Expanded Drums
 .22LR
 .22LR Round
@@ -674,27 +687,27 @@ Mini Nuke, Tim.
 Energy Cell
 Energy Cell[%]
 Energy Cell, Over Charge
-E Cell OC[%]
+E Cell OC
 Energy Cell, Max Charge
-E Cell MC[%]
+E Cell MC
 Energy Cell, Bulk
-E Cell B[%]
+E Cell B
 Energy Cell, Optimized
 Energy Cell, Optimized (GRA)
 Energy Cell, Optimized (Vigilant Recycler)
-E Cell, Opt.[%]
+E Cell, Opt.
 Microfusion Cell
-Microfusion Cell [%]
-MF Cell[%]
+Microfusion Cell
+MF Cell
 Microfusion Cell, Over Charge
-MF Cell OC[%]
+MF Cell OC
 Microfusion Cell, Max Charge
-MF Cell MC[%]
+MF Cell MC
 Microfusion Cell, Bulk
-MF Cell B[%]
+MF Cell B
 Microfusion Cell, Optimized
 Microfusion Cell, Optimized (Vigilant Recycler)
-MF Cell, Opt.[%]
+MF Cell, Opt.
 Flamer Fuel
 Flamer Fuel [%]
 Flamer Fuel, Homemade
@@ -706,15 +719,15 @@ Flamer Fuel, Optimized (Vigilant Recycler)
 Fuel, Opt.
 Electron Charge Pack
 Electron Charge Pack [%]
-EC Pack[%]
+EC Pack
 Electron Charge Pack, Over Charge
-EC Pack OC[%]
+EC Pack OC
 Electron Charge Pack, Max Charge
-EC Pack MC[%]
+EC Pack MC
 Electron Charge Pack, Bulk
 Electron Charge Pack, Optimized
 Electron Charge Pack, Optimized (Vigilant Recycler)
-EC Pack, Opt.[%]
+EC Pack, Opt.
 BB
 BB [%]
 Nalis
@@ -751,6 +764,8 @@ Red Victory Grenade Rifle
 Fat Man
 Fat Man (GRA)
 AER14 Prototype
+Tesla-Beaton Proptotype
+Pew Pew
 Baseball bat
 Baseball bat (GRA)
 Hatchet
@@ -762,6 +777,7 @@ Throwing Tomahawk
 Cosmic Knife Clean
 Cosmic Knife (Clean)
 Blade of the East
+Ballistic Fist
 Corrosive Glove
 Sterilizer Glove
 Frag Grenade
@@ -771,9 +787,12 @@ Star Paladin Cross' Laser Pistol
 Arcade's Ripper
 Arcade's Plasma Defender
 Veronica's Laser Pistol
+Joshua's Pistol Whippin' .45
 Courier Duster
 Ulysses' Duster
 Ulysses' Mask
+Desert Ranger Combat Armor
+Desert Ranger Combat Helmet
 Black Combat Armor
 Regulator Combat Armor, Reinforced
 Commando Armor, Reinforced
@@ -797,6 +816,7 @@ Lucky Battle Armor
 Merc Adventurer Outfit, Reinforced
 Merc Charmer Outfit, Reinforced
 Merc Troublemaker Outfit, Reinforced
+Security Helmet
 Stimpak, Expired
 Stimpak, Super
 Auto-Inject Stimpak, Super
@@ -832,6 +852,7 @@ Primm Encampment
 Bitter Springs Command Outpost
 Nellis Tunnel South
 Nellis Tunnel North
+Nellis Farm
 HELIOS One: Solar Collection Tower
 Red Rock Amphitheatre
 Red Rock Summit
@@ -927,6 +948,7 @@ Oasis
 Arlington Metro
 Squatter's Encampment
 Highway 95 Viper's Encampment
+Guardian Peak
 Vipers' Lair
 Abandoned Mine
 Abandoned Brotherhood Safehouse
@@ -1047,7 +1069,6 @@ Is there something you need?
 You are now Well Rested!
 Report to Ranger Grant.
 Doctor Ada Straus
-Now there's a fine-looking woman. Just needs to ditch the robe.
 I'll submit to the credit check. <5000 caps required>
 I'll submit to the credit check. <5000 caps required.>
 I'll submit to the credit check. <5,000 caps required.>
@@ -1902,6 +1923,123 @@ What's been going on in the rest of the wasteland?
 You manage to get most of the robot's systems operational.
 Investigate the source of the Black Mountain Radio broadcast.
 Collect Deathclaw Eggs
+Collect Fire Gecko Eggs
+Collect Cazador Eggs
+Collect Giant Rad Scorpion Eggs
+Collect Nightstalker Eggs
+Now there's a fine-looking woman. Just needs to ditch the robe.
+Okay, folks. I called you out here because I've grown to trust you. Primm, the town to the south, is looking for some new law.
+I know that you guys don't have experience with law enforcement at least not on the enforcement side.
+However I also know that you are honorable and looking for some redemption. This is our chance for redemption.
+Now let's head down there and bring them some law!
+Get him!
+Get her!
+Wouldn't mind having one of those little flying robots myself.
+I'd kill you right now if I could.
+Share a whiskey with me sometime?
+Paladin.
+Are you some kind of Artificial Intelligence?
+Mister Gutsy Mk III
+Robo-Scorpion Mk III
+Robo-Scorpion Mk IIIb
+Robo-Scorpion Pincer Mk III
+Robo-Scorpion Blaster Mk III
+Robo-Scorpion Bomber Mk III
+Robobrain Mk III
+Sentry Bot Mk III
+Protectron Mk I
+Protectron Mk III
+Mister Orderly Mk III
+Berserk Securitron Mk III
+Damaged Securitron Mk III
+Sunset Sarsaparilla Deputy Badge
+(Optional) Optimize the Mark II prototype.
+[Speech] I think you're confused. I'm with the excrement right now.
+[?] You must have some reason to be in your line of work. Tell me, what did the Legion do to you?
+Did we enslave your children? Slaughter your family before your eyes to teach you a lesson?
+I'm a member of the Brotherhood of Steel.
+Should've bet we'd kill the Fiend's leader.
+What if... what if his revelation were a lie? What if no one had eaten human flesh but him?
+Philippe has been trying to approximate the taste of human flesh for years. He must have a recipe somewhere.
+Good work with those newcomers. I think you can handle more serious business... with more serious rewards.
+I've taken care of those troublemakes.
+So, you've got work for me?
+What can you tell me about North Vegas?
+<Lie> I just thought Any should know about Mrs. Hostetler waiting outside for him, shotgun in hand.
+You're manipulating her into betraying her family.
+<Attack> Time to put you down!
+Now there really is no turning back.
+I don't care about any of this.
+Grab the money and run far away.
+I think the Followers should support an Independent Vegas through the coming battle at the dam.
+Sure, let me take a look at those magazines.
+(Optional) Convince the Followers of the Apocalypse to support an Independent Vegas.
+Part of my plan involves automated security for the region.
+Regular stims.
+Super stims.
+Radiation supplies.
+Eventually - but moving your whole army West means losing the East. You can't hold both.
+Hold that thought, General. I wanted to introduce you to some friends.
+Think that's great? you won't believe what happens next.
+Have you seen an entire army of upgraded Securitrons, General?
+<Bluff> Because you're talking and not attacking?
+Can't do a worse job than the Republic, that's for sure.
+I guarantee I've put more thought into the state of the Mojave than you or anyone in NCR.
+So if NCR comes at you, and it will, pray you're ready. I promise you, our situations reversed, I'd see you hang.
+Now that don't make a lick of sense. Seems to me you're the luckiest son-of-a-gun in New Vegas.
+We Frumentarii are soldiers of a different stripe, capable in battle, but skilled as infiltrators and agents as well.
+Now go, and teach what you've learned here. There will be more lessons in the days ahead.
+Tell everyone you meet of what you saw here. The Legion can handle the rest.
+That said, if you were to strike at the Profligates, butcher them, trouble their operations... this will not go unnoticed.
+Legatus Lanius, Monster of the East! Quite a man, if man he be.
+His latest campaign in the wilds of Utah has concluded, and he is en route. When he arrives, your doom arrives with him.
+Well, thanks for taking a chance on a naive young girl from California with stars in her eyes and a pneumatic gauntlet on her hand.
+When pay day hits, I'm off to the Strip. Can't wait.
+That's okay. I don't really need the company.
+Catty Clara
+Seems you need to work on your marksmanship.
+what'd you have in mind?
+The suite's a nice touch, but someone's got to pay off my contract.
+He set me up for an ambush!
+Dr. &PCName; diagnoses a terminally low discussion of caps in this conversation.
+Benny is my prisoner. You don't "deal with him" unless you've dealt with me.
+Ah, yes - we are forbidden from speaking his true name. He was a shaman of some kind before he met Caesar, a holy man from out of the Utah.
+I heard some Squatters talking about some fancy pants Rangers coming into the area soon. Like we need more NCR here.
+Well at Hoover Dam, the Malpais Legate finally met his match. Hanlon and Oliver kicked his New Canaanite butt right back over the river.
+Second, if you harm Daniel or any of the Sorrows or Dead Horses, I will find you. Make no mistake. God willing, you will not leave this valley.
+In this camp, you'll find Dead Horses. In the Narrows, the Sorrows. And finally there's Daniel and myself. We're New Canaanites.
+White Legs are known for their big submachine guns, "storm drums." They broke into an armory near Spanish Fork and have been using them for years.
+As much as I wish people wouldn't touch alcohol or chems at all, I understand. Would you like me to help?
+I don't think so.
+Why would I do that, baby? I want to talk to you as much as you want to talk to me.
+Ave. Are you ready to head upriver.
+They hold themselves to be civilized, when in fact they are corrupt and self-interested. The truth will be make clear to them soon enough.
+Ave.
+True to Caesar.
+Ave, true to Caesar.
+I like the servile attitude. Keep it up.
+Close your eyes, if you want.
+I've been known to hunt a few bounties, myself.
+Why does Dhatri owe you caps?
+The town is going to be attacked by bandits. Anything you can do to help?
+It's much cooler up here. I love it.
+What is it, Outsider?
+<Sighs> He means well.
+Decreases gunshot noise.
+Increases rate of fire [%].
+Decreases weight [%].
+Decreases weight [%].[%].
+Increases scope zoom [%].
+Adds short-range reflex sight.
+Decreases spread [%].
+Increases ammo capacity [%].
+Increases zoom level [%], adds glowing iron sights.
+Decreases spread [%], adds laser sight effect.
+Increased projectile count [%], increased damage [%].
+Increases attack speed [%].
+Reduces spread [%].
+Increases projectile speed [%].
+(Gun Runners' Arsenal)[%]
 Box of Bandages
 Soldering Iron
 Grill
@@ -2024,6 +2162,8 @@ You have equipped faction armor! If you have become the enemy of a faction, you 
 Watch out however: if you commit a crime against a faction member, that faction will still become hostile toward you for several days, regardless of your disguise. You also won't fool anyone if you put on your disguise while being attacked!
 I'm having a competition to boost morale. Bring me an ear from every Legion you kill and I'll keep track at the mess hall. Only one ear per kill!  
 Shouldn't be long before the Fiends are wiped out, now that their bosses are gone.
+Hey, as long as you aren't fighting for Caesar, I don't care what you do.
+As the creature clumps lifeless to the ground, you swear you hear a distant wail of animalistic anguish, as if in her wrath mother nature herself had send forth a being forged in the unspeakable energies released by man's arrogant abuse of nuclear power - and put it on your trail.
 In Shining Armor
 Junk Rounds
 Light Touch
@@ -2070,6 +2210,7 @@ Your Sleep Deprivation level has increased.
 Your Sleep Deprivation level has decreased.
 You no longer have Sleep Deprivation sickness.
 Dead Wastelander
+Dead Prospector
 Dead Mercenary
 Dead Wasteland Merchant
 Dead Raider

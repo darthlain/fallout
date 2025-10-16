@@ -67,7 +67,10 @@ HDƒVƒŠƒ“ƒ_[(.357ƒŠƒ{ƒ‹ƒo[)
 ƒXƒR[ƒv(.44ƒŠƒ{ƒ‹ƒo[)
 ƒwƒr[ƒtƒŒ[ƒ€(.44ƒŠƒ{ƒ‹ƒo[)
 HDƒXƒ‰ƒCƒh(.45AP)
+HDƒXƒ‰ƒCƒh(.45AP)
 ƒTƒCƒŒƒ“ƒT[(.45AP)
+ƒTƒCƒŒƒ“ƒT[(.45AP)
+‰ü—ÇƒTƒCƒg(.45AP)
 ‰ü—ÇƒTƒCƒg(.45AP)
 Šg’£ƒ}ƒKƒWƒ“(9mmƒsƒXƒgƒ‹)
 Šg’£ƒ}ƒKƒWƒ“(9mmƒsƒXƒgƒ‹)
@@ -93,6 +96,8 @@ CFƒp[ƒc(ƒAƒ“ƒ`ƒ}ƒeƒŠƒAƒ‹R)
 Šg’£ƒ}ƒKƒWƒ“(ƒAƒTƒ‹ƒgƒJ[ƒrƒ“)
 Šg’£ƒ}ƒKƒWƒ“(ƒAƒTƒ‹ƒgƒJ[ƒrƒ“)
 ’b‘¢ƒŒƒV[ƒo[(ƒAƒTƒ‹ƒgƒJ[ƒrƒ“)
+’b‘¢ƒŒƒV[ƒo[(ƒAƒTƒ‹ƒgƒJ[ƒrƒ“)
+Œy—Êƒ{ƒ‹ƒg(ƒAƒTƒ‹ƒgƒJ[ƒrƒ“)
 Œy—Êƒ{ƒ‹ƒg(ƒAƒTƒ‹ƒgƒJ[ƒrƒ“)
 ‰ü—Çƒp[ƒc(ƒI[ƒgƒ}ƒ`ƒbƒNƒ‰ƒCƒtƒ‹)
 ‰ü—Çƒp[ƒc(ƒI[ƒgƒ}ƒ`ƒbƒNƒ‰ƒCƒtƒ‹)
@@ -101,6 +106,7 @@ CFƒp[ƒc(ƒAƒ“ƒ`ƒ}ƒeƒŠƒAƒ‹R)
 Œy—ÊƒŒƒo[(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
 Lƒ`ƒ…[ƒu(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
 Lƒ`ƒ…[ƒu(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
+Œy—ÊƒXƒgƒbƒN(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
 Œy—ÊƒXƒgƒbƒN(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
 Šg’£ƒ}ƒKƒWƒ“(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
 Šg’£ƒ}ƒKƒWƒ“(ƒnƒ“ƒeƒBƒ“ƒOƒ‰ƒCƒtƒ‹)
@@ -112,6 +118,7 @@ Lƒ`ƒ…[ƒu(ƒJƒEƒ{[ƒCƒŠƒs[ƒ^[)
 ’b‘¢ƒŒƒV[ƒo[(ƒT[ƒrƒXƒ‰ƒCƒtƒ‹)
 ’b‘¢ƒŒƒV[ƒo[(ƒT[ƒrƒXƒ‰ƒCƒtƒ‹)
 ‹­‰»ƒXƒvƒŠƒ“ƒO(ƒT[ƒrƒXƒ‰ƒCƒtƒ‹)
+‹­‰»ƒXƒvƒŠƒ“ƒO(ƒT[ƒrƒXƒ‰ƒCƒtƒ‹)
 ‰ü—Çƒp[ƒc(ƒT[ƒrƒXƒ‰ƒCƒtƒ‹)
 ƒŠƒtƒŒƒbƒNƒXƒTƒCƒg(ƒT[ƒrƒXƒ‰ƒCƒtƒ‹)
 ƒŠƒtƒŒƒbƒNƒXƒTƒCƒg(ƒT[ƒrƒXƒ‰ƒCƒtƒ‹)
@@ -120,9 +127,12 @@ CFƒp[ƒc(ƒXƒiƒCƒp[ƒ‰ƒCƒtƒ‹)
 ƒXƒR[ƒv(ƒgƒŒƒCƒ‹ƒJ[ƒrƒ“)
 ƒ‰ƒ~ƒl[ƒgƒXƒgƒbƒN(ƒgƒŒƒCƒ‹ƒJ[ƒrƒ“)
 Šg’£ƒ}ƒKƒWƒ“(ƒ”ƒ@[ƒ~ƒ“ƒgƒ‰ƒCƒtƒ‹)
+Šg’£ƒ}ƒKƒWƒ“(ƒ”ƒ@[ƒ~ƒ“ƒgƒ‰ƒCƒtƒ‹)
 ˆÃŽ‹ƒXƒR[ƒv(ƒ”ƒ@[ƒ~ƒ“ƒgƒ‰ƒCƒtƒ‹)
 ƒTƒCƒŒƒ“ƒT[(ƒ”ƒ@[ƒ~ƒ“ƒgƒ‰ƒCƒtƒ‹)
 ƒRƒ“ƒyƒ“ƒZƒCƒ^[(.45ƒI[ƒgSMG)
+ƒRƒ“ƒyƒ“ƒZƒCƒ^[(.45ƒI[ƒgSMG)
+ƒhƒ‰ƒ€ƒ}ƒKƒWƒ“(.45ƒI[ƒgSMG)
 ƒhƒ‰ƒ€ƒ}ƒKƒWƒ“(.45ƒI[ƒgSMG)
 ƒhƒ‰ƒ€ƒ}ƒKƒWƒ“(9mmSMG)
 Œy—Êƒ{ƒ‹ƒg(9mmSMG)
@@ -175,6 +185,7 @@ Lƒ`ƒ…[ƒu(ƒnƒ“ƒeƒBƒ“ƒOƒVƒ‡ƒbƒgƒKƒ“)
 ƒ}ƒOƒlƒeƒBƒbƒNƒAƒNƒZƒ‰ƒŒ[ƒ^[(ƒvƒ‰ƒYƒ}ƒ‰ƒCƒtƒ‹)
 ƒ}ƒOƒlƒeƒBƒbƒNƒAƒNƒZƒ‰ƒŒ[ƒ^[(ƒvƒ‰ƒYƒ}ƒ‰ƒCƒtƒ‹)
 Å“_W‘©Ší(ƒgƒ‰ƒCƒr[ƒ€LR)
+Å“_W‘©Ší(ƒgƒ‰ƒCƒr[ƒ€LR)
 HDƒLƒƒƒbƒv(ƒgƒ‰ƒCƒr[ƒ€LR)
 HDƒLƒƒƒbƒv(ƒgƒ‰ƒCƒr[ƒ€LR)
 ‘å—e—Êƒ^[ƒ~ƒiƒ‹(ƒgƒ‰ƒCƒr[ƒ€LR)
@@ -188,6 +199,7 @@ CFƒtƒŒ[ƒ€(ƒKƒgƒŠƒ“ƒOƒŒ[ƒU[)
 ‚‘¬“d‹C‰ñ˜H(ƒvƒ‰ƒYƒ}ƒLƒƒƒXƒ^[)
 Šg’£ƒhƒ‰ƒ€(25mmG.APW)
 Šg’£ƒhƒ‰ƒ€(25mmG.APW)
+ƒƒ“ƒOƒoƒŒƒ‹(25mmG.APW)
 ƒƒ“ƒOƒoƒŒƒ‹(25mmG.APW)
 ‰ü—Çƒp[ƒc(25mmG.APW)
 ‰ü—Çƒp[ƒc(25mmG.APW)
@@ -237,6 +249,7 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 ƒƒCƒvƒ‹ƒEƒbƒhƒXƒgƒbƒN(ƒ_ƒuƒ‹ƒoƒŒƒ‹ƒVƒ‡ƒbƒgƒKƒ“)
 ƒ^[ƒL[ƒ`ƒ‡[ƒN(ƒ_ƒuƒ‹ƒoƒŒƒ‹ƒVƒ‡ƒbƒgƒKƒ“)
 ƒgƒ‰ƒCƒoƒŒƒ‹(ƒ}ƒ‹ƒ`ƒvƒ‰ƒXƒ‰ƒCƒtƒ‹)
+Šg’£ƒ}ƒKƒWƒ“(ƒ}[ƒNƒXƒ}ƒ“ƒJ[ƒrƒ“)
 Šg’£ƒ}ƒKƒWƒ“(ƒ}[ƒNƒXƒ}ƒ“ƒJ[ƒrƒ“)
 Šg’£ƒhƒ‰ƒ€(Á‰¹.22SMG)
 .22LR
@@ -674,27 +687,27 @@ HDƒ`ƒF[ƒ“(ƒŠƒbƒp[)
 ƒGƒiƒW[EƒZƒ‹
 ƒGƒiƒW[EƒZƒ‹[%]
 ƒGƒiƒW[EƒZƒ‹ ƒI[ƒo[ƒ`ƒƒ[ƒW
-ƒGƒiƒW[EƒZƒ‹ ƒI[ƒo[ƒ`ƒƒ[ƒW[%]
+ƒGƒiƒW[EƒZƒ‹ ƒI[ƒo[ƒ`ƒƒ[ƒW
 ƒGƒiƒW[EƒZƒ‹ MAXƒ`ƒƒ[ƒW
-ƒGƒiƒW[EƒZƒ‹ MAXƒ`ƒƒ[ƒW[%]
+ƒGƒiƒW[EƒZƒ‹ MAXƒ`ƒƒ[ƒW
 ƒGƒiƒW[EƒZƒ‹ ƒoƒ‹ƒN
-ƒGƒiƒW[EƒZƒ‹ ƒoƒ‹ƒN[%]
+ƒGƒiƒW[EƒZƒ‹ ƒoƒ‹ƒN
 ƒGƒiƒW[EƒZƒ‹ Å“K‰»
 ƒGƒiƒW[EƒZƒ‹ Å“K‰»
 ƒGƒiƒW[EƒZƒ‹ Å“K‰»
-ƒGƒiƒW[EƒZƒ‹ Å“K‰»[%]
+ƒGƒiƒW[EƒZƒ‹ Å“K‰»
 ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹
 ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹ [%]
-MFƒZƒ‹[%]
+MFƒZƒ‹
 ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹ ƒI[ƒo[ƒ`ƒƒ[ƒW
-MFƒZƒ‹ ƒI[ƒo[ƒ`ƒƒ[ƒW[%]
+MFƒZƒ‹ ƒI[ƒo[ƒ`ƒƒ[ƒW
 ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹ MAXƒ`ƒƒ[ƒW
-MFƒZƒ‹ MAXƒ`ƒƒ[ƒW[%]
+MFƒZƒ‹ MAXƒ`ƒƒ[ƒW
 ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹ ƒoƒ‹ƒN
-MFƒZƒ‹ ƒoƒ‹ƒN[%]
+MFƒZƒ‹ ƒoƒ‹ƒN
 ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹ Å“K‰»
 ƒ}ƒCƒNƒƒtƒ…[ƒWƒ‡ƒ“EƒZƒ‹ Å“K‰»
-MFƒZƒ‹ Å“K‰»[%]
+MFƒZƒ‹ Å“K‰»
 ‰Î‰Š•úŽËŠí”R—¿
 ‰Î‰Š•úŽËŠí”R—¿ [%]
 ‰Î‰Š•úŽËŠí”R—¿ Ž©‰Æ»
@@ -706,15 +719,15 @@ MFƒZƒ‹ Å“K‰»[%]
 ”R—¿ Å“K‰»
 [“dƒpƒbƒN
 [“dƒpƒbƒN [%]
-[“dƒpƒbƒN [%]
+[“dƒpƒbƒN
 [“dƒpƒbƒN ƒI[ƒo[ƒ`ƒƒ[ƒW
-[“dƒpƒbƒN ƒI[ƒo[ƒ`ƒƒ[ƒW[%]
+[“dƒpƒbƒN ƒI[ƒo[ƒ`ƒƒ[ƒW
 [“dƒpƒbƒN MAXƒ`ƒƒ[ƒW
-[“dƒpƒbƒN MAXƒ`ƒƒ[ƒW[%]
+[“dƒpƒbƒN MAXƒ`ƒƒ[ƒW
 [“dƒpƒbƒN ƒoƒ‹ƒN
 [“dƒpƒbƒN Å“K‰»
 [“dƒpƒbƒN Å“K‰»
-[“dƒpƒbƒN Å“K‰»[%]
+[“dƒpƒbƒN Å“K‰»
 BB
 BB [%]
 ƒNƒM
@@ -751,6 +764,8 @@ MAX
 ƒtƒ@ƒbƒgƒ}ƒ“
 ƒtƒ@ƒbƒgƒ}ƒ“ (GRA)
 AER14Eƒvƒƒgƒ^ƒCƒv
+ƒeƒXƒ‰ƒr[ƒgƒ“Eƒvƒƒgƒ^ƒCƒv
+Pew Pew
 ƒoƒbƒg
 ƒoƒbƒg (GRA)
 ƒnƒ`ƒFƒbƒg
@@ -762,6 +777,7 @@ AER14Eƒvƒƒgƒ^ƒCƒv
 ƒNƒŠ[ƒ“EƒRƒYƒ~ƒbƒNƒiƒCƒt
 ƒNƒŠ[ƒ“EƒRƒYƒ~ƒbƒNƒiƒCƒt
 ƒC[ƒXƒgƒuƒŒ[ƒh
+ƒoƒŠƒXƒeƒBƒbƒNEƒtƒBƒXƒg
 •…H«ƒOƒ[ƒu
 –Å‹ÛƒOƒ[ƒu
 ƒtƒ‰ƒOƒOƒŒƒl[ƒh
@@ -771,9 +787,12 @@ AER14Eƒvƒƒgƒ^ƒCƒv
 ƒAƒ‹ƒPƒCƒh‚ÌƒŠƒbƒp[
 ƒAƒ‹ƒPƒCƒh‚Ìƒvƒ‰ƒYƒ}ƒfƒBƒtƒFƒ“ƒ_[
 ƒxƒƒjƒJ‚ÌƒŒ[ƒU[ƒsƒXƒgƒ‹
+ƒWƒ‡ƒVƒ…ƒA‚Ì.45ƒsƒXƒgƒ‹‰£‘Å
 ‰^‚Ñ‰®‚Ìƒ_ƒXƒ^[
 ƒ†ƒŠƒV[ƒY‚Ìƒ_ƒXƒ^[
 ƒ†ƒŠƒV[ƒY‚Ìƒ}ƒXƒN
+ƒfƒU[ƒgƒŒƒ“ƒWƒƒ[EƒRƒ“ƒoƒbƒgƒA[ƒ}[
+ƒfƒU[ƒgƒŒƒ“ƒWƒƒ[EƒRƒ“ƒoƒbƒgƒwƒ‹ƒƒbƒg
 ƒuƒ‰ƒbƒNEƒRƒ“ƒoƒbƒgƒA[ƒ}[
 ƒŒƒMƒ…ƒŒ[ƒ^[‚Ì‹­‰»ƒRƒ“ƒoƒbƒgƒA[ƒ}[
 ‹­‰»ƒRƒ}ƒ“ƒhƒA[ƒ}[
@@ -797,6 +816,7 @@ NCR•z•tƒA[ƒ}[
 ‹­‰»—b•º•žEƒAƒhƒxƒ“ƒ`ƒƒ[
 ‹­‰»—b•º•žEƒ`ƒƒ[ƒ€
 ‹­‰»—b•º•žEƒgƒ‰ƒuƒ‹ƒ[ƒJ[
+ƒZƒLƒ…ƒŠƒeƒBƒwƒ‹ƒƒbƒg
 ŠúŒÀØ‚êƒXƒeƒBƒ€ƒpƒbƒN
 ƒX[ƒp[ƒXƒeƒBƒ€ƒpƒbƒN
 Ž©“®’“üƒX[ƒp[ƒXƒeƒBƒ€ƒpƒbƒN
@@ -832,6 +852,7 @@ NCRCF ’†’ë
 ƒrƒ^[ƒXƒvƒŠƒ“ƒOƒX NCRƒLƒƒƒ“ƒv
 ƒlƒŠƒXƒgƒ“ƒlƒ‹ “ì
 ƒlƒŠƒXƒgƒ“ƒlƒ‹ –k
+ƒlƒŠƒXƒtƒ@[ƒ€
 ‘¾—zŒõŽûWƒ^ƒ[
 “¬‹Zê
 ƒOƒŒ[ƒgEƒJ[ƒ“‚Ìƒƒ“ƒOƒnƒEƒX
@@ -927,6 +948,7 @@ NORMAL
 ƒA[ƒŠƒ“ƒgƒ“Eƒƒgƒ
 •s–@è‹’ŽÒ‚ÌƒLƒƒƒ“ƒv
 ƒnƒCƒEƒFƒC95 ƒoƒCƒp[ƒLƒƒƒ“ƒv
+ƒK[ƒfƒBƒAƒ“’¸ã
 ƒoƒCƒp[‚ÌƒAƒWƒg
 •ú’u‚³‚ê‚½zŽR
 •úŠü‚³‚ê‚½BOS‚Ì‰B‚ê‰Æ
@@ -1047,7 +1069,6 @@ Traits‚ðƒGƒfƒBƒbƒg
 ‚ ‚È‚½‚Í\•ª‚É‹x‘§‚ðŽæ‚è‚Ü‚µ‚½I\n(Well Rested)
 ƒŒƒ“ƒWƒƒ[EƒOƒ‰ƒ“ƒg‚É‰ï‚¤
 Dr.ƒGƒCƒ_EƒXƒgƒ‰ƒEƒX
-‚¢‚¢—‚¾‚ÈB ƒ[ƒu‚ð”‚¢‚Å‚â‚è‚½‚¢‚º
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
 ƒNƒŒƒWƒbƒgƒ`ƒFƒbƒN‚ðŽó‚¯‚é <5000ƒLƒƒƒbƒv•K—v>
@@ -1617,7 +1638,7 @@ NCR‚ðM‚¶‚Ä‚¢‚éB ‚¾‚ªA‚¾‚©‚ç‚Æ‚¢‚Á‚ÄNCR‚É‚È‚è‚½‚­‚È‚¢lX‚ð‚È‚¢‚ª‚µ‚ë‚É‚·‚é‚Ì‚
 ƒXƒNƒ‰ƒCƒu’·ƒ^ƒK[ƒg‚Ìu‹`’†‚ÉQ‰ß‚²‚µ‚Ä‚¢‚½Žž‚ÉãŽè‚­Œ¾‚¢–ó‚µ‚Ä‚­‚ê‚½‚µA”Þ‚É‚Í‰¶‹`‚ª‚ ‚é‚ÆŽv‚¤‚Ì‚æ‚Ë
 ƒuƒ‰ƒU[ƒtƒbƒh‚Ì¶‘¶í—ª‚Í‚Ü‚¾‰äX‚Ìí—Í‚ª‘å‚«‚­A‘gD‰»‚³‚ê‚½“G‚ª‚¢‚È‚©‚Á‚½Žž‘ã‚É‚Í‚¤‚Ü‚­‹@”\‚µ‚Ä‚¢‚½‚í
 Ž^¬B ‚à‚¤‚±‚ê‚Ü‚Å‚ÌŽ„‚Æ‚Íˆá‚¤‚í
-ƒGƒ‹ƒ_[‚©‚çA‚ ‚È‚½‚É‚ÍŽ„’B‚Ì‚æ‚èŽ¿‚Ì’á‚¢¤•i‚ð’ñ‹Ÿ‚·‚é‚æ‚¤‚É‚Æ‚«‚Â‚­Œ¾‚í‚ê‚½‚í
+ƒGƒ‹ƒ_[‚©‚ç—]‚è•¨‚Ì•i‚ð‚¢‚­‚Â‚©’ñ‹Ÿ‚·‚é‚æ‚¤‚ÉŒ¾‚í‚ê‚½‚í
 ‚±‚±‚É‚ ‚é
 ‚¿‚å‚Á‚Æ–â‘è‚¾‚ËB ƒWƒƒƒbƒN‚ÍƒlƒŠƒX‚ð—£‚ê‚é‚±‚Æ‚Í‹–‚³‚ê‚Ä‚¢‚È‚¢‚µA”Þ—‚ª¶‚«‚Ä–CŒ‚‚ð’Ê‚è”²‚¯‚ç‚ê‚é‚©‚à‚í‚©‚ç‚È‚¢
 ‚½‚Æ‚¦lX‚ª‚·‚×‚Ä‚ðŽ¸‚Á‚½‚Æ‚µ‚Ä‚àAƒAƒ|ƒJƒŠƒvƒX‚ª—Í‚É‚È‚é
@@ -1902,6 +1923,123 @@ NCR‚ÌŽã“_‚Í‚»‚Ì‘å‚«‚³‚¾ - ¼•”‚ðè—Ì‚·‚é‚É‚Í‘SŒR‚ðŽ‚Á‚Ä‚µ‚È‚¢‚Æ•s‰Â”\‚¾
 ƒƒ{ƒbƒg‚ÌƒVƒXƒeƒ€‚Ì–w‚Ç‚ð‰Ò“­‚³‚¹‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½
 ƒuƒ‰ƒbƒNƒ}ƒEƒ“ƒeƒ“Eƒ‰ƒWƒI‚Ì”­MŒ¹‚ð’²¸‚·‚é
 ƒfƒXƒNƒ[‚Ì—‘‚ð“üŽè
+ƒtƒ@ƒCƒAEƒQƒbƒR[‚Ì—‘‚ð“üŽè
+ƒJƒTƒhƒŒƒX‚Ì—‘‚ð“üŽè
+‹‘åƒ‰ƒbƒhƒXƒRƒ‹ƒsƒIƒ“‚Ì—‘‚ð“üŽè
+ƒiƒCƒgƒXƒg[ƒJ[‚Ì—‘‚ð“üŽè
+‚¢‚¢—‚¾‚ÈB ƒ[ƒu‚ð”‚¢‚Å‚â‚è‚½‚¢‚º
+‚æ‚µA‚Ý‚ñ‚ÈB ŒN‚½‚¿‚ð‚±‚±‚ÉŒÄ‚ñ‚¾‚Ì‚ÍAŒN‚½‚¿‚ªM—Š‚Å‚«‚é‚ÆŽv‚Á‚½‚©‚ç‚¾B “ì‚Ì’¬ƒvƒŠƒ€‚ÍAV‚½‚È–@‚ð‹‚ß‚Ä‚¢‚é
+–@Ž·s‚ÌŒoŒ±‚ª‚È‚¢‚±‚Æ‚Í‚à‚¿‚ë‚ñ‚í‚©‚Á‚Ä‚¢‚éA­‚È‚­‚Æ‚àŽ·s‘¤‚ÉŠÖ‚µ‚Ä‚Í
+‚µ‚©‚µŒN‚½‚¿‚ª‚Œ‰‚Å‚ ‚èA‰½‚ç‚©‚Ìž‚¢‚ð‹‚ß‚Ä‚¢‚é‚±‚Æ‚Í‚í‚©‚éB ¡‚±‚»ž‚¢‚Ì‹@‰ï‚¾
+”ŒNI ‰ä“™‚ÌŽè‚Å–@‚ð‚à‚½‚ç‚»‚¤I
+‚â‚êI
+‚â‚êI
+‚»‚Ì”ò‚ñ‚Å‚éƒƒ{ƒbƒgˆê‘ä—~‚µ‚¢‚©‚à
+‚Å‚«‚é‚È‚ç¡‚·‚®‚É‚Å‚à‚¨‘O‚ðŽE‚µ‚Ä‚â‚è‚½‚¢
+ˆê‚ÉƒEƒCƒXƒL[‚Å‚àˆù‚Ü‚È‚¢H
+ƒpƒ‰ƒfƒBƒ“
+‚¨‘O‚ªlH’m”\‚Á‚Ä‚â‚Â‚È‚Ì‚©H
+Mr.ƒKƒbƒcƒB Mk.III
+ƒƒ{ƒXƒRƒ‹ƒsƒIƒ“ Mk.III
+ƒƒ{ƒXƒRƒ‹ƒsƒIƒ“ Mk.IIIb
+ƒƒ{ƒXƒRƒ‹ƒsƒIƒ“Eƒyƒ“ƒT[ Mk.III
+ƒƒ{ƒXƒRƒ‹ƒsƒIƒ“Eƒuƒ‰ƒXƒ^[ Mk.III
+ƒƒ{ƒXƒRƒ‹ƒsƒIƒ“Eƒ{ƒ“ƒo[ Mk.III
+ƒƒ{ƒuƒŒƒCƒ“ Mk.III
+ƒZƒ“ƒgƒŠ[ƒ{ƒbƒg Mk.III
+ƒvƒƒeƒNƒgƒƒ“ Mk.I
+ƒvƒƒeƒNƒgƒƒ“ Mk.III
+Mr.ƒI[ƒ_ƒŠ[ Mk.III
+ƒo[ƒTƒNEƒZƒLƒ…ƒŠƒgƒƒ“ Mk.III
+‘¹‚µ‚½ƒZƒLƒ…ƒŠƒgƒƒ“ Mk.III
+ƒTƒ“ƒZƒbƒgEƒTƒ‹ƒTƒpƒŠƒ‰ - •ÛˆÀŠ¯‘ã—ƒoƒbƒW
+(ƒIƒvƒVƒ‡ƒ“)ƒ}[ƒNIIƒvƒƒgƒ^ƒCƒv‚ðÅ“K‰»‚·‚é
+[Speech] ¬—‚µ‚Ä‚é‚æ‚¤‚¾‚ÈB ‚Ü‚é‚ÅƒNƒ\‚Ý‚½‚¢‚¾
+[?] ‚»‚ñ‚ÈŽdŽ–‚ð‚µ‚Ä‚é‚©‚ç‚É‚Í‚È‚É‚©——R‚ª‚ ‚é‚ñ‚¾‚ë‚¤B ƒŠ[ƒWƒ‡ƒ“‚ª‚¨‘O‚É‰½‚ð‚µ‚½‚ñ‚¾H
+Žq‚Ç‚à‚ð“z—ê‚É‚³‚ê‚½‚Ì‚©H ‹³ŒP‚Ì‚½‚ß‚ÉA‰Æ‘°‚ð‹sŽE‚³‚ê‚½‚Ì‚©H
+Ž„‚ÍB.O.S.‚Ìƒƒ“ƒo[‚¾
+ƒtƒB[ƒ“ƒh‚ÌƒŠ[ƒ_[‚ªŽ€‚Ê•û‚É“q‚¯‚ê‚Î‚æ‚©‚Á‚½
+‚à‚µc ”Þ‚Ì”’‚ª‰R‚¾‚Á‚½‚çH ‚à‚µ”ÞˆÈŠO‚Él“÷‚ðH‚×‚Ä‚È‚¢‚Æ‚µ‚½‚çH
+ƒtƒBƒŠƒbƒv‚Í‰½”N‚à‘O‚©‚çl“÷‚Ì–¡‚ðÄŒ»‚µ‚æ‚¤‚Æ“w—Í‚µ‚Ä‚«‚½B ‚«‚Á‚Æ‚Ç‚±‚©‚ÉƒŒƒVƒs‚ª‚ ‚é‚Í‚¸‚¾
+VŠç‚ÌŒ‚Å‚Í‚æ‚­‚â‚Á‚Ä‚­‚ê‚½B ‚à‚Á‚Æd—v‚ÈŽdŽ–‚à‚±‚È‚¹‚é‚¾‚ë‚¤B •ñV‚à’e‚Þ‚¼
+ƒgƒ‰ƒuƒ‹ƒ[ƒJ[‚Í•Ð•t‚¯‚½
+‚»‚ê‚ÅAŽdŽ–‚ð‚³‚¹‚Ä‚­‚ê‚é‚Ì‚©H
+ƒm[ƒXEƒxƒKƒX‚É‚Â‚¢‚Ä‹³‚¦‚Ä‚­‚ê‚é‚©H
+<‰R> ‚¢‚âAMrs.ƒzƒXƒeƒgƒ‰[‚ªƒVƒ‡ƒbƒgƒKƒ“‚ð\‚¦‚Ä•\‚Å‘Ò‚¿\‚¦‚Ä‚é‚©‚ç‹³‚¦‚æ‚¤‚ÆŽv‚Á‚½‚¾‚¯‚¾
+‚¨‘O‚Í”Þ—‚ð‘€‚Á‚Ä‰Æ‘°‚ð— Ø‚ç‚¹‚æ‚¤‚Æ‚µ‚Ä‚¢‚é
+<UŒ‚> —V‚Ñ‚ÍI‚í‚è‚¾I
+‚à‚¤Œã–ß‚è‚Ío—ˆ‚È‚¢‚È
+Ž„‚É‚ÍŠÖŒW‚È‚¢
+‹à‚ðŽ‚Á‚Ä‰“‚­‚É“¦‚°‚é‚ñ‚¾‚È
+—ˆ‚½‚é‚×‚«ƒ_ƒ€‚Å‚Ìí‚¢‚ÌŒã‚ÅƒAƒ|ƒJƒŠƒvƒX‚ÌŽg“k‚Í“Æ—§‚µ‚½ƒxƒKƒX‚ðŽx‰‡‚·‚×‚«‚¾‚ÆŽv‚¤
+‚¢‚¢‚ËB ‚»‚ÌŽGŽ‚ðŒ©‚¹‚Ä‚­‚ê
+(ƒIƒvƒVƒ‡ƒ“) ƒAƒ|ƒJƒŠƒvƒX‚ÌŽg“k‚ÉƒxƒKƒX‚Ì“Æ—§‚ðŽxŽ‚·‚é‚æ‚¤à“¾‚·‚é
+‚±‚Ì’nˆæ‚ÌƒZƒLƒ…ƒŠƒeƒB‚ðŽ©“®‰»‚·‚é‚±‚Æ‚àŒv‰æ‚Ì“à‚¾
+•’Ê‚ÌƒXƒeƒBƒ€ƒpƒbƒN‚ð
+ƒX[ƒp[ƒXƒeƒBƒ€ƒpƒbƒN‚ð
+•úŽË”\—p–ò‚ð
+ÅI“I‚É‚Íc ‚¾‚ªA‘SŒR‚ð¼‚ÖˆÚ“®‚·‚é‚Æ‚¢‚¤‚±‚Æ‚Í“Œ‚ðŽ¸‚¤‚±‚Æ‚ðˆÓ–¡‚·‚éB —¼•û‚ðˆÛŽ‚·‚é‚±‚Æ‚Ío—ˆ‚È‚¢
+‘Ò‚Á‚Ä‚­‚êA«ŒRB ‚ ‚È‚½‚É—Fl‚ðÐ‰î‚µ‚½‚¢
+‚»‚¤‚©H ŽŸ‚Í‚à‚Á‚ÆM‚¶‚ç‚ê‚È‚¢‚±‚Æ‚ª‹N‚«‚é‚¼
+ƒAƒbƒvƒOƒŒ[ƒh‚³‚ê‚½ƒZƒLƒ…ƒŠƒgƒƒ“‚ÌŒR‘à‚ðŒ©‚½‚±‚Æ‚ ‚éH
+<ƒuƒ‰ƒt> UŒ‚‚¹‚¸˜b‚µ‚Ä‚é‚©‚ç‚Á‚Ä‚¢‚¤‚Ì‚©H
+‚¨‚½‚­‚Ì‹¤˜a‘‚æ‚è‚Ü‚µ‚¾‚ë‚¤‚ËB ‚»‚ê‚ÍŠm‚©‚¾
+Ž„‚Í’N‚æ‚è‚àƒ‚ƒnƒr‚Ìó‹µ‚É‚Â‚¢‚Äl‚¦‚Ä‚«‚½B •ÛØ‚·‚é
+NCR‚Í•K‚¸—ˆ‚éA‚»‚Ì‚Æ‚«‚É”õ‚¦‚ª‚Å‚«‚Ä‚é‚±‚Æ‚ð‹F‚é‚æB ‚»‚¤‚Å‚È‚¯‚ê‚ÎŒN‚ÍŽñ‚ð’Ý‚é‚±‚Æ‚É‚È‚é
+‚±‚è‚áˆê‘Ì‚Ç‚¤‚¢‚¤‚±‚Æ‚¾B ŒN‚Íƒjƒ…[ƒxƒKƒX‚ÅÅ‚àK‰^‚ÈlŠÔ‚¾‚ë‚¤
+ƒtƒ‹ƒƒ“ƒ^ƒŠ[‚Í‘¼‚Ì•ºŽm‚Æ‚Í«Ž¿‚ªˆÙ‚È‚èAí“¬‚Ì‚Ý‚È‚ç‚¸ö“ü‚â’³•ñ‚É‚à—D‚ê‚Ä‚¢‚é
+‚³‚ ‚±‚±‚ÅŠw‚ñ‚¾‚±‚Æ‚ð“z‚ç‚É‹³‚¦‚Ä‚â‚êB Žö‹Æ‚Í‚Ü‚¾‚½‚Á‚Õ‚èŽc‚Á‚Ä‚é‚ª‚È
+‚±‚±‚ÅŒ©‚½‚à‚Ì‚ðŠF‚É˜b‚·‚ª‚¢‚¢B ‚»‚ÌŒã‚Ì‚±‚Æ‚ÍƒŠ[ƒWƒ‡ƒ“‚É”C‚¹‚ë
+‚Æ‚Í‚¢‚¦A‚à‚µ‚¨‘O‚ªƒvƒƒtƒŠƒQ[ƒg‚ðUŒ‚‚µA‹sŽE‚µA“z‚ç‚ÌŠˆ“®‚ð–WŠQ‚·‚é‚È‚çA’–Ú‚ð—‚Ñ‚é‚Ì‚Í–Æ‚ê‚Ü‚¢
+ƒŠƒKƒ^ƒXEƒ‰ƒjƒEƒXA“Œ‚Ì‰ö•¨I ‘å‚µ‚½lŠÔ‚¾AlŠÔ‚Å‚ ‚é‚©‚à‹^‚í‚µ‚¢‚Ù‚Ç‚É
+ƒ†ƒ^‚Ìr–ì‚Ììí‚àI‚í‚èA”Þ‚ÍŒ»Ý‚±‚¿‚ç‚ÉŒü‚©‚Á‚Ä‚¢‚éB ”Þ‚ª“ž’…‚µ‚½‚Æ‚«A‚¨‘O’B‚Ì‰^–½‚àŒˆ‚Ü‚é‚¾‚ë‚¤
+‚Ü‚ A–Ú‚É¯‚ð•‚‚©‚×AŽè‚É‹ó‹Cˆ³ƒKƒ“ƒgƒŒƒbƒg‚ð‚Í‚ß‚½ƒJƒŠƒtƒHƒ‹ƒjƒAog‚ÌƒiƒC[ƒu‚ÈŽá‚¢—‚ÌŽq‚Éƒ`ƒƒƒ“ƒX‚ð—^‚¦‚Ä‚­‚ê‚Ä‚ ‚è‚ª‚Æ‚¤
+‹‹—¿‚ª“ü‚Á‚½‚çƒXƒgƒŠƒbƒv‚És‚­B ‘Ò‚¿‚«‚ê‚È‚¢‚æ
+‘åä•v‚¾‚æB •t‚«“Y‚¢‚Í•K—v‚È‚¢
+ˆÓ’n‚Ìˆ«‚¢ƒNƒ‰ƒ‰
+ŽËŒ‚‚Í‚©‚ç‚«‚µ‚Ì‚æ‚¤‚¾‚È
+‰½l‚¦‚Ä‚ñ‚ÌH
+ƒXƒC[ƒgƒ‹[ƒ€‚Í‘f“G‚¾‚ªA’N‚©‚ÉŽ„‚ÌŒ_–ñ‹à‚ð•¥‚Á‚Ä‚à‚ç‚í‚È‚¢‚Æ
+”Þ‚ÍŽ„‚ðã©‚Éƒnƒ‚½I
+Dr.&PCName;‚ÍƒLƒƒƒbƒv‚É‚Â‚¢‚Ä‚Ì‹c˜_‚ª‹É‚ß‚Ä•s\•ª‚Å‚ ‚é‚Æf’f‚·‚é
+ƒxƒj[‚Í—\‚ÌŽúl‚¾B —\‚ÆŽæˆø‚µ‚È‚¢ŒÀ‚è“z‚Æ‚ÍŽæˆø‚Å‚«‚È‚¢
+‚Ü‚ c‚¢‚¢‚¾‚ë‚¤B “z‚Ì–{–¼‚ðŒû‚É‚·‚é‚Ì‚Í‹Ö‚¶‚ç‚ê‚Ä‚¢‚éB ƒ†ƒ^‚©‚ç—ˆ‚½¹EŽÒ‚ÅAƒV[ƒU[‚Æo‰ï‚¤‚Ü‚Å‚ÍƒVƒƒ[ƒ}ƒ“‚ð‚µ‚Ä‚¢‚½‚»‚¤‚¾
+•s–@è‹’ŽÒ’B‚ª‹ßX”hŽè‚ÈƒŒƒ“ƒWƒƒ[‚ª—ˆ‚é‚Á‚Ä˜b‚µ‚Ä‚é‚Ì‚ð•·‚¢‚½B NCR‚ªŒÄ‚ÑŠñ‚¹‚½‚ñ‚¾‚Æ
+ƒt[ƒo[ƒ_ƒ€‚ÅƒŠƒKƒ^ƒXEƒ}ƒ‹ƒpƒCƒX‚Í‚Â‚¢‚É”s‚ê‹Ž‚èAƒnƒ“ƒƒ“‚ÆƒIƒŠƒo[‚ªƒjƒ…[ƒJƒi[ƒ“l‚Ì”Þ‚ð‚ðì‚ÌŒü‚±‚¤‚ÉR‚è”ò‚Î‚µ‚½
+‘æ“ñ‚ÉA‚à‚µƒ_ƒjƒGƒ‹Aƒ\ƒ[ƒYAƒfƒbƒhƒz[ƒX‚Ì‚¢‚¸‚ê‚©‚ÉŠëŠQ‚ð‰Á‚¦‚½‚çŽ„‚ªŒ©‚Â‚¯o‚·B ŠmŽÀ‚ÉB _‚ÌˆÓŽu‚É‚æ‚Á‚ÄA‚±‚Ì’J‚©‚ço‚é‚±‚Æ‚ð‹–‚³‚ê‚È‚¢‚¾‚ë‚¤
+‚±‚ÌƒLƒƒƒ“ƒv‚É‚Íƒfƒbƒhƒz[ƒX‚ªAƒiƒ[ƒY‚É‚Íƒ\ƒ[ƒY‚ª‚ ‚éB ‚»‚µ‚ÄÅŒã‚Éƒ_ƒjƒGƒ‹‚ÆŽ„Aƒjƒ…[ƒJƒi[ƒ“‚Ì–¯‚¾
+ƒzƒƒCƒgƒŒƒbƒOƒX‚Í"ƒXƒg[ƒ€ƒhƒ‰ƒ€"‚ÆŒÄ‚Î‚ê‚é‘åŒ^ƒTƒuƒ}ƒVƒ“ƒKƒ“‚Å’m‚ç‚ê‚Ä‚¢‚éB “z‚ç‚ÍƒXƒpƒjƒbƒVƒ…ƒtƒH[ƒN‹ßx‚Ì•ŠíŒÉ‚©‚ç—ª’D‚µ‚½‚à‚Ì‚ð’·”N‚É‚í‚½‚èŽg—p‚µ‚Ä‚¢‚é
+‚Å‚«‚ê‚ÎƒAƒ‹ƒR[ƒ‹‚â–ò•¨‚É‚ÍˆêØG‚ê‚È‚¢‚Å‚Ù‚µ‚¢‚Ì‚¾‚ªA‚¢‚¢‚¾‚ë‚¤B •‚¯‚ª‚¢‚é‚©H
+‚»‚¤‚ÍŽv‚í‚È‚¢
+‚»‚ñ‚ÈS”z‚·‚é•K—v‚È‚¢‚ºAƒxƒCƒr[B ‰´‚¾‚Á‚Ä‚¨‘O‚Æ˜b‚µ‚½‚¢‚ñ‚¾
+Ave. ã—¬‚ÉŒü‚©‚¤€”õ‚Ío—ˆ‚½‚©H
+•¶–¾l‚ðŽ©Ì‚µ‚Ä‚¢‚é‚ªAŽÀÛ‚Ì‚Æ‚±‚ë•…”s‚µ‚½—˜ŒÈ“I‚È˜A’†‚¾B ‚»‚ê‚Í’¼‚®‚ÉØ–¾‚³‚ê‚é‚¾‚ë‚¤
+Ave.
+True to Caesar.
+Ave, true to Caesar.
+‚»‚Ì”Ú‹ü‚È‘Ô“x‚Íˆ«‚­‚È‚¢‚ÈB ‘±‚¯‚½‚Ü‚¦
+–Ú‚ð•Â‚¶‚½‚ç‚Ç‚¤‚¾
+ŽÀ‚ÍŽ„‚à‚¿‚å‚Á‚Æ‚µ‚½Ü‹à‰Ò‚¬‚È‚ñ‚¾
+‚È‚ñ‚Åƒ_ƒgƒŠ‚ª‚¨‘O‚ÉƒLƒƒƒbƒv‚ðH
+’¬‚ª‚È‚ç‚¸ŽÒ‚ÉP‚í‚ê‚»‚¤‚¾B Žx‰‡‚ð—Š‚Ý‚½‚¢
+‚±‚±‚Í—Á‚µ‚­‚ÄÅ‚‚¾
+‰½‚©—pH ‚æ‚»ŽÒ
+<‚½‚ß‘§> ”Þ‚Éˆ«‹C‚Í‚È‚¢‚Ì
+eº‚ðŒyŒ¸
+”­ŽË‘¬“xã¸ [%]
+d—Ê‚ðŒyŒ¸ [%]
+d—Ê‚ðŒyŒ¸ [%].[%]
+ƒXƒR[ƒv”{—¦‚ðã¸ [%]
+’Z‹——£ƒŠƒtƒŒƒbƒNƒXƒTƒCƒg‚ð’Ç‰Á
+ŠgŽU‚ð’á‰º [%]
+‘•’e”‚ð‘‰Á [%]
+ƒY[ƒ€”{—¦‚ðã‚° [%]AŒõ‚éƒAƒCƒAƒ“ƒTƒCƒg‚ð’Ç‰Á
+ŠgŽU‚ð’á‰º‚µ[%], ƒŒ[ƒU[ƒTƒCƒgŒø‰Ê‚ð’Ç‰Á
+”­ŽË”‚ð‘‰Á‚µ[%], ƒ_ƒ[ƒW‚ð‘‰Á[%]
+UŒ‚‘¬“x‚ªã¸ [%]
+ŠgŽU‚ð’á‰º [%]
+’e‘¬‚ðã¸ [%]
+(Gun Runners' Arsenal)\n[%]
 •ï‘Ñƒ{ƒbƒNƒX
 ‚Í‚ñ‚¾‚²‚Ä
 ƒOƒŠƒ‹
@@ -2024,6 +2162,8 @@ Guns: ŽÀ’eŒn’e–ò(.22LR, .357ƒ}ƒOƒiƒ€, 5mm, 10mm, 5.56mm, .308, .45-70ƒKƒoƒƒ“ƒg“
 ’ˆÓ: ¨—Í‚Ìƒƒ“ƒo[‚É‘å‚µ‚Ä”Æßsˆ×‚ðs‚Á‚½ê‡A•Ï‘•‚ÉŠÖŒW‚È‚­‚»‚Ì¨—Í‚Í”“úŠÔ‚ ‚È‚½‚É‘Î‚µ‚Ä“G‘Î“I‚É‚È‚è‚Ü‚·B ‚Ü‚½‚»‚Ì¨—Í‚©‚çUŒ‚‚ðŽó‚¯‚Ä‚¢‚é‚Æ‚«‚É•Ï‘•‚µ‚Ä‚à’N‚àéx‚¹‚Ü‚¹‚ñI
 Žm‹C‚ð‚‚ß‚é‚½‚ß‚Æ‚ ‚é‹£‘ˆ‚ð‚·‚é‚±‚Æ‚É‚µ‚½B ŽE‚µ‚½ƒŠ[ƒWƒ‡ƒ“•º‚ÌŽ¨‚ðŽ‚Á‚Ä‚«‚Ä‚­‚êB ‰´‚ÍH“°‚Å‹L˜^‚µ‚Ä‚¢‚éB Ž¨‚ÍˆêlŽEŠQ‚²‚Æ‚Éˆê‚Â‚¾‚¯‚¾I
 ƒ{ƒX‚ª‚¢‚È‚­‚È‚Á‚½¡AƒtƒB[ƒ“ƒh‚ª‰ó–Å‚·‚é“ú‚à‚»‚¤‰“‚­‚È‚¢‚¾‚ë‚¤
+‚Ü‚ ƒV[ƒU[‚Ì‚½‚ß‚Éí‚í‚È‚¢‚È‚ç‰½‚ð‚µ‚Ä‚à\‚í‚È‚¢
+‚»‚Ì¶•¨‚ª’n–Ê‚É“|‚ê‚é‚ÆA‚ ‚È‚½‚Í“®•¨“I‚È‹ê’É‚Ì‹©‚Ñ‚ª‰“‚­‚©‚ç•·‚±‚¦‚Ä‚­‚é‹C‚ª‚·‚éc ‚Ü‚é‚Å•ê‚È‚é‘å’n‚ª“{‚è‚É”R‚¦AlŠÔ‚Ì˜ü–‚ÈŠjƒGƒlƒ‹ƒM[——p‚É‚æ‚Á‚Ä‰ð‚«•ú‚½‚ê‚½•Mã‚És‚­‚µ“ï‚¢ƒGƒlƒ‹ƒM[‚É‚æ‚Á‚Ä¶‚Ýo‚³‚ê‚½‘¶Ý‚ð‘—‚èo‚µA‚ ‚È‚½‚ð’ÇÕ‚·‚é‚æ‚¤‚Éc
 In Shining Armor (DM)
 Junk Rounds (DM)
 Light Touch (DM)
@@ -2070,6 +2210,7 @@ Mad Bomber (GRA)
 ‡–°•s‘«ƒŒƒxƒ‹‚ª’á‰º‚µ‚Ü‚µ‚½B
 ‡–°•s‘«‚ª‰ðÁ‚³‚ê‚Ü‚µ‚½B
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒ_[‚ÌŽ€‘Ì
+’TzŽÒ‚ÌŽ€‘Ì
 —b•º‚ÌŽ€‘Ì
 ƒEƒFƒCƒXƒgƒ‰ƒ“ƒh¤l‚ÌŽ€‘Ì
 ƒŒƒCƒ_[‚ÌŽ€‘Ì
