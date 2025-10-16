@@ -816,6 +816,10 @@ Lucky Battle Armor
 Merc Adventurer Outfit, Reinforced
 Merc Charmer Outfit, Reinforced
 Merc Troublemaker Outfit, Reinforced
+Merc Cruiser Outfit, Reinforced
+Merc Grunt Outfit, Reinforced
+Merc Veteran Outfit, Reinforced
+Wanderer's Leather Armor
 Security Helmet
 Stimpak, Expired
 Stimpak, Super
@@ -2025,6 +2029,10 @@ The town is going to be attacked by bandits. Anything you can do to help?
 It's much cooler up here. I love it.
 What is it, Outsider?
 <Sighs> He means well.
+They defended HELIOS like it was their last stand. Didn't even know if there was anything worth defending. How could there be, with all we lost?
+Well, it was metal, and kind of thick. At first I thought he'd come from Gomorrah, but they're more into leather there.
+Ask around to see what became of the rangefinder.
+This is the best gun in the whole galaxy. I paid a million caps for it. And it wasn't even brand new.
 Decreases gunshot noise.
 Increases rate of fire [%].
 Decreases weight [%].

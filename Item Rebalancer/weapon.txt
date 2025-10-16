@@ -28,10 +28,13 @@
 @FalloutNV.esm:08F218			-1	-1	-1	-1	-1	-1	-1	-1	6	; Silenced .22 SMG
 @FalloutNV.esm:004321			23	23	-1	-1	-1	-1	-1	-1	-1	; 10mm SMG
 @GunRunnersArsenal.esm:00080D		26	26	-1	-1	-1	-1	-1	-1	-1	; Sleepytyme
-@DeadMoney.esm:00A7A9			-1	-1	-1	0.75	-1	-1	-1	-1	-1	; Automatic Rifle
-@FalloutNV.esm:08F21E			-1	-1	-1	0.8	-1	-1	-1	-1	-1	; Assault Carbine
-@GunRunnersArsenal.esm:000850		-1	-1	-1	0.8	-1	-1	-1	-1	-1	; Assault Carbine (GRA)
-@GunRunnersArsenal.esm:000806		23	23	-1	0.35	-1	-1	-1	-1	-1	; Bozar
+@DeadMoney.esm:00A7A9			45	45	-1	0.5	-1	-1	-1	-1	-1	; Automatic Rifle
+@FalloutNV.esm:08F21E			-1	-1	-1	0.75	-1	-1	-1	-1	-1	; Assault Carbine
+@GunRunnersArsenal.esm:000850		-1	-1	-1	0.75	-1	-1	-1	-1	-1	; Assault Carbine (GRA)
+@LonesomeRoad.esm:008858		36	36	-1	0.55	-1	-1	-1	5700	-1	; Shoulder Mounted Machine Gun
+@OldWorldBlues.esm:00E39E		32	32	-1	0.7	-1	-1	-1	-1	-1	; K9000 Cyberdog Gun
+@OldWorldBlues.esm:00FD3C		44	44	-1	0.8	-1	-1	-1	-1	-1	; FIDO
+@GunRunnersArsenal.esm:000806		23	23	-1	0.1	-1	-1	-1	-1	-1	; Bozar
 
 @GunRunnersArsenal.esm:000812		-1	-1	-1	0.25	-1	-1	-1	-1	-1	; Battle Rifle
 @FalloutNV.esm:0F062B			-1	-1	-1	0.2	-1	-1	-1	-1	-1	; This Machine
@@ -47,6 +50,7 @@
 @LonesomeRoad.esm:0046C3		-1	-1	-1	-1	15	-1	-1	-1	-1	; Red Victory Grenade Rifle
 @GunRunnersArsenal.esm:00081B		-1	-1	-1	-1	-1	-1	-1	2500	6	; 25mm Grenade APW
 @FalloutNV.esm:07EA25			-1	-1	-1	-1	-1	-1	-1	-1	10	; Greande Launcher
+@LonesomeRoad.esm:004C3C		-1	-1	-1	-1	-1	-1	-1	6500	-1	; Red Glare
 
 @OldWorldBlues.esm:00B9CF		-1	-1	-1	-1	-1	-1	-1	-1	-1	; LAER
 @OldWorldBlues:esm:015DD3		-1	-1	-1	-1	-1	-1	-1	-1	-1	; Elijah's advanced LAER
