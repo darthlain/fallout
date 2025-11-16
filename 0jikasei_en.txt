@@ -126,6 +126,7 @@ Sniper rifle suppressor
 Sniper rifle carbon fiber parts
 Trail carbine scope
 Trail Carbine Laminate Stock
+Trail Carbine Custom Action
 Varmint rifle extended mags
 Varmint Rifle Extended Magazines
 Varmint rifle night scope
@@ -153,8 +154,11 @@ K9000 mod - Mentat chow
 Minigun damped subframe
 Minigun high-speed motor
 SMMG mechanical upgrade
+Shoulder Mounted Machine Gun Mechanical Upgrade
 SMMG recoil compensator
+Shoulder Mounted Machine Gun Recoil Compensator
 SMMG extended magazine
+Shoulder Mounted Machine Gun Extended Magazines
 Laser pistol combat sights
 Laser pistol focus optics
 Laser pistol recycler
@@ -764,7 +768,7 @@ Red Victory Grenade Rifle
 Fat Man
 Fat Man (GRA)
 AER14 Prototype
-Tesla-Beaton Proptotype
+Tesla-Beaton Prototype
 Pew Pew
 Baseball bat
 Baseball bat (GRA)
@@ -900,10 +904,12 @@ Fiend Underboss
 Great Khan Chem Dealer
 Great Khan Chem Pusher
 Great Khan Marksman
+Great Khans Guard Dog
 Omerta Underboss
 Chairman
 Chairman Greeter
 Gomorrah Prostitute
+Hooker
 Boomer Explorer
 Boomer Expedition Leader
 B.O.S. Senior Paladin
@@ -1700,7 +1706,7 @@ We just don't adapt like we should. Used to be that all you needed to get your w
 The Brotherhood is living in the past. Eventually they'll have to change.
 Machetes at twenty paces, hey? I accept your challenge.
 I know where you live Ramos. Open up.
-You were the last one to check out the missing laser pistol, right.
+You were the last one to check out the missing laser pistol, right?
 A free woman. It's... been awhile since I've seen a woman who wasn't a slave. I forget myself - are you injured?
 Is that guard position still available?
 I was able to convince the Omerta thugs that crossing the Legion was unwise.
@@ -2033,6 +2039,58 @@ They defended HELIOS like it was their last stand. Didn't even know if there was
 Well, it was metal, and kind of thick. At first I thought he'd come from Gomorrah, but they're more into leather there.
 Ask around to see what became of the rangefinder.
 This is the best gun in the whole galaxy. I paid a million caps for it. And it wasn't even brand new.
+Thanks to you, Primm's on the way back up. With folks watching over us, I think the raiders will keep their distance.
+Ave. Why have you come to Nelson?
+I was in the area, that's all.
+I need some things repaired.
+This is what I've been waiting to see! A big bad Khan bringing in the medicine! How about you toss some Psycho my way?
+What does the Codex say?
+We do not help them, or let them in.
+We keep knowledge they must never have.
+High Elder Maxson didn't found us to be botanists, Veronica.
+That could be the only one of its kind.
+You're the only one who can make this decision.
+Leaving now is your only shot at a future.
+This is your home, and these are your friends. You should stay.
+I found more Brotherhood holotags outside.
+Dead then. It saddens me to hear of the fate of our comrades.
+Please take this. It is a small token of my thanks.
+Bring our brothers home.
+I've changed my mind. I want to leave the Brotherhood of Steel.
+I see. Then that is your choice. I will not force you to help us. The less who are aware of this situation the better.
+You are not free to carry the secret of this bunker's location beyond Hidden Valley. If you end up betraying us, there will be no mercy.
+Leave here. Do we understand one another?
+Primm Pass
+If I had two caps to scrape together I'd buy the materials to make my own, but my damn hands won't stop shaking.
+This guy named Dixon. Something about him seems sketchy, but I can't stop now. Last time I stopped, I felt like I was going to turn inside out.
+At this point, I'm mostly buying his stuff just so I don't feel sick. Speaking of which, do you have any spare caps?
+I took care of that dealer. Now you can clean up.
+I was thinking Super Stimpaks, but now I'm not so sure.
+I'm inclined to agree, but it's a slum with NCR citizens in it, and as such it falls under my jurisdiction.
+Just don't ask her what to do about it. She'll probably ask you to hug someone or somethin'.
+Collecting money to pay back the Garrets?
+What is that fool doing? I need you to head out there and try to defuse the situation. Tell them I'm willing to cooperate.
+I hear the Legion is moving some new tough muscle into the area. NCR better keep their heads down.
+NCR, no better than common thieves. Where do they get off stealing our armor?
+Would it be so bad to lend them the armor for the battle?
+I'm sure you two can settle this.
+And who are you to come before me... you bear the insignia of the Bear, yet you do not wear it as a soldier of the West wears it.
+You could take the West. *Holding* it is another matter.
+There's no communities to support you in the West - you've seen to that.
+The settlements West are *not* self-sufficient tribes - they need NCR, and the caravans.
+No, the taming of the West is what has defeated you - NCR's weakness is their defense.
+I have faith. Trade helped us survive the Great War, it will do so again.
+The West will be waiting.
+It was my duty, General - I was glad to help out.
+Oh, no! I'm just the deputy. And I can't be a deputy without a sheriff. It's called chain of command!
+Well look at that! You aren't a Powder Ganger after all. I'd suggest against wearing that outfit around the townsfolk. You may get shot by accident.
+I don't suppose you came here to rescue me?
+Why did you quit the trade?
+Maybe I could help you out with those supplies.
+Yeah, I agree about the alcohol.
+All right. I guess I believe you.
+I have proof that Sergeant Contreras is involved in criminal activity.
+He admitted to manufacturing and selling chems.
 Decreases gunshot noise.
 Increases rate of fire [%].
 Decreases weight [%].
