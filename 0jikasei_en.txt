@@ -82,6 +82,7 @@ Bottlecap Mine, Efficient (GRA)
 12.7mm pistol silencer
 Hunting rev. 6-shot cylinder
 Hunting Revolver 6-Shot Cylinder
+Hunting Revolver Six-Shot Cylinder
 Hunting rev. match barrel
 Hunting Revolver Match Barrel
 Hunting Revolver Scope
@@ -93,6 +94,7 @@ Anti-mat. rifle custom bolt
 Anti-Materiel Rifle Custom Bolt
 Anti-mat. rifle suppressor
 Anti-Materiel Rifle Suppressor
+Anti-Materiel Rifle Silencer
 Assault carbine extended magazines
 Assault carb. ext. mags
 Assault carb. forged receiver
@@ -750,11 +752,13 @@ DB
 Exp.
 Silent
 Silenced .22 Pistol
+Silenced .22 Pistol Mk II
 Silenced .22 SMG
 .32 Pistol
 Silenced 10mm Pistol
 Weathered 10mm Pistol
 .357 Magnum Revolver
+.357 Magnum Revolver Mk II
 .44 Magnum Revolver
 Scoped .44 Magnum
 Varmint Rifle
@@ -770,6 +774,7 @@ Fat Man (GRA)
 AER14 Prototype
 Tesla-Beaton Prototype
 Pew Pew
+Boxing Tape
 Baseball bat
 Baseball bat (GRA)
 Hatchet
@@ -777,6 +782,7 @@ Throwing Hatchet
 Axe
 Machete
 Machete Gladius
+Gladius and RIOT Scutum
 Throwing Tomahawk
 Cosmic Knife Clean
 Cosmic Knife (Clean)
@@ -798,14 +804,17 @@ Ulysses' Mask
 Desert Ranger Combat Armor
 Desert Ranger Combat Helmet
 Black Combat Armor
+Combat Armor, Black
 Regulator Combat Armor, Reinforced
 Commando Armor, Reinforced
 Lightweight Leather Armor
 Lightweight Metal Armor
+Armored Businesswear
 NCR Face Wrap Armor
 NCR Bandoleer Armor
 NCR Mantle Armor
 Salvaged Power Armor
+Plated Powder Ganger Armor
 Followers Lab Coat, Reinforced
 Composite Recon Helmet
 Red Racer Jumpsuit
@@ -852,6 +861,8 @@ The Ultra-Luxe
 The King's School of Impersonation
 Fremont Street
 Freeside Outskirts
+Yangtze Memorial
+King's School of Impersonation
 Cottonwood Cove Docks
 Ringo's Caravan
 Haggling Harry
@@ -869,12 +880,15 @@ Deathclaw Promontory
 Dog
 Wasteland Traveler
 Wasteland Wanderer
+Wasteland Hero
+Wasteland Legend
 Veteran Hunter
 Scavenger's Dog
 Hunter's Dog
 Viper Gang Mutt
 Viper Guard Dog
 Viper Hunting Dog
+Legendary Mantis
 Paranoid Prospector
 Crucified Trooper
 Crucified Slave
@@ -895,9 +909,12 @@ NCR Heavy Trooper
 NCR Lieutenant
 NCR Mercenary Techie
 NCR Recon Lieutenant
+NCR Military Clerk
 Legion Recruit
 Legion Hunter
 Legion Prospector
+Legion Combat Elite
+Legion Traveller
 Disguised Frumentarius
 Fiend Attack Dog
 Fiend Underboss
@@ -909,6 +926,7 @@ Omerta Underboss
 Chairman
 Chairman Greeter
 Gomorrah Prostitute
+Novac Prospector
 Hooker
 Boomer Explorer
 Boomer Expedition Leader
@@ -936,12 +954,16 @@ Challenges
 Next Challenge Type
 Powder Ganger Deputy
 NCR Deputy
+White-Hot Ashes
+Large Pep Cereal Box
 Normal
 Blue
 Green
 Cigarette
 Pack of Cigarettes
 Nuka-Cola Ice Cold
+Thaw Nuka-Cola
+Thaw Sunset Sarsaparilla
 Empty Milk Bottle
 Jean Sky Diving Key
 Nipton Basement Key
@@ -1271,6 +1293,7 @@ You don't strike me as someone down on their luck. What brings you to Westside?
 I help tend the crops, stand watch for Fiends, and generally help keep things civilized.
 Whoa there, pal. You better slow down, or you'll get blown up like the rest of the idiots who thought they'd scavenge in Boomer territory.
 Except you! There's something special about you, child, and it was the howitzers that gave you a chance to show it.
+Except you! There's something special about you, child, and it was the howitzers that gave you a chance to show it!
 Oh, so many ways! Small ones to begin with, so we can get used to what it's like to have a sav- outsider around and about.
 Then, about a week ago, there was a scientist. Keely. She's unusual, not the sort of person you'd expect, but she's an absolute genius, and...
 And Hildern hates Keely because... well, because every time they meet, she makes him look like an ass. In front of important people, usually.
@@ -2091,6 +2114,98 @@ Yeah, I agree about the alcohol.
 All right. I guess I believe you.
 I have proof that Sergeant Contreras is involved in criminal activity.
 He admitted to manufacturing and selling chems.
+What was the argument about?
+If you're hurting for caps, I've also got boxes of surplus ammo in the miscellaneous section. They're not great, but you get what you par for.
+It's all about quantity over quality. Trouble is, you'll be cleaning and fixing your gun a lot more than usual when you use those kind of bullets.
+Weapon mods are things like silencers, scopes, bigger magazines.
+Hey, there, friend, a bit of advice - you look like you could use some *protection.* Lucky for you, I got what you need.
+Simple - you can't bring guns into the casino, that's why. They'll strip you to your fists.
+Those howitzers of ours aren't just for entertainment, child! Explosive ordnance is what keeps the savages at a distance.
+Durable Dunn's Sacked Caravan
+You can't sprint when you are sleep deprived!
+That was a hell of a fight. Let's hope it doesn't bite us in the ass later on.
+Tech Raider Scout
+I don't suppose you came here to rescue me? I'd cross my fingers but my hands are numb.
+Well! That was quite a per-dicament you rescued me from, there in the Bison Steve. A most unpleasant experience.
+You can't sprint when you are over-encumbered!
+Sergeant Kilborn
+Investigate the Canyon Wreckage near Primm and enter the Divide.
+Ivanpah Maintenance Tunnels
+'n' Joy Vending Machine
+Pick 'n' Joy Vending Machine
+Welcome to Pick 'n' Joy!
+Feeling lucky today? Get a random snack or alcohol-free beverage for only five caps!
+Random snack!
+Random drink!
+Nevermind.
+Welcome to the Mayer's office. My name is D1R3b. I am programmed to be the Mayor's backup deputy in case of emergency. What can I do for you?
+Nice voice you got there.
+Backup deputy? So Nipton has no chief now?
+Indeed, Mayor Joseph Steyn has regrettably passed, and Nipton needs guidance. We hope for a string, fearless leader with plenty of street smarts.
+...You're talking about me, aren't you?
+...Yes. You are the first person to come into the building after we were so viciously attacked.
+Brave wanderer, will you become Mayor of Nipton, and help bring this proud little town back to its former glory?
+Hm, I don't know, pal. I'm rather busy...
+Please, take a look around the desk if you change your mind.
+You are now Mayer of Nipton!
+Mayor's Authority
+Mayor's Outfit
+Broken Plain Badge
+Sergeant Daniel Contreras
+What kind of supplies did you have in mind?
+Corporal william Farber
+Private Christina Morales
+Colonel James Hsu
+Captain Ronald Curtis
+Private Davey Crenshaw
+Hmm... you don't cook by any chance, do you? Farber's doing his best, but it's hard to manage an army with half my staff in line for the latrine.
+Who are the Fiends?
+Wish I'd gotten a bullet in that Fiend...
+Wow. Hey, it's you. What are you doing in Bitter Springs?
+Not much, other than they're a bunch of freeloaders who expected a few rounds on the house. I was able to get them to pay up, though.
+Of course, one of the Great Khans did knock my radio to the floor "by accident," and it hasn't been working since.
+That whole area's overrun with the kind of critters that just get mad if you shoot 'em.
+Merchants avoid that whole stretch of I-15 like it's radioactive. Which it could be for all I know.
+Fella wants to get there and avoid the 15, he'd have to go east. Take Highway 93 up.
+Cassidy Caravans Wreckage
+Ant Skewer
+You can't sprint when you are starving!
+Bone Fragments
+You have used all of your active Repair Kits.
+What do you know about the other group?
+Ash Bits
+Clump of Ash
+Mess of Ash
+Mound of Ash
+You can't sprint with your left leg crippled!
+You can't sprint with your right leg crippled!
+Working Vending Machine
+It's a machine for cooling and dispensing drinks. What do you want to do?
+Dispense a drink.
+Add all the Nuka-Colas you're carrying.
+Ice Cold Sunset Sarsaparilla
+Camp McCarran South Gate
+Camp McCarran North Gate
+We are having a lot of problems with our purifier. Out famous brahmin need a lot of tender loving care, but they need good clean water too.
+If you have any expertice with such things. Can you take a look at our purifier? We'd really appreciate it.
+Great. Please take a look at our purifier behind me. It's been tinkered with before, but could really use an overhaul.
+This is Underpass. I know it may not seem like much, but this is our home. We are a setting of ranchers mostly.
+Providing caravans and hence other settlements with livestock. Underpass brahmin are famous around these parts.
+I'm Meg. The Mayor and manager of Underpass.
+Underpass
+We think it was the Brotherhood of Steel - those crazies always go hard for energy weapons. But the NCR would rather pretend they killed all of them.
+Garret Thug
+My friend, do I have a deal for you. I have only recently come into posession of this fine pack brahmin, but alas, I cannot keep her.
+As you can plainly see, my Betsy is as fine a specimen as you are likely to see in the whole of the wasteland, and will never fail you.
+And she can be yours for the low, low price of 500 caps.
+Sure. I'll buy her.
+What would I do with a brahmin?
+That brahmin looks a bit run-down. I feel 300 caps would be fairer.
+I don't really need a brahmin.
+A fair question. Brahmin are useful for any number of reasons. Their meat, skin, milk, horns - and other parts that will go unnamed - are all valued.
+But a brahmin's greatest use is for labor. They are strong hearty animals and can carry or drag heavy weights long distances.
+I would beg to disagree, but you seem to have made up your mind and I will not try to change it. Good day.
+Betsy
 Decreases gunshot noise.
 Increases rate of fire [%].
 Decreases weight [%].
@@ -2106,6 +2221,7 @@ Increases attack speed [%].
 Reduces spread [%].
 Increases projectile speed [%].
 (Gun Runners' Arsenal)[%]
+Reduced Limb Damage
 Box of Bandages
 Soldering Iron
 Grill
@@ -2159,10 +2275,13 @@ No one's going to put you out to pasture 'cause you're going to stay young (and 
 Would you like to experience these unusual events? Once you select an option, you will not be able to change it.
 Buy the ticket, take the ride...
 I don't believe in aliens!
+I don't believe in aliens!"
+The Mod Configuration Menu (MCM) has been installed.
 Hunting is in your blood. Against animals and mutated animals, you deal +75% Critical Damage and are able to gather more meat and hide from their carcasses.
 Survival is the mother of invention! You can now craft large batches of junk ammo at reloading benches using Tin Cans and Scrap Metal.
 With each rank of this perk, all of your explosive weapons do an additional 10% damage and have a 10% larger explosion radius.
-With the Lead Belly perk, you take 50% less radiation when consuming irradiated food and drink. Your stomach is also built to withstand the negative effects of raw meats.
+With the Lead Belly perk, you take 50% less radiation when consuming irradiated food and drink, Your stomach is also built to withstand the negative effects of raw meats.
+With the Lead Belly perk, you take 50% less radiation when consuming irradiated food and drink, and no longer suffer negative effects from eating Raw and Spoiled foods.
 As a Computer Whiz, you have a much easier time narrowing down possible password choices. You can also attempt to re-hack any computer you were previously locked out of.
 You do 15% more damage when using any revolver, lever-action firearm, dynamite, knife, or hatchet.
 Just good, honest infantry work! You do 20% more damage with 9mm and .45 Auto Pistols and SMGs, Service Rifles, Battle Rifles, Assault Carbines, Light Machine Guns, Frag Grenades, Grenade Rifles and Launchers, and Combat Knives.
@@ -2230,6 +2349,10 @@ I'm having a competition to boost morale. Bring me an ear from every Legion you 
 Shouldn't be long before the Fiends are wiped out, now that their bosses are gone.
 Hey, as long as you aren't fighting for Caesar, I don't care what you do.
 As the creature clumps lifeless to the ground, you swear you hear a distant wail of animalistic anguish, as if in her wrath mother nature herself had send forth a being forged in the unspeakable energies released by man's arrogant abuse of nuclear power - and put it on your trail.
+With this perk, you regain more health and hydration when you drink from toilets and urinals - radiation free! As an added bonus, you have a small chance of finding hidden treasures while drinking.
+With the Lead Belly perk, you take 50% less radiation when consuming irradiated food and drink and no longer recieve a Strength penalty when consuming raw meat.
+With each rank of this perk, all of your Explosives do an additional 10% damage and have 10% larger area of effect.
+You're just so excited about plasma that you can't (magnetically) contain yourself! You attack 20% faster with all plasma weapons (including grenades) and their AP costs are also reduced by 20%.
 In Shining Armor
 Junk Rounds
 Light Touch
